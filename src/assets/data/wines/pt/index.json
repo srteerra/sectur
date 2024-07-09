@@ -1,0 +1,65 @@
+{
+    "id": "vinos",
+    "title": "VINHOS",
+    "subtitle": "Descubra Vinhos",
+    "gallerySlider": [
+        {
+            "urlImg": "BCN_valle_guadalupe_22.webp",
+            "name": "Vale de Guadalupe, Baja California",
+            "dir": "https://www.ensenada.travel/la-ruta-del-vino/valle-de-guadalupe/"
+        },
+        {
+            "urlImg": "8_VINOS_DE_COAHUILA.webp",
+            "name": "Rota do Vinho, Coahuila",
+            "dir": "https://hazturismoencoahuila.mx/vinos-de-coahuila"
+        },
+        {
+            "urlImg": "uvasaguascalientes.webp",
+            "name": "Rota do Vinho, Aguascalientes",
+            "dir": "https://rutadelvino.aguascalientes.gob.mx/"
+        },
+        {
+            "urlImg": "Region_vinos_Cava_Freixenetqueretaro.webp",
+            "name": "Rota do Vinho, Querétaro",
+            "dir": "https://queretaro.travel/tipo-de-destino/ruta-arte-queso-y-vino/"
+        }
+    ],
+    "urlImg": "uvabajacalifornia.webp",
+    "description": [
+        {
+            "text": "O nosso país produz vinhos da mais alta qualidade, com grandes características organolépticas que os fazem ser muito apreciados pelo mundo inteiro. Além do mais, degustações, harmonizações e passeios pelas vinhas permitem degustá-los de uma forma mais substancial, tornando-se uma experiência única para partilhar com a sua família, namorado ou namorada e amigos."
+        },
+        {
+            "text": "O México possui 10 rotas internacionalmente conhecidas, localizadas em 6 estados: Aguascalientes, Baja California, Coahuila, Guanajuato, Hidalgo e Querétaro. Em cada um deles espera por você uma experiência gastronômica formidável que você lembrará para sempre."
+        },
+        {
+            "text": "O Ministério do Turismo colaborou com o Conselho Mexicano do Vinho e as Secretarias Estaduais de Turismo, para construir este primeiro catálogo, mostrando os produtos e roteiros de enoturismo existentes para turistas e visitantes locais, nacionais e internacionais, com o objetivo de mostrar as vinhas e as atividades que existem para eles desfrutarem."
+        }
+    ],
+    "cardsGallery": [
+    {
+      "title": "Feira de Bonecas Artesanais em Amealco, Querétaro",
+      "date": "18 a 21 de novembro de 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "De Mar a Mar, Baja California Sur",
+      "date": "1 a 3 de dezembro de 2024",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo acende, Manzanillo, Colima",
+      "date": "31 de dezembro de 2024 e 1º de janeiro de 2025",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ]
+}

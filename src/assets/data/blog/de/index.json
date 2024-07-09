@@ -1,0 +1,292 @@
+{
+
+  "blogT1": "Willkommen auf dem Blog von VisitMexico: Ihre Inspirationsquelle, um Mexiko zu entdecken",
+  "blogP1": "Tauchen Sie mithilfe unseres Blogs in die faszinierende Welt Mexikos ein. Hier finden Sie Geschichten, Reisetipps, einzigartige Erlebnisse und vieles mehr. Von den neuesten Tourismustrends bis hin zu spannenden Reiseberichten ist unser Blog Ihr richtiger Leitfaden für die Erkundung der Schönheit und Vielfalt Mexikos.",
+
+  "blogT2": "Descubre los Destinos Más Increíbles de México",
+  "blogP2": "Explora nuestros artículos sobre los destinos más increíbles de México, desde las playas de arena blanca hasta las antiguas ruinas mayas. Encuentra inspiración para tu próximo viaje y descubre los secretos mejor guardados de cada región, todo ello con consejos útiles y recomendaciones de expertos.",
+
+  "blogT3": "Aventúrate en Experiencias Únicas",
+  "blogP3": "Sumérgete en experiencias únicas a través de nuestras historias de viaje. Desde la exploración de la selva hasta la inmersión en la cultura local, descubre las aventuras que te esperan en México y prepárate para vivir momentos inolvidables que solo este país puede ofrecer.",
+
+  "blogT4": "Tipps und Empfehlungen für Reisende",
+  "blogP4": "Erfahren Sie praktische Tipps und nützliche Empfehlungen für die Planung Ihrer nächsten Reise nach Mexiko. Von der Vorbereitung auf Ihr Abenteuer bis hin zur Suche nach dem besten einheimischen Essen bietet unser Blog alles, was Sie wissen müssen, um das Beste aus Ihrem Aufenthalt in Mexiko zu machen.",
+
+  "urlImagenTop": "blog/cover_blog.jpg",
+  "title": "BLOG",
+  "titleTop": "PROXIMOS EVENTOS",
+  "subTitle": "Descubre los eventos que no te puedes perder.",
+  "posts": [
+    {
+      "id": "esferas",
+      "urlImg": "blog/manoEsferas.png",
+      "name": "Zur Weihnachtszeit wird ganz Mexiko von gläsernen Christbaumkugeln geschmückt.",
+      "text": "Jahr für Jahr werden die Tannenbäume in Mexiko mit diesen prachtvollen Kugeln verziert, die erfahrene Glasbläser in aufwendiger Handarbeit herstellen. Die einzigartige Technik der Glasbläserei bietet eine Vielzahl von Möglichkeiten, um wunderschöne Kreationen zu schaffen, die die tief verwurzelte und einzigartige Tradition des Weihnachtsfestes in Mexiko verschönern.",
+      "urlPost": "/blog/post/esferas",
+      "post": [
+        {
+          "type": "text",
+          "content": "ahr für Jahr werden die Tannenbäume in Mexiko mit diesen prachtvollen Kugeln verziert, die erfahrene Glasbläser in aufwendiger Handarbeit herstellen. Die einzigartige Technik der Glasbläserei bietet eine Vielzahl von Möglichkeiten, um wunderschöne Kreationen zu schaffen, die die tief verwurzelte und einzigartige Tradition des Weihnachtsfestes in Mexiko verschönern."
+        },
+        {
+          "type": "text",
+          "content": "Die Pueblos Mágicos Tlalpujahua in Michoacán und Chignahuapan in Puebla sind die beiden repräsentativsten Orte, an denen Jahr für Jahr Tausende von in- und ausländischen Besucher*innen diese ikonischen Produkte erwerben und gleichzeitig die touristischen Attraktionen und die regionale Küche genießen."
+        },
+        {
+          "type": "image",
+          "urlImg": "EsferasVidrioSoplado.webp"
+        },
+        {
+          "type": "text",
+          "content": "Die Christbaumkugeln, die das Weihnachtsfest in Mexiko verzieren, sind aus einer Tradition entstanden, die bereits über Generationen weitergegeben wurde, seit sie im 17. Jahrhundert in unser Land kam. Es ist überliefert, dass sie bereits vor mehr als 2.000 Jahren in China hergestellt wurden."
+        },
+        {
+          "type": "text",
+          "content": "Die Technik wurde nach Europa überliefert, und die Gemeinden in Mexiko übernahmen sie ab der Zeit des Vizekönigreichs, was zu einer außergewöhnlichen Verschmelzung führte, die bis heute anhält."
+        },
+        {
+          "type": "title",
+          "content": "TLALPUJAHUA UND DIE MESSE DER CHRISTBAUMKUGELN"
+        },
+        {
+          "type": "text",
+          "content": "Die Tradition und Herstellung dieser handgefertigten Kreationen ist so wichtig, dass eines der fünf populärsten Feste in Tlalpujahua die Messe der Christbaumkugeln ist, die zwischen Oktober und Dezember stattfindet. Die Messebesucher*innen können die große Vielfalt an Farben, Modellen und Größen der hergestellten Kugeln sehen und einige davon mit nach Hause nehmen. Auf diese Weise ist eines der charakteristischen Elemente der mexikanischen Weihnacht in den Wohnzimmern der Bewohner*innen zu finden."
+        },
+        {
+          "type": "text",
+          "content": "Tlalpujahua ist etwa 3 Autostunden von Mexiko-Stadt und 1 Stunde 50 Minuten von Morelia oder Toluca entfernt. Die Stadt liegt im Nordwesten von Michoacán und grenzt an Maravatío, Contepec, Senguio und den Bundesstaat Mexiko."
+        },
+        {
+          "type": "text",
+          "content": "Sie ist der Geburtsort des mexikanischen Aufständischen Ignacio López Rayón, daher lautet der offizielle Name des Ortes Tlalpujahua de Rayón. Er zeichnet sich durch seine Architektur mit Gebäuden aus der Zeit des Vizekönigtums und Herrenhäusern mit Balkonen sowie durch seine reiche Bergbaugeschichte aus."
+        },
+        {
+          "type": "text",
+          "content": "Wenn du also dieses Pueblo Mágico besuchst, um Christbaumkugeln zu erwerben, solltest du dir die Gelegenheit nicht entgehen lassen, Sehenswürdigkeiten wie das Museum des Hauses Hermanos Rayon, die Wallfahrtskirche Unserer Lieben Frau von Carmen oder die Mine Dos Estrellas zu besuchen."
+        },
+        {
+          "type": "image",
+          "urlImg": "EsferasChignahuapan.webp"
+        },
+        {
+          "type": "text",
+          "content": "Tlalpujahua verfügt aber auch über pittoreske Naturlandschaften, die der Stadt einen besonderen Charme verleihen. Ein Beispiel dafür ist das Heiligtum der Monarchfalter, das zwischen November und Februar Tausende von Exemplaren dieser wandernden Spezies aufnimmt.  Sie ziehen von Kanada aus in die Wälder von Michoacán, wie sie in diesem Ort zu finden sind."
+        },
+        {
+          "type": "text",
+          "content": "Der Charme von Tlalpujahua hat dazu geführt, dass es seit dem 27. Juni 2005 den Titel Pueblo Mágico trägt."
+        },
+        {
+          "type": "image",
+          "urlImg": "EsferaArtesanal.webp"
+        },
+        {
+          "type": "title",
+          "content": "CHIGNAHUAPAN UND SEINE CHRISTBAUMKUGEL WERKSTÄTTEN"
+        },
+        {
+          "type": "text",
+          "content": "In diesem Pueblo Mágico in Puebla gibt es mehr als 200 Werkstätten und Fabriken für Christbaumkugeln, in denen jährlich Millionen von Kunstwerken hergestellt werden, die das Weihnachtsfest in Mexiko schmücken."
+        },
+        {
+          "type": "text",
+          "content": "Chignahuapan liegt 2,5 Stunden von Mexiko-Stadt, 1,5 Stunden von Pachuca und knappe 2 Stunden von Puebla entfernt und ist ein wunderschönes Städtchen, eingebettet zwischen Hügeln, die für ein besonderes, sehr kaltes Klima sorgen."
+        },
+        {
+          "type": "text",
+          "content": "Der Mudéjar-Kiosk ist einer der Orte, die jede/r Besucher*in unbedingt sehen muss, da er den charakteristischen Stil der künstlerischen Strömung in Spanien Ende des 19. Jahrhunderts widerspiegelt. Außerdem ist es ein obligatorischer Insta-Spot."
+        },
+        {
+          "type": "text",
+          "content": "Auch die Basilika der Unbefleckten Empfängnis und die Plaza de Armas sind sehenswert, aber die Naturattraktionen sind in diesem Pueblo Mágico am repräsentativsten. Wasserfälle wie El Cajón, Quetzalapan, seine Lagunen und heißen Quellen sind nur einige der beliebtesten Orte für Besucher*innen."
+        },
+        {
+          "type": "text",
+          "content": "Nun weißt du also, dass Tlalpujahua und Chignahuapan die beiden empfehlenswertesten Optionen sind, nicht nur um die Christbaumkugeln für die nächste Weihnachtssaison zu erwerben, sondern auch um zwei unglaubliche Pueblos Mágicos in Mexiko kennenzulernen."
+        }
+      ]
+    },
+    {
+      "id": "cozumel",
+      "urlImg": "blog/titulo-cozumel.jpg",
+      "name": "10 Aktivitäten, die du in Cozumel unternehmen kannst",
+      "text": "Cozumel, eines der wertvollsten Inselparadiese Mexikos, liegt direkt in der mexikanischen Karibik.Sein natürlicher Reichtum wird perfekt durch das Erbe der Maya-Kultur, die moderne Infrastruktur für den Tourismus, wie dem internationalen Flughafen und der Hotelzone sowie Anlegestellen für große Kreuzfahrtschiffe ergänzt",
+      "urlPost": "/blog/post/cozumel",
+      "post": [
+        {
+          "type": "text",
+          "content": "Cozumel, eines der wertvollsten Inselparadiese Mexikos, liegt direkt in der mexikanischen Karibik. Sein natürlicher Reichtum wird perfekt durch das Erbe der Maya-Kultur, die moderne Infrastruktur für den Tourismus, wie dem internationalen Flughafen und der Hotelzone sowie Anlegestellen für große Kreuzfahrtschiffe ergänzt."
+        },
+        {
+          "type": "text",
+          "content": "Cozumel, Quintana Roo, auch als Insel der Schwalben bekannt, ist der perfekte Ort, um die umfangreiche Meeresflora und -fauna zu bewundern, da sie sich am zweitgrößten Barriereriff der Welt befindet."
+        },
+        {
+          "type": "text",
+          "content": "Umgeben vom türkisblauen Wasser der Karibik ist mehr als die Hälfte des Gebiets dieses Reiseziels ein Naturschutzgebiet, das zu dessen Erhaltung sowie zum verantwortungsvollen Tourismus beiträgt, ganz zur Freude der Besucher*innen, die entweder mit dem Boot oder mit dem Flugzeug anreisen."
+        },
+        {
+          "type": "text",
+          "content": "Obwohl viele Touristen mit der Fähre von der Playa del Carmen einen Tagesausflug nach Cozumel machen, lohnt es sich auch, ein paar Tage für diese Reise einzuplanen. Die Insel bietet ein vielfältiges Angebot an Aktivitäten."
+        },
+        {
+          "type": "title",
+          "content": "Folgende Aktivitäten sind in Cozumel ein Muss"
+        },
+        {
+          "type": "image",
+          "urlImg": "CozumelBicicleta.webp"
+        },
+        {
+          "type": "subtitle",
+          "content": "1. Besuche den Pier und das Zentrum von San Miguel de Cozumel"
+        },
+        {
+          "type": "text",
+          "content": "Da es sich um einen der Haupteingangspunkte zu diesem Inselziel handelt,  ist es am besten den Pier und das Zentrum zu besuchen, wo der Gemeindesitz liegt. Hier befinden sich ein Teil der historischen und kulturellen Stätten sowie Restaurants, Handwerks- und  Souvenirläden. Darüber hinaus kann man die moderne Wandmalerei bewundern, die dem Besuch ihre sehr malerische und angenehme Note verleiht und sich ideal zum Fotografieren eignet."
+        },
+        {
+          "type": "subtitle",
+          "content": "2. Tauchen und Schnorcheln treiben"
+        },
+        {
+          "type": "text",
+          "content": "Aufgrund seiner privilegierten geographischen Lage kann man die Naturwunder von Cozumel am besten beim Tauchen genießen. Egal ob für Expert*innen oder Anfänger*innen, in den verschiedenen Gegenden der Insel gibt es Dienstleister*innen, die dem*der Besucher*in das Erlernen dieser Aktivität erleichtern. Für alle, die es so bevorzugen, bietet sich auch  die Gelegenheit, zu schnorcheln, während man die Naturschätze, die die Tiefen dieser Karibikregion verbergen, betrachtet."
+        },
+        {
+          "type": "subtitle",
+          "content": "3. Nach Punta Sur reisen"
+        },
+        {
+          "type": "text",
+          "content": "Wie der Name schon sagt, befindet sie sich an der ‘südlichen’ Spitze von Cozumel. Sie ist ein großes Naturschutzgebiet mit sowohl breiten Vegetationsflächen, Mangroven und Riffen als auch  einem bezaubernden Leuchtturm und dem Schifffahrtsmuseum, in dem sich die Maya- und Seefahrergeschichte abspielt. Sogar Überreste dieser beeindruckenden Kultur sind hier zu finden."
+        },
+        {
+          "type": "subtitle",
+          "content": "4. Spaziergang durch die archäologische Zone San Gervasio"
+        },
+        {
+          "type": "text",
+          "content": "Für die Mayas dient Ixchel als die Göttin der Fruchtbarkeit, der Geburt, Medizin und Künste, und diese archäologische Zone von Cozumel ist dieser Gottheit gewidmet. Obwohl dieses Gebiet die wichtigsten Spuren der Verehrung beherbergt, gibt es weit und breit verschiedene Manifestationen, die den Kult bezeugen, der ihm zugeteilt wurde. Es ist sogar bekannt, dass früher alle Frauen irgendwann einmal die Insel besuchen mussten."
+        },
+        {
+          "type": "subtitle",
+          "content": "5. Wertschätzung der Kanutenankunft der Heiligen Maya-Reise"
+        },
+        {
+          "type": "text",
+          "content": "Da wir jetzt über Ixchel sprechen, ist es auch wichtig, über eines der bedeutendsten Ereignisse in Cozumel zu sprechen, nämlich die Heilige Maya-Reise, die zurzeit eine Aufführung des Reiseweges ist, der von den Kanufahrer*innen genommen wurde und vom Festland nach Playa del Carmen abfährt, um diese Göttin anzubeten."
+        },
+        {
+          "type": "image",
+          "urlImg": "CozumelBuzo.webp"
+        },
+        {
+          "type": "subtitle",
+          "content": "6. Genieße den Chankanaab-Nationalpark"
+        },
+        {
+          "type": "text",
+          "content": "Geschichte, Natur und Spaß treffen sich an einem einzigen Ort, der bereits zur Nationalstätte erklärt wurde, in dem man nicht nur Aktivitäten wie Schnorcheln, Tauchen oder Schwimmen mit Delfinen unternehmen kann, sondern der auch über ein Museum verfügt, was es zu einem der besten Orte für alle Arten von Reisenden macht."
+        },
+        {
+          "type": "subtitle",
+          "content": "7. Erholung an El Cedral"
+        },
+        {
+          "type": "text",
+          "content": "Wenn Cozumel das perfekte Reiseziel für Ruhe- und Entspannungssuchende ist, ist El Cedral das perfekte Plätzchen auf der Insel. Dieses kleine Dörfchen besitzt einen besonderen Charme und ist zugleich Zeuge des Geschichtslaufes vom Aufstieg der Maya-Kultur bis in die Neuzeit. Hier findet auch das zweitwichtigste Fest dieses Reisezieles statt: La Fiesta del Cedral am Tage des Heiligen Kreuzes."
+        },
+        {
+          "type": "subtitle",
+          "content": "8. Wasseraktivitäten durchführen"
+        },
+        {
+          "type": "text",
+          "content": "Während Tauchen und Schnorcheln zu den bekanntesten Aktivitäten in Cozumel zählen, gibt es auch noch ein großes Angebot an Stränden. Entlang der Küste sind Paddeln, Jetskifahren und Kajakfahren zu finden. Stets mit der entsprechenden Unterstützung und Beratung von Expert*innen."
+        },
+        {
+          "type": "image",
+          "urlImg": "Cozumel1.webp"
+        },
+        {
+          "type": "subtitle",
+          "content": "9. Besuch auf der Isla de la Pasión"
+        },
+        {
+          "type": "text",
+          "content": "Nördlich von Cozumel gibt es einen winzigen Ort namens Isla Pasión mit einer Ausdehnung von nur einem Kilometer. Hier gibt es Mangroven, Riffe und Dschungel. Außerdem kannst du hier sowohl an adrenalinreichen Aktivitäten teilnehmen, als auch Touren unternehmen, um den ruhigen und entspannten Strand zu genießen. Cozumel ist auch wegen der Durchführung von Feierlichkeiten, vor allem Eheschließungen, bekannt."
+        },
+        {
+          "type": "subtitle",
+          "content": "10. El Cielo"
+        },
+        {
+          "type": "text",
+          "content": "Südlich von Cozumel am sandweißen Meeresgrund, der das karibische Meer charakterisiert, befindet sich das wahre Meeresparadies. Sein Name ist auf die Hunderte von Seesternen zurückzuführen, die in einem weiten Gebiet rasten, weshalb er keinen anderen Namen erhalten konnte als “Himmel”, jedoch tief unten im Meer. Diese Attraktion lässt sich idealerweise beim Tauchen oder Schnorcheln genießen. Aus diesem Grund einer der Zusammenkünfte, die Keine*r auf einer Reise nach Cozumel verpassen darf."
+        } 
+      ]
+    },
+    {
+      "id": "dia-de-muertos",
+      "urlImg": "blog/DIA-DE-MUERTOS-INFLUENCER_05.webp",
+      "name": "Una celebración y experiencia de México para el mundo",
+      "text": "El Día de Muertos terminó, pero aún se puede apreciar el olor del cempasúchil y del incienso impregnados en todas partes, aun podemos respirar el olor del pan de muerto habitando cada espacio común, de la misma forma en que la memoria de nuestros difuntos se impregna dentro de nosotros. Recordarlos y honrar su memoria es un ritual importante para nuestra identidad y enriquece nuestra visión del mundo, pues en México entendemos la muerte como una parte más de la vida, pero jamás su final.",
+      "urlPost": "/blog/post/dia-de-muertos",
+      "post": [
+        {
+          "type": "text",
+          "content": "El Día de Muertos terminó, pero aún se puede apreciar el olor del cempasúchil y del incienso impregnados en todas partes, aun podemos respirar el olor del pan de muerto habitando cada espacio común, de la misma forma en que la memoria de nuestros difuntos se impregna dentro de nosotros. Recordarlos y honrar su memoria es un ritual importante para nuestra identidad y enriquece nuestra visión del mundo, pues en México entendemos la muerte como una parte más de la vida, pero jamás su final."
+        },
+        {
+          "type": "text",
+          "content": "También entendemos que vivir en sinónimo de alegría y por ello recibimos con ofrendas a nuestros difuntos, pero también a los vivos, amigos, seres queridos y hasta extraños son bienvenidos en nuestras casas para celebrar que estamos con vida y que compartir es la forma más sensata y cálida de vivir."
+        },
+        {
+          "type": "text",
+          "content": "Son tantas las formas en que esta celebración se lleva a cabo, que sería imposible enumerarlas aquí, existen rituales y eventos tan antiguos como el Día de Muertos, pero cada año surgen nuevas formas de celebrarlo, donde se expresa la creatividad de un pueblo orgulloso de sus raíces, permitiendo preservar las tradiciones y ritos que la UNESCO reconoce como patrimonio cultural Inmaterial de la Humanidad, como se declaró en 2008 a nuestro querido Día de Muertos."
+        },
+        {
+          "type": "text",
+          "content": "Desde Sinaloa hasta Yucatán, de Tamaulipas a Tabasco, todo México se transforma y expresa su identidad de forma asombrosa, es por ello que compartimos esta celebración con influencers invitados de diversos países de Latinoamérica; Isa Terrones (Perú), Christian Byfield (Colombia), Kattya Soto (Perú), Leonel Mijangos (Guatemala), Sergio Ríos (Perú), y Andrea Pedrero (México)."
+        },
+        {
+          "type": "image",
+          "urlImg": "DIA-DE-MUERTOS-INFLUENCER_05.webp"
+        },
+        {
+          "type": "text",
+          "content": "Isa Terrones"
+        },
+        {
+          "type": "image",
+          "urlImg": "DIA-DE-MUERTOS-INFLUENCER_07.webp"
+        },
+        {
+          "type": "text",
+          "content": "Nelo Mijangos"
+        },
+        {
+          "type": "image",
+          "urlImg": "DIA-DE-MUERTOS-INFLUENCER_09.webp"
+        },
+        {
+          "type": "text",
+          "content": "Kattya Viajera"
+        },
+        {
+          "type": "text",
+          "content": "Los creadores de contenido visitaron destinos como Aguascalientes, Michoacán, Ciudad de México y Guanajuato, donde pudieron presenciar en vivo cómo México se llena de colores, aromas y sabores que estimulan todos nuestros sentidos. Pudieron compartir con sus miles de seguidores la energía y la belleza de nuestro país en el marco del Día de Muertos."
+        },
+        {
+          "type": "text",
+          "content": "Su travesía no hubiera sido posible sin el profesionalismo y la amabilidad de Trösten Transport, empresa de transportación que ofrece servicios para viajes, transporte de personal, transporte ejecutivo y corporativo, shuttle en aeropuerto, night ride, entre otros. Asimismo, cuentan con diversas unidades de hasta 21 pasajeros, mismas que ofrecen diversos beneficios de los cuales pudieron disfrutar nuestros invitados en los traslados requeridos durante esta experiencia de “Día de Muertos”."
+        },
+        {
+          "type": "text",
+          "content": "Este recorrido culminó de forma espectacular asistiendo al Gran Desfile de Día de Muertos, con sede en la Ciudad de México, donde se celebró en grande con más de 4,000 participantes que deleitaron a más 1 millón de asistentes con espectáculos artísticos, circenses y musicales. Ha sido un placer compartir con todos una fecha tan especial, que nos conmueve y alegra al mismo tiempo. La hospitalidad a la mexicana es algo que nos enorgullece y esperamos que turistas de todo el mundo, nos visiten en el Día de Muertos, porque nunca debemos olvidar a nuestros seres queridos que se adelantaron. Si los recordamos, siempre vivirán."
+        }
+      ]
+    }
+  ]
+}

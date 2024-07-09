@@ -1,0 +1,104 @@
+{
+    "title":"Riunioni, incentivi, congressi e turismo espositivo",
+    "urlVideoTop": "https://www.youtube.com/embed/x2bMr85mhEg?autoplay=1&mute=1&loop=1&rel=0",
+    "subtitle": "Il Messico come attore globale",
+    "boldText": "Il Messico è un Paese altamente competitivo a livello mondiale nell'industria del turismo d'incontri",
+    "paragraph": "perché dispone di un'ampia infrastruttura per lo svolgimento di congressi, viaggi incentive, conferenze, convegni, incontri e mostre, oltre che di un'eccellente qualità e cordialità del servizio.",
+    "imageUrl": "mice/imgprotagonista.png",
+    "slides": [
+        "Il turismo degli incontri ha rappresentato l'1,5% del PIL nel 2022 Fonte: COMIR",
+        "In termini di occupazione, nel 2022 ha generato circa 1 milione di posti di lavoro diretti e indiretti in cui saranno impiegati giovani e donne",
+        "C’è stata un’occupazione alberghiera del 18,88% da stanze di notte nel Paese"
+    ],
+    "reunionesTitle":"Incontri in Messico: prospettive al 2040",
+    "reunionesItem1Title":"Un Messico sicuro",
+    "reunionesItem1Parrafo1":"Dato il moderato aumento dimostrato dall'attività di viaggio, il Messico si mantiene al sesto posto nel",
+    "reunionesBoldText": "classifica turistica dell'ONU del 2023",
+    "reunionesAfterBoldText": "nell'arrivo di turisti stranieri e nono per quanto riguarda l'acquisizione di valuta estera attraverso il turismo.",
+    "reunionesItem1Parrafo2":"Entro la fine del 2022, si prevede un reddito di 27.429 milioni di dollari da parte dei visitatori internazionali, ovvero l'11,6% in più rispetto al 2019; e gli Investimenti Turistici Diretti Esteri (FDIT) in Messico ammontano a 3.147 milioni di dollari, da gennaio a settembre 2022, superando gli FDIT registrati in tutto il 2019, che sono stati 1.95 milioni di dollari.",
+    "reunionesItem1Parrafo3":"",
+    "imgItem1":"mice/reuniones1.png",
+    "reunionesItem2Title":"Un Messico connesso",
+    "reunionesItem2Parrafo1":"Il nostro Paese dispone di 780.511 chilometri di infrastrutture stradali e di una rete aeroportuale di 78 aeroporti, che gestiscono 1.503 rotte origine-destinazione, di cui 485 consentono la connessione con 44 Paesi del mondo.",
+    "reunionesItem2Parrafo2":"L'aeroporto di Chetumal, nel Quintana Roo, è stato ampliato e ristrutturato; sono in fase di ammodernamento gli aeroporti di Barrancas del Cobre, a Creel, Chihuahua; Tepic, Nayarit; Tamuín, San Luis Potosí; Puerto Escondido, Oaxaca; e l'aerostazione di Tulum, nel Quintana Roo; aeroporti che avranno un grande impatto sul turismo regionale.",
+    "imgItem2":"mice/reuniones2.png",
+    "reunionesItem3Title":"Un Messico con infrastrutture di livello mondiale per il turismo congressuale",
+    "reunionesItem3Parrafo1":"Il Messico dispone di 54 sedi in tutto il suo territorio ideali per il turismo congressuale, che offrono strutture adatte a ospitare eventi per un numero di persone che va da 100 a oltre 20.000, oltre a essere dotate delle più recenti tecnologie e di fornitori di prima classe.",
+    "reunionesItem3Parrafo2":"Vale la pena ricordare che 27 città messicane dispongono già di un ufficio congressi e visitatori per promuovere il turismo congressuale.",
+    "imgItem3":"mice/reuniones3.png",
+    "reunionesItem4Title":"Un Messico con servizi turistici integrati e di alta qualità",
+    "reunionesItem4Parrafo1":"Il Messico è un Paese altamente competitivo per il turismo d'incontro perché offre una serie di incentivi che lo pongono come una destinazione con ampie opportunità per la creazione di imprese redditizie e di successo.",
+    "reunionesItem4Parrafo2":"Il Paese integra orizzontalmente e verticalmente i servizi turistici associati all'industria dei meeting, con costi competitivi e alta qualità, attraverso il rafforzamento del capitale umano, la concatenazione produttiva del settore e prodotti turistici integrati che generano sinergie tra turismo dei meeting, turismo del sole e delle spiagge e turismo culturale.",
+    "imgItem4":"mice/reuniones4.png",
+    "reunionesItem5Title":"Il Messico come attore globale",
+    "reunionesItem5Parrafo1":"In termini di turismo d'incontro, il Messico è al 23° posto nel mondo e al 5° nelle Americhe con 197 congressi.",
+    "reunionesItem5Parrafo2":"Il successo di questo segmento turistico è legato anche alla ricchezza naturale, culturale e gastronomica del Paese.",
+    "imgItem5":"mice/reuniones5.png",
+    "titleClasificacion": "Classificazione del turismo congressuale",
+    "descripcionClasificacion": "",
+    "clasificacionColumnas": [
+        {
+          "imagen": "mice/convenciones_purple.svg",
+          "descripcion": "Congressi e riunioni aziendali o di lavoro"
+        },
+        {
+          "imagen": "mice/congresos_purple.svg",
+          "descripcion": "Congressi di varie associazioni e industrie, nonché di società professionali e scientifiche"
+        },
+        {
+          "imagen": "mice/ferias_purple.svg",
+          "descripcion": "Fiere e mostre commerciali"
+        },
+        {
+          "imagen": "mice/incentivos_purple.svg",
+          "descripcion": "Viaggi incentive"
+        },
+        {
+          "imagen": "mice/otras_reuniones_purple.svg",
+          "descripcion": "Altre riunioni"
+        }
+      ],
+      "mexicoTitulo": "Destinazioni turistiche per il turismo d'affari in Messico",
+      "mexicoParrafoSuperior": "Il Messico è un luogo strategico per gli affari, il turismo d'incontro e importanti congressi, mostre e fiere grazie alla sua posizione geografica rispetto agli Stati Uniti e all'America Latina.",
+      "miceCallToAction": "Per saperne di più, visita: ",
+      "mexicoParrafoInferior": "Il turismo degli incontri è particolarmente importante perché funge da stimolo per gli investimenti, lo sviluppo delle imprese e la crescita economica e contribuisce a migliorare la reputazione delle città ospitanti.",
+      "collageColumnas": [
+        {
+          "imagen": "mice/collage/1.jpg",
+          "texto": "Showcenter Complex, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/2.jpg",
+          "texto": "Baja California Center"
+        },
+        {
+          "imagen": "mice/collage/3.jpg",
+          "texto": "Centro Internazionali di Convenzioni di Yucatan"
+        },
+        {
+          "imagen": "mice/collage/10.jpg",
+          "texto": "Centro di Convenzioni di Zacatecas"
+        },
+        {
+          "imagen": "mice/collage/5.jpg",
+          "texto": "Cintermex, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/6.jpg",
+          "texto": "Auditorio Sala  M, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/7.jpg",
+          "texto": "Poliforum, León Guanajuato"
+        },
+        {
+          "imagen": "mice/collage/8.jpg",
+          "texto": "Centro di Convenzioni di Queretaro"
+        },
+        {
+          "imagen": "mice/collage/9.jpg",
+          "texto": "Foro Didi Pabellón M, Nuevo León"
+        }
+      ],
+      "mapaMexico": "mice/mapa.svg"
+}

@@ -1,0 +1,313 @@
+{
+	"homeBienvenido": "Bem-vindo ao VisitMexico: seu portal para descobrir a beleza do México",
+	"homeBienvenidoText": "Explore a rica cultura, a história fascinante e as paisagens deslumbrantes que fazem do México um destino incomparável. No VisitMexico levamos você numa viagem pelos lugares mais emblemáticos e recantos escondidos deste belo país.",
+	"homeDescubre": "Descubra destinos inesquecíveis com VisitMexico",
+	"homeDescubreText": "Das antigas ruínas maias às praias de areia branca, o México oferece uma variedade de destinos de tirar o fôlego. Explore as cidades coloniais cheias de charme. Mergulhe na história pré-hispânica das zonas arqueológicas e relaxe nas praias paradisíacas do Caribe mexicano.",
+	"homeSumergete": "Mergulhe na cultura mexicana com VisitMexico",
+	"homeSumergeteText": "A cultura mexicana é vibrante, diversificada e cheia de vida. Descubra a alegria das festas tradicionais, maravilhe-se com a arquitetura colonial e saboreie a deliciosa culinária mexicana. No VisitMexico levamos você a viver experiências autênticas que o conectarão com a verdadeira essência do México.",
+	"homeAventuras": "Aventuras ao ar livre com VisitMexico",
+	"homeAventurasText": "Explore a natureza selvagem e as paisagens deslumbrantes do México com nossas experiências ao ar livre. Desde a prática de esportes aquáticos nas águas cristalinas do Golfo do México até emocionantes excursões pela selva de Chiapas, no VisitMexico levamos você a descobrir aventuras que nunca esquecerá.",
+	"homePlanifica": "Planeje sua viagem com VisitMexico",
+	"homePlanificaText": "No VisitMexico estamos aqui para ajudá-lo a planejar a viagem dos seus sonhos. Encontre informações úteis sobre alojamento, transporte, atividades e eventos em todo o México. Com nossos guias de viagem e recomendações, você poderá criar uma experiência única e personalizada que lhe permitirá descobrir o melhor do México.",
+
+	"galeria": [
+    {
+      "image": "../../assets/img/header/mexicoatravesdelosanos.webp",
+      "caption": "<div>MÉXICO AO LONGO DOS ANOS<br/admiro isso</div>"
+    },
+    {
+      "image": "../../assets/img/header/piramide.webp",
+      "caption": "<div>Descubra sítios arqueológicos<br/>que protegem o passado do México</div>"
+    },
+	{
+		"image": "../../assets/img/header/dia-de-muertos (1).webp",
+		"caption": "<div>O DIA DOS MORTOS ESTÁ CHEGANDO<br/>O encontro mexicano mais querido do mundo</div>"
+	  },
+	  {
+		"image": "../../assets/img/header/PUEBLOS-MAGICOS.webp",
+		"caption": "<div>NOVAS CIDADES MÁGICAS<br/>Appointments 2023</div>"
+	  }
+	],
+
+	"titleListKnow": "QUAL MÉXICO VOCÊ QUER CONHECER?",
+	"subtitleListKnow": "O México é um país cheio de cultura, paisagens, experiências, gastronomia e muito mais.",
+	"listKnow": [
+		{
+		  "image": "trenMaya.webp",
+		  "title": "Trem Maia",
+		  "fields": [
+			{
+			  "quantity": "5",
+			  "description": "Estados"
+			},
+			{
+			  "quantity": "1,554",
+			  "description": "KM"
+			},
+			{
+			  "quantity": "21",
+			  "description": "Estaciones de tren"
+			},
+			{
+			  "quantity": "117",
+			  "description": "Experiencias"
+			}
+		  ],
+		  "dir": "/tren-maya"
+		},
+		{
+		  "image": "MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp",
+		  "title": "Destinos",
+		  "fields": [
+			{
+			  "quantity": "32",
+			  "description": "estados llenos de sorpresas"
+			},
+			{
+			  "quantity": "2,469",
+			  "description": "ciudades y municipios"
+			},
+			{
+			  "quantity": "10",
+			  "description": "Ciudades Patrimonio de la Humanidad por la UNESCO"
+			},
+			{
+			  "quantity": "440",
+			  "description": "playas"
+			}
+		  ],
+		  "dir": "/destinos"
+		},
+		{
+		  "image": "oaxacaguelaguetza.webp",
+		  "title": "Pueblos Mágicos",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "¡Ya son 177 Pueblos Mágicos!"
+			},
+			{
+			  "quantity": "",
+			  "description": "Opiniones"
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			}
+		  ],
+		  "dir": "/pueblos-magicos"
+		},
+		{
+		  "image": "f1evento.webp",
+		  "title": "Eventos Internacionais",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "Eventos de talla internacional que ponen la atención del mundo en México."
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			}
+		  ],
+		  "dir": "/eventos-internacionales"
+		},
+		{
+		  "image": "CALENDARIO.webp",
+		  "title": "Calendário",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "Los eventos y fechas que deben estar en tu agenda para asistir."
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			}
+		  ],
+		  "dir": "/calendario"
+		},
+		{
+		  "image": "MOR_xochicalco_t_156-_1__11zon.webp",
+		  "title": "Blog",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "Las notas y tendencias turísticas para tu siguiente viaje."
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			}
+		  ],
+		  "dir": "/blog"
+		},
+		{
+		  "image": "videos.webp",
+		  "title": "Vídeos",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "El destino del mes"
+			},
+			{
+			  "quantity": "",
+			  "description": "Lo imperdible"
+			},
+			{
+			  "quantity": "",
+			  "description": "Tips de personalidades"
+			},
+			{
+			  "quantity": "",
+			  "description": "Trivias"
+			}
+		  ],
+		  "dir": "/videos"
+		}
+	],
+	"listMostViewed": {
+		"title":"O mais visitado",
+		"sections": [
+		  {
+			"name": "Trem Maia",
+			"image": "trenMaya.webp",
+			"dir": "/tren-maya"
+		  },
+		  {
+			"name": "Casamentos",
+			"image": "NoviosGuerrero.webp",
+			"dir": "/experiencias/bodas"
+		  },
+		  {
+			"name": "Praias",
+			"image": "Nuevo-Vallarta.webp",
+			"dir": "/experiencias/sol-y-playa"
+		  },
+		  {
+			"name": "México é sabor",
+			"image": "Mole-Poblano.webp",
+			"dir": "/experiencias/rutas-gastronomicas"
+		  },
+		  {
+			"name": "Pueblos Mágicos",
+			"image": "PUEBLOS-MAGICOS.webp",
+			"dir": "/pueblos-magicos"
+		  }
+		]
+	},
+	"listSunBeachAndSand": {
+		"image": "Qroo_cancun_playa108.webp",
+		"title": "Sol praia e areia",
+		"subtitle": "As melhores praias estão no México!",
+		"description": "A localização privilegiada do México permite que seja “banhado” pelo Oceano Pacífico, pelo Golfo do México e pelo Mar Caribe, o que faz do nosso país um destino paradisíaco para turistas que procuram sol e praia. As longas extensões de costa que ultrapassam os 11 mil quilómetros permitem que cada praia seja única em si, com águas de diferentes tonalidades e areias de diferentes texturas.",
+		"button": {
+		  "title": "Vamos lá!",
+		  "dir": "/experiencias/sol-y-playa"
+		}
+	},
+	"listHomeTravelInspiration": {
+		"title": "Inspiração para viajar!",
+		"destinations": [
+		  {
+			"title": "Recomendações sobre os lugares mais top",
+			"image": "CiudaddeMexico_Portada.webp",
+			"dir": "/videos#destinos-mes"
+		  },
+		  {
+			"title": "Visite lugares imperdíveis",
+			"image": "Chiapas-agua_azul-01.webp",
+			"dir": "/videos#imperdible"
+		  },
+		  {
+			"title": "Agora temos 177 Pueblos Mágicos",
+			"image": "YUC_Cusaman_Cenotes152.webp",
+			"dir": "/pueblos-magicos"
+		  },
+		  {
+			"title": "Dicas para viajar ",
+			"image": "QuintanaRoo.webp",
+			"dir": "/videos#asi-viajan"
+		  }
+		]
+	},
+	"homeSlides": [
+		{
+			"key": "1",
+			"content": "https://www.youtube.com/embed/3wxzXkp29bU",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		},
+		{
+			"key": "2",
+			"content": "https://www.youtube.com/embed/FYBaZb3dwJg",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		},
+		{
+			"key": "3",
+			"content": "https://www.youtube.com/embed/QvTWuzazGtc",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		},
+		{
+			"key": "4",
+			"content": "https://www.youtube.com/embed/Q601HFpAJJ0",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		},
+		{
+			"key": "5",
+			"content": "https://www.youtube.com/embed/Sn9So_Ab8xo",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		}
+	],
+	"listRecentArticles": {
+		"title": "Artigos recentes",
+		"subtitle": "Nosso blog pode ser de grande ajuda para conhecer algumas dicas ou detalhes que você precisa saber se decidir viajar para algum dos pontos turísticos do México.",
+		"button" : {
+		  "name": "Mais conteúdo",
+		  "dir": "/blog"
+		},
+		"articles": [
+			{
+			  "image": "manoEsferas.png",
+			  "date": "15/07/2022",
+			  "title": "Esferas ou bolas de Natal, uma arte em vidro que decora as festas natalinas no México.",
+			  "type": "Categorias",
+			  "category": "Curiosidades"
+			},
+			{
+			  "image": "titulo-cozumel.jpg",
+			  "date": "15/07/2022",
+			  "title": "10 Atividades que você pode fazer em Cozumel",
+			  "type": "Categorias",
+			  "category": "Curiosidades"
+			}
+		  ]
+	}
+}

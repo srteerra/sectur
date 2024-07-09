@@ -1,0 +1,53 @@
+{
+    "id": "islas-marias",
+    "title": "Islas Marías",
+    "subtitle": "发现玛丽亚群岛",
+    "urlVideoTop":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "urlVideo":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "燈塔 Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "看起來 Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "参观位于纳亚里特州海岸的Islas Marías是一种体验，让你了解其迷人的历史和由四个岛屿组成的群岛的自然美：玛丽亚母岛、玛丽亚玛格达莱娜岛、玛丽亚克莱奥法斯岛和圣胡安尼托岛。"
+        },
+        {
+            "text": "它们在纳亚里特州，由玛丽亚·马格达莱纳、玛丽亚·克莱奥法斯、圣胡安尼托和玛丽亚·马德雷群岛组成。"
+        },
+        {
+            "text": "这些岛屿的重要性在于其巨大的生物多样性，因为在2000年，他们宣布自己为自然保护区，作为生物圈保护区。它因其特有的动植物而得到联合国教科文组织的认可，从红树林到珊瑚礁，再到许多动物物种，其中一些物种濒临灭绝。"
+        }
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "正方形 Juarez",
+            "dir": "/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "港口 Balleto",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "海軍航空站 Isla Maria Madre",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "主要城鎮壁畫",
+            "dir": "/"
+        }
+    ]
+}

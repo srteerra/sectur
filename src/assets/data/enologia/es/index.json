@@ -1,0 +1,65 @@
+{
+    "title": "Enoturismo: regiones productoras de vino en México",
+    "imgItem1":"enologia/eno/enoturismo1.jpg",
+    "imgItem2":"enologia/eno/enoturismo2.jpg",
+    "imgItem3":"enologia/eno/enoturismo3.jpg",
+    "imgItem4":"enologia/eno/enoturismo4.jpg",
+    "imgItem5":"enologia/eno/enologia5.jpg",
+    "imgTurismo": "enologia/eno/enoturismo6.jpg",
+    "subtitle": "¿Qué es el enoturismo?",
+    "paragraph": "De acuerdo con la",
+    "onulink": "Organización Mundial  del Turismo ( ONU Turismo )",
+    "onuafterlink": "“El turismo del vino incluye visitas a bodegas, degustaciones y otros eventos relacionados con la producción de vino, así como visitas a viñedos y otras atracciones culturales y naturales relacionadas con el vino en una región determinada.”",
+    "strongP": "Y los estados que ofrecen rutas son:",
+    "quoteP": "",
+    "lista": [
+        "La Ruta del vino de Aguascalientes",
+        "La Ruta del vino de Baja California la cual consiste en 4, la ruta del vino del Valle de Guadalupe, Ruta del Queso y del Vino, Antigua Ruta del Vino y Ruta Puerta Norte.",
+        "Ruta del Vino de Coahuila, la cual se divide en 2, La ruta de Vinos y Dinos y Ruta del Desierto.",
+        "La ruta del vino de Guanajuato, Valle de la Independencia",
+        "Ruta del Vino de Hidalgo, dividida en 2, “Escapada al Camino Real entre Vino y Queso” y “Ruta Tolteca entre Vino y Queso”.",
+        "Ruta del arte, queso y vino de Querétaro"
+      ],
+      "entidades": "16 entidades productoras de uva: Aguascalientes, Baja California, Baja California Sur, Coahuila, Chihuahua, Durango, Guanajuato, Hidalgo, Jalisco, Nayarit, Nuevo León, Puebla, Querétaro, San Luis Potosí, Sonora y Zacatecas.",
+    "info1": "16 entidades federativas productoras de uva y vino.",
+    "info2": "Existen más de 12 mil marcas de vinos mexicanos",
+    "info3": "En México se producen 18 variedades de uvas para vino",
+    "info4": "Existen 80 operadores turísticos especialistas en rutas enoturísticas en más de 10 estados de México.",
+    "destinosTitle": "RUTAS ENOTURÍSTICAS DE MÉXICO",
+    "bannerEnologia": "enologia/eno/enoturismo7.jpg",
+    "titleProduccion": "Producción de vinos mexicanos",
+    "descripcionClasificacion": "",
+    "produccionColumnas": [
+        {
+          "imagen": "enologia/uvas.svg",
+          "descripcion": "México tiene 7,000 hectáreas de uva para vino "
+        },
+        {
+          "imagen": "enologia/barril.svg",
+          "descripcion": "Se producen 195,000 hectolitros"
+        },
+        {
+          "imagen": "enologia/sacacorcho.svg",
+          "descripcion": "El consumo per cápita es de 1.3 litros"
+        },
+        {
+          "imagen": "enologia/botellas.svg",
+          "descripcion": "7 de cada 10 botellas que se consumen son vino tinto "
+        }
+      ],
+      "tituloArticuloUno": "Enoturismo y regiones vitivinícolas",
+      "Parrafo1Articulo1": "Gracias al enoturismo uno experimenta y se relaciona con la cultura, historia, tradiciones e identidad del destino que se visita, sobre todo en regiones con producción vinícola por lo que la promoción es fundamental para dar a conocer todo lo que ofrece al turista enológico.",
+      "Parrafo2Articulo2": "El enoturismo permite que la gente tenga mayor entendimiento del proceso de elaboración del vino; contemplar el campo, conocer el proceso de crecimiento de las vides, recorrer las instalaciones del viñedo o bodega, hasta llegar al envasado.",
+      "titulo2ArticuloDos": "¿Sabías que existen tres museos dedicados a la vid y el vino en México?",
+      "Parrafo1Articulo2": "Baja California “Museo de la Vid y el Vino”, ubicado en Ensenada, ofrece al público un recorrido por la historia, la industria, la identidad y el vino, así como su relación con el arte. Guanajuato “Museo del Vino” ubicado en Dolores, Hidalgo, Guanajuato; en este lugar podrás conocer la historia del vino y el proceso de elaboración de los vinos que ofrecen los productores del “Valle de la Independencia”. Querétaro, El Museo del Arte, Queso y Vino, ubicado en Tequisquiapan, es garantía de cultura y sabores acompañados de una buena copa de vino.",
+      "Parrafo3Articulo2": "En las rutas enoturísticas de México, puedes visitar y tener desde una cata de vinos únicamente, hasta hospedarte y disfrutar la experiencia de un servicio excepcional.",
+      "regiones": "enologia/eno/enoturismo8.jpg",
+      "marcas": "enologia/eno/enoturismo9.jpg",
+      "conocesCatalogo": "¿Conoces el Catálogo de productos y rutas enoturísticas de México 2023?",
+      "imgDescarga": "enologia/img-descarga.png",
+      "downloadLink": "https://visitmexico.com/recursos/catalogo-de-productos-y-rutas-enoturisticas-2023.pdf",
+      "cintaRoja": "enologia/Fondorosa.webp",
+      "mapaMexico": "enologia/mapa.svg",
+      "enologiaDescarga": "Ver más"
+
+}

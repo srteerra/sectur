@@ -1,0 +1,96 @@
+/* styles.css */
+
+.container-protagonista {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center; /* Alinea los elementos al centro verticalmente */
+  margin-bottom: 30px;
+}
+.containerClasificacion p {
+  text-align: center;
+}
+
+.left-column {
+  flex: 1;
+  padding: 0 20px; /* Añadir un poco de espacio alrededor del contenido */
+  align-self: flex-start; /* Alinea el contenido de esta columna al principio */
+}
+
+.right-column {
+  flex: 1;
+  padding: 0 20px; /* Añadir un poco de espacio alrededor del contenido */
+  display: flex; /* Para alinear la imagen */
+  justify-content: right; /* Alinea la imagen a la derecha horizontalmente */
+}
+
+/* Estilos para el título h2 */
+h2 {
+  font-size: 28px;
+  margin-bottom: 10px; /* Espacio entre el título y el párrafo */
+}
+
+/* Estilos para el párrafo */
+p {
+  font-size: 20px;
+  line-height: 1.5; /* Espaciado entre líneas */
+  text-align: justify;
+}
+
+/* Estilos para el contenedor de la imagen */
+.right-column {
+  overflow: hidden; /* Oculta el desbordamiento de la imagen */
+}
+
+/* Estilos para la imagen */
+.right-column .lazy-loaded-image {
+  max-width: 100%; /* La imagen no se extenderá más allá de su contenedor */
+  height: auto; /* Mantener la proporción de aspecto */
+  border-radius: 10px; /* Aplica el borde redondeado directamente a la imagen */
+  object-fit: cover;
+}
+
+/* Media queries para dispositivos más pequeños */
+@media screen and (max-width: 768px) {
+  .container {
+      flex-direction: column;
+      align-items: stretch; /* Restablece la alineación vertical al estiramiento */
+  }
+
+  .left-column,
+  .right-column {
+      flex: auto;
+      width: auto; /* Establecer el ancho automático */
+      padding: 20px 0; /* Añadir espacio superior e inferior en lugar de lateral */
+  }
+
+  
+}
+
+/* Media queries para dispositivos más pequeños */
+@media screen and (max-width: 768px) {
+  .container-protagonista {
+    flex-direction: column; /* Cambia la dirección de los elementos a columna */
+    align-items: stretch; /* Estira los elementos verticalmente */
+    max-width: 100%; /* Limita el ancho máximo del contenedor */
+    overflow-x: auto; /* Añade desbordamiento horizontal con barra de desplazamiento */
+  }
+
+  .left-column,
+  .right-column {
+    flex: 1; /* Hace que las columnas ocupen todo el espacio disponible */
+    width: 93%; /* Ocupa el 100% del ancho del contenedor */
+    padding: 20px; /* Añade espacio en todos los lados */
+    margin: 0; /* Elimina el margen */
+  }
+
+  .right-column {
+    justify-content: center; /* Centra la imagen horizontalmente */
+  }
+
+  .container-protagonista p {
+    word-wrap: break-word; /* Permite que el texto se ajuste al ancho del contenedor */
+  }
+}
+
+

@@ -1,0 +1,313 @@
+{
+	"homeBienvenido": "ビジットメキシコへようこそ: メキシコの美しさを知るためのサイト",
+	"homeBienvenidoText": "メキシコの豊かな文化、魅力的な歴史、息を呑むような絶景を探索してみてください。ビジットメキシコでは、この美しい国の代表的な場所や穴場観光スポットを巡る旅にご案内します。",
+	"homeDescubre": "ビジットメキシコのサイトで記憶に残る目的地を見つけよう",
+	"homeDescubreText": "古代マヤ遺跡から白い砂浜のビーチまで、メキシコには驚きと感動の目的地がたくさんあります。魅力あふれるコロニアル都市を探索し、遺跡の先ヒスパニック時代の歴史に浸り、メキシコカリブ海の楽園のようなビーチでリラックスしてみてください。",
+	"homeSumergete": "ビジットメキシコでメキシコ文化に浸ってみよう",
+	"homeSumergeteText": "豊かで、活力あふれ、多様性のあるメキシコ文化。伝統的な祭の活気に触れ、コロニアル建築に驚嘆し、おいしいメキシコ料理を満喫しましょう。ビジットメキシコで、メキシコの真髄が味わえる体験をお届けします。",
+	"homeAventuras": "ビジットメキシコおすすめのアウトドア体験",
+	"homeAventurasText": "ここでおすすめするアウトドア体験で、メキシコの大自然や絶景を探索しましょう。メキシコ湾の透き通った海でのウォータースポーツから、チアパスのジャングルを巡るエキサイティングなちょっとした旅行まで、ビジットメキシコで、記憶に残る体験をご紹介します。",
+	"homePlanifica": "ビジットメキシコの情報を参考に旅行の計画を立てよう",
+	"homePlanificaText": "ビジットメキシコで、あなたの「夢の旅」を計画しましょう。宿泊先、交通機関、アクティビティ、イベントなどに関するお役立ち情報をご紹介します。旅行ガイドブックや旅行のヒントを参考に、あなただけの「メキシコの素晴らしさを見つける旅」を計画してみてください。",
+
+	"galeria": [
+    {
+      "image": "../../assets/img/header/mexicoatravesdelosanos.webp",
+      "caption": "<div>メキシコの歩み<br/>感心する</div>"
+    },
+    {
+      "image": "../../assets/img/header/piramide.webp",
+      "caption": "<div>メキシコの過去を守る<br/>遺跡を発見しよう</div>"
+    },
+	{
+		"image": "../../assets/img/header/dia-de-muertos (1).webp",
+		"caption": "<div>死者の日がやってくる<br/>世界で最も愛されているメキシコのデート</div>"
+	  },
+	  {
+		"image": "../../assets/img/header/PUEBLOS-MAGICOS.webp",
+		"caption": "<div>新しい魔法の町<br/> 2023 年の予定</div>"
+	  }
+	],
+
+	"titleListKnow": "どんなメキシコを知りたいですか？",
+	"subtitleListKnow": "メキシコは、文化、絶景、体験、美食の国です。",
+	"listKnow": [
+		{
+		  "image": "trenMaya.webp",
+		  "title": "トレン・マヤ",
+		  "fields": [
+			{
+			  "quantity": "5",
+			  "description": "Estados"
+			},
+			{
+			  "quantity": "1,554",
+			  "description": "KM"
+			},
+			{
+			  "quantity": "21",
+			  "description": "Estaciones de tren"
+			},
+			{
+			  "quantity": "117",
+			  "description": "Experiencias"
+			}
+		  ],
+		  "dir": "/tren-maya"
+		},
+		{
+		  "image": "MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp",
+		  "title": "目的地",
+		  "fields": [
+			{
+			  "quantity": "32",
+			  "description": "estados llenos de sorpresas"
+			},
+			{
+			  "quantity": "2,469",
+			  "description": "ciudades y municipios"
+			},
+			{
+			  "quantity": "10",
+			  "description": "Ciudades Patrimonio de la Humanidad por la UNESCO"
+			},
+			{
+			  "quantity": "440",
+			  "description": "playas"
+			}
+		  ],
+		  "dir": "/destinos"
+		},
+		{
+		  "image": "oaxacaguelaguetza.webp",
+		  "title": "Pueblos Mágicos",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "¡Ya son 177 Pueblos Mágicos!"
+			},
+			{
+			  "quantity": "",
+			  "description": "Opiniones"
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			}
+		  ],
+		  "dir": "/pueblos-magicos"
+		},
+		{
+		  "image": "f1evento.webp",
+		  "title": "国際イベント",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "Eventos de talla internacional que ponen la atención del mundo en México."
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			}
+		  ],
+		  "dir": "/eventos-internacionales"
+		},
+		{
+		  "image": "CALENDARIO.webp",
+		  "title": "カレンダー",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "Los eventos y fechas que deben estar en tu agenda para asistir."
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			}
+		  ],
+		  "dir": "/calendario"
+		},
+		{
+		  "image": "MOR_xochicalco_t_156-_1__11zon.webp",
+		  "title": "ブログ",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "Las notas y tendencias turísticas para tu siguiente viaje."
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			}
+		  ],
+		  "dir": "/blog"
+		},
+		{
+		  "image": "videos.webp",
+		  "title": "動画",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "El destino del mes"
+			},
+			{
+			  "quantity": "",
+			  "description": "Lo imperdible"
+			},
+			{
+			  "quantity": "",
+			  "description": "Tips de personalidades"
+			},
+			{
+			  "quantity": "",
+			  "description": "Trivias"
+			}
+		  ],
+		  "dir": "/videos"
+		}
+	],
+	"listMostViewed": {
+		"title":"人気観光スポット",
+		"sections": [
+		  {
+			"name": "トレン・マヤ",
+			"image": "trenMaya.webp",
+			"dir": "/tren-maya"
+		  },
+		  {
+			"name": "ウエディング",
+			"image": "NoviosGuerrero.webp",
+			"dir": "/experiencias/bodas"
+		  },
+		  {
+			"name": "ビーチ",
+			"image": "Nuevo-Vallarta.webp",
+			"dir": "/experiencias/sol-y-playa"
+		  },
+		  {
+			"name": "メキシコの味",
+			"image": "Mole-Poblano.webp",
+			"dir": "/experiencias/rutas-gastronomicas"
+		  },
+		  {
+			"name": "プエブロ・マヒコ",
+			"image": "PUEBLOS-MAGICOS.webp",
+			"dir": "/pueblos-magicos"
+		  }
+		]
+	},
+	"listSunBeachAndSand": {
+		"image": "Qroo_cancun_playa108.webp",
+		"title": "太陽、海、砂",
+		"subtitle": "最も美しいビーチはメキシコにある",
+		"description": "太平洋、メキシコ湾、カリブ海に挟まれ、恵まれたロケーションにあるメキシコは、海と太陽を求める人にとって楽園のような目的地です。メキシコは、11,000キロに及ぶ海岸線を有し、それぞれのビーチには特徴があり、場所によって海の色、砂の色や質の特徴が異なります。",
+		"button": {
+		  "title": "もっと見る",
+		  "dir": "/experiencias/sol-y-playa"
+		}
+	},
+	"listHomeTravelInspiration": {
+		"title": "旅のインスピレーションに",
+		"destinations": [
+		  {
+			"title": "おすすめの人気目的地",
+			"image": "CiudaddeMexico_Portada.webp",
+			"dir": "/videos#destinos-mes"
+		  },
+		  {
+			"title": "メキシコで行っておくべき観光スポット",
+			"image": "Chiapas-agua_azul-01.webp",
+			"dir": "/videos#imperdible"
+		  },
+		  {
+			"title": "メキシコのプエブロ・マヒコの数が177か所に",
+			"image": "YUC_Cusaman_Cenotes152.webp",
+			"dir": "/pueblos-magicos"
+		  },
+		  {
+			"title": "旅のヒント",
+			"image": "QuintanaRoo.webp",
+			"dir": "/videos#asi-viajan"
+		  }
+		]
+	},
+	"homeSlides": [
+		{
+			"key": "1",
+			"content": "https://www.youtube.com/embed/3wxzXkp29bU",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		},
+		{
+			"key": "2",
+			"content": "https://www.youtube.com/embed/FYBaZb3dwJg",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		},
+		{
+			"key": "3",
+			"content": "https://www.youtube.com/embed/QvTWuzazGtc",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		},
+		{
+			"key": "4",
+			"content": "https://www.youtube.com/embed/Q601HFpAJJ0",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		},
+		{
+			"key": "5",
+			"content": "https://www.youtube.com/embed/ClDXumthxZM",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		}
+	],
+	"listRecentArticles": {
+		"title": "新着記事",
+		"subtitle": "ビジットメキシコのブログで、メキシコの観光地を訪れる時に役立つ旅のヒントや知っておくべきことをご紹介します。",
+		"button" : {
+		  "name": "覧を見る",
+		  "dir": "/blog"
+		},
+		"articles": [
+			{
+			  "image": "manoEsferas.png",
+			  "date": "15/07/2022",
+			  "title": "クリスマスボール、メキシコのクリスマスを彩るガラスの芸術",
+			  "type": "カテゴリー",
+			  "category": "珍品"
+			},
+			{
+			  "image": "titulo-cozumel.jpg",
+			  "date": "15/07/2022",
+			  "title": "コスメル島で行うべきアクティビティ10選",
+			  "type": "カテゴリー",
+			  "category": "珍品"
+			}
+		  ]
+	}
+}

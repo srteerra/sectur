@@ -1,0 +1,86 @@
+.maria-islands-slider-ctn {
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	position: relative;
+	overflow: hidden;
+}
+
+.maria-islands-slider-ctn-images {
+	display: flex;
+	box-sizing: border-box;
+}
+
+.maria-islands-slider-ctn-slide-images {
+	min-width: 100%;
+	box-sizing: border-box;
+	position: relative;
+	overflow: hidden;
+	transition: all 1s;
+}
+
+.maria-islands-slider-slide-images {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	position: relative;
+	cursor: pointer;
+	aspect-ratio: 3/4;
+}
+
+.maria-islands-slider-ctn-buttons {
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	max-height: 100%;
+	display: flex;
+	justify-content:space-between;
+	align-items: center;
+}
+
+.maria-islands-slider-buttons {
+	background: none;
+	border: none;
+	cursor: pointer;
+}
+
+.maria-islands-slider-buttons-img {
+	height: 62px;
+	width: 62px;
+}
+
+.maria-islands-slider-ctn-link {
+	position: absolute;
+	bottom: 24px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+
+.maria-islands-slider-link {
+	height: 100%;
+	width: 230px;
+	text-decoration: none;
+	text-align: center;
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: 1px;
+	background: #d92830;
+	padding: 12px;
+	color: #fff;
+	font-size: var(--txt-h5-xl);
+	border-radius: 5px;
+}
+
+@media screen and (min-width: 744px) {
+	.maria-islands-slider-slide-images {
+		aspect-ratio: 4/3;
+	}
+}
+
+@media screen and (min-width: 1353px) {
+	.maria-islands-slider-slide-images {
+		height: 770px;
+		aspect-ratio: 19/6;
+	}
+}

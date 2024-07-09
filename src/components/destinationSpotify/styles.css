@@ -1,0 +1,48 @@
+.destination-spotify-ctn {
+  display: flex;
+  width: 100%;
+  padding-top: 0;
+  height: 100%;
+}
+
+.destination-spotify-ctn-iframes {
+  display: block;
+  padding: 0 32px 0 32px;
+  width: 100%;
+  background-image: url('../../assets/img/header/liston-azul.webp');
+  background-repeat: no-repeat;
+  background-size: 100% 50px;
+  background-position: bottom;
+  height: auto;
+  box-sizing: border-box;
+}
+
+.destination-spotify-ctn-iframe-spotify {
+  width: 100%;
+  height: 250px;
+}
+
+@media screen and (min-width: 744px) {
+  .destination-spotify-ctn-iframes {
+    padding: 0 32px 30px 32px;
+    background-size: 100% 90px;
+  }
+  
+  .destination-spotify-ctn-iframe-spotify {
+    width: 100%;
+    height: 250px;
+  }
+}
+
+@media screen and (min-width: 1353px) {
+  .destination-spotify-ctn-iframes {
+    padding: 0 32px 90px 32px;
+    background-size: 100% 120px;
+  }
+  
+  .destination-spotify-ctn-iframe-spotify {
+    width: 20%;
+    height: 150px;
+  }
+}
+  

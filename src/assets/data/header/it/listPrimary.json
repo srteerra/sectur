@@ -1,0 +1,84 @@
+[
+	{ "name":"Treno Maya", 
+		"dir": "/tren-maya"
+	},
+	{ "name": "Stati",
+		"dir": "/destinos"
+	},
+	{ "name": "Pueblos Mágicos",
+		"dir": "/pueblos-magicos"
+	},
+	{ "name": "Eventi internazionali",
+		"dir": "/eventos-internacionales"
+	},
+	{ "name":"Esperienze",
+		"dir": "",
+		"menu": [
+			{
+				"name":"", 
+				"dir": "",
+				"image": "AguascalientesRutadelVino.webp",
+				"claseImage":"claseImage"
+			},
+			{
+				"name":"Nozzes", 
+				"dir": "/experiencias/bodas",
+				"image": "Pareja-Queretaro-3.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"Gastronomia", 
+				"dir": "",
+				"image": "Dgo_Ciudad_Durango421.webp",
+				"claseImage":"header-submenu-link-img-primary",
+				"menu": [
+					{
+						"name":"Il Messico è sapore", 
+						"dir": "/experiencias/rutas-gastronomicas"
+					},
+					{
+						"name":"Enoturismo", 
+						"dir": "/enoturismo"
+					}
+				]
+			},
+			{
+				"name":"Sole e spiaggia", 
+				"dir": "/experiencias/sol-y-playa",
+				"image": "Qroo_cancun_playa108.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"Avventura", 
+				"dir": "/experiencias/aventura",
+				"image": "SIN_guanacoa_257.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"Benessere", 
+				"dir": "/experiencias/bienestar",
+				"image": "MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"Sostenibile", 
+				"dir": "/experiencias/sostenible",
+				"image": "BCS_tiburonballena.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			}
+		]
+	},
+	{ "name":"Islas Marías", 
+		"dir": "/islas-marias"
+	},
+	{ "name":"MICE", 
+		"dir": "/mice"
+	},
+	
+	{ "name":"Barrios Mágicos", 
+		"dir": "/barrios-magicos"
+	},
+	{ "name":"Città patrimonio", 
+		"dir": "/ciudades-patrimonio"
+	}
+]

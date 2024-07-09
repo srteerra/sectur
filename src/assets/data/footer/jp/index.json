@@ -1,0 +1,67 @@
+{
+	"description": "",
+	"followUs": "フォローする",
+	"linksFast": {
+		"name": "テーマで検索する",
+		"links": [
+			{
+				"name": "トレン・マヤ",
+				"dir": "/tren-maya"
+			},
+			{
+				"name": "目的地",
+				"dir": "/destinos"
+			},
+			{
+				"name": "Pueblos Mágicos",
+				"dir": "/pueblos-magicos"
+			},
+			{
+				"name": "国際イベント",
+				"dir": "/eventos-internacionales"
+			},
+			{
+				"name": "体験",
+				"dir": "/experiencias"
+			}
+		]
+	},
+	"linksKnow": {
+		"name": "もっと知りたい",
+		"links": [
+			{
+				"name": "動画",
+				"dir": "/videos"
+			},
+			{
+				"name": "旅行ガイドブック",
+				"dir": "/guias-turisticas"
+			},
+			{
+				"name": "ダウンロード",
+				"dir": "https://visitmexico.com/descargas/"
+			},
+			{
+				"name": "カレンダー",
+				"dir": "/calendario"
+			}
+		]
+	},
+	"linksContact": {
+		"name": "お問い合わせ",
+		"links": [
+			
+			{
+				"name": "メールでのお問い合わせ:",
+				"dir": "/"
+			},
+			{
+				"name": "contacto@sectur.gob.mx",
+				"dir": "/"
+			}
+		]
+	},
+	"legalWarning": "法的警告",
+	"privacyPolicy": "個人情報について",
+	"register": "México®、visitmexico.com®、visitmexico®、 Pueblos Mágicos®、Atención al Turista 078®. 申請された商標、メキシコ政府観光省"
+}

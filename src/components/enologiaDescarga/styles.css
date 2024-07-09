@@ -1,0 +1,56 @@
+.container-enologia-descarga {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    margin-top: 30px;
+  }
+  
+  .enologia-descarga-content {
+    width: 100%;
+    text-align: center; /* Centra horizontalmente el contenido */
+    padding: 30px 0;
+  }
+  
+  .container-enologia-descarga .lazy-loaded-image {
+    width: 250px;
+    height: auto;
+    border-radius: 10px; /* Bordes redondeados */
+    margin-bottom: 20px; /* Espacio entre la imagen y el botón */
+  }
+  
+  .descarga-link {
+    display: block;
+    margin: 0 auto;
+    text-decoration: none;
+	color: #fff;
+	background: var(--red);
+	width: 250px;
+	min-height: 35px;
+	padding: 6px 12px;
+	font-weight: 700;
+	border-radius: 9px;
+	font-size: var(--txt-h5-xl);
+	text-align: center;
+	margin-top: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Transición suave */
+  }
+  
+  .descarga-link {
+    background-color: #73374b; /* Color de fondo del botón al pasar el mouse */
+  }
+
+  .parrafo-wrap {
+    word-wrap: break-word; /* Permite que las palabras se envuelvan automáticamente */
+    max-width: 500px; /* Limita el ancho del contenedor en pantallas más grandes */
+    margin: 0 auto; /* Centra el elemento en pantallas más grandes */
+    margin-bottom: 20px;
+    font-size: 25px;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .parrafo-wrap {
+      max-width: 90%; /* Ancho completo con espacio a izquierda y derecha */
+      margin: 0 auto; /* Centra el elemento */
+      margin-bottom: 30px;
+    }
+  }

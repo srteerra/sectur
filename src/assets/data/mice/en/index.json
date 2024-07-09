@@ -1,0 +1,104 @@
+{
+    "title":"Meetings, Incentives, Conferences and Exhibitions Tourism",
+    "urlVideoTop": "https://www.youtube.com/embed/x2bMr85mhEg?autoplay=1&mute=1&loop=1&rel=0",
+    "subtitle": "Mexico's Influence in Global Meetings Tourism",
+    "boldText": "Mexico shines as a leading force in the global meetings tourism sector.",
+    "paragraph": "Its expansive infrastructure tailored for congresses, incentive trips, conferences, conventions, meetings, and exhibitions, combined with its exceptional service quality and warm hospitality, cement its reputation as a top contender on the international stage.",
+    "imageUrl": "mice/imgprotagonista.png",
+    "slides": [
+        "MICE Tourism was 1.5% of the GDP in 2022. Source: COMIR.",
+        "In terms of employment, this industry generated approximately 1 million direct and indirect jobs in 2022, providing significant opportunities for both young people and women. Source: COMIR.",
+        "Hotel occupancy stood at 18.88% of room nights nationwide."
+    ],
+    "reunionesTitle":"Outlook for Meetings in Mexico: Looking Ahead to 2040",
+    "reunionesItem1Title":"Mexico's Safe Haven for Tourism",
+    "reunionesItem1Parrafo1":"Due to the moderate growth shown in travel activity, Mexico remains in sixth place in the",
+    "reunionesBoldText": "2023 UN Tourism ranking",
+    "reunionesAfterBoldText": "in terms of foreign-visitor arrivals and ninth in terms of tourism foreign-exchange earnings.",
+    "reunionesItem1Parrafo2":"By the end of 2022, international visitors were expected to contribute a staggering $27.429 billion in revenue, reflecting an impressive 11.6% increase from 2019. What's more, Foreign Direct Tourism Investment (FDIT) in Mexico soared to $3.147 billion from January to September 2022, surpassing the total FDIT recorded for the entire year of 2019, which stood at $1.095 billion.",
+    "reunionesItem1Parrafo3":"These figures speak volumes about Mexico's appeal as an investment destination, offering a haven of confidence and legal certainty in the thriving meetings tourism sector.",
+    "imgItem1":"mice/reuniones1.png",
+    "reunionesItem2Title":"Enhancing Connectivity Across Mexico",
+    "reunionesItem2Parrafo1":"Our nation boasts an extensive transportation network, with 780,511 kilometers of highways and a network of 78 airports. These airports operate 1,503 origin-destination routes, facilitating connectivity with 44 nations worldwide.",
+    "reunionesItem2Parrafo2":"Additionally, significant efforts have been made to upgrade key airports across Mexico. The Chetumal Airport in Quintana Roo has undergone expansion and remodeling, while airports in Barrancas del Cobre (Creel, Chihuahua), Tepic (Nayarit), Tamuín (San Luis Potosí), Puerto Escondido (Oaxaca), and Tulum (Quintana Roo) are undergoing modernization. These enhancements are poised to have a profound impact on regional tourism, further strengthening connectivity and accessibility throughout the country.",
+    "imgItem2":"mice/reuniones2.png",
+    "reunionesItem3Title":"Elevating Mexico's Infrastructure for Meetings Tourism",
+    "reunionesItem3Parrafo1":"Mexico boasts 54 venues across its territory tailored for meeting tourism, providing facilities suitable for events ranging from intimate gatherings of 100 people to large-scale conferences accommodating over 20,000 attendees. These venues are equipped with state-of-the-art technology and supported by top-notch suppliers, ensuring seamless event experiences.",
+    "reunionesItem3Parrafo2":"Notably, 27 Mexican cities are equipped with convention and visitors’ bureaus dedicated to promoting meeting tourism.",
+    "imgItem3":"mice/reuniones3.png",
+    "reunionesItem4Title":"Mexico: Leading the Way in Integrated and High-Quality Tourism Services",
+    "reunionesItem4Parrafo1":"Mexico is recognized as a highly competitive destination for meeting tourism, thanks to a variety of incentives that position it as an ideal location for establishing profitable and successful ventures.",
+    "reunionesItem4Parrafo2":"The country seamlessly integrates tourism services associated with the meetings industry both horizontally and vertically, offering competitive costs alongside uncompromising quality. This integration is achieved through the reinforcement of human capital, the establishment of productive sector linkages, and the development of integrated tourism products that create synergies between meeting tourism, sun and beach tourism, and cultural tourism.",
+    "imgItem4":"mice/reuniones4.png",
+    "reunionesItem5Title":"Mexico's Global Standing in Meetings Tourism",
+    "reunionesItem5Parrafo1":"Mexico holds a notable position as the 23rd largest destination for meetings tourism worldwide, ranking 5th in the Americas with a total of 197 congresses hosted.",
+    "reunionesItem5Parrafo2":"The success of this tourism segment is intricately tied to the country's abundant natural, cultural, and culinary treasures.",
+    "imgItem5":"mice/reuniones5.png",
+    "titleClasificacion": "Classification of meeting tourism",
+    "descripcionClasificacion": "",
+    "clasificacionColumnas": [
+        {
+          "imagen": "mice/convenciones_purple.svg",
+          "descripcion": "Conventions and business or corporate meetings"
+        },
+        {
+          "imagen": "mice/congresos_purple.svg",
+          "descripcion": "Various industry and association congresses, as well as professional and scientific societies"
+        },
+        {
+          "imagen": "mice/ferias_purple.svg",
+          "descripcion": "Fairs and trade shows"
+        },
+        {
+          "imagen": "mice/incentivos_purple.svg",
+          "descripcion": "Incentive traveling"
+        },
+        {
+          "imagen": "mice/otras_reuniones_purple.svg",
+          "descripcion": "Other meetings"
+        }
+      ],
+      "mexicoTitulo": "MEETING TOURISM DESTINATIONS IN MEXICO",
+      "mexicoParrafoSuperior": "Mexico stands as a strategic hub for conducting business, hosting meeting tourism, and organizing significant congresses, exhibitions, and fairs. Its prime geographic location relative to the United States and Latin America enhances its appeal as a central point for international gatherings and commerce.",
+      "miceCallToAction": "To learn more, visit: ",
+      "mexicoParrafoInferior": "Meetings tourism serves as a pivotal driver for investment, business expansion, and economic prosperity, while also elevating the prestige of host cities.",
+      "collageColumnas": [
+        {
+          "imagen": "mice/collage/1.jpg",
+          "texto": "Showcenter Complex, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/2.jpg",
+          "texto": "Baja California Center"
+        },
+        {
+          "imagen": "mice/collage/3.jpg",
+          "texto": "Yucatán International Convention Center"
+        },
+        {
+          "imagen": "mice/collage/10.jpg",
+          "texto": "Zacatecas Convention Center"
+        },
+        {
+          "imagen": "mice/collage/5.jpg",
+          "texto": "Cintermex, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/6.jpg",
+          "texto": "Pabellón M Auditorioum, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/7.jpg",
+          "texto": "Poliforum Guanajuato"
+        },
+        {
+          "imagen": "mice/collage/8.jpg",
+          "texto": "Querétaro Convention Center"
+        },
+        {
+          "imagen": "mice/collage/9.jpg",
+          "texto": "Foro Didi Pabellón M, Nuevo León"
+        }
+      ],
+      "mapaMexico": "mice/mapa.svg"
+}

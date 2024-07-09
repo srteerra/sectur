@@ -1,0 +1,251 @@
+{
+	"videoH1Title": "Explora México a Través de Nuestros Videos: Una Ventana a la Belleza del País",
+	"videoP1": "Sumérgete en la magia de México a través de nuestra colección de videos cuidadosamente seleccionados. Desde las playas vírgenes hasta las ciudades históricas, nuestros videos capturan la esencia y la belleza de este país vibrante y diverso. Únete a nosotros en un viaje visual a través de México y descubre su riqueza cultural, paisajes impresionantes y experiencias únicas.",
+
+	"videoTitle2": "Descubre la Diversidad de México en Nuestros Videos",
+	"videoP2": "Explora la diversidad de México a través de nuestros videos que muestran la variedad de destinos, actividades y experiencias que el país tiene para ofrecer. Desde las antiguas ruinas mayas en Yucatán hasta las montañas nevadas de la Sierra Madre Occidental, cada video te transportará a un lugar nuevo y emocionante.",
+
+	"videoTitle3": "Inspírate para tu Próximo Viaje a México",
+	"videoP3": "Déjate inspirar por nuestros videos y comienza a planificar tu próximo viaje a México. Encuentra información sobre los destinos destacados, las actividades populares y los eventos culturales que te esperan en este país lleno de vida y color. ¡Prepárate para vivir una experiencia inolvidable en México!",
+	
+	
+	"id": "videos",
+	"urlVideoTop": "https://www.youtube.com/embed/eIDWAPccLVg?autoplay=1&mute=1&loop=1&rel=0",
+	"title": "Tianguis Turístico México 2023",
+	"videosTop": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/q_8XWtdqcLA?rel=0&autoplay=0&mute=0&loop=1",
+			"name": "Resultados Tianguis Turístico"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Uf40GtVbG60?rel=0&autoplay=0&mute=0&loop=1",
+			"name": "México a través de los años"
+		}
+	],
+	"titleSlider": "Destino del Mes",
+	"subTitleSlider": "Conoce los principales destinos por estado, tesoros coloniales y ciudades patrimonio de México",
+	"slides": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/vJ6lmotneAY?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Chihuahua"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/HOa6GTkyuVc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Morelos"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Q7WW_bKnUqw?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Jalisco"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/K6yj7d160c4?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Veracruz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/A5G3t-2FEys?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/lb6PrPC17Bw?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Izamal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/xkdr7GYG5pw?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Bacalar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/a5zpkQ-FxUI?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "San Cristóbal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/WzAk53s6Ghc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Aguascalientes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/rHQER4roTko?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Querétaro"
+		}
+	],
+	"titleSliderGallery": "Lo Imperdible",
+	"slidesGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/zvHijNGStaA?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Creel - Chihuahua | Lugar de interés"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/iqrnEbWoJD8?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Otumba - Estado de México | Pueblos Mágicos"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/fcs79D0A0ns?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Jilotepec - Estado de México | Pueblos Mágicos"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/WeDpCifQaXc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Huejotzingo - Puebla | Pueblos Mágicos"
+		},
+		
+		{
+			"videoUrl": "https://www.youtube.com/embed/15q4KzlG9kY?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Tetela de Ocampo - Puebla | Pueblos Mágicos"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/rWc7Rpb9czE?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Tlaltizapán de Zapata"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/jJ3Ye3I2N9M?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Xochitepec"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/CLWjbJE0uS8?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Tequesquitengo"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Q8oGuA5pTA4?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Ajijic"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/1bb8OQltnUk?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Sayula"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/WUIRn2eJeGs?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Puerto Vallarta"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7dTm56qXtwM?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Cocula"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/85IsB-jlNR0?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Temacapulin"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/SSwVoghyKgw?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "México es sabor"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/GuTjrjt2L4s?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Múzquiz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/vyj7S5IoX1Q?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Arqueología"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/3vmSVbkVeiI?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Mineral del Chico"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/y38VJfI3SCE?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Chef Orozco"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/s0hm3Td2FmY?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Islas Marías"
+		}
+	],
+	"slidesGalleryGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/3sxnZFRCUgQ?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Tequila"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/L_GBrxICTe4?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Barrancas del cobre"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/6Pi-L7iNFnQ?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Chile en Nogada"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/WyM2enNryY0?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Chef Aidé"
+		}
+	],
+	"titleTravels": "Así Viajan",
+	"subTitleTravels": "Personalidades que te dan tips para viajar.",
+	"travelsGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/OkTR-H3yVEM?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Kika Edgar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/8I0bQgC1418?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Alex Sirvent"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/NVjiuvJM4lo?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Jacky Bracamontes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/r1_UKN1WtSw?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Aleks Syntek"
+		}
+	],
+	"titleTriTraveler": "Triviajero",
+	"subTitleTriTraveler": "¿Qué tanto sabes de México? Ponte a prueba.",
+	"tritravelerGellery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/JYRVuHXLhuY?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "SAN CRISTÓBAL DE LAS CASAS, Chiapas"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/taFEOphMzYo?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Bacalar, Quintana Roo"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/rBDFpoWL8kE?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Izamal, Yucatán"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7Yoqsvvw1AU?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/QS1QlPLeFQc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Artesanías"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/rBDFpoWL8kE?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Izamal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/taFEOphMzYo?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Bacalar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/f3kpvIAJxUw?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "COMALA"
+		}
+	],
+	"titleGallery": "Conociendo México",
+	"subtitleGallery": "Te compartimos algunos datos que quizás no conocías de México",
+	"videosGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/puLTwkxullM?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "SABORES DE TABASCO"
+		},
+		
+		{
+			"videoUrl": "https://www.youtube.com/embed/DgEIiVvAafQ?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Cuicuilco"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/ayGlhhtTTLc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Valle de los monjes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/5C8re3HfMNw?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Ámbar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/HMBotewDNDs?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Agave Tequila"
+		}
+	],
+	"titleBottom": "GRAN ACUARIO DE MAZATLÁN",
+	"descriptionBottom": "Gran Acuario Mazatlán, es el más grande de México y más importante en Latinoamérica, dedicado al Mar de Cortés. Con un enfoque en la educación, la investigación y divulgación del conocimiento, marcará un referente en los acuarios del mundo.",
+	"videoBottomVideoUrl": "https://www.youtube.com/embed/dNIrs66OMOo?rel=0&autoplay=0&mute=0&loop=1"
+}

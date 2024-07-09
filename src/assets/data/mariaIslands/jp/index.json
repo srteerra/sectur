@@ -1,0 +1,50 @@
+{
+    "id": "islas-marias",
+    "title": "Islas Marías",
+    "subtitle": "イスラス・マリアス周辺のスポット",
+    "urlVideoTop":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "urlVideo":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "灯台 Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "見た Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "ナヤリット州の海岸にあるIslas Maríasを訪れることは、その魅力的な歴史と、マリア・マードレ島、マリア・マグダレナ島、マリア・クレオファス島、サン・フアニート島という四つの島から成る群島の自然美を知ることができる体験です。"
+        },
+        {
+            "text": "ナヤリット州に位置し、マリア・マグダレナ島、マリア・クレオファス島、サン・フアニト島、マリア・マドレ島の4島から成っており、豊かな生物多様性の重要性から、2000 年に生物圏保護区に指定されています。マングローブからサンゴ礁まで、絶滅の危機にある動物も含め、多くの固有種の動植物が生息していることから、ユネスコの世界自然遺産にも登録されています。"
+        }
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "プラザ・フアレス",
+            "dir": "/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "プエルト・バジェト",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "マリア・マードレ島、海軍の軍港・航空基地",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "プエブロ・プリンシペ壁画",
+            "dir": "/"
+        }
+    ]
+}

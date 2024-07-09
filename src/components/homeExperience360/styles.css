@@ -1,0 +1,86 @@
+.home-experience-360-ctn {
+  background: whitesmoke;
+  box-sizing: border-box;
+  padding-top: 120px;
+}
+
+.home-experience-360-title {
+  text-align: center;
+  font-size: var(--txt-h1-xl);
+  margin: 0;
+  color: var(--purple);
+}
+
+.home-experience-360-subtitle {
+  text-align: center;
+  font-size: var(--txt-h5-xl);
+  font-weight: 700;
+  color: var(--gray);
+}
+
+.home-experience-360-ctn-cards {
+  display: flex;
+  flex-wrap: wrap;
+  background-image: url('../../assets/img/header/Fondoamarrillo.webp');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  padding-top: 60px;
+}
+
+.home-experience-360-ctn-card {
+  flex: 1 0 25%;
+  position: relative;
+  overflow: hidden;
+}
+
+.home-experience-360-ctn-card:hover .home-experience-360-card-img {
+  transform: scale(1.2);
+  transition: 0.4s;
+}
+
+.home-experience-360-card-img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 3/4;
+  object-fit: cover;
+}
+
+.home-experience-360-ctn-card-title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, .5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-experience-360-card-title {
+  font-size: var(--txt-h5-xl);
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  padding: 0 70px;
+  height: 150px;
+}
+
+.home-experience-360-card-button {
+  text-decoration: none;
+  color: #fff;
+  font-size: var(--txt-h5-xl);
+  font-weight: 700;
+  border: 1px solid #fff;
+  padding: 22px;
+  width: 100px;
+  margin: 92px auto 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-experience-360-card-button:hover {
+  background: rgba(255, 255, 255, .3);
+}
+

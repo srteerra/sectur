@@ -1,0 +1,55 @@
+.hero-slider-container {
+    max-width: 100%;
+    max-height: 720px;
+  }
+  
+  .hero-slide {
+    position: relative;
+    width: 100%;
+  }
+  
+  .hero-slide-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .hero-slider-container .carousel .slide img {
+    border-radius: 0px;
+    height: 720px;
+  }
+
+  /* Capa de superposición para el botón */
+.slide-overlay {
+  position: absolute;
+  top: 50%; /* Centrar verticalmente */
+  left: 50%; /* Centrar horizontalmente */
+  transform: translate(-50%, -50%);
+}
+.slide-overlay h1 {
+  color: #fff;
+}
+
+/* Estilo del botón "Ver más" */
+.slide-overlay .ver-mas-button {
+  width: 200px;
+  background-color: var(--pink);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 9px; /* Bordes redondeados */
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  text-decoration: none;
+}
+  
+  @media screen and (max-width: 767px) {
+    .hero-slide {
+      max-height: 320px; /* Altura relativa */
+    }
+  
+    .hero-slider-container .carousel .slide img {
+      height: 330px; /* Altura relativa */
+    }
+  }
+  

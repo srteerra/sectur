@@ -1,0 +1,84 @@
+.barrios-header-ctn {
+	box-sizing: border-box;
+	padding: 114px 0 30px 0;
+	background-image: url('../../assets/img/header/Fondorosa.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 50px;
+	background-position: top;
+	overflow: hidden;
+}
+
+.barrios-header-ctn .barrios-header-title {
+	font-size: 45px;
+	color: var(--pink);
+	font-family: "Bebas Neue", sans-serif;
+	letter-spacing: 1px;
+	text-align: center;
+	margin: 0;
+}
+
+.barrios-header-ctn p {
+	margin: 0 auto;
+	max-width: 80%;
+	text-align: center;
+}
+
+.container-barrios-info {
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 60px;
+    transition: opacity 0.5s ease;
+}
+
+.barrios-left-column {
+    flex: 1;
+    max-width: 50%;
+    padding-right: 20px;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centrar horizontalmente */
+}
+
+.container-barrios-info .barrios-left-column .lazy-loaded-image-header {
+    max-width: 70%; /* Hacer la imagen más pequeña */
+    height: auto; /* Mantener la responsividad */
+    margin: 0 auto; /* Centrar horizontalmente */
+}
+
+.barrios-right-column {
+    flex: 1;
+    max-width: 50%;
+    padding-right: 20px;
+}
+
+.barrios-subtitle {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.barrios-paragraph {
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.barrios-strong-p {
+    font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+    .container-barrios-info {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .barrios-left-column,
+    .barrios-right-column {
+        max-width: 100%;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}

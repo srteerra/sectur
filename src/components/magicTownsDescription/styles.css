@@ -1,0 +1,132 @@
+.magic-towns-description-ctn {
+	box-sizing: border-box;
+	padding: 114px 0 64px 0;
+	background-image: url('../../assets/img/header/liston-azul.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 50px;
+	background-position: top;
+	overflow: hidden;
+}
+
+.magic-towns-description-title {
+	text-align: center;
+	font-size: var(--txt-title-sm);
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: 1px;
+	color: var(--blue);
+}
+
+.magic-towns-description-ctn-description {
+	display: block;
+	padding: 0 32px;
+}
+
+.magic-towns-description-ctn-img {
+	width: 100%;
+	height: auto; /* Ajustar automáticamente la altura */
+	aspect-ratio: 21/9; /* Ajuste para una relación de aspecto más ancha */
+}
+
+.magic-towns-description-img {
+	width: 100%;
+	height: auto; /* Ajustar automáticamente la altura */
+	aspect-ratio: 21/9; /* Ajuste para una relación de aspecto más ancha */
+	object-fit: cover;
+}
+
+.magic-towns-description-ctn-text {
+	width: 100%;
+	height: 100%;
+}
+
+.magic-towns-description-ctn-decription-text {
+	display: block;
+}
+
+.magic-towns-description-decription-text {
+	font-size: var(--txt-h5-sm);
+	text-align: center;
+	line-height: 1.5;
+	margin: 0 auto;
+}
+
+.magic-towns-icon-des {
+	width: 10%;
+	left: 100px;
+	align-self: center;
+}
+
+.iconPuebloMagico {
+	width: 100%;
+	background-color: aqua;
+}
+
+@media screen and (min-width: 744px) {
+	.magic-towns-description-ctn {
+		padding: 204px 0 64px 0;
+		background-size: 100% 90px;
+	}
+
+	.magic-towns-description-title {
+		font-size: var(--txt-title-md);
+	}
+
+	.magic-towns-description-decription-text {
+		font-size: var(--txt-h5-md);
+		text-align: justify;
+	}
+}
+
+@media screen and (min-width: 1353px) {
+	.magic-towns-description-ctn {
+		padding: 190px 0 64px 0;
+		background-size: 100% auto;
+	}
+
+	.magic-towns-description-title {
+		text-align: left;
+		font-size: var(--txt-title-xl);
+	}
+
+	.magic-towns-description-ctn-description {
+		display: block; /* Cambiar a bloque para evitar el uso de flex */
+		gap: 32px;
+		padding: 0 32px;
+	}
+
+	.magic-towns-description-ctn-img {
+		width: 100%; /* Asegurar que la imagen ocupe el 100% del ancho */
+		aspect-ratio: 21/9; /* Ajuste para una relación de aspecto más ancha */
+		height: auto; /* Ajustar automáticamente la altura */
+	}
+
+	.magic-towns-description-img {
+		width: 100%;
+		height: auto; /* Ajustar automáticamente la altura */
+		aspect-ratio: 21/9; /* Ajuste para una relación de aspecto más ancha */
+		object-fit: cover;
+	}
+
+	.magic-towns-description-ctn-text {
+		width: 100%; /* Asegurar que el texto ocupe el 100% del ancho */
+	}
+
+	.magic-towns-description-ctn-decription-text {
+	}
+
+	.magic-towns-description-decription-text {
+		font-size: var(--txt-h5-xl);
+		text-align: justify;
+	}
+
+	.magic-towns-icon-des {
+		width: 10%;
+		left: 100px;
+		align-self: center;
+	}
+
+	.iconPuebloMagico {
+		width: 100%;
+		background-color: aqua;
+	}
+}

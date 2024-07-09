@@ -1,0 +1,271 @@
+.mapa-mexico {
+    display: block;
+    margin: 20px auto; /* Agrega espacio superior e inferior de 20px y centra horizontalmente */
+    width: 80%; /* El ancho del contenedor ocupará el 80% del contenedor padre */
+    max-width: 80%; /* Para asegurar que no exceda el tamaño máximo del contenedor padre */
+    text-align: center;
+    cursor: pointer;
+  
+  }
+
+ #Capa_60, #Capa_57, #Capa_63, #Capa_62, #Capa_64, #Capa_59, #Capa_52,
+ #Capa_65, #Capa_61, #Capa_58, #Capa_55, #Capa_56, #Capa_54, #Capa_53, #Capa_51, #Capa_50, #Capa_49, #Capa_48, #Capa_47, #Capa_46, #Capa_45, #Capa_44, #Capa_43, #Capa_42, #Capa_41, #Capa_40, #Capa_39, #Capa_38, #Capa_37, #Capa_36, #Capa_35, #Capa_34 {
+  fill: white;
+ }
+ #Capa_60:hover, #Capa_57:hover, #Capa_63:hover, #Capa_62:hover, #Capa_64:hover, #Capa_59:hover, #Capa_52:hover, #Capa_65:hover, #Capa_61:hover, #Capa_58:hover, #Capa_55:hover, #Capa_56:hover, #Capa_54:hover, #Capa_53:hover, #Capa_51:hover, #Capa_50:hover, #Capa_49:hover, #Capa_48:hover, #Capa_47:hover, #Capa_46:hover, #Capa_45:hover, #Capa_44:hover, #Capa_43:hover, #Capa_42:hover, #Capa_41:hover, #Capa_40:hover, #Capa_39:hover, #Capa_38:hover, #Capa_37:hover, #Capa_36:hover, #Capa_35:hover, #Capa_34:hover {
+  fill: #A6218C;
+ }
+ #Capa_60:hover #Capa_33-2 #OAXACA-TEXTO-2 path{
+  fill: white;
+ }
+ #Capa_60 #Capa_33-2 #OAXACA-TEXTO-2 path {
+  fill: #A6218C;
+ }
+
+
+ #Capa_57 #CAMPECHE-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_57:hover #CAMPECHE-TEXTO-2 path {
+  fill: white;
+ }
+
+
+ #Capa_63 #YUCATAN-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_63:hover #YUCATAN-TEXTO-2 path {
+  fill: white;
+ }
+
+
+ #Capa_62 #QUINTANA-ROO-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_62:hover #QUINTANA-ROO-TEXTO-2 path {
+  fill: white;
+ }
+
+
+ #Capa_64 #VERACRUZ-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_64:hover #VERACRUZ-TEXTO-2 path {
+  fill: white;
+ }
+
+
+ #Capa_59 #TABASCO-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_59:hover #TABASCO-TEXTO-2 path {
+  fill: white;
+ }
+
+
+ #Capa_52 #MEXICO-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_52:hover #MEXICO-TEXTO-2 path {
+  fill: white;
+ }
+
+
+ #Capa_65 #GUERRERO-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_65:hover #GUERRERO-TEXTO-2 path {
+  fill: white;
+ }
+
+
+ #Capa_61 #MICHOACAN-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_61:hover #MICHOACAN-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_58 #TAMAULIPAS-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_58:hover #TAMAULIPAS-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_55 #SINALOA-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_55:hover #SINALOA-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_56 #COLIMA-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_56:hover #COLIMA-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_54 #MORELOS-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_54:hover #MORELOS-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_53 #CHIAPAS-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_53:hover #CHIAPAS-TEXTO-2 path {
+  fill: white;
+ }
+
+
+ #Capa_51 #PUEBLA-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_51:hover #PUEBLA-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_50 #GUANAJUATO-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_50:hover #GUANAJUATO-TEXTO-2 path {
+  fill: white;
+ }
+
+
+ #Capa_49 #JALISCO-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_49:hover #JALISCO-TEXTO-2 path {
+  fill: white;
+ }
+
+
+ #Capa_48 #NAYARIT-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_48:hover #NAYARIT-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_47 #ZACATECAS-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_47:hover #ZACATECAS-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_46 #COAHUILA-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_46:hover #COAHUILA-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_45 #NUEVO-LEON-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_45:hover #NUEVO-LEON-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_44 #SONORA-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_44:hover #SONORA-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_43 #BC-SUR-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_43:hover #BC-SUR-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_42 #BC-NORTE-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_42:hover #BC-NORTE-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_41 #CHIHUAHUA-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_41:hover #CHIHUAHUA-TEXTO-2 path {
+  fill: white;
+ }
+
+
+ #Capa_40 #DURANGO-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_40:hover #DURANGO-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_39 #SAN-LUIS-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_39:hover #SAN-LUIS-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_38 #AGUAS-CALIENTES-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_38:hover #AGUAS-CALIENTES-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_37 #HIDALGO-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_37:hover #HIDALGO-TEXTO-2 path {
+  fill: white;
+ }
+
+
+ #Capa_36 #QUERETARO-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_36:hover #QUERETARO-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_35 #CDMX-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_35:hover #CDMX-TEXTO-2 path {
+  fill: white;
+ }
+
+ #Capa_34 #TLAXCALA-TEXTO-2 path {
+  fill: #A6218C;
+ }
+ #Capa_34:hover #TLAXCALA-TEXTO-2 path {
+  fill: white;
+ }
+
+  
+
+
+
+  .parrafo-centrado {
+    text-align: center;
+  }
+
+  .contenido-superior {
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+  }
+
+  .parrafo-centrado a {
+    color: #A6218C;
+  }

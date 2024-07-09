@@ -1,0 +1,65 @@
+{
+    "id": "vinos",
+    "title": "WINES",
+    "subtitle": "Discover Wines",
+    "gallerySlider": [
+        {
+            "urlImg": "BCN_valle_guadalupe_22.webp",
+            "name": "Baja California, Guadalupe Valley ",
+            "dir": "https://www.ensenada.travel/la-ruta-del-vino/valle-de-guadalupe/"
+        },
+        {
+            "urlImg": "8_VINOS_DE_COAHUILA.webp",
+            "name": "Wine Route, Coahuila",
+            "dir": "https://hazturismoencoahuila.mx/vinos-de-coahuila"
+        },
+        {
+            "urlImg": "uvasaguascalientes.webp",
+            "name": "Aguascalientes Wine Route",
+            "dir": "https://rutadelvino.aguascalientes.gob.mx/"
+        },
+        {
+            "urlImg": "Region_vinos_Cava_Freixenetqueretaro.webp",
+            "name": "Wine Route, Querétaro",
+            "dir": "https://queretaro.travel/tipo-de-destino/ruta-arte-queso-y-vino/"
+        }
+    ],
+    "urlImg": "uvabajacalifornia.webp",
+    "description": [
+        {
+            "text": "Our country produces wines of the highest quality, boasting exceptional flavors that captivate the taste buds of those who savor them. Furthermore, wine tastings, pairings, and vineyard tours offer immersive experiences, perfect for sharing with family, partners, or friends."
+        },
+        {
+            "text": "Mexico boasts 10 internationally recognized wine routes spread across 6 states: Aguascalientes, Baja California, Coahuila, Guanajuato, Hidalgo, and Queretaro. Each route promises a remarkable gastronomic journey that leaves an indelible impression."
+        },
+        {
+            "text": "In collaboration with the Mexican Wine Council and State Tourism Ministries, the Ministry of Tourism has curated the first catalog showcasing wine tourism offerings and routes. This initiative aims to enable local, national, and international tourists to explore vineyards and the surrounding activities during their stay in these destinations."
+        }
+    ],
+    "cardsGallery": [
+    {
+      "title": "Feria de la Muñeca Artesanal en Amealco, Querétaro",
+      "date": "18 al 21 de noviembre, 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "De Mar a Mar, Baja California Sur",
+      "date": "1 al 3 de diciembre, 2023",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo se ilumina. Manzanillo, Colima",
+      "date": "31 de diciembre 2023 - 1 de enero 2024",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ]
+}

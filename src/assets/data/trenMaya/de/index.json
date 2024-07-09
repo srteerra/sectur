@@ -1,0 +1,65 @@
+{
+    "trenTitle1": "Entdecken Sie mit dem Maya-Zug den Zauber des Südostens von Mexiko",
+    "trenP1": "Willkommen zum idealen Reiseerlebnis durch den Südosten Mexikos: dem Maya-Zug. Begleiten Sie uns auf eine unvergessliche Reise durch üppigen Dschungel, alte Maya-Ruinen und atemberaubende Karibikstrände. Der Maya-Zug wird Sie zu den verborgenen Schätzen und der reichen Kultur dieser faszinierenden Region führen.",
+
+    "trenTitle2": "Erkunden Sie die Wunder des Südostens von Mexiko",
+    "trenP2": "Begeben Sie sich mit dem Maya-Zug auf eine Entdeckungsreise durch die Wunder des Südostens von Mexiko. Vom Dschungel von Chiapas bis zu den Stränden von Quintana Roo führt Sie diese Reise durch spektakuläre Landschaften und atemberaubende historische Reiseziele.",
+
+    "trenTitle3": "Tauchen Sie ein in die Maya-Kultur",
+    "trenP3": "Entdecken Sie auf Ihrer Reise mit dem Maya-Zug die reiche Geschichte und faszinierende Kultur der alten Maya. Besuchen Sie die beeindruckenden Ruinen von Chichén Itzá, Palenque und Uxmal und tauchen Sie ein in die Mystik dieser uralten Zivilisation, die im Herzen des südöstlichen Mexikos weiterlebt.",
+
+    "trenTitle4": "Erleben Sie die mexikanische Gastfreundschaft an Bord des Zuges",
+    "trenP4": "Genießen Sie die authentische mexikanische Gastfreundschaft an Bord des Maya-Zugs. Die komfortable Ausstattung, die köstliche regionale Küche und der hervorragende Service machen Ihre Reise zu einem einzigartigen und unvergesslichen Erlebnis, das Sie mit den Menschen und der Kultur Mexikos in Kontakt bringt.",
+    
+    "title": "DER MAYA-ZUG",
+    "subTitle":"DER MAYA-ZUG",
+    "subTitle2":"BILDER",
+    "subTitle3":"VIDEOS",
+    "text":"Es handelt sich um ein neues Eisenbahnverkehrsmittel, das die wichtigsten Städte und Touristengebiete von Chiapas, Tabasco und der Halbinsel Yucatán miteinander vernetzt. Der Maya-Zug ist ein Projekt, das die territoriale Struktur der Region stärken und den lokalen Tourismus fördern wird. Er wird wirtschaftliche Anreize bringen und die Verbindungen auf der Halbinsel Yucatán verbessern, sodass Fracht und Passagiere effizient befördert werden können.",
+    "imgUrl":"trenMaya/TulumQuintanaRoo.webp",
+    "urlVideo": "https://www.youtube.com/embed/r8EDwvRJXIE?autoplay=1&mute=1&loop=1&rel=0",
+    "subText": [
+       
+    ],
+    "gallery":[
+        {
+            "title":"",
+            "imgUrl":"trenMaya/BacalarQuintanaRoo.webp",
+            "clase":"imagen1"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/ChichenItzaYucatan.webp",
+            "clase":"imagen2"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/IzamalYucatanpan.webp",
+            "clase":"imagen3"
+        }
+    ],
+    "videos":[
+        {
+        "title":"Campeche",
+        "urlVideo":"https://www.youtube.com/embed/E8piNxUKO-4?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+        "title":"Tabasco",
+        "urlVideo":"https://www.youtube.com/embed/noJ6i36csXQ?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Chiapas",
+            "urlVideo":"https://www.youtube.com/embed/6NqOUbqmpJk?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Yucatán",
+            "urlVideo":"https://www.youtube.com/embed/aDjSaYjccbE?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Quintana Roo, Cancún",
+            "urlVideo":"https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=0&mute=0&loop=1&rel=0"
+        }
+
+    ]
+    
+}

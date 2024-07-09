@@ -1,0 +1,2644 @@
+{
+
+	"exploraTitle": "EXPLORE THE MOST AMAZING DESTINATIONS IN MEXICO: YOUR JOURNEY STARTS HERE",
+	"exploraParrafo": "Welcome to our Destinations section, where you can explore the diversity and beauty of Mexico. From majestic Caribbean beaches to ancient colonial cities, Mexico beckons with a variety of landscapes, cultures, and experiences that will leave you breathless. Your journey starts here!",
+
+	"sumergeteTitle": "DIVE INTO THE MAGIC OF MEXICO",
+	"sumergeteParrafo": "Experience a journey of discovery through Mexico's most incredible destinations. From the breathtaking waterfalls of Chiapas to the vibrant markets of Oaxaca, every corner of this country will captivate you with its natural beauty, rich history, and warm hospitality.",
+
+	"encuentraTitle": "FIND THE PERFECT DESTINATION FOR YOU",
+	"encuentraParrafo": "Whether you seek adventure, relaxation, culture, or gastronomy, Mexico offers the perfect destination for you. Explore our selection of destinations and discover the place that aligns best with your interests and preferences. From well-known hotspots to hidden gems, here you'll find inspiration for your next trip.",
+
+	"planificaTitle": "PLAN YOUR NEXT TRIP TO MEXICO",
+	"planificaParrafo": "Utilize our travel guides, tips, and recommendations to craft your next adventure in Mexico. From transportation options to must-do activities and accommodation choices, we provide all the information you need to maximize your experience in this remarkable country.",
+
+	"titleState": "Discover the 5 reasons to visit the States of Mexico",
+	"urlVideoTop": "https://www.youtube.com/embed/MJSDN_mA4mA?autoplay=1&mute=1&loop=1&rel=0",
+	"title": "DESTINATIONS",
+	"textButton": "SEE MORE",
+	"states": [
+		{
+			"id": "Aguascalientes",
+			"dir": "/destino",
+			"urlImg": "TradicionHidrocalidaAguascalientes.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/g-nm1J-WXwU",
+			"gallery": [
+				{
+					"urlImg": "TradicionHidrocalidaAguascalientes.webp",
+					"name": "Aguascalientes"
+				},
+				{
+					"urlImg": "baileregionalAguascalientes.webp",
+					"name": "Aguascalientes"
+				},
+				{
+					"urlImg": "BocadeTunelAguascalientes.jpg",
+					"name": "Aguascalientes"
+				},
+				{
+					"urlImg": "CatedralAguascalientes.webp",
+					"name": "Aguascalientes"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Aguascalientes is located in the heart of Mexico. Aguascalientes is a well-known state for its Good Soil, Clear Water, Clear Sky and Good People."
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Aguascalientes",
+			"subtitleTop": "Discover  Aguascalientes",
+			"slider": [
+				{
+					"urlImg": "CristoRotoAguascalientes.webp",
+					"name": "Aguascalientes"
+				},
+				{
+					"urlImg": "FeriadeSanMarcosAguascalientes.webp",
+					"name": "Aguascalientes"
+				},
+				{
+					"urlImg": "ParroquiaJesúsNazarenoAguascalientes.webp",
+					"name": "Aguascalientes"
+				},
+				{
+					"urlImg": "teatromorelosAguascalientes.webp",
+					"name": "Aguascalientes"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://www.vivaaguascalientes.com/"
+				}
+			},
+			"descriptionBottom": [
+                {
+                    "text": "Its four quarters that shape traditional Aguascalientes: Guadalupe, San Marcos, El Encino and La Estación."
+                },
+                {
+                    "text": "Its railway tradition is more than 100 years old."
+                },
+                {
+                    "text": "Its beautiful sunsets that shelter el Cerro del Muerto."
+                },
+                {
+                    "text": "Its hot springs, which give the state its name: Aguascalientes."
+                },
+                {
+                    "text": "Its hand-embroidered crafts."
+                }
+			],
+			"titleBottom": "Find out 5 reasons why Aguascalientes should be in your travel bucket list:",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d95903.61871447819!2d-102.28402699650395!3d21.875496135659372!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ec143ae4d9fb%3A0x4016978679c5220!2sAguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1719427080244!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/38lcBnVKxudRWnxxJB1ByG?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/aguascalientes/indexweb.html"
+		},
+		{
+			"id": "BajaCalifornia",
+			"dir": "/destino",
+			"urlImg": "BajaCaliforniaValleGuadalupe_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/mWk-iBBym7E",
+			"gallery": [
+				{
+					"urlImg": "_BCN_valle_guadalupe_22.webp",
+					"name": "Baja California"
+				},
+				{
+					"urlImg": "BCN_ensenada_619.jpg",
+					"name": "Baja California"
+				},
+				{
+					"urlImg": "BCN_tijuana_259.jpg",
+					"name": "Baja California"
+				},
+				{
+					"urlImg": "BCN_tecate_189.jpg",
+					"name": "Baja California"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Baja California, bathed by the Sea of Cortés, also known as the Gulf of California, and the Pacific Ocean, is a special experience: islands, beaches, desert, canyons, sierras and extinct volcanoes are all part of the trip."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Baja California",
+			"subtitleTop": "Discover Baja California",
+			"slider": [
+				{
+					"urlImg": "BCN_ensenada_733.jpg",
+					"name": "Baja California"
+				},
+				{
+					"urlImg": "BCN_puerto_nuevo_15.jpg",
+					"name": "Baja California"
+				},
+				{
+					"urlImg": "BCN_tijuana_1146.jpg",
+					"name": "Baja California"
+				},
+				{
+					"urlImg": "BCN_ensenada_135.jpg",
+					"name": "Baja California"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://bajacalifornia.travel/es/"
+				}
+			},
+			"descriptionBottom": [
+                {
+                    "text": "The beautiful beaches and astonishing sunsets, unforgettable, magical."
+                },
+                {
+                    "text": "The cuisine, always distinguished by the freshness of its seafood."
+                },
+                {
+                    "text": "Tijuana; its strategic location and world-class services make it the ideal spot for business and health tourism."
+                },
+                {
+                    "text": "Ensenada, the largest municipality in all of Mexico, surrounded by the Pacific Ocean and the Sea of Cortés. Its vast landscapes, its flora and fauna, both terrestrial and aquatic, make it an attractive destination for nature lovers."
+                },
+                {
+                    "text": "Mexicali, known as “the City that captured the sun”, located on the shores of the Colorado river and near the Laguna Salada. It has the largest offer of Chinese food in the country and some of its best steaks."
+                }
+			],
+			"titleBottom": "Find out 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1901561.6189307112!2d-115.05429173522384!3d30.057405277635638!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d7700ca877ddd3%3A0xfca4fd9f0318de8e!2sBaja%20California!5e0!3m2!1ses-419!2smx!4v1719427252511!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/bajacalifornia/indexweb.html"
+		},
+ 		{
+			"id": "BajaCaliforniaSur",
+			"dir": "/destino",
+			"urlImg": "BajaCaliforniaSurLosCabos_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/vO_nZdwKXo0",
+			"gallery": [
+				{
+					"urlImg": "BCS_Los_cabos_59.jpg",
+					"name": "Baja California Sur"
+				},
+				{
+					"urlImg": "BCS_t_2024.jpg",
+					"name": "Baja California Sur"
+				},
+				{
+					"urlImg": "BCS_tiburonballena.jpg",
+					"name": "Baja California Sur"
+				},
+				{
+					"urlImg": "BCS_todos_santos_23.jpg",
+					"name": "Baja California Sur"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Baja California Sur is surrounded by the Pacific Ocean and the Sea of Cortés, also known as the Gulf of California. A region of contrasts; therein lies its main attractions. Warm beaches, estuaries, mangroves, oasis, Pueblos Mágicos (Magic Towns), desert flora, rock art and more."
+					},
+					{
+					"text": " "
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Baja California Sur",
+			"subtitleTop": "Discover Baja California Sur",
+			"slider": [
+				{
+					"urlImg": "BCS_t_96.jpg",
+					"name": "Baja California Sur"
+				},
+				{
+					"urlImg": "BCS_los_cabos_2_31.jpg",
+					"name": "Baja California Sur"
+				},
+				{
+					"urlImg": "BCS_t_1220.jpg",
+					"name": "Baja California Sur"
+				},
+				{
+					"urlImg": "BCS_t_2956.jpg",
+					"name": "Baja California Sur"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://visitbajasur.travel/es/"
+				}
+			},
+			"descriptionBottom": [
+                {
+                    "text": "Its unique landscapes to be enjoyed with family, partners and friends. Unforgettable beaches and skies."
+                },
+                {
+                    "text": "The cuisine: lobster, sole, scallops, clams and shrimp are some of the varieties of seafood you can taste here."
+                },
+                {
+                    "text": "World-class hotels and restaurants, perfect for business tourism."
+                },
+                {
+                    "text": "Family, adventure and business tourism, and everything you might need."
+                },
+                {
+                    "text": "Los Cabos, a blue-sea paradise, a favorite for Hollywood stars. A tourist corridor of nearly 22 miles where you can find the best hotels, restaurants and all kinds of fun activities for everyone."
+                }
+			],
+			"titleBottom": "Find out 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2227273.8549668626!2d-112.36093302932555!3d25.698532095974436!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86afd339b5a21ec9%3A0x71dfb33aa9a75918!2sBaja%20California%20Sur!5e0!3m2!1ses-419!2smx!4v1719427365942!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/track/2Nl2AMyamANY7vFLsSxM5f?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/bajacaliforniasur/indexweb.html"
+		},
+ 		{
+			"id": "Campeche",
+			"dir": "/destino",
+			"urlImg": "CampecheCalakmul_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/E8piNxUKO-4",
+			"gallery": [
+				{
+					"urlImg": "CAM_champoton62.jpg",
+					"name": "Campeche"
+				},
+				{
+					"urlImg": "CAM_campeche140.jpg",
+					"name": "Campeche"
+				},
+				{
+					"urlImg": "CAM_campeche115.jpg",
+					"name": "Campeche"
+				},
+				{
+					"urlImg": "CAM_Edzna49.jpg",
+					"name": "Campeche"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Campeche is located in the southeast of Mexico, it is a state with an amazing value, its buildings and history represent a cultural wealth that identifies us."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Campeche",
+			"subtitleTop": "Discover Campeche",
+			"slider": [
+				{
+					"urlImg": "CAM_Dzibilnocac26.jpg",
+					"name": "Campeche"
+				},
+				{
+					"urlImg": "CAM_Edzna80.jpg",
+					"name": "Campeche"
+				},
+				{
+					"urlImg": "CAM_Hochob8.jpg",
+					"name": "Campeche"
+				},
+				{
+					"urlImg": "CAM_campeche256.jpg",
+					"name": "Campeche"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" :  "Click here to learn more",
+					"dir": "https://campeche.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+                    "text": "Its beaches are unique, family, couple or friends will have a great time and will never forget its sunsets."
+                },
+                {
+                    "text": "It has one of the largest archaeological collections in Mexico,with the Ancient Mayan City and Protected Tropical Forests of Calakmul designated both by UNESCO as Mixed World Heritage."
+                },
+                {
+                    "text": "Its capital, San Francisco de Campeche is a fortified city recognized by UNESCO as a World Heritage."
+                },
+                {
+                    "text": "It has a great variety of seafood products, which are used in its cuisine. Panuchos, empanadas, tamales, tacos and the famous pan de cazón (dogfish bread) are some of its culinary jewels."
+                },
+                {
+                    "text": "Looking for a place to get married? In Campeche you will have an unforgettable, movie-like wedding."
+                }
+			],
+			"titleBottom": "Find out 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1142130.2332898707!2d-90.40927087905216!3d19.341471075847906!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f83396176b136d%3A0xe93d8e4c95f26244!2sSan%20Francisco%20de%20Campeche%2C%20Camp.!5e0!3m2!1ses-419!2smx!4v1719427535695!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/0OOS9Uh3QtT3UvvWtwdfe5?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/campeche/indexweb.html"
+		},
+ 		{
+			"id": "Chiapas",
+			"dir": "/destino",
+			"urlImg": "ChiapasPalenque.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/6NqOUbqmpJk",
+			"gallery": [
+				{
+					"urlImg": "CHIS_agua_azul_46.jpg",
+					"name": "Chiapas"
+				},
+				{
+					"urlImg": "CHIS_misol_ha_17.jpg",
+					"name": "Chiapas"
+				},
+				{
+					"urlImg": "CHIS_palenque_25.jpg",
+					"name": "Chiapas"
+				},
+				{
+					"urlImg": "CHIS_sancristobal_172.jpg",
+					"name": "Chiapas"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "It is a land of sensations: it is feeling the deep smell of coffee, it is tasting the sweetness of an ataúlfo mango, it is seeing a flock of macaws in the jungle, it is hearing the endless flow of water or feeling the delicacy of a traditional textile."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Chiapas",
+			"subtitleTop": "Discover Chiapas",
+			"slider": [
+				{
+					"urlImg": "CHIS_cannondelsumidero_32.jpg",
+					"name": "Chiapas"
+				},
+				{
+					"urlImg": "CHIS_palenque_18.jpg",
+					"name": "Chiapas"
+				},
+				{
+					"urlImg": "CHIS_palenque_32.jpg",
+					"name": "Chiapas"
+				},
+				{
+					"urlImg": "CHIS_sancristobal_43.jpg",
+					"name": "Chiapas"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://visitchiapas.com/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Due to its cultural diversity, cradle of indigenous ethnic groups such as the Tzotziles, Zoques, Chamulas, Tzeltals and Lacandones."
+					},
+					{
+					"text": "It is one of the three states with the widest biodiversity in the country, along with Oaxaca and Veracruz."
+					},
+					{
+					"text": "Tuxtla Gutierrez, its origin is located in a small zoque village called Coyatoc (place of the rabbit or the rabbits), name that the Nahua-speaking peoples translated as Tochtlan."
+					},
+					{
+					"text": "San Cristobal de las Casas, this beautiful Pueblo Mágico (Magical Town), is a colorful city that has a mild weather and which is brimming with culture. "
+					},
+					{
+					"text": "Comitan de Domiguez, Pueblo Mágico heir to ancient indigenous settlements, was founded by the Dominicans a little bit after the arrival of the Spaniards to the region."
+					}
+			],
+			"titleBottom": "Find out 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1950635.7535829134!2d-92.57380918142647!3d16.623645503915146!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x858d44b49757ce67%3A0xcf0033824619d615!2sChiapas!5e0!3m2!1ses-419!2smx!4v1719427605076!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/7b4AHQiaK6GrkzUlvehYPk?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/chiapas/indexweb.html"
+		},
+ 		{
+			"id": "Chihuahua",
+			"dir": "/destino",
+			"urlImg": "TarahumaraChihuahua.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/HdeZPVeLlD8",
+			"gallery": [
+				{
+					"urlImg": "CHIH_casasgrandes_paquime_873.jpg",
+					"name": "Chihuahua"
+				},
+				{
+					"urlImg": "CHIH_cusarare241.jpg",
+					"name": "Chihuahua"
+				},
+				{
+					"urlImg": "CHIH_parral_208.jpg",
+					"name": "Chihuahua"
+				},
+				{
+					"urlImg": "CHIH_sierra_158.jpg",
+					"name": "Chihuahua"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Located up north, Chihuahua is Mexico’s largest state. To picture how big it is, England would easily fit within the state’s boundaries. The immense variety of ecosystems, gastronomy and culture that is found there is remarkable."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}			],
+			"titleTop": "Chihuahua",
+			"subtitleTop": "Discover Chihuahua",
+			"slider": [
+				{
+					"urlImg": "CHIH_casasgrandes_paquime_335.jpg",
+					"name": "Chihuahua"
+				},
+				{
+					"urlImg": "CHIH_casasgrandes_paquime_640.jpg",
+					"name": "Chihuahua" 
+				},
+				{
+					"urlImg": "CHIH_cusarare46.jpg",
+					"name": "Chihuahua"
+				},
+				{
+					"urlImg": "PalacioDeGobiernoChihuahua.webp",
+					"name": "Chihuahua"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "http://visitachihuahua.com/"
+				}
+			},
+			"descriptionBottom": [
+					{
+						"text": "A tour on El Chepe, a train that crosses tunnels and some of the most beautiful mountain landscapes in Mexico."
+					},
+					{
+						"text": "Among its traditional dishes are red chili with dried meat, machaca with egg, chili with asadero, spicy chili with meat or cheese, flour tortillas, traditional charcoal-grilled meat or American-style cuts of meat, as well as like the delicious discada."
+					},
+					{
+						"text": "In the towns of Bacajípare and Huetosachi, you will have the opportunity to prepare and share a meal with the community, as well as walk their trails."
+					},
+					{
+						"text": "Creel, this magical town is a destination full of history and tradition. Its surroundings abundant in pines and oaks awaken the adventurous spirit."
+					},
+					{
+						"text": "Large houses, this Magical Town in the State of Chihuahua gets its name from the proximity it has to the archaeological site of Paquimé; In 1535, Alvar Núñez Cabeza de Vaca records in his memoirs that to the north there were “towns with many people and very large houses.”"
+					}
+			],
+			"titleBottom": "Find out 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3433201.1983109605!2d-106.30173597557685!3d28.472126091964867!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8696752f8591a409%3A0x9b83e25340a77e07!2sChihuahua!5e0!3m2!1ses-419!2smx!4v1719427685213!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/4L5pHmiC38UtKVz6Eh3EUe?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/chihuahua/indexweb.html"
+		},
+ 		{
+			"id": "CiudadDeMexico",
+			"dir": "/destino",
+			"urlImg": "CiudadDeMexicoBellasArtes_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/dr5kM3qMYYM",
+			"gallery": [
+				{
+					"urlImg": "DF_bellas_artes_t_2.jpg",
+					"name": "Ciudad de Mexico"
+				},
+				{
+					"urlImg": "DF_centro1_t_278.webp",
+					"name": "Ciudad de Mexico"
+				},
+				{
+					"urlImg": "DF_estadio_CU_48.webp",
+					"name": "Ciudad de Mexico"
+				},
+				{
+					"urlImg": "DF_unam_21.webp",
+					"name": "Ciudad de Mexico"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Ciudad de Mexico, known as the Cultural Capital of America, is one of the richest and most fascinating destinations in the world. It possesses a historic legacy brimming with flavors due to its varied culinary offerings—highly regarded by food lovers everywhere—, with options ranging from local and traditional dishes to international fusion cuisine. "
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Ciudad de Mexico",
+			"subtitleTop": "Discover Ciudad de Mexico",
+			"slider": [
+				{
+					"urlImg": "DF_xochimilco_t_12.webp",
+					"name": "Ciudad de Mexico"
+				},
+				{
+					"urlImg": "CentroCDMX.webp",
+					"name": "Ciudad de Mexico"
+				},
+				{
+					"urlImg": "DianaCazadoraCDMX.webp",
+					"name": "Ciudad de Mexico"
+				},
+				{
+					"urlImg": "MuseoAntropologiaCDMX.webp",
+					"name": "Ciudad de Mexico"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://mexicocity.cdmx.gob.mx/?lang=es"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Bosque de Chapultepec has 9 museums, more than 100 fountains and monuments, boats for paddling in the lakes, children's areas, and plenty of spots to enjoy nature and walk around."
+					},
+					{
+					"text": "It is one of the 5 cities with the most museums in the world."
+					},
+					{
+					"text": "It hosts several festivals and international events, such as the Formula 1 Grand Prix, and many others."
+					},
+					{
+					"text": "It offers a wide range of gastronomic options, from popular cuisine to sophisticated restaurants."
+					},
+					{
+					"text": "Its vibrant nightlife is proof that the city never sleeps; you will find a whole range of fascinating and fun places to satisfy all tastes."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d187053.09009723683!2d-99.15413050148062!3d19.36495066693412!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0026db097507%3A0x54061076265ee841!2sCiudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1719427761824!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/6wtdgqhgdHE1NSUOsaw9pr?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/cdmx/indexweb.html"
+		},
+ 		{		
+			"id": "Coahuila",
+			"dir": "/destino",
+			"urlImg": "CoahuilaParras.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/ijNmx4h1nu8",
+			"gallery": [
+				{
+					"urlImg": "COAH_2_saltillo_77.jpg",
+					"name": "Coahuila"
+				},
+				{
+					"urlImg": "COAH_2_torreon_51.jpg",
+					"name": "Coahuila"
+				},
+				{
+					"urlImg": "COAH_Petroglifos126.jpg",
+					"name": "Coahuila"
+				},
+				{
+					"urlImg": "COAH_Saltillo1204.webp",
+					"name": "Coahuila"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Coahuila is strong for its iconic municipalities, its over 23 wineries, its paleontological richness, its unrivaled gastronomy, and for its seven Pueblos Mágicos (Magical Towns), among other reasons."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Coahuila",
+			"subtitleTop": "Discover Coahuila",
+			"slider": [
+				{
+					"urlImg": "COAH_2_torreon_170.webp",
+					"name": "Coahuila"
+				},
+				{
+					"urlImg": "COAH_Saltillo988.jpg",
+					"name": "Coahuila"
+				},
+				{
+					"urlImg": "COAH_Saltillo2534.webp",
+					"name": "Coahuila"
+				},
+				{
+					"urlImg": "COAH_Saltillo1737.jpg",
+					"name": "Coahuila"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://hazturismoencoahuila.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+                    "text": "Its sublime, chimeric landscapes, among which are municipalities, cities and Pueblos Mágicos (Magical Towns) that you will never forget."
+                },
+                {
+                    "text": "Coahuila's traditional culinary art represents a feast for all meat lovers. Juicy, thinly sliced red meats comprise its offer based primarily on lamb, beef and veal, without forgetting about its delicious pork chicharrones and carnitas."
+                },
+                {
+                    "text": "For its cultural richness, out of which stand out Coahuila's ethnic groups, particularly the Kickapoos and the Mascogos."
+                },
+                {
+                    "text": "Its wine route, which includes two Pueblos Mágicos and a series of natural wonders offered by the state of Coahuila, affording the opportunity to taste the very best wines produced in the region."
+                },
+                {
+                    "text": "To know Arteaga, a Pueblo Mágico which is one of the main attractions within the enormous Sierra Arteaga, which has endowed the municipality with the nickname of “Mexican Switzerland”."
+                }
+			],
+			"titleBottom": "Find out 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2445680.64426617!2d-101.69806288246053!3d27.29514118550606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868872bda68e1e29%3A0x64009ad714cd7a39!2sCoahuila%20de%20Zaragoza!5e0!3m2!1ses-419!2smx!4v1719427838765!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/4s1i0CJ2n3C5LCtuvwmCEg?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/coahuila/indexweb.html"
+		},
+ 		{
+			"id": "Colima",
+			"dir": "/destino",
+			"urlImg": "ColimaManzanillo_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/XBor7DZahQA",
+			"gallery": [
+				{
+					"urlImg": "COL_colima_170.webp",
+					"name": "Colima"
+				},
+				{
+					"urlImg": "COL_colima_321.jpg",
+					"name": "Colima"
+				},
+				{
+					"urlImg": "COL_islanavidad_239.webp",
+					"name": "Colima"
+				},
+				{
+					"urlImg": "COL_manzanillo_57.jpg",
+					"name": "Colima"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Located on the west coast of Mexico, Colima has a wide variety of experiences to offer, from its beaches to its mountains, from traditional cuisine to innovative dishes; you can find everything here."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Colima",
+			"subtitleTop": "Discover Colima",
+			"slider": [
+				{
+					"urlImg": "COL_colima_111.jpg",
+					"name": "Colima"
+				},
+				{
+					"urlImg": "COL_islanavidad_40.webp",
+					"name": "Colima"
+				},
+				{
+					"urlImg": "LasHadasColima.webp",
+					"name": "Colima"
+				},
+				{
+					"urlImg": "ManzanilloColima.webp",
+					"name": "Colima"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://turismo.col.gob.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Enjoy magical sunsets, both in the mountains and on the beach."
+					},
+					{
+					"text": "Its capital city is a lovely place that shelters its cultural identity in a variety of historical buildings."
+					},
+					{
+					"text": "Its cuisine, featuring flavors from the sea like Pescado a la talla. This dish is usually prepared with an entire huachinango (red snapper) open in half and served with various vegetables, all cooked inside a banana leaf."
+					},
+					{
+					"text": "Travel corridor El Real-Pascuales Tecomán. This location is internationally famous for it surfing tournaments."
+					},
+					{
+					"text": "Gruta de San Gabriel, a deep cave over 50 meters high, showcasing the magnificent work of nature, carried out along thousands of years."
+					}
+			],
+			"titleBottom":  "Find out 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d44427.374035116554!2d-103.7191780139906!3d19.24331792777389!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842545523455a217%3A0xb6b497fc5af555e6!2sColima%2C%20Col.!5e0!3m2!1ses-419!2smx!4v1719427903975!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/4zNvTHKW4UCpARzea4OaTb?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/colima/indexweb.html"
+		},
+ 		{
+			"id": "Durango",
+			"dir": "/destino",
+			"urlImg": "DurangoPaisaje.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/J_p7htCPmCE",
+			"gallery": [
+				{
+					"urlImg": "Dgo_Puente_de_ojuela204.webp",
+					"name": "Durango"
+				},
+				{
+					"urlImg": "DGO_trajes_tipicos_35.webp",
+					"name": "Durango"
+				},
+				{
+					"urlImg": "Dgo_Ciudad_Durango223.webp",
+					"name": "Durango"
+				},
+				{
+					"urlImg": "Dgo_Ciudad_Durango517.webp",
+					"name": "Durango"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Durango is a state to be enjoyed, explored and experienced, and it is considered the major forest reserve in Mexico. Its unique colonial tradition architecture is the source of great stories, legends and culture, as well as a long-standing film."
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Durango",
+			"subtitleTop": "Discover  Durango",
+			"slider": [
+				{
+					"urlImg": "DGO_Hda_la_joya_5.webp",
+					"name": "Durango"
+				},
+				{
+					"urlImg": "DGO_trajes_tipicos_20.webp",
+					"name": "Durango"
+				},
+				{
+					"urlImg": "BosquesDeMontesionDurango.webp",
+					"name": "Durango"
+				},
+				{
+					"urlImg": "TemplodelSagradoCorazónenDurango.webp",
+					"name": "Durango"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "http://visitdurango.mx/#!/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Among Durango’s most deeply rooted traditions and customs we can find: the Carnival, celebrated between February and March, the days before Ash Wednesday, as well as costumes, dances, and parades."
+					},
+					{
+					"text": "Its delightful gastronomy includes outstanding dishes like caldillo (beef soup), carnitas de chivo (braised goat), barbacoa de olla (slow roasted lamb), tamales de chile colorado (chilli tamales), torrejas with maguey syrup, among many others."
+					},
+					{
+					"text": "Mapimi is Durango’s first Pueblo Mágico. It belongs to the \"Camino Real de Tierra Adentro\" (Royal Inland Road, also known as Silver Route), which was inscribed on the UNESCO World Heritage list since 2010."
+					},
+					{
+					"text": "Nombre de Dios, the oldest town in the state, was founded as a Spanish village in 1563 on what used to be a Franciscan mission. "
+					},
+					{
+					"text": "The Silent Zone is a place full of mystery and legends. A desert where radio signals are lost and compasses stop working."
+					}
+			],
+			"titleBottom":  "Find out 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1464309.3235559212!2d-104.66962333647338!3d24.86257990093649!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bb7a518bcdf73%3A0xbfdd8ea63a6c4ad4!2sDurango%2C%20Dgo.!5e0!3m2!1ses-419!2smx!4v1719427973881!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/41U1BZKUs84ZFqyQXl70F3?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/durango/indexweb.html"
+		},
+		{
+			"id": "EstadoDeMexico",
+			"dir": "/destino",
+			"urlImg": "EstadoDeMexicoTeotihuacan_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/Pydx7Hk0rM0",
+			"gallery": [
+				{
+					"urlImg": "MEX_tepotzotlan_t_29.webp",
+					"name": "Estado de Mexico"
+				},
+				{
+					"urlImg": "MEX_toluca_t_6.webp",
+					"name": "Estado de Mexico"
+				},
+				{
+					"urlImg": "MEX_acolman_92.webp",
+					"name": "Estado de Mexico"
+				},
+				{
+					"urlImg": "MEX_huexotla_t_10.webp",
+					"name": "Estado de Mexico"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Located in the heart of the country, this state offers a wide variety of destinations and attractions such as its ten Pueblos Mágicos (Magical Towns), 23 Pueblos con Encanto (Enchanting Towns) and four sites declared by UNESCO as World Heritage Sites."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Estado de Mexico",
+			"subtitleTop": "Discover Estado de Mexico",
+			"slider": [
+				{
+					"urlImg": "MEX_parapente_2_149.webp",
+					"name": "Estado de Mexico"
+				},
+				{
+					"urlImg": "MEX_t2_santarosadelima_4.webp",
+					"name": "Estado de Mexico"
+				},
+				{
+					"urlImg": "MEX_texcutzingo_t_87.webp",
+					"name": "Estado de Mexico"
+				},
+				{
+					"urlImg": "ElOroPalaciomunicipalEstadodeMexico.webp",
+					"name": "Estado de Mexico"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://experiencia.edomex.gob.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Due to its cultural wealth, it is the land of the Mazahua, Otomí, Matlatzinca, Tlahuica, and Nahua, which inherited their culture and traditions"
+					},
+					{
+					"text": "Some traditional Estado de Mexico dishes are mixiotes, tlacoyos, mushroom quesadillas, tamales, and turkey in green or pipián sauce."
+					},
+					{
+					"text": "Would you like to visit a place filled with beautiful landscapes, warm climate and a great pre-Hispanic legacy? Then you will love Malinalco!"
+					},
+					{
+					"text": "The vast and beautiful outdoor spaces of the Estado de Mexico are the perfect place for glamping, the combination of glamour + camping."
+					},
+					{
+					"text": "Metepec is modernity and tradition. This municipality is home to one of the most representative artisanal pieces for all Mexicans: the Tree of Life."
+					}
+			],
+			"titleBottom": "Find out 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1155003.372991053!2d-99.49473349351047!3d19.208640372066316!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cd8992c0eb0a3b%3A0xc2fef9be9fc5a857!2sEstado%20de%20M%C3%A9xico!5e0!3m2!1ses-419!2smx!4v1719428052717!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/5n0LGp9pTfAZBmnJHnPbIm?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/edomex/indexweb.html"
+		},
+		{
+			"id": "Guanajuato",
+			"dir": "/destino",
+			"urlImg": "GuanajuatoSanMigueldeAllende_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/ndlCprpYW4E",
+			"gallery": [
+				{
+					"urlImg": "GTO_aereas_77.webp",
+					"name": "Guanajuato"
+				},
+				{
+					"urlImg": "GTO_artesanos_gto_1.webp",
+					"name": "Guanajuato"
+				},
+				{
+					"urlImg": "GTO_charreria_73.webp",
+					"name": "Guanajuato"
+				},
+				{
+					"urlImg": "GTO_guanajuato_753.webp",
+					"name": "Guanajuato"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Guanajuato is the most important colonial travel destination in Mexico due to the diversity of its attractions, such as its six Pueblos Mágicos (Magical Towns), two Heritage Cities, and five archaeological sites."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Guanajuato",
+			"subtitleTop": "Discover  Guanajuato",
+			"slider": [
+				{
+					"urlImg": "GTO_dolores_311.webp",
+					"name": "Guanajuato"
+				},
+				{
+					"urlImg": "GTO_guanajuato_845.webp",
+					"name": "Guanajuato"
+				},
+				{
+					"urlImg": "GTO_leon_t_75.webp",
+					"name": "Guanajuato"
+				},
+				{
+					"urlImg": "GTO_SMallende_213.webp",
+					"name": "Guanajuato"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://guanajuato.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Guanajuato is a synonym of art and culture. It is the venue of prestigious events such as the Guanajuato International Film Festival and the Cervantino."
+					},
+					{
+					"text": "Its cuisine is prepared with endemic ingredients that provide unique flavors to each dish."
+					},
+					{
+					"text": "Dolores Hidalgo is the first Pueblo Mágico in Guanajuato. It is the cradle of some of the most significant stories of Mexico, namely the Mexican independence movement. Dolores Hidalgo is also the birthplace of José Alfredo Jiménez, the greatest composer of popular music in this country."
+					},
+					{
+					"text": "In Guanajuato you can find the Silver Route and visit old mines."
+					},
+					{
+					"text": "Guanajuato is the perfect destination to combine business and leisure activities. A place to relax and have fun after attending a meeting or a conference."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1442000.7319539075!2d-100.04992398383493!3d17.38624713353374!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb6558f327203f%3A0x3137229b4277cb3a!2sGuerrero!5e0!3m2!1ses-419!2smx!4v1719428193850!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/06Z2ETaWFPID30HdiQrdKf?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/guanajuato/indexweb.html"
+		},
+		{
+			"id": "Guerrero",
+			"dir": "/destino",
+			"urlImg": "GuerreroAcapulco_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/Ien5ZsgDuVo",
+			"gallery": [
+				{
+					"urlImg": "GRO_acapulco_407.webp",
+					"name": "Guerrero"
+				},
+				{
+					"urlImg": "GRO_acapulco_665-Edit.webp",
+					"name": "Guerrero"
+				},
+				{
+					"urlImg": "GRO_acapulco_1926.webp",
+					"name": "Guerrero"
+				},
+				{
+					"urlImg": "GRO_barravieja_232.webp",
+					"name": "Guerrero"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Guerrero, a state located in Southern Mexico, offers great tourist attractions that encompass heavenly beaches, formidable mountains, and enchanting landscapes. A brave beautiful land full of surprises."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Guerrero",
+			"subtitleTop": "Discover Guerrero",
+			"slider": [
+				{
+					"urlImg": "GRO_cacahuamilpa_73.webp",
+					"name": "Guerrero"
+				},
+				{
+					"urlImg": "GRO_Ixtapa_189.webp",
+					"name": "Guerrero"
+				},
+				{
+					"urlImg": "HamacasGuerrero.webp",
+					"name": "Guerrero"
+				},
+				{
+					"urlImg": "TaxcoGuerrero.webp",
+					"name": "Guerrero"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://guanajuato.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Acapulco is a classic beach destination with 20 thousand hotel rooms, a rich cuisine and a wide array of recreational activities, making it the perfect family trip."
+					},
+					{
+					"text": "Ixtapa Zihuatanejo is a dichotomy made up of a traditional fishing town with gorgeous beaches filled with Mexican zest and a developing area with great resorts and many outdoor activities."
+					},
+					{
+					"text": "Taxco de Alarcón is a glowing beautiful “Pueblo Mágico” (Magical Town), long-time famous for its silver production and commerce."
+					},
+					{
+					"text": "A gastronomy that encompasses pre-Hispanic recipes; the red and green moles, the clemole, the huaxmole, its tortillas, memelas, chalupas, and wondrous white and green pozoles are a must-try."
+					},
+					{
+					"text": "Guerrero has achieved international fame thanks to its large number of artisanal manufactures, which are recognized for their ethnic particularities and incomparable beauty."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7788580.00646055!2d-100.095814!3d17.6019!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb6558f327203f%3A0x3137229b4277cb3a!2sGuerrero!5e0!3m2!1ses-419!2smx!4v1691341015830!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/443VuUimvOA29wpw99ZNrH?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/guanajuato/indexweb.html"
+		},
+		{
+			"id": "Hidalgo",
+			"dir": "/destino",
+			"urlImg": "HidalgoPrismasBasalticosBHuasca.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/TMOtW0JX9BI",
+			"gallery": [
+				{
+					"urlImg": "100_8665.jpg",
+					"name": "Hidalgo"
+				},
+				{
+					"urlImg": "HGO_t2_acaxochitlan_16.webp",
+					"name": "Hidalgo"
+				},
+				{
+					"urlImg": "HGO_metepec_56.webp",
+					"name": "Hidalgo"
+				},
+				{
+					"urlImg": "HGO_epazoyucan_10.webp",
+					"name": "Hidalgo"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Monasteries, Haciendas –traditional Mexican ranches-, mines, adventure, culture and tradition are the tourism heritage of Hidalgo. The atmosphere conveys the essence of the millenary cultures settled in its lands."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Hidalgo",
+			"subtitleTop": "Discover Hidalgo",
+			"slider": [
+				{
+					"urlImg": "HGO_hda_sandiego_tlayayote_26.webp",
+					"name": "Hidalgo"
+				},
+				{
+					"urlImg": "HGO_hda_stamaria_regla_5.webp",
+					"name": "Hidalgo"
+				},
+				{
+					"urlImg": "HGO_prismas_basalticos_10.webp",
+					"name": "Hidalgo"
+				},
+				{
+					"urlImg": "Hgo_tula_003.jpg",
+					"name": "Hidalgo"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://hidalgo.travel/wordpress/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "You will be amazed by its vast, delicious traditional dishes, from one of the best barbacoas in the country to escamoles - ant eggs- and chinicuiles -small worms-."
+					},
+					{
+					"text": "Try the drink of the gods: pulque. It is a pre-Hispanic alcoholic drink that is made from the maguey stalks."
+					},
+					{
+					"text": "Zempoala is well-known for its beautiful Pulque Haciendas. This town has also received the Town with Flavour award due to its outstanding traditional cuisine."
+					},
+					{
+					"text": "Mineral del Chico was the first natural protected park in Mexico. Nowadays, it is the Mecca of adventure tourism."
+					},
+					{
+					"text": "Among the jewels of Hidalgo, there are plenty of historic sites, cultural places, architectural ensembles and natural spaces that have been selected for film shootings."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d890110.7150919023!2d-99.0255117369974!3d20.403975862695187!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d10a0422ce2fe7%3A0x8152c5bf7940781b!2sHidalgo!5e0!3m2!1ses-419!2smx!4v1719428263504!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/64FkaFvKaaXdpoqJuHyK0q?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/hidalgo/indexweb.html"
+		},
+		{
+			"id": "Jalisco",
+			"dir": "/destino",
+			"urlImg": "JaliscoGuadalajara_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/hZ_i96ULO_Q",
+			"gallery": [
+				{
+					"urlImg": "JAL_barra_navidad_62.webp",
+					"name": "Jalisco"
+				},
+				{
+					"urlImg": "JAL_general_9943.webp",
+					"name": "Jalisco"
+				},
+				{
+					"urlImg": "JAL_tequila_express_257o.webp",
+					"name": "Jalisco"
+				},
+				{
+					"urlImg": "JAL_Tortugas_51.webp",
+					"name": "Jalisco"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Located in the West of Mexico is Jalisco, land of mariachi and tequila, two of the most representative ambassadors of Mexico in the world."
+					},
+					{
+					"text": "It is said that each of its 125 municipalities is a valuable piece of its wonderful mosaic. The most representative charrerías in the state."
+					},
+					{
+					"text": "Jalisco is for you, who are looking for a destination that has it all: nature, culture, tradition and fun, including beach. No matter what type of traveler you are, this Mexican state will welcome you with open arms and will provide you with an unforgettable experience full of flavors, colors and emotions."
+					}
+			],
+			"titleTop": "Jalisco",
+			"subtitleTop": "Discover Jalisco",
+			"slider": [
+				{
+					"urlImg": "JAL_agaves_884.webp",
+					"name": "Jalisco"
+				},
+				{
+					"urlImg": "JAL_general_10196.webp",
+					"name": "Jalisco"
+				},
+				{
+					"urlImg": "JAL_Hospicio_Cabanas_02.webp",
+					"name": "Jalisco"
+				},
+				{
+					"urlImg": "JAL_tamarindo_501.webp",
+					"name": "Jalisco"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://visitjalisco.com.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Guadalajara, its capital, is a city that perfectly blends tradition and modernity."
+				},
+				{
+				"text": "Its cuisine will delight you; among its numerous dishes some stand out, such as beef in broth, sloppy carnitas sandwich, barbacoa, pozole tapatío and many more."
+				},
+				{
+				"text": "The sun, sand, and countless ecotourism activities that its destinations have to offer, are enough reasons for you to dive in the country’s most beautiful shores."
+				},
+				{
+				"text": "Puerto Vallarta has the natural charm of its beaches, surrounded by the Sierra Madre."
+				},
+				{
+				"text": "It is the homeland of tequila, distilled from the agave; this is one of the most consumed alcoholic beverages around the world, and a cultural icon of our country."
+				}
+						],
+			"titleBottom": 	"Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1771171.1076756662!2d-103.73351472357837!3d20.119218558627924!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x841f40ebd4624e6f%3A0xa0feb0a35a1b4a53!2sJalisco!5e0!3m2!1ses-419!2smx!4v1719428338101!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/5ApmWMTZktBXbvPeD5UdXl?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/jalisco/indexweb.html"
+		},	
+		{
+			"id": "Michoacan",
+			"dir": "/destino",
+			"urlImg": "MichoacanIglesia.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/DJyrWAaUz18",
+			"gallery": [
+				{
+					"urlImg": "MICH_patzcuaro_320.webp",
+					"name": "Michoacán"
+				},
+				{
+					"urlImg": "MICH_cuitzeo_98.webp",
+					"name": "Michoacán"
+				},
+				{
+					"urlImg": "MICH_janitzio_38.webp",
+					"name": "Michoacán"
+				},
+				{
+					"urlImg": "MICH_nurio_57.webp",
+					"name": "Michoacán"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Michoacán is situated in the west-central part of Mexico. The largest cities of the state are Morelia - its capital-, Pátzcuaro and Uruapan; they are all connected to the world thanks to an extensive communications infrastructure such as airports, land transport and receptive tourist operators. Therefore, Michoacán is readily accessible from all parts of the world. "
+					},
+					{
+					"text": " "
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Michoacán",
+			"subtitleTop": "Discover Michoacán",
+			"slider": [
+				{
+					"urlImg": "MICH_patzcuaro_4.webp",
+					"name": "Michoacán"
+				},
+				{
+					"urlImg": "MICH_staclara_97.webp",
+					"name": "Michoacán"
+				},
+				{
+					"urlImg": "MICH_tzintzuntzan_94.webp",
+					"name": "Michoacán"
+				},
+				{
+					"urlImg": "MariposaMonarcaMichoacán.webp",
+					"name": "Michoacán"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://visitmichoacan.com.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Death rites are more colourful in Michoacán, especially in the regions of Pátzcuaro, Tzintzuntzan, Janitizio, Jarácuaro, Ihuatzio and Tzurumútaro."
+					},
+					{
+					"text": "Michoacán is one of the most abundant states in terms of lakes, forests and other natural wonders, for example, the Monarch Butterfly Sanctuaries, the Paricutín Volcano, the Eduardo Ruíz National Park, the Camecuaro Lake National Park, etc."
+					},
+					{
+					"text": "Its cuisine is as vast as it is delicious, where the korundas or tamal de ceniza (ash tamales) stand out. It is corn dough prepared with tequesquite, lard and yeast, to which a little bit of ash is also added."
+					},
+					{
+					"text": "Six sanctuaries where you can visit the monarch butterflies which offer one of the most awe-inspiring sights of nature."
+					},
+					{
+					"text": "Visit the Costa Sierra, where different species of sea turtles come here to nest and hatch, or chill out in the diverse spas with cold or hot springs."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1351657.6348481572!2d-102.02412168714912!3d18.998491871099553!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842a5f3e1eb35cb7%3A0x3bc7650cf34be0d4!2sMichoac%C3%A1n!5e0!3m2!1ses-419!2smx!4v1719428406353!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/0zZZLpqldd6yqNdO51HwS1?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/michoacan/indexweb.html"
+		},	
+		{
+			"id": "Morelos",
+			"dir": "/destino",
+			"urlImg": "Moreloscolor.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/P5rp2HaIzdg",
+			"gallery": [
+				{
+					"urlImg": "MOR_chalcatzingo_t_49.webp",
+					"name": "Morelos"
+				},
+				{
+					"urlImg": "MOR_cocoyoc_133.webp",
+					"name": "Morelos"
+				},
+				{
+					"urlImg": "MOR_las_estacas_t_29.webp",
+					"name": "Morelos"
+				},
+				{
+					"urlImg": "MOR_tequesquitengo_t_24.webp",
+					"name": "Morelos"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Morelos is a state with incomparable cultural wealth, located in the south centre of the country. Its culture encompasses diverse areas and each one of them will captivate you with authentic characteristics that, without a doubt, will leave you wanting more."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Morelos",
+			"subtitleTop": "Discover Morelos",
+			"slider": [
+				{
+					"urlImg": "MOR_atlatlaucan_t_4.webp",
+					"name": "Morelos"
+				},
+				{
+					"urlImg": "MOR_axochiapan_t_329.webp",
+					"name": "Morelos"
+				},
+				{
+					"urlImg": "MOR_Hda_temixco_t_102.webp",
+					"name": "Morelos"
+				},
+				{
+					"urlImg": "MOR_totolapan_t_25.webp",
+					"name": "Morelos"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://visitmorelos.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Morelos is tradition; it is living history. Discover its past through haciendas and museums; enjoy the land of General Emiliano Zapata."
+					},
+					{
+					"text": "Morelos is a world full of gastronomy and untold traditions, ready to be discovered during your visit, from the famous cecina from Yecapixtla to the emblematic taco acorazado, which you can only find in this state."
+					},
+					{
+					"text": "Get to know its capital: Cuernavaca, the city of eternal spring. A place brimming with nature and culture."
+					},
+					{
+					"text": "Tepoztlán, a Pueblo Mágico (Magical Town) guarded by the Tepozteco hill, is a land of mysticism, handicrafts, unbeatable weather and relaxation, but above everything, of good vibes and revitalizing energy."
+					},
+					{
+					"text": "Tlayacapan, a Pueblo Mágico that is one of the few that still preserves much of its original pre-Hispanic urban layout."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d325817.9889891549!2d-99.1241299302879!3d18.718454688398403!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cddfae25f6fe47%3A0x975f8225a169dd0f!2sMorelos!5e0!3m2!1ses-419!2smx!4v1719428477202!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/morelos/indexweb.html"
+		},
+		{
+			"id": "Nayarit",
+			"dir": "/destino",
+			"urlImg": "NayaritMarietas_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/H6pXmgUEZ6M?autoplay=1&mute=1&loop=1&rel=0",
+			"gallery": [
+				{
+					"urlImg": "DAN_0084_11zon.webp",
+					"name": "nayarit"
+				},
+				{
+					"urlImg": "02-Nuevo-Vallarta_11zon.jpg",
+					"name": "nayarit"
+				},
+				{
+					"urlImg": "03-Sayulita_11zon.jpg",
+					"name": "nayarit"
+				},
+				{
+					"urlImg": "DAN_0938_11zon.webp",
+					"name": "nayarit"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Nayarit is located in the northeast of Mexico. This exquisite place has great diversity, from lagoons, jungles, and sea, to even one of the most extensive mountain ranges in the country."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Nayarit",
+			"subtitleTop": "Discover Nayarit",
+			"slider": [
+				{
+					"urlImg": "05-San-Pancho_11zon.jpg",
+					"name": "nayarit"
+				},
+				{
+					"urlImg": "DAN_7610_11zon.webp",
+					"name": "nayarit"
+				},
+				{
+					"urlImg": "Isla-Coral-2_11zon.webp",
+					"name": "nayarit"
+				},
+				{
+					"urlImg": "DAN_0942-_1__11zon.webp",
+					"name": "nayarit"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://descubrevallenayarit.com/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "All its routes are designed for the visitor to live a multi-sensory experience with the top attractions of the state."
+					},
+					{
+					"text": "Visiting its capital city, Tepic, is a must. Its name means “place of solid stones” and comes from Nahuatl (the indigenous language most widely spoken in Mexico)."
+					},
+					{
+					"text": "Nayarit has typical dishes whose main ingredients come from the sea, such as shark, dogfish, snapper, shrimp, and oyster. Would you like to try them?"
+					},
+					{
+					"text": "Compostela Municipality is located on the state's southern coast. It is famous for its handicrafts from tobacco leaves, and for Santo Domingo de Apostol parish; you can also visit Punta Custodia."
+					},
+					{
+					"text": "Jala is a Pueblo Mágico (Magical Town) located on the slopes of El Ceboruco volcano, and surrounded by a valley where visitors can practice cycling, hiking, flora observation, and camping."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1896187.0215287085!2d-106.5235616027901!3d21.838616787901028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8420a89ce63edb47%3A0xc2c8f5a28694d239!2sNayarit!5e0!3m2!1ses-419!2smx!4v1683578829322!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/4t6rePG9VrNLRrGhHO9ibz?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/nayarit/indexweb.html"
+		},
+		{
+			"id": "NuevoLeon",
+			"dir": "/destino",
+			"urlImg": "NuevoLeonMonterreyParqueFundidora_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/bfU0P-cc9dU",
+			"gallery": [
+				{
+					"urlImg": "NL_cercado_cola_de_caballo9.webp",
+					"name": "Nuevo León"
+				},
+				{
+					"urlImg": "NL_monterrey_2_103.webp",
+					"name": "Nuevo León"
+				},
+				{
+					"urlImg": "NL_monterrey_2_159.webp",
+					"name": "Nuevo León"
+				},
+				{
+					"urlImg": "NL_Monty_Fundidora33.webp",
+					"name": "Nuevo León"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "A unique destination in northeastern Mexico. Some of the Pueblos Mágicos (magical towns) which stand out for its colonial style architecture are Santiago, Linares, and Bustamante. Nuevo León is a unique and versatile destination, making it the center of great adventures, business, and the best barbecues. Discover it!"
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Nuevo León",
+			"subtitleTop": "Discover Nuevo León",
+			"slider": [
+				{
+					"urlImg": "MacroPlazaMonterreyNuevoLeon.webp",
+					"name": "Nuevo León"
+				},
+				{
+					"urlImg": "ObispadoMonterreyNuevoLeon.webp",
+					"name": "Nuevo León"
+				},
+				{
+					"urlImg": "StaCatarinaHuastecaNuevoLeon.webp",
+					"name": "Nuevo León"
+				},
+				{
+					"urlImg": "VillaSantiagoNuevoLeon.webp",
+					"name": "Nuevo León"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://nuevoleon.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Its capital, Monterrey, is the third largest city in Mexico, full of amazing buildings and malls. You'll be able to find delightful traditional fine-dining cuisine with unique flavors."
+					},
+					{
+					"text": "Among its gastronomy, meat is the main protagonist, with a wide range of different cuts and the highest quality products, cabrito (young goat roast) being the most popular in this region."
+					},
+					{
+					"text": "In Linares you can enjoy the peace and tranquility of the town, contrasting with its imposing architecture."
+					},
+					{
+					"text": "Bustamante is surrounded entirely by trees and it welcomes you with its mezcal factory. Immerse yourself in the streets and enjoy the old houses and typical architecture."
+					},
+					{
+					"text": "Santiago is hidden between the Sierra Madre Oriental (a mountain range in northeastern Mexico), and the Cerro de la Silla (a mountain and the city’s natural monument). It is a magical town with cobblestone streets and colorful houses, making it a great attraction."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1723097.7913232057!2d-99.73841824799199!3d25.30509385050293!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86629584a2a5b05d%3A0x701df442c36cbbc6!2sNuevo%20Le%C3%B3n!5e0!3m2!1ses-419!2smx!4v1719429013221!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/75BAwr4oD63XJP93w3wq8m?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/nuevoleon/indexweb.html"
+		},     
+		{
+			"id": "Oaxaca",
+			"dir": "/destino",
+			"urlImg": "OaxacaOaxaca.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/hKeKplolfMs",
+			"gallery": [
+				{
+					"urlImg": "OAX_ciudad_328.webp",
+					"name": "Oaxaca"
+				},
+				{
+					"urlImg": "OAX_ciudad_662.webp",
+					"name": "Oaxaca"
+				},
+				{
+					"urlImg": "OAX_arrazolalebrijes_32.webp",
+					"name": "Oaxaca"
+				},
+				{
+					"urlImg": "OAX_bartolocoyotepec_25.webp",
+					"name": "Oaxaca"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "It is located in the south of Mexico. Diverse, magnificent, colorful, full of culture and nature. A real gem. In Oaxaca you will walk through streets full of color and tradition, discovering in every corner its history, its wonderful handcrafts, its exquisite gastronomy and its great mezcal."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Oaxaca",
+			"subtitleTop": "Discover Oaxaca",
+			"slider": [
+				{
+					"urlImg": "CiudadDeOaxaca.webp",
+					"name": "Oaxaca"
+				},
+				{
+					"urlImg": "CostaOaxaca.webp",
+					"name": "Oaxaca"
+				},
+				{
+					"urlImg": "MitlaOaxaca.webp",
+					"name": "Oaxaca"
+				},
+				{
+					"urlImg": "MontealbanOaxaca.webp",
+					"name": "Oaxaca"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "http://www.oaxaca.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Its capital, Oaxaca de Juárez, is a World Heritage Site, a unique place in the world for its traditional beauty."
+					},
+					{
+					"text": "Oaxacan gastronomy is one of the most representative of Mexico, as well as one of the most diverse. A very traditional dish is the Oaxacan mole in its 7 varieties. Do you dare to try them all?"
+					},
+					{
+					"text": "Be part of a magical journey on the Mezcal Route, where you will discover the artisanal process that has given worldwide fame to this delicious drink."
+					},
+					{
+					"text": "If you visit Huatulco, you can relax on its 36 beaches, walk through its wonderful landscapes, or you can feel the adrenaline in its rapids, practice sport fishing, as well as feel the contact with nature."
+					},
+					{
+					"text": "You can also travel to Puerto Escondido, the perfect place in the Pacific to forget the stress in its beaches with incredible waves or some quieter beaches that look like natural pools; and enjoy endless nights of partying."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1863233.7912851959!2d-96.48431496844273!3d16.77400262676734!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c72249df26d9b1%3A0xac88a77657dffc3b!2sOaxaca%20de%20Ju%C3%A1rez%2C%20Oax.!5e0!3m2!1ses-419!2smx!4v1719430292632!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/06kfpfp3bsE54c0r0GjoJv?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/oaxaca/indexweb.html"
+		},      
+		{
+			"id": "Puebla",
+			"dir": "/destino",
+			"urlImg": "PueblaChignahuapanFestivaldeLaVidaylaLuz.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/inxcwKHquVQ",
+			"gallery": [
+				{
+					"urlImg": "PUE_catedral_17.webp",
+					"name": "Puebla"
+				},
+				{
+					"urlImg": "PUE_cholula_39.webp",
+					"name": "Puebla"
+				},
+				{
+					"urlImg": "PUE_cuetzalan_145.webp",
+					"name": "Puebla"
+				},
+				{
+					"urlImg": "PUE_cuetzalan_843.webp",
+					"name": "Puebla"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Puebla is located in east central Mexico, guarded by the Popocatepetl and Iztaccihuatl volcanoes. You will be amazed by its many magical towns, waterfalls, lagoons, national parks, trails, and the great reserve of Tehuacán-Cuicatlán."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Puebla",
+			"subtitleTop": "Discover  Puebla",
+			"slider": [
+				{
+					"urlImg": "PUE_catedral_17.webp",
+					"name": "Puebla"
+				},
+				{
+					"urlImg": "PUE_cholula_9.webp",
+					"name": "Puebla"
+				},
+				{
+					"urlImg": "PUE_yohualichan_2.webp",
+					"name": "Puebla"
+				},
+				{
+					"urlImg": "PUE_cuetzalan_163.webp",
+					"name": "Puebla"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://www.visitpuebla.mx/es/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "The Historic Center of the capital city of Puebla, built with domes, towers, bells, talavera, brick and white mortars, has been declared a World Heritage Site by UNESCO since 1987."
+					},
+					{
+					"text": "The craftsmanship of Puebla’s artisans has put up high the name of Mexico and its indigenous people. "
+					},
+					{
+					"text": "Their traditions and customs are an otherworldly legacy. Its talavera is one of the crafts that represents Puebla in the world, the reason why UNESCO declared it an Intangible Cultural Heritage of Humanity."
+					},
+					{
+					"text": "The gastronomy is renowned throughout Mexico because of the nuns of the convents in Puebla who created it. It is the birthplace of mole, one of the most emblematic dishes in Mexico."
+					},			
+					{
+					"text": "Discover Atlixco’s magic and let yourself be swept away by its good weather, lush nature, and great commercial and tourist activity. All these features make it the place with the best climate in the world."
+				}
+			],
+			"titleBottom": 	"Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d121537.29823245337!2d-98.19337800357003!3d19.028306100953557!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0bd5ebc7a3b%3A0x48a6461de494ad95!2sHeroica%20Puebla%20de%20Zaragoza%2C%20Pue.!5e0!3m2!1ses-419!2smx!4v1719430423372!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/0Ahe1HuCdpwmXe2qFlt7xc?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/puebla/indexweb.html"
+		},            
+		{
+			"id": "Queretaro",
+			"dir": "/destino",
+			"urlImg": "QueratroVinosCavaFreixenet.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/tWnnCBwxQX4",
+			"gallery": [
+				{
+					"urlImg": "QRO_galindo_194.webp",
+					"name": "Querétaro"
+				},
+				{
+					"urlImg": "QRO_queretaro_1404.webp",
+					"name": "Querétaro"
+				},
+				{
+					"urlImg": "QRO_sierra_gorda_23.webp",
+					"name": "Querétaro"
+				},
+				{
+					"urlImg": "_3SUQF~F.webp",
+					"name": "Querétaro"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Querétaro is one of Mexico’s geographical jewels with all kinds of tourist attractions—an excellent alternative in the center of the country. This state offers modernity, tradition, forests, and great wines."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Querétaro",
+			"subtitleTop": "Discover Querétaro",
+			"slider": [
+				{
+					"urlImg": "QRO_acueducto_49.webp",
+					"name": "Querétaro"
+				},
+				{
+					"urlImg": "QRO_queretaro_345.webp",
+					"name": "Querétaro"
+				},
+				{
+					"urlImg": "QRO_queretaro_445.webp",
+					"name": "Querétaro"
+				},
+				{
+					"urlImg": "QRO_bernal_34.webp",
+					"name": "Querétaro"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://queretaro.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Querétaro is one of the states with the most Pueblos Mágicos (Magical Towns) nationwide."
+					},
+					{
+					"text": "Its capital is unique, as it combines tradition and avant-garde, overflowing with culture and activities for everyone."
+					},
+					{
+					"text": "Its mestizo cuisine includes barbecue, chicken from the orchard, acamayas, carnitas, crumbled gorditas, and much more."
+					},
+					{
+					"text": "Sports lovers will adore Xtrail Mexico. Runners worldwide gather to explore different ecosystems, enjoy nature, foment community spirit, and exceed their own goals."
+					},
+					{
+					"text": "It is unbelievable that you can find dreamy landscapes only a few miles from the capital in a great wooded area south of Querétaro. This is the ideal destination to forget about the city routine and rest in the shade of hundred-year-old trees."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d101540.3348055543!2d-100.4317600786625!3d20.6091321884826!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d35b8fdc5b9255%3A0x97b094aa561b832f!2sSantiago%20de%20Quer%C3%A9taro%2C%20Qro.!5e0!3m2!1ses-419!2smx!4v1719430565998!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/track/5xQPBd7Gs4IIhUgqytSqvQ?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/queretaro/indexweb.html"
+		},   
+		{
+			"id": "QuintanaRoo",
+			"dir": "/destino",
+			"urlImg": "QuintanaRooTulum_11zon_(1).webp",
+			"urlVideoTop": "https://www.youtube.com/embed/jnbG-1MbFWg",
+			"gallery": [
+				{
+					"urlImg": "Qroo_ceiba_del_mar84.webp",
+					"name": "Quintana Roo"
+				},
+				{
+					"urlImg": "Qroo_Hotel_catalonia54-2.webp",
+					"name": "Quintana Roo"
+				},
+				{
+					"urlImg": "Qroo_Isla_mujeres44_2.webp",
+					"name": "Quintana Roo"
+				},
+				{
+					"urlImg": "Qroo_Isla_mujeres134-2.webp",
+					"name": "Quintana Roo"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Located in the southeast of Mexico, Quintana Roo, is a unique region in the world, with diverse destinations and tourist attractions: blue sea, white sand beaches, tropical jungle, archaeological sites, cenotes, underground rivers, islands, lagoons, living mayan culture, and history."
+					},
+					{
+					"text": "14 tourist destinations: Holbox, Isla Mujeres, Costa Mujeres, Cancun, the Riviera Maya, which includes Puerto Morelos, Playa del Carmen and Tulum; Isla Cozumel, Maya Ka'an and the Grand Costa Maya, which includes Mahahual, Bacalar and Chetumal."
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Quintana Roo",
+			"subtitleTop": "Discover Quintana Roo",
+			"slider": [
+				{
+					"urlImg": "Qroo_Isla_mujeres320_2.webp",
+					"name": "Quintana Roo"
+				},
+				{
+					"urlImg": "Qroo_Xcaret22_2.webp",
+					"name": "Quintana Roo"
+				},
+				{
+					"urlImg": "ChetumalQuintanaRoo.webp",
+					"name": "Quintana Roo"
+				},
+				{
+					"urlImg": "HolboxQuintanaRoo.webp",
+					"name": "Quintana Roo"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://www.caribemexicano.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "The Mexican Caribbean is a natural paradise full of adventures where you can forget about routine and connect with the flora and fauna of the region."
+					},
+					{
+					"text": "South of Quintana Roo is the Grand Costa Maya, a beautiful region made up by Chetumal, Bacalar and Mahahual. Discover its exuberant nature, lagoon systems, calm beaches with gentle waves, its history, culture, archaeological sites, and unique attractions that make each corner a true paradise."
+					},
+					{
+					"text": "Experience a culinary tour of aromas, flavors and unique textures throughout all the destinations in the Mexican Caribbean. The best products from land and sea await you."
+					},
+					{
+					"text": "Cancun is a unique city, a cosmopolitan metropolis that blends fun and culture to perfection. Archaeological sites and luxury hotels, modernity and tradition. Is there anything lacking in Cancun?"
+					},
+					{
+					"text": "20% of Quintana Roo's territory is protected. This includes sites that are Natural Protected Areas, Biosphere Reserves, National Parks, Flora and Fauna Protection Areas and Sanctuaries for various animal species. There is no excuse for not exploring nature!"
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1614898.970685485!2d-88.46059547601415!3d19.373527957670923!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4ffcf0eac32695%3A0xc4f0c52a484c8d9c!2sQuintana%20Roo!5e0!3m2!1ses-419!2smx!4v1719430628398!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/44rF34sJffr5UR42wlIj60?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/quintanaroo/indexweb.html"
+		},     
+		{
+			"id": "SanLuisPotosi",
+			"dir": "/destino",
+			"urlImg": "SanLuisPotosiXilitlaJardinEscultoricodeEdwardJamesSLP.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/1gEAijlXnjc",
+			"gallery": [
+				{
+					"urlImg": "SLP_xilitla_4.webp",
+					"name": "San Luis Potosí"
+				},
+				{
+					"urlImg": "SLP_huasteca_0448.webp",
+					"name": "San Luis Potosí"
+				},
+				{
+					"urlImg": "SLP_huasteca_0812.webp",
+					"name": "San Luis Potosí"
+				},
+				{
+					"urlImg": "SLP_matehuala_47.webp",
+					"name": "San Luis Potosí"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Located in central Mexico, San Luis Potosí is a destination defined by the contrasts of its four regions. Innumerable tourist attractions, from the mystery of the desert to the mesmerizing Huasteca Potosina, await to take your breath away."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "San Luis Potosí",
+			"subtitleTop": "Discover San Luis Potosí",
+			"slider": [
+				{
+					"urlImg": "EscalerasCaracolSanLuisPotosi.webp",
+					"name": "San Luis Potosí"
+				},
+				{
+					"urlImg": "IglesiaSanLuisPotosi.webp",
+					"name": "San Luis Potosí"
+				},
+				{
+					"urlImg": "RealDeCatorceSanLuisPotosi.webp",
+					"name": "San Luis Potosí"
+				},
+				{
+					"urlImg": "TamtokSanLuisPotosi.webp",
+					"name": "San Luis Potosí"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://visitasanluispotosi.com/folleteria-digital/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Fly on a skybike at a height of 250 meters in the beautiful Pueblo Mágico (magical town) of Xilitla."
+				},
+				{
+				"text": "The Ogarrio Tunnel, 2.5 km long, is the gateway to extraordinary experiences through cobbled alleys and the mining splendor in the Pueblo Mágico of Real de Catorce."
+				},
+				{
+				"text": "The luscious vegetation of Ciudad Valles, as well as its tourist attractions such as diving in the waterfalls, visiting the Tének Jungle, promenading Jardín Hidalgo, or drifting by on a trajinera along the Valles River, among many others."
+				},
+				{
+				"text": "Engage in adventure sports and outdoor activities in the Pueblo Mágico of Aquismón, in the Huasteca Potosina."
+				},
+				{
+				"text": "Enjoy the imposing myriad of waterfalls of San Luis Potosí, such as Tamasopo, El Salto, Minas Viejas, to name just a few. "
+				}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d104038.06658985488!2d-100.94015520651224!3d22.12569538311412!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842aa20005acfb79%3A0xed2ee29afe18257!2sSan%20Luis%20Potos%C3%AD%2C%20S.L.P.!5e0!3m2!1ses-419!2smx!4v1719430781960!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/64EZNP4722GBt03rGq2vJ8?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/sanluispotosi/indexweb.html"
+		},    
+		{
+			"id": "Sinaloa",
+			"dir": "/destino",
+			"urlImg": "SinaloaMazatlan_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/WJ1gGAmJYJ8",
+			"gallery": [
+				{
+					"urlImg": "SIN_El_fuerte_087.webp",
+					"name": "Sinaloa"
+				},
+				{
+					"urlImg": "SIN_quelite_249.webp",
+					"name": "Sinaloa"
+				},
+				{
+					"urlImg": "SIN_escuinapa_3.webp",
+					"name": "Sinaloa"
+				},
+				{
+					"urlImg": "SIN_ferri_03.webp",
+					"name": "Sinaloa"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Sinaloa, located in northwestern Mexico, owns 650 kilometers of coastline, which makes possible to offer vast experiences of sun and beach. Culiacan is a great gift for all senses: Business, culture, art, leisure, education, and, of course, partying and fun."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Sinaloa",
+			"subtitleTop": "Discover Sinaloa",
+			"slider": [
+				{
+					"urlImg": "SIN_fuerte_chepe_9.webp",
+					"name": "Sinaloa"
+				},
+				{
+					"urlImg": "SIN_fuerte_hotel_1.webp",
+					"name": "Sinaloa"
+				},
+				{
+					"urlImg": "SIN_guasave_1.webp",
+					"name": "Sinaloa"
+				},
+				{
+					"urlImg": "SIN_mazatlan_44.webp",
+					"name": "Sinaloa"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://sinaloa.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Its main tourist centers are Mazatlán, Culiacán and Los Mochis."
+					},
+					{
+					"text": "Its delicious gastronomy, mainly based on seafood and meat cuts."
+					},
+					{
+					"text": "It has four Pueblos Mágicos (Magical Towns): El Rosario, Cosala, Mocorito, and El Fuerte. It also has departures of the one-of-a-kind tourist train in Mexico, the Chepe Express, which goes to the majestic Barrancas del Cobre."
+					},
+					{
+					"text": "Mazatlan is the most historic colonial port on the Mexican Pacific Coast, as well as a popular and beautiful tourist destination."
+					},
+					{
+					"text": "The small cobblestone streets and paradisiacal landscapes of its magical towns, embellished by its mining history, tropical climate, old churches, and ghost legends."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1699476.2316763!2d-107.40760204721771!3d24.441152412256226!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869f539428a74959%3A0x9c7bdf760dbe5fef!2sSinaloa!5e0!3m2!1ses-419!2smx!4v1719430833293!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/64EZNP4722GBt03rGq2vJ8?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/sinaloa/indexweb.html"
+		},   
+		{
+			"id": "Sonora",
+			"dir": "/destino",
+			"urlImg": "SonoraHermosillo_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/TrgJWj1OJ8s",
+			"gallery": [
+				{
+					"urlImg": "SON_alamos_635.webp",
+					"name": "Sonora"
+				},
+				{
+					"urlImg": "SON_san_carlos_483.webp",
+					"name": "Sonora"
+				},
+				{
+					"urlImg": "SON_san_carlos_489.webp",
+					"name": "Sonora"
+				},
+				{
+					"urlImg": "SON_caborca_10.jpg",
+					"name": "Sonora"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Sonora is a great state in northern Mexico with a significant territorial extension, the country's second largest, where you can find green hills, sweeping agricultural valleys, a spectacular desert, over 1,200 km of coast with the incredible Sea of Cortés, and an active border with the United States."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Sonora",
+			"subtitleTop": "Discover Sonora",
+			"slider": [
+				{
+					"urlImg": "SON_san_carlos_1037.webp",
+					"name": "Sonora"
+				},
+				{
+					"urlImg": "CerroDelaCampanaHermosilloSonora.webp",
+					"name": "Sonora"
+				},
+				{
+					"urlImg": "GranjaDePerlasMardeCortezSonora.webp",
+					"name": "Sonora"
+				},
+				{
+					"urlImg": "SanCarlosSonora.webp",
+					"name": "Sonora"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://visitsonora.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "It has the best ocean view in the world from the Mirador de San Carlos."
+					},
+					{
+					"text": "Here awaits you one of Mexico’s most beautiful beaches, with white sands as well as warm and tranquil waters: the Bahía de Kino (Kino Bay)."
+					},
+					{
+					"text": "The unique landscapes of San Carlos, located in the Sea of Cortés. This town is surrounded by mountains and beaches, where the ocean fuses with the desert."
+					},
+					{
+					"text": "The biosphere reserve of El Pinacate, a place made up of desertic pavements and currents of black and red lavas; and the Gran Desierto de Altar, with dunes reaching a height of 200 meters."
+					},
+					{
+					"text": "The petroglyphs of Caborca, where you will be able to see the biggest concentration of prehispanic engravings in all of Latin America"
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3040652.2221317673!2d-111.61518155773457!3d29.205879128873615!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86982969e74dd20f%3A0xcd56ff1afcbbe374!2sSonora!5e0!3m2!1ses-419!2smx!4v1719430901729!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/4xRB7oBUzyZe7dIiNf6H58?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/sonora/indexweb.html"
+		},             
+		{
+			"id": "Tabasco",
+			"dir": "/destino",
+			"urlImg": "TabascoLaVenta_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/noJ6i36csXQ",
+			"gallery": [
+				{
+					"urlImg": "TAB_Artesanos1.webp",
+					"name": "Tabasco"
+				},
+				{
+					"urlImg": "TAB_cupilco7.webp",
+					"name": "Tabasco"
+				},
+				{
+					"urlImg": "TAB_Parque_la_venta47.webp",
+					"name": "Tabasco"
+				},
+				{
+					"urlImg": "TAB_Parque_la_venta115.webp",
+					"name": "Tabasco"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Its location makes it an entrance gate to the Mexican southeast and the Mayan world, the epicenter of the oil industry, and a regional center for entertainment, services and communications. It holds 53% of the entire water reserve in the whole country. It holds first place in cacao and livestock farming and second in the production of bananas."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Tabasco",
+			"subtitleTop": "Discover Tabasco",
+			"slider": [
+				{
+					"urlImg": "TAB_comalcalco45.webp",
+					"name": "Tabasco"
+				},
+				{
+					"urlImg": "TAB_Parque_la_venta42.webp",
+					"name": "Tabasco"
+				},
+				{
+					"urlImg": "TAB_Parque_la_venta64.webp",
+					"name": "Tabasco"
+				},
+				{
+					"urlImg": "TAB_Pomona22.webp",
+					"name": "Tabasco"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://visitetabasco.com/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Its irreverently green and tropical landscape, traversed by rivers and filled with large lagoons, numerous swamp zones and beautiful beaches."
+					},
+					{
+					"text": "Its tasty gastronomy, rich in flavor but above all, in history due to its indigenous and Spanish roots."
+					},
+					{
+					"text": "It is a paradise for recreational fishing, bird watching, ecotourism, adventure tourism, among other activities"
+					},
+					{
+					"text": "The exhuberant nature of its rivers, lagoons and the imposing vegetation of the Gran Ruta Villahermosa."
+					},
+					{
+					"text": "The joy, the folklore, the colors and the flavors that define the Gran Ruta Biji Yocot’an."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1242989.3983402003!2d-92.89240322004368!3d17.917655868838565!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edfb5f8f78cb4f%3A0xd426cb11d9866b44!2sTabasco!5e0!3m2!1ses-419!2smx!4v1719430964113!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/1e0PFxUw2WqvP9Jp3VF2a1?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/tabasco/indexweb.html"
+		},                
+		{
+			"id": "Tamaulipas",
+			"dir": "/destino",
+			"urlImg": "TamaulipasTampico_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/rw2bNrPK-IU",
+			"gallery": [
+				{
+					"urlImg": "TMPS_ciudad_victoria_013.webp",
+					"name": "Tamaulipas"
+				},
+				{
+					"urlImg": "TMPS_el_cielo_2_301.webp",
+					"name": "Tamaulipas"
+				},
+				{
+					"urlImg": "TMPS_tampico_2_62.webp",
+					"name": "Tamaulipas"
+				},
+				{
+					"urlImg": "TMPS_tampico_2_874.webp",
+					"name": "Tamaulipas"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Tamaulipas is located in the country’s northeast. With more than 400 kilometers of beaches and some others of borderlands. A myriad natural species live here, like the jaguar, macaw, crocodile and deer, as well as thousands of birds that can be seen all along this territory."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Tamaulipas",
+			"subtitleTop": "Discover  Tamaulipas",
+			"slider": [
+				{
+					"urlImg": "TMPS_tampico_2_874.webp",
+					"name": "Tamaulipas"
+				},
+				{
+					"urlImg": "EscolleraPlayaMiramarCiudadMaderoTamaulipas.webp",
+					"name": "Tamaulipas"
+				},
+				{
+					"urlImg": "GomezFariasElCieloTamaulipas.webp",
+					"name": "Tamaulipas"
+				},
+				{
+					"urlImg": "RioGuayalejoJaumaveTamaulipas.webp",
+					"name": "Tamaulipas"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "http://www.visittam.com/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "Ciudad Victoria is a beautiful city, brimful with culture and activities to be done."
+					},
+					{
+					"text": "The flavors of Tamaulipas gastronomy will charm your palate with prawns, crabs and ceviches; enchiladas tultecas and delicious regional fruit sorbets."
+					},
+					{
+					"text": "The state enjoys having five lovely beaches that possess a complete hotel infrastructure for you and your family: Bagdad Beach, Carbonera, Barra del Tordo, La Pesca or Miramar."
+					},
+					{
+					"text": "The Pueblo Mágico (Magical Town) of Mier. In the streets of this fine Tamaulipas town, you will breathe the atmosphere of the ancient colonial villages that developed during the 18th Century in what was called Nuevo Santander."
+					},
+					{
+					"text": "Located in the Sierra Madre Oriental, in southwest Tamaulipas, beautiful Tula is the state’s birthplace. It is no coincidence that the cuera tulteca, traditional costume of Tamaulipas, comes from this place."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1733121.7287759786!2d-98.8890195724153!3d24.59069570067921!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x867953aedb1e2459%3A0x33859f5a35e81925!2sTamaulipas!5e0!3m2!1ses-419!2smx!4v1719431026717!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/42i0q3sQUpBO2ObG2nxySB?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/tamaulipas/indexweb.html"
+		},            
+		{
+			"id": "Tlaxcala",
+			"dir": "/destino",
+			"urlImg": "TlaxcalaDanzantesCarnavalCatrines.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/hSYRsRpCsJE",
+			"gallery": [
+				{
+					"urlImg": "TLX_Hda_soltepec_441.webp",
+					"name": "Tlaxcala"
+				},
+				{
+					"urlImg": "TLX_xochitecatl_35.webp",
+					"name": "Tlaxcala"
+				},
+				{
+					"urlImg": "TLX_cacaxtla_7.webp",
+					"name": "Tlaxcala"
+				},
+				{
+					"urlImg": "TLX_cacaxtla_75.webp",
+					"name": "Tlaxcala"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Deep within the heart of the Mexican Republic is Tlaxcala, just 120 km west of Mexico City. It is the Mexican Republic's smallest state, but one of its biggest both in terms of history and tradition. Tlaxcala does exist! Come to find out!"
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Tlaxcala",
+			"subtitleTop": "Discover Tlaxcala",
+    "slider": [
+			{
+				"urlImg": "TLX_ciudada_tlaxcala_09.webp",
+				"name": "Tlaxcala"
+			},
+			{
+				"urlImg": "TLX_Hda_soltepec_6.webp",
+				"name": "Tlaxcala"
+			},
+			{
+				"urlImg": "TLX_mascaras_7.webp",
+				"name": "Tlaxcala"
+			},
+			{
+				"urlImg": "TLX_mural_22.webp",
+				"name": "Tlaxcala"
+			}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://www.tlaxcalasiexiste.com.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "You will fall in love with the murals depicting the history of the Tlaxcalteca people."
+					},
+					{
+					"text": "The region's gastronomy, which safeguards the food heritage linked to traditional Tlaxcalteca cuisine."
+					},
+					{
+					"text": "The Plaza de la Constitución (Constitution Square) which has served as the stage of numerous movies, documentaries and short films from the Golden Age of Mexican Cinema to our times."
+					},
+					{
+					"text": "The history behind its main buildings such as the Palacio de Gobierno (Government Palace), the Antigua Capilla Real de los Indios (Old Parish Church of the Indians), the Portals of Hidalgo and Juárez, and the Casa de Piedra (Stone House)."
+					},
+					{
+					"text": "The Huamantlada, a festivity with over 60 years of tradition. The streets become adorned with multicolored sawdust mats and flowers."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d449333.865285791!2d-98.21947329786559!3d19.439361704237328!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfd93f1c006113%3A0x38bae25ad47cbde0!2sTlaxcala!5e0!3m2!1ses-419!2smx!4v1719431099589!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/3yZPrT3ZjCUPkbSBtJdsX1?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/tlaxcala/indexweb.html"
+		},             
+		{
+			"id": "Veracruz",
+			"dir": "/destino",
+			"urlImg": "VeracruzTajin.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/Yl62RTidqIg",
+			"gallery": [
+				{
+					"urlImg": "VER_costa_esmeralda342.webp",
+					"name": "Veracruz"
+				},
+				{
+					"urlImg": "VER_eyipantla7.webp",
+					"name": "Veracruz"
+				},
+				{
+					"urlImg": "VER_antigua1.webp",
+					"name": "Veracruz"
+				},
+				{
+					"urlImg": "VER_antigua21.webp",
+					"name": "Veracruz"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Veracruz, a long Mexican state with coastline on the Gulf of Mexico, has numerous beaches and the  highest mountain in Mexico, Pico de Orizaba, a dormant volcano. A land full of cultural and natural diversity, it is among the top 3 states with the greatest biodiversity in the country."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Veracruz",
+			"subtitleTop": "Discover Veracruz",
+    "slider": [
+			{
+				"urlImg": "VER_catemaco508.webp",
+				"name": "Veracruz"
+			},
+			{
+				"urlImg": "VER_coatepec10.webp",
+				"name": "Veracruz"
+			},
+			{
+				"urlImg": "VER_San_juan_de_ulua144.webp",
+				"name": "Veracruz"
+			},
+			{
+				"urlImg": "VER_veracruz305.webp",
+				"name": "Veracruz"
+			}
+			],
+			"actions": {
+				"button": {
+					"text" :"Click here to learn more",
+					"dir": "https://veracruz.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "It is the most beautiful and the warmest state in the Gulf of Mexico. You will certainly fall in love with it."
+					},
+					{
+					"text": "It is home to two of the 35 World Heritage Sites in Mexico: the Pre-Hispanic city of El Tajin, and the Historic Monuments Zone of Tlacotalpan."
+					},
+					{
+					"text": "The art and culture preserved over time in its major port city and in its capital, as captured in their colonial-style streets."
+					},
+					{
+					"text": "Its great cultural richness, including typical pottery, basketry, and textiles of Veracruz."
+					},
+					{
+					"text": "The lush natural beauty of its beaches, rivers, and thermal springs."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1178757.9531239334!2d-96.12456521249675!3d18.70330128695241!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c3414245ca78c5%3A0x18a4d642e936019b!2sVeracruz%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1719431165639!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/1xVFcq3EP54qT1OKuZ6pHa?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/veracruz/indexweb.html"
+		},            
+		{
+			"id": "Yucatan",
+			"dir": "/destino",
+			"urlImg": "YucatanCenoteMaya.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/vaE99ik2pQo",
+			"gallery": [
+				{
+					"urlImg": "YUC_Merida_132.webp",
+					"name": "Yucatán"
+				},
+				{
+					"urlImg": "YUC_Chichen_Itza33.webp",
+					"name": "Yucatán"
+				},
+				{
+					"urlImg": "YUC_Chichen_Itza62.webp",
+					"name": "Yucatán"
+				},
+				{
+					"urlImg": "YUC_Cusaman_Cenotes45.webp",
+					"name": "Yucatán"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Yucatan is a Mexican state popular for its beaches on the Gulf of Mexico and for its Mayan ruins. Located in the southeast of the country, in this state history, culture, enjoyment, romance, and cuisine merge to offer you the unique opportunity to immerse yourself in a Mayan community."
+					},
+					{
+					"text": "From memorable local flavors to internationally recognized must-see sites, the state of Yucatan stands out with a vibrancy all its own."
+					},
+					{
+					"text": "Whether it's the deep crystalline blue of a seemingly bottomless cenote, the bold green of the lush jungle that blankets Mayan archaeological sites, or the striking shade of pink provided by the region's flamingos, in a colorful part of Mexico worth visiting."
+					}
+			],
+			"titleTop": "Yucatan",
+			"subtitleTop": "Discover Yucatan",
+    "slider": [
+		{
+			"urlImg": "YUC_Ek_balam60.webp",
+			"name": "Yucatán"
+		},
+		{
+			"urlImg": "YUC_Hacienda_Ochil139.webp",
+			"name": "Yucatán"
+		},
+		{
+			"urlImg": "YUC_kabah_34.webp",
+			"name": "Yucatán"
+		},
+		{
+			"urlImg": "YUC_Uxmal59.webp",
+			"name": "Yucatán"
+		}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://yucatan.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "The culture, history, fun and delicious gastronomy of the capital city of Mérida."
+					},
+					{
+					"text": "The unique and custom seasoning of the emblematic Yucatecan gastronomy, among which the world-famous cochinita pibil stands out."
+					},
+					{
+					"text": "Behold the gleaming green of the magnificent jungle that shelters the magical Mayan archeological sites."
+					},
+					{
+					"text": "Yucatan is a romantic destination by nature, where you will find very special spots, such as soft white sand beaches and calm emerald green waters."
+					},
+					{
+					"text": "The tropical forests, waterfalls, mangroves, and beaches of the Yucatan Riviera."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1361108.3320618586!2d-89.07638780679119!3d20.645282551147428!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f540ff8aad604ed%3A0xcccc217531083d0a!2zWXVjYXTDoW4!5e0!3m2!1ses-419!2smx!4v1719431227990!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/3qxRbcVFYfo0IHTiOzof1V?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/yucatan/indexweb.html"
+		},          
+		{
+			"id": "Zacatecas",
+			"dir": "/destino",
+			"urlImg": "Zacatecas_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/L1iDO1jVeig",
+			"gallery": [
+				{
+					"urlImg": "ZAC_gral_432.webp",
+					"name": "Zacatecas"
+				},
+				{
+					"urlImg": "ZAC_gral_1871.webp",
+					"name": "Zacatecas"
+				},
+				{
+					"urlImg": "ZAC_gral_3667.webp",
+					"name": "Zacatecas"
+				},
+				{
+					"urlImg": "ZAC_ciudad_de_Zacatecas_2098.webp",
+					"name": "Zacatecas"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "Zacatecas is located in central Mexico and it is known for being a silver mining center since the 16th century. It features a diverse territory with a variety of elevations, making it a very popular state with a unique spark. It is a state proud of its mining history and the great influence of its popular gastronomy."
+					},
+					{
+					"text": ""
+					},
+					{
+					"text": ""
+					}
+			],
+			"titleTop": "Zacatecas",
+			"subtitleTop": "Discover Zacatecas",
+    "slider": [
+			{
+				"urlImg": "ZAC_Fresnillo_1144.webp",
+				"name": "Zacatecas"
+			},
+			{
+				"urlImg": "ZAC_gral_1733.webp",
+				"name": "Zacatecas"
+			},
+			{
+				"urlImg": "ZAC_gral_3324.webp",
+				"name": "Zacatecas"
+			},
+			{
+				"urlImg": "ZAC_zacatecas_museo_mina_1705.webp",
+				"name": "Zacatecas"
+			}
+			],
+			"actions": {
+				"button": {
+					"text" : "Click here to learn more",
+					"dir": "https://www.zacatecastravel.com/index"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "It is a dazzling, colorful and generous state, where you will live outlandish and contemplative experiences."
+					},
+					{
+					"text": "The sky, is considered to be the bluest in the whole of Mexico."
+					},
+					{
+					"text": "The cuisine, full of rich and aromatic flavors, like those found in mole and enchiladas zacatecanas."
+					},
+					{
+					"text": "The old tourist mines and silverware stores."
+					},
+					{
+					"text": "Zacatecas is the city with the most museums per capita in the country, so you will have a wide range of great options."
+					}
+			],
+			"titleBottom": "Learn 5 reasons why it should be on your travel list.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1660271.223173344!2d-102.86001924531533!3d22.96416229681742!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8681d1a07ec9fe6f%3A0x1c1f2dfd5e256d98!2sZacatecas!5e0!3m2!1ses-419!2smx!4v1719431285841!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/6XOFXXp91YSgCvCNawIfOw?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/zacatecas/indexweb.html"
+		}
+	]
+}

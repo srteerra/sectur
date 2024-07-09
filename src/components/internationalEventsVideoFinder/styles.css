@@ -1,0 +1,96 @@
+.international-events-video-finder-ctn {
+	padding-top: 64px;
+  box-sizing: border-box;
+	height: 100%;
+	width: 100%;
+	margin-bottom: 120px;
+}
+
+.international-events-video-finder-title {
+	text-align: center;
+	font-size: var(--txt-title-xl);
+	font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+	color: var(--green);
+	margin: 0;
+}
+
+.international-events-video-finder-subtitle {
+	text-align: center;
+	font-size: var(--txt-h5-xl);
+	margin: 0;
+}
+
+.international-events-video-finder-ctn-videos {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 32px;
+	margin-top: 64px;
+	height: 650px;
+}
+
+.international-events-video-finder-ctn-video-principal {
+	flex: 1 0 70%;
+	padding: 0 32px 32px 32px;
+}
+
+.international-events-video-finder-ctn-video-list {
+	display: block;
+	flex: 1 0 20%;
+	margin: 0 32px 0 0;
+	overflow-y: scroll;
+	height: 100%;
+	padding: 12px;
+	border: 1px solid var(--gray);
+	border-radius: 12px;
+}
+
+.international-events-video-finder-ctn-video {
+	position: relative;
+}
+
+.international-events-video-finder-ctn-video-btn {
+	height: 100%;
+	width: 100%;
+	border: none;
+	background: transparent;
+	cursor: pointer;
+	position: absolute;
+}
+
+.international-events-video-finder-ctn-video-text {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+
+.international-events-video-finder-video {
+	height: 100%;
+	width: 100%;
+	aspect-ratio: 4/3;
+	border-radius: 12px;
+	padding-bottom: 72px;
+}
+
+.international-events-video-finder-description {
+	text-align: left;
+	font-size: var(--txt-h5-xl);
+	font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+	bottom: 0;
+	left: 5px;
+	position: absolute;
+}
+
+.international-events-video-finder-video-principal {
+	border-radius: 12px;
+	height: 100%;
+	width: 100%;
+}
+
+.international-events-video-finder-principal-description {
+	font-size: var(--txt-h5-xl);
+	font-weight: 700;
+	font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+}

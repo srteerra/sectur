@@ -1,0 +1,90 @@
+/* styles.css */
+
+.custom-carousel {
+  width: 100%; /* Ancho del carousel */
+  margin: 0 auto; /* Centrar horizontalmente */
+}
+
+.custom-carousel .carousel-root {
+  background-color: var(--purple); /* Color de fondo */
+}
+
+.custom-carousel .carousel {
+  text-align: center; /* Centrar el contenido del carousel */
+}
+
+.custom-carousel .carousel .slide {
+  min-height: 150px; /* Altura de cada slide */
+  display: flex;
+  justify-content: center; /* Alinea horizontalmente al centro */
+  align-items: center; /* Alinea verticalmente al centro */
+}
+
+.custom-carousel .carousel .slide p {
+  margin: 0 auto;
+  text-align: center;
+  width: 80%;
+}
+
+.custom-carousel .carousel .slide p {
+  font-size: var(--txt-h3-sm);
+  color: #ffffff; /* Color del texto del slide */
+}
+
+.custom-carousel .carousel .control-prev,
+.custom-carousel .carousel .control-next {
+  color: #ffffff; /* Color de las flechas */
+}
+
+.custom-carousel .carousel .control-arrow:hover {
+  background-color: rgba(255, 255, 255, 0.3); /* Color de fondo al pasar el ratón sobre las flechas */
+}
+
+/* Media query para dispositivos móviles */
+@media (max-width: 767px) {
+  .custom-carousel .carousel .slide p {
+    width: 80%; /* Anchura del texto en dispositivos móviles */
+    margin: 0 auto; /* Centrar horizontalmente */
+  }
+}
+
+.slider-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.slick-slide {
+  text-align: center;
+}
+
+.slick-dots {
+  position: absolute; /* Ajusta la posición de los puntos de navegación */
+  bottom: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  width: 100%;
+}
+
+.slick-dots li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.slick-dots li button {
+  font-size: 12px;
+  line-height: 1;
+  display: block;
+  padding: 5px;
+  cursor: pointer;
+  color: #000; /* Color de los puntos de navegación */
+  border: 1px solid #000; /* Borde de los puntos de navegación */
+  border-radius: 50%; /* Ajusta la forma de los puntos de navegación */
+  background-color: transparent;
+}
+
+.slick-dots li.slick-active button {
+  background-color: #000; /* Color de fondo para el punto activo */
+  color: #fff; /* Color del texto para el punto activo */
+}

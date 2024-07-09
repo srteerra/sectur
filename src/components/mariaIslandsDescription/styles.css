@@ -1,0 +1,125 @@
+.maria-islands-description-ctn {
+	padding: 50px 0 0 0;
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	background-image: url('../../assets/img/header/liston-azul.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 50px;
+	background-position: top;
+}
+
+.maria-islands-description-content-ctn {
+	display: block;
+	padding: 32px;
+	background-image: url('../../assets/img/experiences/bg.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-position: center;
+}
+
+.maria-islands-description-content-ctn-text {
+	padding: 0;
+}
+
+.maria-islands-description-content-ctn-img {
+	align-self: center;
+	height: 100%;
+	width: 100%;
+}
+
+.maria-islands-description-content-ctn-img iframe{
+    width: 100%;
+    height: 100%;
+}
+
+.maria-islands-description-content-title {
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: 1px;
+	color: var(--blue);
+	font-size: var(--txt-title-sm);
+	text-align: center;
+	margin: 32px 0 64px 0;
+}
+
+.maria-islands-description-content-text {
+	font-size: var(--txt-h5-sm);
+	text-align: center;
+	line-height: 1.5;
+	margin: 0 auto 32px auto;
+}
+
+.videoIslasMarias{
+	border-radius: 10px;
+	height: 100%;
+	width: 100%;
+	aspect-ratio: 4/3;
+}
+
+@media screen and (min-width: 744px) {
+	.maria-islands-description-ctn {
+		padding: 90px 0 0 0;
+		background-size: 100% 90px;
+	}
+
+	.maria-islands-description-content-title {
+		font-size: var(--txt-title-md);
+		margin: 32px 0 64px 0;
+	}
+
+	.maria-islands-description-content-text {
+		font-size: var(--txt-h5-md);
+		text-align: justify;
+	}
+}
+
+@media screen and (min-width: 1353px) {
+	.maria-islands-description-ctn {
+		padding: 160px 0 0 0;
+		background-size: 100% 160px;
+	}
+	
+	.maria-islands-description-content-ctn {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 24px;
+		padding: 32px;
+		background-size: 100% auto;
+	}
+	
+	.maria-islands-description-content-ctn-text {
+		flex: 1 0 60%;
+		padding-right: 32px;
+	}
+	
+	.maria-islands-description-content-ctn-img {
+		flex: 1 0 30%;
+		align-self: center;
+		position: relative;
+		padding-bottom: 56.25%;
+		height: 0;
+		overflow: hidden;
+	}
+	
+	.maria-islands-description-content-ctn-img iframe{
+		position: absolute;
+		top:20%;
+		left: 0;
+		width: 100%;
+		height: 60%;
+	}
+	
+	.maria-islands-description-content-title {
+		font-size: var(--txt-title-xl);
+		text-align: left;
+	}
+	
+	.maria-islands-description-content-text {
+		font-size: var(--txt-h5-xl);
+		text-align: justify;
+	}
+	
+	.videoIslasMarias{
+		border-radius: 10px;
+	}
+}

@@ -1,0 +1,283 @@
+.experience-images-wellness-ctn {
+  padding: 50px 0;
+  background-image: url('../../assets/img/header/Fondorosa.webp');
+  background-repeat: no-repeat;
+  background-size: 100% 50px;
+  background-position: top;
+}
+
+.experience-images-wellness-ctn-hero {
+  background-image: url('../../assets/img/experiences/bg.webp');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: top;
+  display: block;
+  padding: 32px;
+}
+
+.experience-images-wellness-ctn-hero-description {
+ 
+
+}
+
+.experience-images-wellness-img-experience-hero {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+}
+
+.experience-images-wellness-title {
+  text-align: center;
+  font-size: var(--txt-title-sm);
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+  margin-top: 42px;
+  color: var(--purple);
+}
+
+.experience-images-wellness-ctn-img {
+  display: block;
+  padding: 32px;
+  height: 100%;
+}
+
+.experience-images-wellness-ctn-img-experience-0,
+.experience-images-wellness-ctn-img-experience-1,
+.experience-images-wellness-ctn-img-experience-2,
+.experience-images-wellness-ctn-img-experience-3,
+.experience-images-wellness-ctn-img-experience-4,
+.experience-images-wellness-ctn-img-experience-5 {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  margin-bottom: 32px;
+}
+
+.experience-images-wellness-img-experience {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+}
+
+.experience-images-wellness-ctn-img-experience-0 .experience-images-wellness-ctn-img-experience-description,
+.experience-images-wellness-ctn-img-experience-1 .experience-images-wellness-ctn-img-experience-description,
+.experience-images-wellness-ctn-img-experience-2 .experience-images-wellness-ctn-img-experience-description,
+.experience-images-wellness-ctn-img-experience-3 .experience-images-wellness-ctn-img-experience-description,
+.experience-images-wellness-ctn-img-experience-4 .experience-images-wellness-ctn-img-experience-description,
+.experience-images-wellness-ctn-img-experience-5 .experience-images-wellness-ctn-img-experience-description {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.experience-images-wellness-ctn-img-experience-0:hover .experience-images-wellness-ctn-img-experience-description,
+.experience-images-wellness-ctn-img-experience-1:hover .experience-images-wellness-ctn-img-experience-description,
+.experience-images-wellness-ctn-img-experience-2:hover .experience-images-wellness-ctn-img-experience-description,
+.experience-images-wellness-ctn-img-experience-3:hover .experience-images-wellness-ctn-img-experience-description,
+.experience-images-wellness-ctn-img-experience-4:hover .experience-images-wellness-ctn-img-experience-description,
+.experience-images-wellness-ctn-img-experience-5:hover .experience-images-wellness-ctn-img-experience-description {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.experience-images-wellness-ctn-img-experience-description {
+  display: none;
+}
+
+.experience-images-wellness-img-experience-description {
+  text-align: center;
+  font-size: var(--txt-h5-xl);
+  font-weight: 700;
+  color: #fff;
+}
+
+@media screen and (min-width: 744px) {
+  .experience-images-wellness-ctn {
+    padding: 90px 0;
+    background-size: 100% 90px;
+  }
+  
+  .experience-images-wellness-title {
+    font-size: var(--txt-title-md);
+  }
+  
+  .experience-images-wellness-ctn-img {
+    display: flex;
+    padding: 32px;
+    height: 100%;
+    flex-wrap: wrap;
+    gap: 32px
+  }
+  
+  .experience-images-wellness-ctn-img-experience-0,
+  .experience-images-wellness-ctn-img-experience-1,
+  .experience-images-wellness-ctn-img-experience-2,
+  .experience-images-wellness-ctn-img-experience-3,
+  .experience-images-wellness-ctn-img-experience-4,
+  .experience-images-wellness-ctn-img-experience-5 {
+    flex: 1 0 40%;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 32px;
+  }
+  
+  .experience-images-wellness-img-experience {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 4/3;
+    object-fit: cover;
+  }
+  
+  .experience-images-wellness-ctn-img-experience-0 .experience-images-wellness-ctn-img-experience-description,
+  .experience-images-wellness-ctn-img-experience-1 .experience-images-wellness-ctn-img-experience-description,
+  .experience-images-wellness-ctn-img-experience-2 .experience-images-wellness-ctn-img-experience-description,
+  .experience-images-wellness-ctn-img-experience-3 .experience-images-wellness-ctn-img-experience-description,
+  .experience-images-wellness-ctn-img-experience-4 .experience-images-wellness-ctn-img-experience-description,
+  .experience-images-wellness-ctn-img-experience-5 .experience-images-wellness-ctn-img-experience-description {
+    display: none;
+  }
+  
+  
+  .experience-images-wellness-ctn-img-experience-description {
+    display: none;
+  }
+  
+  .experience-images-wellness-img-experience-description {
+    text-align: center;
+    font-size: var(--txt-h5-xl);
+    font-weight: 700;
+    color: #fff;
+  }
+}
+
+@media screen and (min-width: 1353px) {
+  .experience-images-wellness-ctn {
+    padding: 92px 0;
+    background-image: url('../../assets/img/header/Fondorosa.webp');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: top;
+  }
+  
+  .experience-images-wellness-ctn-hero {
+    background-image: url('../../assets/img/experiences/bg.webp');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: top;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+  }
+  
+  .experience-images-wellness-ctn-hero-description {
+    margin-left: 42px;
+  }
+  
+  .experience-images-wellness-img-experience-hero {
+    width: 40vw;
+  }
+  
+  .experience-images-wellness-title {
+    text-align: center;
+    font-size: var(--txt-title-xl);
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+    margin-top: 42px;
+    color: var(--purple);
+  }
+  
+  .experience-images-wellness-ctn-img {
+    display: grid;
+    grid-template-areas: 
+    "a b c c"
+    "d d e f";
+    padding: 32px;
+    height: 1200px;
+    gap: 32px;
+  }
+  
+  .experience-images-wellness-ctn-img-experience-0 {
+    grid-area: a;
+    position: relative;
+    height: calc(1200px / 2);
+  }
+  
+  .experience-images-wellness-ctn-img-experience-1 {
+    grid-area: b;
+    position: relative;
+    height: calc(1200px / 2);
+  }
+  
+  .experience-images-wellness-ctn-img-experience-2 {
+    grid-area: c;
+    position: relative;
+    height: calc(1200px / 2);
+  }
+  
+  .experience-images-wellness-ctn-img-experience-3 {
+    grid-area: d;
+    position: relative;
+    height: calc(1200px / 2);
+  }
+  
+  .experience-images-wellness-ctn-img-experience-4 {
+    grid-area: e;
+    position: relative;
+    height: calc(1200px / 2);
+  }
+  
+  .experience-images-wellness-ctn-img-experience-5 {
+    grid-area: f;
+    position: relative;
+    height: calc(1200px / 2);
+  }
+  
+  .experience-images-wellness-img-experience {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: auto;
+    object-fit: cover;
+  }
+  
+  .experience-images-wellness-ctn-img-experience-0:hover .experience-images-wellness-ctn-img-experience-description,
+  .experience-images-wellness-ctn-img-experience-1:hover .experience-images-wellness-ctn-img-experience-description,
+  .experience-images-wellness-ctn-img-experience-2:hover .experience-images-wellness-ctn-img-experience-description,
+  .experience-images-wellness-ctn-img-experience-3:hover .experience-images-wellness-ctn-img-experience-description,
+  .experience-images-wellness-ctn-img-experience-4:hover .experience-images-wellness-ctn-img-experience-description,
+  .experience-images-wellness-ctn-img-experience-5:hover .experience-images-wellness-ctn-img-experience-description {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .experience-images-wellness-ctn-img-experience-description {
+    display: none;
+  }
+  
+  .experience-images-wellness-img-experience-description {
+    text-align: center;
+    font-size: var(--txt-h5-xl);
+    font-weight: 700;
+    color: #fff;
+  }
+}

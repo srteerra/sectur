@@ -1,0 +1,67 @@
+{
+	"description": "",
+	"followUs": "Folgen Sie uns auf:",
+	"linksFast": {
+		"name": "Interessante links",
+		"links": [
+			{
+				"name": "Maya-Zug",
+				"dir": "/tren-maya"
+			},
+			{
+				"name": "Reiseziele",
+				"dir": "/destinos"
+			},
+			{
+				"name": "Pueblos Mágicos",
+				"dir": "/pueblos-magicos"
+			},
+			{
+				"name": "Internationale Veranstaltungen",
+				"dir": "/eventos-internacionales"
+			},
+			{
+				"name": "Erlebnisse",
+				"dir": "/experiencias"
+			}
+		]
+	},
+	"linksKnow": {
+		"name": "Mehr erfahren",
+		"links": [
+			{
+				"name": "Videos",
+				"dir": "/videos"
+			},
+			{
+				"name": "Reiseführer",
+				"dir": "/guias-turisticas"
+			},
+			{
+				"name": "Materialien zum Herunterladen",
+				"dir": "https://visitmexico.com/descargas/"
+			},
+			{
+				"name": "Kalender",
+				"dir": "/calendario"
+			}
+		]
+	},
+	"linksContact": {
+		"name": "Kontakt",
+		"links": [
+			
+			{
+				"name": "E-Mail:",
+				"dir": "/"
+			},
+			{
+				"name": "contacto@sectur.gob.mx",
+				"dir": "/"
+			}
+		]
+	},
+	"legalWarning": "Rechtliche Warnung",
+	"privacyPolicy": "Datenschutzrichtlinie",
+	"register": "México®, visitmexico.com®, visitmexico®, Pueblos Mágicos®, Atención al Turista 078®, Eingetragene Warenzeichen zugunsten des Tourismusministeriums der Regierung von Mexiko."
+}

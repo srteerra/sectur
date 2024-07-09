@@ -1,0 +1,644 @@
+{
+    "experiences": [
+        {
+            "id": "rutas-gastronomicas",
+            "urlVideoTop": "https://www.youtube.com/embed/4nFgp8WdJI0?autoplay=1&mute=1&loop=1&rel=0",
+            "title": "MESSICO È SAPORITO",
+            "gallery": [
+                {
+                    "imageUrl": "routesGastronomicGallery/Gastronomia-CochinitaPibil-HaciendaOchil150.webp",
+                    "title": "Sapori degli Dei Maya nello Yucatan",
+                    "dir": "https://yucatan.travel/gastronomia/"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/HGO_t2_actopan_356-_1__11zon.webp",
+                    "title": "Piatti esotici di Hidalgo",
+                    "dir": "https://hidalgo.travel/wordpress/?page_id=5312"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/ChileNogada.webp",
+                    "title": "Piatto messicano per eccellenza di Puebla",
+                    "dir": "https://www.visitpuebla.mx/es/ruta-agroturistica-del-chile-en-nogada"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/Mariscos.webp",
+                    "title": "Prelibatezze del mare a Campeche",
+                    "dir": "https://campeche.travel/destinations/gastronomia-tradicional/"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/langostas.webp",
+                    "title": "Aragoste in stile Puerto Nuevo nella Bassa California",
+                    "dir": "https://bajacalifornia.travel/es/cuatro-opciones-en-rosarito-para-probar-la-langosta/"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/Cajeta.webp",
+                    "title": "Catola di Celaya",
+                    "dir": "https://guanajuato.mx/gastronomia-2/"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/AGREGAR-Tabasco_-del-cacaco-al-chocolate.webp",
+                    "title": "Cacao de Tabasco",
+                    "dir": "https://visitetabasco.com/en/rutas-turisticas/del-cacao-al-chocolate/"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/torremariscossinaloa.webp",
+                    "title": "Torre dei gamberetti a Sinaloa",
+                    "dir": "https://sinaloa.travel/mercados"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/deliciascaribe.webp",
+                    "title": "Prelibatezze del mare nei Caraibi messicani",
+                    "dir": "https://www.caribemexicano.travel/restaurantes/"
+                }
+            ],
+            "description": [
+                {
+                    "text": "Il Messico è sapore, ma anche tradizione e cultura. La gastronomia del nostro paese è così importante che nel 2010 l'UNESCO ha dichiarato la Cucina Tradizionale Messicana Patrimonio Culturale Immateriale dell'Umanità. La cucina messicana è un elemento fondamentale dell'identità culturale, della coesione sociale e dello sviluppo comunitario."
+                },
+                {
+                    "text": "Abbiamo un'offerta gastronomica immensa, con più di 584.000 ristoranti, di cui due tra i 10 migliori al mondo, entrambi nella Città del Messico."
+                }
+            ]
+        },
+        {
+            "id": "sol-y-playa",
+            "urlVideoTop": "https://www.youtube.com/embed/WVeHPYxFTUA?&autoplay=1&mute=1&loop=1&rel=0",
+            "title": "SOLE E SPIAGGIA",
+            "subtitle": "Scopri sole e spiaggia", 
+            "titleGallery": "GODITI IL SOLE E LA SPIAGGIA",
+            
+            "gallery": [
+              {
+                "imageUrl": "solPlayaGallery/coloradasyucatan.webp",
+                    "title": "Las Coloradas, Yucatán",
+                    "dir": "https://yucatan.travel/sol-y-playa/"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/rosarito.webp",
+                    "title": "Rosarito, Baja California",
+                    "dir": "https://rosarito.travel/"
+                },
+                
+                {
+                    "imageUrl": "solPlayaGallery/bajacaliforniasur.webp",
+                    "title": "Loreto, Baja California Sur",
+                    "dir": "https://loreto.visitbajasur.travel/es/"
+                },
+                
+                {
+                    "imageUrl": "solPlayaGallery/CancunQintanaRoo.webp",
+                    "title": "Cancún, Quintana Roo",
+                    "dir": "https://www.caribemexicano.travel/cancun/que-hacer/playas/"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/Cozumel.webp",
+                    "title": "Cozumel, Quintana Roo",
+                    "dir": "https://www.caribemexicano.travel/isla-cozumel/que-hacer/playas/"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/ChamborTabasco.webp",
+                    "title": "Playa Chambor, Tabasco",
+                    "dir": "https://visitetabasco.com/experiencias/ver-oir-y-sentir-el-mar-en-playa-chambor/"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/ferrisinaloa.webp",
+                    "title": "Mazatlán, Sinaloa",
+                    "dir": "https://sinaloa.travel/destinos"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/soconuscochiapas.webp",
+                    "title": "Costa Soconusco, Chiapas",
+                    "dir": "https://visitchiapas.com/v1/Ruta-costa-soconusco"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/islamujeres.webp",
+                    "title": "Isla Mujeres, Quintana Roo",
+                    "dir": "https://www.caribemexicano.travel/que-hacer/playas/"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/fuertecampeche.webp",
+                    "title": "Campeche, Campeche",
+                    "dir": "https://campeche.travel/destinations/refrescate-playas-balnearios/"
+                }
+            ],
+            "subGallery": [
+                {
+                    "imageUrl": "solPlayaGallery/BCN_ensenada_7_11zon.webp",
+                    "title": "ENSENADA, BAJA CALIFORNIA"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/BCS_cabo_pulmo_26_11zon.webp",
+                    "title": "CABO PULMO, BAJA CALIFORNIA SUR"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/GRO_acapulco_1317_11zon.webp",
+                    "title": "ACAPULCO, GUERRERO"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/JAL_careyes_11_11zon.webp",
+                    "title": "CAREYES, JALISCO"
+                }
+            ],
+            "cardsGallery": [
+    {
+      "title": "Feria de la Muñeca Artesanal en Amealco, Querétaro",
+      "date": "18 al 21 de noviembre, 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "De Mar a Mar, Baja California Sur",
+      "date": "1 al 3 de diciembre, 2023",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo se ilumina. Manzanillo, Colima",
+      "date": "31 de diciembre 2023 - 1 de enero 2024",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ],
+            "description": [
+              {
+                "text": "La posizione privilegiata del Messico permette di essere bagnato dall'Oceano Pacifico, dal Golfo del Messico e dal Mar dei Caraibi, il che rende il nostro Paese una destinazione paradisiaca per i turisti in cerca di sole e spiaggia."
+              },
+              {
+                "text": "I lunghi tratti di costa, che superano gli 11.000 chilometri, permettono a ogni spiaggia di essere unica nel suo genere, con acque di diverse tonalità e sabbia di diversa consistenza."
+              },
+              {
+                "text": "Anche la flora e la fauna marina fanno del Messico una calamita per i visitatori di tutto il mondo. Il Mare di Cortez, considerato l'acquario del mondo; la splendida Baia di Acapulco, con uno dei climi più privilegiati al mondo; e le spiagge di Oaxaca, le cui onde sono perfette per il surf, sono solo alcuni esempi di ciò che si può godere nel Pacifico messicano; mentre sul versante del Golfo del Messico troviamo la Costa Esmeralda a Veracruz, e che dire del blu turchese dei Caraibi messicani, con la sua sabbia bianca."
+              }
+            ]
+          },
+          {
+            "id": "aventura",
+            "urlVideoTop": "https://www.youtube.com/embed/MQNWS8yp__o?&autoplay=1&mute=1&loop=1&rel=0",
+            "imageUrl": "sinaloa.jpg",
+            "title": "Avventura",
+            "gallery": [
+                {
+                    "imageUrl": "SIN_guanacoa_257.webp",
+                    "title": "Mazatlán, Sinaloa",
+                    "dir": "https://sinaloa.travel/experiencias/chepe-express"
+                },
+                {
+                    "imageUrl": "loreto.jpg",
+                    "title": "Loreto, Baja California Sur",
+                    "dir": "https://programadestinosmexico.com/aventura-y-ecoturismo-en-loreto/"
+                },
+                {
+                    "imageUrl": "ROO_PlayaDelCarmen_Kayak-1137.jpg",
+                    "title": "PLAYA DEL CARMEN, QUINTANA ROO",
+                    "dir": "https://www.caribemexicano.travel/que-hacer/naturaleza-y-aventura/"
+                },
+                {
+                    "imageUrl": "CHIS_agua_azul_46.jpg",
+                    "title": "AGUA AZUL, CHIAPAS",
+                    "dir": "https://visitchiapas.com/v1/Turismo-de-naturaleza.2"
+                },
+                {
+                    "imageUrl": "CuatroCienagasCoahuila.jpg",
+                    "title": "CUATRO CIÉNEGAS, COAHUILA",
+                    "dir": "https://hazturismoencoahuila.mx/descubre"
+                },
+                {
+                    "imageUrl": "LABUFADORAENSENADABC.jpg",
+                    "title": "ENSENADA, BAJA CALIFORNIA",
+                    "dir": "https://bajacalifornia.travel/es/de-ensenada-a-la-bufadora-panoramicas-acantilados-y-geisers/"
+                }
+          ],
+            "description": [
+              {
+                "text": "I Paesi megadiversi sono gruppi di nazioni che ospitano la maggior quantità di biodiversità al mondo. Il Messico ha l'onore di essere tra i 19 Paesi così classificati."
+              },
+              {
+                "text": "Questa diversità di ecosistemi lo rende una delle migliori destinazioni per le anime avventurose che vogliono provare l'adrenalina e godersi la natura."
+              },
+              {
+                "text": "Montagne, fiumi, deserti, mari e molti scenari naturali vi aspettano a braccia aperte."
+              },
+              {
+                "text": "Tra le avventure che vi aspettano ci sono: rafting, discesa in corda doppia, surf, bicicletta, immersioni subacquee, zip-lining ad alta velocità, kayak, vela, arrampicata in montagna e altro ancora... Vivete l'avventura della vostra vita in Messico!"
+              }
+            ],
+            
+            "cardsGallery": [
+    {
+      "title": "Feria de la Muñeca Artesanal en Amealco, Querétaro",
+      "date": "18 al 21 de noviembre, 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "De Mar a Mar, Baja California Sur",
+      "date": "1 al 3 de diciembre, 2023",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo se ilumina. Manzanillo, Colima",
+      "date": "31 de diciembre 2023 - 1 de enero 2024",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ]
+          },
+          {
+            "id": "sostenible",
+            "urlVideoTop": "https://www.youtube.com/embed/hEuneaZVBws?&autoplay=1&mute=1&loop=1&rel=0",
+            "title": "TURISMO SOSTENIBILE",
+            "secondTitle": "",
+            "subtitle": "SCOPRI IL TURISMO SOSTENIBILE",
+            "sostenibleImgHero": "sostenibleGallery/sostenible_buzo.jpg",
+            "gallery": [
+              {
+                "imageUrl": "sostenibleGallery/BCS_tiburonballena.webp",
+                    "title": "Baja California Sur",
+                    "dir": "https://www.visitloscabos.travel/sustainability/"
+                },
+                {
+                    "imageUrl": "sostenibleGallery/tortugatulum.webp",
+                    "title": "Quintana Roo",
+                    "dir": "https://www.caribemexicano.travel/informacion-de-viaje/viajero-responsable/"
+                },
+                {
+                    "imageUrl": "sostenibleGallery/artesaniastabasco.webp",
+                    "title": "Tabasco",
+                    "dir": "https://visitetabasco.com/experiencias/?segmento=rural"
+                },
+                {
+                    "imageUrl": "sostenibleGallery/fresas.webp",
+                    "title": "Guanajuato",
+                    "dir": "https://guanajuato.mx/turismo-social/"
+                },
+                {
+                    "imageUrl": "sostenibleGallery/telar.webp",
+                    "title": "Chiapas",
+                    "dir": "https://visitchiapas.com/v1/Turismo-de-naturaleza"
+                }
+            ],
+            "cardsGallery": [
+    {
+      "title": "Feria de la Muñeca Artesanal en Amealco, Querétaro",
+      "date": "18 al 21 de noviembre, 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "De Mar a Mar, Baja California Sur",
+      "date": "1 al 3 de diciembre, 2023",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo se ilumina. Manzanillo, Colima",
+      "date": "31 de diciembre 2023 - 1 de enero 2024",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ],
+            "description": [
+              {
+                "text": "Il turismo sostenibile è un mezzo per sfruttare, conservare e preservare il patrimonio naturale e culturale, in un contesto che favorisca il miglioramento sociale, economico, ambientale e culturale delle comunità ospitanti, per soddisfare i bisogni attuali della loro popolazione senza compromettere o mettere a rischio le risorse delle generazioni future. Concretamente, si riferisce a un turismo economicamente equo, socialmente inclusivo e ambientalmente responsabile."
+              },
+              {
+                "text": "Più precisamente, si tratta di un turismo economicamente equo, socialmente inclusivo e ambientalmente responsabile."
+              }
+            ],
+            "secondDescription": [
+                {
+                    "text": ""
+                },
+                {
+                    "text": ""
+                }
+            ]
+          },
+          {
+            "id": "bienestar",
+            "urlVideoTop": "https://www.youtube.com/embed/qmN6CifrUxU?&autoplay=1&mute=1&loop=1&rel=0",
+            "title": "Benessere",
+            "subtitle": "Scopri il benessere",
+           
+            "gallery": [
+              {
+                "imageUrl": "bienestarGallery/tecate.webp",
+                    "title": "Baja California",
+                    "dir": "https://bajacalifornia.travel/es/salud-y-bienestar/"
+                },
+                {
+                    "imageUrl": "bienestarGallery/BCS1.webp",
+                    "title": "Baja California Sur",
+                    "dir": "https://es.golapaz.com/que-hacer/spas-y-bienestar/?bounds=false&view=list&sort=qualityScore"
+                },
+                {
+                    "imageUrl": "bienestarGallery/bienestargto.webp",
+                    "title": "Guanajuato",
+                    "dir": "https://guanajuato.mx/wellness/"
+                },
+                {
+                    "imageUrl": "bienestarGallery/bacalar.webp",
+                    "title": "Quintana Roo",
+                    "dir": "https://www.caribemexicano.travel/que-hacer/wellness/"
+                },
+                {
+                    "imageUrl": "bienestarGallery/tabasco.webp",
+                    "title": "Tabasco",
+                    "dir": "https://visitetabasco.com/experiencias/?segmento=bienestar"
+                },
+                {
+                    "imageUrl": "bienestarGallery/cenoteyucatan.webp",
+                    "title": "Yucatán",
+                    "dir": "https://yucatan.travel/it/benessere/"
+                }
+            ],
+            "cardsGallery": [
+    {
+      "title": "Feria de la Muñeca Artesanal en Amealco, Querétaro",
+      "date": "18 al 21 de noviembre, 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "De Mar a Mar, Baja California Sur",
+      "date": "1 al 3 de diciembre, 2023",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo se ilumina. Manzanillo, Colima",
+      "date": "31 de diciembre 2023 - 1 de enero 2024",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ],
+            "description": [
+              {
+                "text": "Il turismo del benessere comprende quei tipi di attività la cui motivazione principale è contribuire alla salute fisica, mentale o spirituale del turista, attraverso attività mediche e di benessere."
+              },
+              {
+                "text": "Ricevere un massaggio, un bagno temazcal, l'agopuntura, la meditazione, prendere lezioni di yoga o partecipare a un ritiro spirituale sono alcune delle attività che compongono il turismo del benessere, e il Messico è al primo posto in questo settore in America Latina e al settimo posto nella classifica dei 20 Paesi che ricevono questo tipo di turismo."
+              },
+              {
+                "text": "Oltre alla salute, il turismo è un diritto, e in Messico ci preoccupiamo di farvi godere appieno di entrambi: qui troverete ogni tipo di destinazione e attività dove potrete rilassarvi e prendervi cura della vostra salute."
+              }
+            ]
+          },
+          {
+            "id": "bodas",
+            "urlVideoTop": "https://www.youtube.com/embed/zXbpLh_guyY?autoplay=1&mute=1&loop=1&rel=0",
+            "title": "matrimoni",
+            "buttons": [
+                {
+                    "name": "spiaggia",
+                    "descriptionInteractive": "Infrastrutture di livello mondiale e scenari paradisiaci per un matrimonio da film, immersi nella natura e con il mare come testimone della vostra unione.",
+                    "links": [
+                        {
+                            "name": "Baja California Sur",
+                            "imageUrl": "Bodas Cabos.webp",
+                            "link": [
+                                {
+                                    "name": "Los Cabos, Baja California Sur",
+                                    "dir": "https://www.visitloscabos.travel/weddings/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Baja California Sur",
+                            "imageUrl": "Boda BC.webp",
+                            "link": [
+                                {
+                                    "name": "La Paz, Baja California Sur",
+                                    "dir": "https://bajacalifornia.travel/es/cumple-tu-proposito-de-ano-nuevo-una-boda-de-ensueno-en-ensenada/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Caraibi messicani",
+                            "imageUrl": "TapachulaChiapas.jpg",
+                            "link": [
+                                {
+                                    "name": "Tapachula, Chiapas",
+                                    "dir": "https://visitchiapas.com/v1/Tapachula-romantico-tapachula-de-cordova-y-ordonez"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Yucatán",
+                            "imageUrl": "Boda caribe.webp",
+                            "link": [
+                                {
+                                    "name": "Celestún, Yucatán",
+                                    "dir": "https://yucatan.travel/romance/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Yucatán",
+                            "imageUrl": "Novios-Puerto-Vallarta.webp",
+                            "link": [
+                                {
+                                    "name": "Cancún, Quintana Roo",
+                                    "dir": "https://www.caribemexicano.travel/bodas/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "tradizionale",
+                    "descriptionInteractive": "La ricchezza culturale del Messico ti permetterà di avere delle nozze diverse, magiche e invendibili, grazie alle sue nozze tradizionali tramite antichi riti precoloniali.",
+                    "links": [
+                        {
+                            "name": "Boda Nahua, Veracruz",
+                            "imageUrl": "boda_tradicional_Nahua_Veracruz.webp",
+                            "link": [
+                                {
+                                    "name": "Matrimonio Nahua, Veracruz",
+                                    "dir": "https://www.gob.mx/cms/uploads/attachment/file/727483/Veracruz_compressed.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Boda Maya, Yucatán",
+                            "imageUrl": "BODAMAYA.webp",
+                            "link": [
+                                {
+                                    "name": "Matrimonio Maya, Yucatán",
+                                    "dir": "https://www.gob.mx/cms/uploads/attachment/file/733985/Yucata_n.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Boda Chichimeca, Aguascalientes",
+                            "imageUrl": "BodaTradicionalChichimeca.webp",
+                            "link": [
+                                {
+                                    "name": "Matrimonio Chichimeco, Aguascalientes",
+                                    "dir": "https://www.gob.mx/cms/uploads/attachment/file/726452/Aguascalientes.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Boda Nahuatl, Hidalgo",
+                            "imageUrl": "bodatradicionalhidalgo.webp",
+                            "link": [
+                                {
+                                    "name": "Matrimonio Nahuatl, Hidalgo",
+                                    "dir": "https://www.gob.mx/cms/uploads/attachment/file/726455/Hidalgo.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Boda Wixarica, Zacatecas",
+                            "imageUrl": "Ceremonia_Wixarika_Zacatecas.webp",
+                            "link": [
+                                {
+                                    "name": "Matrimonio Wixárika, Zacatecas",
+                                    "dir": "https://www.gob.mx/cms/uploads/attachment/file/773060/catalogo_bodas_tradicionales_zacatecas.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "coloniale",
+                    "descriptionInteractive": "Immagina quanto magiche sarebbero le tue nozze in una delle nostre città coloniali, in una antica residenza coloniale dove il tempo sembra essere sospeso e ogni angolo ti cattura con la sua bellezza.",
+                    "links": [
+                        {
+                            "name": "Guanajuato, Guanajuato",
+                            "imageUrl": "San_Gabriel_Gto.webp",
+                            "link": [
+                                {
+                                    "name": "Guanajuato, Guanajuato",
+                                    "dir": "https://guanajuato.mx/romance/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cuernavaca, Morelos",
+                            "imageUrl": "Boda Beso.webp",
+                            "link": [
+                                {
+                                    "name": "Cuernavaca, Morelos",
+                                    "dir": "https://visitmorelos.mx/experiencias/romance"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Santiago de Querétaro, Querétaro",
+                            "imageUrl": "Novios_Queretaro.webp",
+                            "link": [
+                                {
+                                    "name": "Santiago de Querétaro, Querétaro",
+                                    "dir": "https://queretaro.travel/tipo/romance/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SAN CRISTÓBAL DE LAS CASAS, Chiapas",
+                            "imageUrl": "SanCristobaldelascasasBoda.jpg",
+                            "link": [
+                                {
+                                    "name": "SAN CRISTÓBAL DE LAS CASAS, Chiapas",
+                                    "dir": "https://visitchiapas.com/v1/San-cristobal-de-las-casas-romantico-san-cristobal-de-las-casas"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tuxtla Gutiérrez, Chiapas",
+                            "imageUrl": "TuxtlaGutierrezChiapas.jpg",
+                            "link": [
+                                {
+                                    "name": "Tuxtla Gutiérrez, Chiapas",
+                                    "dir": "https://visitchiapas.com/v1/Tuxtla-gutierrez-romantico-tuxtla-gutierrez"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "altri",
+                    "descriptionInteractive": "Il turismo romantico include celebrazioni speciali in coppia o in famiglia, come: rinnovo delle promesse, addii al celibato e nubilato, consegna dell'anello, viaggi di nozze, anniversari, Baby Moon, Family Moon e altro ancora.",
+                    "links": [
+                        {
+                            "name": "Entrega de Anillo",
+                            "imageUrl": "Entrega_de_anillo_Queretaro.webp",
+                            "link": [
+                                {
+                                    "name": "Proposta di Matrimonio",
+                                    "dir": "https://queretaro.travel/tipo/romance/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Family Moon",
+                            "imageUrl": "Familia.webp",
+                            "link": [
+                                {
+                                    "name": "Luna di Famiglia",
+                                    "dir": "https://es.golapaz.com/planea-tus-vacaciones/ideas-de-vacaciones/escapada-romantica/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Aniversarios",
+                            "imageUrl": "Pareja.webp",
+                            "link": [
+                                {
+                                    "name": "Anniversari",
+                                    "dir": "https://www.visitacapulco.travel/segmento/romance"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lunas de Miel",
+                            "imageUrl": "ZAC_zacatecasmina.webp",
+                            "link": [
+                                {
+                                    "name": "Luna di Miele",
+                                    "dir": "https://zacatecas.travel/tipo/romance/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Despedida de Solteros",
+                            "imageUrl": "Despedida_Puerto_Vallarta.webp",
+                            "link": [
+                                {
+                                    "name": "Addio al Celibato e Nubilato",
+                                    "dir": "https://visitapuertovallarta.com.mx/planea-tu-viaje/escapada-de-amigos"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

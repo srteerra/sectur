@@ -1,0 +1,65 @@
+{
+    "id": "vinos",
+    "title": "WEINE",
+    "subtitle": "Entdecken Sie Weine",
+    "gallerySlider": [
+        {
+            "urlImg": "BCN_valle_guadalupe_22.webp",
+            "name": "Baja California, Guadalupe Valley",
+            "dir": "https://www.ensenada.travel/la-ruta-del-vino/valle-de-guadalupe/"
+        },
+        {
+            "urlImg": "8_VINOS_DE_COAHUILA.webp",
+            "name": "Weinstraße, Coahuila",
+            "dir": "https://hazturismoencoahuila.mx/vinos-de-coahuila"
+        },
+        {
+            "urlImg": "uvasaguascalientes.webp",
+            "name": "Aguascalientes Weinstraße",
+            "dir": "https://rutadelvino.aguascalientes.gob.mx/"
+        },
+        {
+            "urlImg": "Region_vinos_Cava_Freixenetqueretaro.webp",
+            "name": "Weinstraße, Querétaro",
+            "dir": "https://queretaro.travel/tipo-de-destino/ruta-arte-queso-y-vino/"
+        }
+    ],
+    "urlImg": "uvabajacalifornia.webp",
+    "description": [
+        {
+            "text": "Unser Land produziert Weine von höchster Qualität, mit großartigen organoleptischen Eigenschaften, die denjenigen, der sie probiert, sehr viel Freude bereiten. Zusätzlich bieten Weinproben, Weinpaarungen und Besichtigungen der Weinberge die Möglichkeit, die Weine auf eine umfassendere Art und Weise zu probieren und zu einem einzigartigen Erlebnis zu machen, das Sie mit Ihrer Familie, Ihrem Partner oder Ihren Freunden teilen können."
+        },
+        {
+            "text": "Mexiko besitzt 10 international bekannte Routen, die sich auf 6 Bundesstaaten verteilen: Aguascalientes, Baja California, Coahuila, Guanajuato, Hidalgo und Querétaro. Auf jeder dieser Routen erwartet Sie ein beeindruckendes gastronomisches Erlebnis, das Sie nie vergessen werden."
+        },
+        {
+            "text": "Das Sekretariat für Tourismus in Mexiko hat in Zusammenarbeit mit dem Mexikanischen Weinbaurat und den Tourismusministerien der Bundesstaaten diesen ersten Katalog erstellt, in dem die bestehenden weintouristischen Produkte und Routen vorgestellt werden, damit einheimische, nationale und internationale Touristen und Besucher während ihres Aufenthalts in diesen Reisezielen die Weinberge und die damit verbundenen Aktivitäten kennen lernen können."
+        }
+    ],
+    "cardsGallery": [
+    {
+      "title": "Feria de la Muñeca Artesanal en Amealco, Querétaro",
+      "date": "18 al 21 de noviembre, 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "De Mar a Mar, Baja California Sur",
+      "date": "1 al 3 de diciembre, 2023",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo se ilumina. Manzanillo, Colima",
+      "date": "31 de diciembre 2023 - 1 de enero 2024",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ]
+}

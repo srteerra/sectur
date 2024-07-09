@@ -1,0 +1,222 @@
+.home-know-ctn {
+  background: whitesmoke;
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 0 42px 0;
+  overflow: hidden;
+}
+
+.home-know-ctn-title {
+  padding: 12px;
+}
+
+.home-know-title {
+  font-size: var(--txt-title-sm);
+  color: var(--purple);
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.home-know-ctn-description {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.home-know-description-title {
+  font-size: var(--txt-p-md);
+  text-align: center;
+}
+
+.home-know-description {
+  font-size: var(--txt-p-xl);
+  color: var(--gray);
+}
+
+.home-know-ctn-cards {
+  display: flex;
+  box-sizing: border-box;
+  gap: 24px;
+  padding: 32px;
+}
+
+.home-know-ctn-card {
+  min-width: calc(90% - 92px);
+  box-sizing: border-box;
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+  transition: all 1s;
+}
+
+.home-know-card-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  position: relative;
+  cursor: pointer;
+  aspect-ratio: 3/4;
+}
+
+.home-know-ctn-card:hover .home-know-card-img {
+  transform: scale(1.2);
+  transition: 0.4s;
+}
+
+.home-know-ctn-card-description {
+  display: none;
+}
+
+.home-know-ctn-card:hover .home-know-ctn-card-description {
+  display:  grid;
+  position: absolute;
+  z-index: 1;
+  height: calc(100% - 24px);
+  width: calc(100% - 24px);
+  top: 0;
+  left: 0;
+  padding: 12px;
+  border-radius: 10px;
+  align-content:space-between;
+}
+
+.home-know-card-description-title {
+  font-size: var(--txt-h5-xl);
+  font-weight: 700;
+  color: #fff;
+  margin: 0 0 7% 0;
+  overflow-wrap: anywhere;
+}
+
+.home-know-ctn-card-description-stats {
+  display: flex;  
+  flex-wrap: wrap;
+  color: #fff;
+  gap: 12px;
+  min-height: 200px;
+}
+
+.home-know-ctn-card-stats {
+  flex: 1 0 40%;
+}
+
+.home-know-card-stats-quantity {
+  font-weight: 700;
+  font-size: var(--txt-p-xl);
+  margin: 0;
+}
+
+.home-know-card-stats-description {
+  margin: 0;
+}
+
+.home-know-card-description-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 40px;
+  width: 40px;
+  font-size: var(--txt-p-xl);
+  border: none;
+  background: rgba(255, 255, 255, .6);
+  color: #fff;
+  font-weight: 700;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.home-know-ctn-buttons {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-know-buttons {
+  border: none;
+  cursor: pointer;
+  background: transparent;
+}
+
+.home-know-buttons-img {
+  width: 42px;
+  height: 42px;
+}
+
+.homeLink{
+  text-decoration: none;
+}
+
+@media screen and (min-width: 744px) {
+  .home-know-ctn {
+    background: whitesmoke;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 32px 0 32px 0;
+    overflow: hidden;
+  }
+
+  .home-know-ctn-title {
+    padding: 12px 32px;
+  }
+
+  .home-know-title {
+    font-size: var(--txt-title-md);
+    text-align: left;
+  }
+
+  .home-know-description-title {
+    font-size: var(--txt-p-xl);
+  }
+
+  .home-know-ctn-card {
+    min-width: calc(52% - 82px);
+    box-sizing: border-box;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    transition: all 1s;
+  }
+}
+
+@media screen and (min-width: 1353px) {
+  .home-know-ctn {
+    background: whitesmoke;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 32px 0 32px 0;
+    overflow: hidden;
+  }
+
+  .home-know-ctn-title {
+    padding: 12px 64px;
+  }
+
+  .home-know-title {
+    font-size: var(--txt-title-xl);
+    text-align: left;
+  }
+
+  .home-know-description-title {
+    font-size: var(--txt-h5-xl);
+    text-align: left;
+  }
+
+  .home-know-ctn-card {
+    min-width: calc(31% - 12px);
+    box-sizing: border-box;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    transition: all 1s;
+  }
+}

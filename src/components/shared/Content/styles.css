@@ -1,0 +1,167 @@
+.image-content{
+    padding: 1% 10% 0 10%;
+}
+
+.post-title {
+    font-size: var(--txt-title-sm);
+    color: var(--purple);
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+
+.content{
+    padding-bottom: 100px;
+}
+
+p {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    font-size: var(--txt-h5-sm);
+    
+}
+
+.subtitle{
+    font-size: var(--txt-h3-xl);
+    color: var(#000000);
+}
+
+.post-eventos{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    padding: 15px 32px;
+}
+
+.calendare-known-subtitle p{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+.calendare-known-subtitle b{
+    text-align: justify;
+    color: black;    
+}
+
+.muertos-content{
+    width: 100%;
+}
+.muertos-imagen1{
+    grid-area: imagen1;
+}
+.muertos-imagen2{
+    grid-area: imagen2;
+}
+.muertos-imagen3{
+    grid-area: imagen3;
+}
+.muertos-imagen4{
+    grid-area: imagen4;
+}
+.muertos-row{
+    padding: 10px;
+    display: grid;
+    column-gap: 10px;
+    row-gap: 10px;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 250px 250px 250px;
+    grid-template-areas:
+    "imagen1 imagen2"
+    "imagen1 imagen3"
+    "imagen4 imagen4";
+}
+
+.imagen{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+@media screen and (min-width: 744px) {
+
+}
+
+@media screen and (min-width: 1353px) {
+    .image-content{
+        padding: 1% 10% 0 10%;
+    }
+    
+    .post-title {
+        font-size: var(--txt-title-xl);
+        color: var(--purple);
+        font-family: 'Bebas Neue', sans-serif;
+        letter-spacing: 1px;
+        text-align: center;
+      }
+    
+    .content{
+        padding-bottom: 100px;
+    }
+    
+    p {
+        text-align: center;
+        width: 100%;
+        margin: 0 auto;
+        font-size: var(--txt-h5-xl);
+        
+    }
+    
+    .subtitle{
+        font-size: var(--txt-h3-xl);
+        color: var(#000000);
+    }
+    
+    .post-eventos{
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+        padding: 15px 32px;
+    }
+    
+    .calendare-known-subtitle p{
+        text-align: center;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .calendare-known-subtitle b{
+        text-align: justify;
+        color: black;    
+    }
+    
+    .muertos-content{
+        width: 100%;
+    }
+    .muertos-imagen1{
+        grid-area: imagen1;
+    }
+    .muertos-imagen2{
+        grid-area: imagen2;
+    }
+    .muertos-imagen3{
+        grid-area: imagen3;
+    }
+    .muertos-imagen4{
+        grid-area: imagen4;
+    }
+    .muertos-row{
+        padding: 10px;
+        display: grid;
+        column-gap: 10px;
+        row-gap: 10px;
+        grid-template-columns: 2fr 1fr;
+        grid-template-rows: 250px 250px 250px;
+        grid-template-areas:
+        "imagen1 imagen2"
+        "imagen1 imagen3"
+        "imagen4 imagen4";
+    }
+    
+    .imagen{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+}

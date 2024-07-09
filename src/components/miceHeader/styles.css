@@ -1,0 +1,20 @@
+.mice-header-ctn {
+	box-sizing: border-box;
+	padding: 114px 0 64px 0;
+	background-image: url('../../assets/img/header/liston-azul.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 50px;
+	background-position: top;
+	overflow: hidden;
+}
+
+.mice-header-title {
+	font-size: 45px;
+	color: var(--purple);
+	font-family: "Bebas Neue", sans-serif;
+	letter-spacing: 1px;
+	text-align: center;
+	margin: 0;
+	padding-left: 30px;
+	padding-right: 30px;
+}

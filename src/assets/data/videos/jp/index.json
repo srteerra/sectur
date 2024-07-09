@@ -1,0 +1,248 @@
+{
+
+	"videoH1Title": "メキシコを動画で見る: この国の美しさに感動",
+	"videoP1": "慎重に選定された動画コレクションでメキシコの魅力に浸ってみてください。バージン・ビーチから歴史的都市まで、活気で多様なメキシコの真髄と美しさを動画で捉えています。メキシコの豊かな文化・壮大な絶景・ユニークな体験を見つける旅に出かけましょう。",
+
+	"videoTitle2": "動画でメキシコの多様性に触れよう",
+	"videoP2": "メキシコが提供する多彩な目的地・アクティビティ・体験などを動画でみて、メキシコの多様性に触れてみてください。ユカタン半島古代マヤ遺跡から雪が積もった西シエラ・マドレ山脈まで、動画でたくさんの素晴らしい場所をご紹介します。",
+
+	"videoTitle3": "次回のメキシコ旅行のインスピレーションに",
+	"videoP3": "動画で見る情報を参考に、次回のメキシコ旅行を計画しましょう。人気目的地、人気アクティビティ、文化イベントなど、この国であなたを待っている体験の情報を見つけてみてください。一生忘れられない旅へ出かける準備をしましょう",
+
+	"id": "videos",
+	"urlVideoTop": "https://www.youtube.com/embed/eIDWAPccLVg?rel=0&autoplay=1&mute=1&loop=1",
+	"title": "メキシコ観光市場2023",
+	"videosTop": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/q_8XWtdqcLA?rel=0&autoplay=0&mute=0&loop=1",
+			"name": "観光ティアンギスの成果"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/BechWssQXVE?rel=0&autoplay=0&mute=0&loop=1",
+			"name": "長年にわたるメキシコ"
+		}
+	],
+	"titleSlider": "今月おすすめの目的地",
+	"slides": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/x7wxzCekAq0?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Chihuahua"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/TLHZlhqnH18?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Morelos"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/aXcJj7U3NzI?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Jalisco"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7GokE-3UBFw?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Tlaxcala"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/K6yj7d160c4?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Veracruz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/i_BIh-F8EA8?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/PoxhjVUVSzY?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Izamal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Sn9So_Ab8xo?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Bacalar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7BbyoIj99bI?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "San Cristóbal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/3wxzXkp29bU?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Aguascalientes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/M4d_vArum7c?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Querétaro"
+		}
+	],
+	"titleSliderGallery": "見逃せないのはこれ",
+	"slidesGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/kow-2LzQJuU?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "メキシコの観光名所 | Creel - Chihuahua en japonés"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/I_NAF5N1zPc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Pueblo Mágico | Tonatico - Estado de México"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/TzN-4BtnlIQ?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Pueblo Mágico | Otumba - Estado de México"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/HC73153-jys?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Pueblo Mágico | Jilotepec - Estado de México"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/0ujVaFWOwVs?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Pueblo Mágico | Huejotzingo - Puebla"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/q3eNqmgWVUU?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Pueblo Mágico | Tetela de Ocampo - Puebla"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/yI0oj9z4qmI?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Pueblo Mágico | Teziutlán - Puebla"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/IIJNjH7fEgU?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Tlaltizapán de Zapata"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/NydPOwBfaIs?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Xochitepec"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/pWEXwpNR7TA?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Tequesquitengo"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7A16f77qm4Y?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Ajijic"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/JT-Xf8ABqok?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Sayula"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/DuvKbWPya9E?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Puerto Vallarta"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/o0wc7bW5fyg?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Cocula"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/R51vwTnVrew?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Temacapulín"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Tt0MMeA6HzQ?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "メキシコには味がある"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/EpcDhxKXYic?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "MÚZQUIZ"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/DpYDJs-6HI8?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "考古学"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/yTGCT8xJtLM?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Mineral del Chico"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/gIfX_dkoRPc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "シェフ・オロスコ"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/FYBaZb3dwJg?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Islas Marías"
+		}
+	],
+	"slidesGalleryGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/nmpXIr-gycA?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "テキーラ"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/W3baXuazM0U?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "銅峡谷"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/fAexuBFyySY?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Chile en Nogada"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/0Eu6b6JzjEo?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Chef Aidé"
+		}
+	],
+	"titleTravels": "こんなふうに旅しよう",
+	"subTitleTravels": "有名芸能人が教えてくれる旅行のヒント。",
+	"travelsGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/fVxjCH8tNdQ?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Kika Edgar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/-Yzq9BC_ocs?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Alex Sirvent"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/XHWX9PPGNeE?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Jacky Bracamontes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/ZSoH33KJilc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Aleks Syntek"
+		}
+	],
+	"titleTriTraveler": "トリビア",
+	"subTitleTriTraveler": "メキシコをどれだけ知っていますか？試してみよう！",
+	"tritravelerGellery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/Vu792cq34Jw?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Magdalena de Kino"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/lhaNaFDhQtk?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "メキシコシティ"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/A_yutAiNhRA?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "イサマルの町"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/uZ7UluIb-8Y?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Bacalar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/12psVwzj_ts?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Comala, Colima"
+		}
+	],
+	"titleGallery": "メキシコをもっと知ろう",
+	"subtitleGallery": "意外と知られていないメキシコのことをご紹介します。",
+	"videosGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/aeqaUPkUDzU?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "FLAVORS FROM TABASCO"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Q601HFpAJJ0?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Cuicuilco"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/iPGgQcByjvc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "修道士の谷"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/DkaIh-9eQNI?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "アンバー"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/SkkQdafBrTk?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Agave Tequila"
+		}
+	],
+	"titleBottom": "マサトラン水族館",
+	"descriptionBottom": "コルテス海専用のマサトラン水族館は、メキシコ最大であり、ラテンアメリカで最も重要な水族館でもあります。教育・研究・知識の普及に重点を置いていることから、世界中の水族館の基準となるでしょう。",
+	"videoBottomVideoUrl": "https://www.youtube.com/embed/dNIrs66OMOo?rel=0&autoplay=0&mute=0&loop=1"
+}

@@ -1,0 +1,48 @@
+.international-events-video-gallery-ctn {
+  height: 900px;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.international-events-video-gallery-title {
+  text-align: left;
+  font-size: var(--txt-title-xl);
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+  margin-top: 42px ;
+  margin-left: 50px;
+  color: var(--green);
+}
+
+.international-events-video-gallery-ctn-video {
+  height: 670px;
+  width: 100%;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-areas: 
+  "a a b c"
+  "a a d e";
+  gap: 24px;
+  padding: 32px;
+}
+
+.international-events-video-gallery-video-0 {
+  grid-area: a;
+}
+
+.international-events-video-gallery-video-1 {
+  grid-area: b;
+}
+
+.international-events-video-gallery-video-2 {
+  grid-area: c;
+}
+
+.international-events-video-gallery-video-3 {
+  grid-area: d;
+}
+
+.international-events-video-gallery-video-4 {
+  grid-area: e;
+}
+ 

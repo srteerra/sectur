@@ -1,0 +1,65 @@
+{
+    "id": "vinos",
+    "title": "Vins",
+    "subtitle": "Découvrez les vins",
+    "gallerySlider": [
+        {
+            "urlImg": "BCN_valle_guadalupe_22.webp",
+            "name": "La Vallée de Guadalupe Baja California",
+            "dir": "https://www.ensenada.travel/la-ruta-del-vino/valle-de-guadalupe/"
+        },
+        {
+            "urlImg": "8_VINOS_DE_COAHUILA.webp",
+            "name": "Route du Vin, Coahuila",
+            "dir": "https://hazturismoencoahuila.mx/vinos-de-coahuila"
+        },
+        {
+            "urlImg": "uvasaguascalientes.webp",
+            "name": "Route du Vin, Aguscalientes",
+            "dir": "https://rutadelvino.aguascalientes.gob.mx/"
+        },
+        {
+            "urlImg": "Region_vinos_Cava_Freixenetqueretaro.webp",
+            "name": "Route du Vin, Querétaro",
+            "dir": "https://queretaro.travel/tipo-de-destino/ruta-arte-queso-y-vino/"
+        }
+    ],
+    "urlImg": "uvabajacalifornia.webp",
+    "description": [
+        {
+            "text": "Notre pays est renommé pour ses vins d'une qualité exceptionnelle, dont les caractéristiques organoleptiques sont grandement appréciées par les connaisseurs. De plus, les dégustations, les accords mets-vins et les visites des vignobles offrent une expérience enrichissante, à partager en famille, en couple ou entre amis, pour une expérience mémorable."
+        },
+        {
+            "text": "Le Mexique compte 10 routes viticoles internationalement reconnues, traversant 6 États : Aguascalientes, Baja California, Coahuila, Guanajuato, Hidalgo et Querétaro. Chacun de ces États promet une expérience gastronomique inoubliable, qui marquera vos souvenirs pour toujours."
+        },
+        {
+            "text": "En collaboration avec le Conseil Mexicain de la Vitiviniculture et les Secrétariats du Tourisme des États, le Secrétariat du Tourisme a élaboré ce premier catalogue. Celui-ci présente les produits ainsi que les itinéraires œnotouristiques existants, invitant les touristes et les visiteurs locaux, nationaux et internationaux, à découvrir les vignobles et les activités qui les entourent lors de leur séjour dans ces destinations."
+        }
+    ],
+    "cardsGallery": [
+    {
+      "title": "Foire de la Poupée Artisanale à Amealco, Querétaro",
+      "date": "18 au 21 novembre 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo s'illumine, Manzanillo, Colima",
+      "date": "31 décembre 2023 et 1er janvier 2024",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo se ilumina. Manzanillo, Colima",
+      "date": "31 de diciembre 2023 - 1 de enero 2024",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ]
+}

@@ -1,0 +1,766 @@
+{
+    "title": "Blog",
+    "bgCategoriaDestinos": "newBlog/destinos.jpg",
+    "bgCategoriaExperiencias": "newBlog/experiencias.jpg",
+    "bgCategoriaPlaneaTuViaje": "newBlog/planea-tu-viaje.jpg",
+    "labelCategoriaDestinos": "Reiseziele",
+    "labelCategoriaExperiencias": "Erfahrungen",
+    "labelCategoriaPlanea": "Plane deine Reise",
+    "botonVerMas": "Mehr lesen",
+    "ultimosArticulos": "Letzte Artikel",
+    "masLeidos": "Am meisten gelesen",
+    "labelCategoryArticles": "Artikel der Kategorie:",
+    "labelCategoryArticlesBack": "Zurück zum Blog",
+      "heroPost": [
+        {
+            "idPost": "ruta-del-queso-y-del-vino-en-queretaro",
+            "tituloPost": "Begib dich auf ein Geschmacksabenteuer: Käse- und Weinroute in Querétaro",
+            "imgPost": "newBlog/la-redonda.jpg",
+            "fechaPost": "21 de Mayo de 2024",
+            "urlPost": "/blog/post/ruta-del-queso-y-del-vino-en-queretaro",
+            "readMoreButton": "Mehr lesen"
+        },
+        {
+            "idPost": "la-gastronomia-mexicana",
+            "tituloPost": "Die mexikanische Gastronomie: Eine kulinarische Reise durch Geschichte und Tradition.",
+            "imgPost": "newBlog/gastronomia-mexicana.jpg",
+            "fechaPost": "21 de Mayo de 2024",
+            "urlPost": "/blog/post/la-gastronomia-mexicana",
+            "readMoreButton": "Mehr lesen"
+        },
+        {
+            "idPost": "esferas",
+            "tituloPost": "Kugeln, Glaskunst, die Weihnachten in Mexiko schmückt",
+            "imgPost": "newBlog/manoEsferas.png",
+            "fechaPost": "21 de Mayo de 2024",
+            "urlPost": "/blog/post/esferas",
+            "readMoreButton": "Mehr lesen"
+        },
+        {
+            "idPost": "las-10-mejores-ciudades-para-vivir-en-mexico",
+            "tituloPost": "Die 10 besten Städte zum Leben in Mexiko: Ziele, die alles haben",
+            "imgPost": "newBlog/monterrey.jpg",
+            "fechaPost": "21 de Mayo de 2024",
+            "urlPost": "/blog/post/las-10-mejores-ciudades-para-vivir-en-mexico",
+            "readMoreButton": "Mehr lesen"
+        },
+        {
+          "idPost": "10-actividades-que-puedes-realizar-en-Cozumel",
+          "tituloPost": "10 Aktivitäten, die Sie in Cozumel unternehmen können",
+          "imgPost": "newBlog/cozumel.webp",
+          "fechaPost": "21 de Mayo de 2024",
+          "urlPost": "/blog/post/10-actividades-que-puedes-realizar-en-Cozumel",
+          "readMoreButton": "Mehr lesen"
+      },
+      {
+        "idPost": "alexander-von-humboldt-y-acapulco",
+        "tituloPost": "Alexander von Humboldt und Acapulco",
+        "imgPost": "newBlog/alexander_von_humboldt.jpg",
+        "fechaPost": "21 de Mayo de 2024",
+        "urlPost": "/blog/post/alexander-von-humboldt-y-acapulco",
+        "readMoreButton": "Mehr lesen"
+    },
+    {
+      "idPost": "vino-mexicano",
+      "tituloPost": "Mexikanischer Wein",
+      "imgPost": "newBlog/vino-mexicano.jpg",
+      "fechaPost": "21 de Mayo de 2024",
+      "urlPost": "/blog/post/vino-mexicano",
+      "readMoreButton": "Mehr lesen"
+  }
+      ],
+
+      "posts": [
+        {
+          "id": "ruta-del-queso-y-del-vino-en-queretaro",
+          "backButton": "Zurück zum Blog",
+          "urlImg": "newBlog/la-redonda.jpg",
+          "categoriaSlug": "destinos",
+          "categoriaLabel": "Reiseziele",
+          "postReadmoreButton": "Mehr lesen",
+          "name": "Begib dich auf ein Geschmacksabenteuer: Käse- und Weinroute in Querétaro",
+          "post": [
+            {
+              "type": "text",
+              "content": "Bist du ein leidenschaftlicher Gastronomie-Liebhaber und genießt einzigartige Erfahrungen? Dann ist die Käse- und Weinroute in Querétaro genau das Richtige für dich. Tauche ein in eine Tour durch malerische Weinberge und handwerkliche Käsereien, wo du exquisiten Käse und Wein aus der Region probieren, die Herstellungsprozesse kennenlernen und bezaubernde Landschaften genießen kannst."
+            },
+            {
+              "type": "subtitle",
+              "content": "Was gibt es auf der Käse- und Weinroute zu tun?"
+            },
+            {
+              "type": "text",
+              "content": "Probieren von handwerklich hergestelltem Käse: Erkunde lokale Käsereien und probiere eine Vielzahl von frischen, gereiften und unterschiedlich aromatisierten Käsesorten. Erfahre mehr über die Herstellungstechniken und die Käsegeschichte der Region."
+            },
+            {
+              "type": "text",
+              "content": "Besuch von Weinbergen und Weingütern: Besuche Weinberge und Weingüter, wo hochwertige Weine hergestellt werden. Genieße geführte Verkostungen, lerne den Weinherstellungsprozess kennen und wähle deine Favoriten zum Mitnehmen nach Hause aus."
+            },
+            {
+              "type": "text",
+              "content": "Genieße die lokale Gastronomie: Kosten Sie typische Gerichte der Region in Restaurants und Imbissständen. Probieren Sie köstliche Rezepte mit lokalem Käse und Wein."
+            },
+            {
+              "type": "text",
+              "content": "Erlebe einzigartige Erfahrungen: Nehmen Sie an Käse- und Weinherstellungskursen teil, genießen Sie Konzerte und kulturelle Veranstaltungen in den Weinbergen oder entspannen Sie in Spas und Boutique-Hotels inmitten der Natur."
+            },
+            {
+              "type": "subtitle",
+              "content": "Kosten der Käse- und Weinroute"
+            },
+            {
+              "type": "text",
+              "content": "Die Kosten für die Käse- und Weinroute variieren je nach den von Ihnen gewählten Aktivitäten. Einige Optionen beinhalten:"
+            },
+            {
+              "type": "text",
+              "content": "Geführte Touren: Ab $500 MXN pro Person, einschließlich Transport, Besuche von Weinbergen und Käsereien, Verkostungen und Eintrittsgelder für Museen."
+            },
+            {
+              "type": "text",
+              "content": "Maßgeschneiderte Erlebnisse: Ab $1.500 MXN pro Person, einschließlich privater Touren, maßgeschneiderter Verkostungen, Unterkunft in Weinbergen und speziellen Aktivitäten."
+            },
+            {
+              "type": "text",
+              "content": "Individueller Zugang: Einige Käsereien und Weingüter bieten Verkostungen und geführte Touren zu einem individuellen Preis von etwa $100 bis $300 MXN an."
+            },
+            {
+              "type": "subtitle",
+              "content": "Hauptattraktionen der Käse- und Weinroute"
+            },
+            {
+              "type": "text",
+              "content": "Finca Sala Vivé de Freixenet: Ein spanischer Weinberg mit einzigartiger Architektur und qualitativ hochwertigen Weinen."
+            },
+            {
+              "type": "text",
+              "content": "Viñedos Azteca: Ein Weingut mit einer breiten Palette von Weinen und einem Restaurant mit Blick auf die Weinberge."
+            },
+            {
+              "type": "text",
+              "content": "Quesería Vaya Oveja: Eine handwerkliche Käserei, die außergewöhnliche Schafskäse produziert."
+            },
+            {
+              "type": "text",
+              "content": "Finca Sala Vivé de Freixenet: Ein spanischer Weinberg mit einzigartiger Architektur und qualitativ hochwertigen Weinen."
+            },
+            {
+              "type": "text",
+              "content": "Museo del Queso y del Vino: Ein Museum, das Sie auf eine Reise durch die Geschichte von Käse und Wein in Querétaro mitnimmt."
+            },
+            {
+              "type": "subtitle",
+              "content": "Anreise:"
+            },
+            {
+              "type": "text",
+              "content": "Die Käse- und Weinroute befindet sich im Bundesstaat Querétaro, etwa 2 Stunden von Mexiko-Stadt entfernt. Sie können mit dem eigenen Auto, dem Bus oder dem Flugzeug anreisen."
+            },
+            {
+              "type": "subtitle",
+              "content": "Empfehlungen:"
+            },
+            {
+              "type": "text",
+              "content": "Buchen Sie im Voraus: Insbesondere wenn Sie in der Hochsaison reisen, ist es ratsam, Ihre Touren, Verkostungen und Unterkünfte im Voraus zu buchen."
+            },
+            {
+              "type": "text",
+              "content": "Tragen Sie bequeme Kleidung und Schuhe: Sie werden durch Weinberge und Käsereien wandern, daher ist es wichtig, bequeme Kleidung und Schuhe zu tragen."
+            },
+            {
+              "type": "text",
+              "content": "Vergessen Sie nicht Ihre Kamera: Erfassen Sie die wunderschönen Landschaften und unvergesslichen Momente Ihrer Reise."
+            },
+            {
+              "type": "text",
+              "content": "Genießen Sie das Erlebnis: Die Käse- und Weinroute ist eine Erfahrung, die Sie mit allen Sinnen genießen können. Öffnen Sie Ihren Geist, Ihren Gaumen und Ihr Herz, um die gastronomische und kulturelle Vielfalt von Querétaro zu schätzen."
+            },
+            {
+              "type": "text",
+              "content": "Begeben Sie sich auf dieses Geschmacksabenteuer und entdecken Sie die Magie der Käse- und Weinroute in Querétaro!"
+            }
+          ]
+        },
+        {
+            "id": "la-gastronomia-mexicana",
+            "backButton": "Zurück zum Blog",
+            "urlImg": "newBlog/gastronomia-mexicana.jpg",
+            "name": "Die mexikanische Gastronomie: Eine kulinarische Reise durch Geschichte und Tradition.",
+            "categoriaSlug": "experiencias",
+            "categoriaLabel": "Erfahrungen",
+            "postReadmoreButton": "Mehr lesen",
+            "post": [
+              {
+                "type": "text",
+                "content": "Die mexikanische Gastronomie ist ein Universum aus Aromen, Düften und Farben, das weltweit Gaumen erobert hat. Es ist ein kulturelles Erbe von Jahrtausenden, das sich im Laufe der Zeit durch die Vermischung indigener Kulturen mit der spanischen und den Einflüssen anderer Länder bereichert hat."
+              },
+              {
+                "type": "subtitle",
+                "content": "Ein Festmahl der Aromen:"
+              },
+              {
+                "type": "text",
+                "content": "Die mexikanische Küche zeichnet sich durch ihre große Vielfalt an Gerichten aus, von denen jedes seine eigene Geschichte, Tradition und einzigartigen Geschmack hat. Einige der emblematischsten Gerichte sind:"
+              },
+              {
+                "type": "text",
+                "content": "● Mole poblano: Ein komplexer und aromatischer Eintopf mit einer Basis aus Ancho-Chilis, Schokolade, Gewürzen und verschiedenen Zutaten, der aus Puebla stammt."
+              },
+              {
+                "type": "text",
+                "content": "● Tacos: Maisfladen gefüllt mit einer großen Vielfalt von Zutaten wie Fleisch, Fisch, Meeresfrüchten, Gemüse und Käse. Sie sind ein Beispiel für die Einfachheit und Vielseitigkeit der mexikanischen Küche."
+              },
+              {
+                "type": "text",
+                "content": "● Enchiladas: Maisfladen in scharfer Sauce gebadet, gefüllt mit Fleisch, Käse oder Gemüse und mit Käse überbacken."
+              },
+              {
+                "type": "text",
+                "content": "● Pozole: Eine herzhafte Suppe aus Mais und Schweine- oder Hühnerfleisch, typisch für Jalisco und Sinaloa."
+              },
+              {
+                "type": "text",
+                "content": "● Tamales: Maisbrei gefüllt mit Fleisch, Gemüse oder Mole, in Mais- oder Bananenblättern eingewickelt und gedämpft."
+              },
+              {
+                "type": "subtitle",
+                "content": "Über die Gerichte hinaus:"
+              },
+              {
+                "type": "text",
+                "content": "Die mexikanische Gastronomie beschränkt sich nicht nur auf Gerichte, sondern umfasst auch eine große Vielfalt an Getränken, Saucen, Tortillas und Desserts. Einige der beliebtesten Getränke sind Tequila, Mezcal, Pulque und Horchata. Saucen sind ein wesentliches Element, um den Geschmack der Gerichte hervorzuheben, und es gibt sie in verschiedenen Arten, von scharf bis mild. Tortillas, aus Mais oder Mehl gemacht, sind die Grundlage vieler mexikanischer Gerichte. Und Desserts wie Flan, Arroz con Leche und Churros sind der perfekte Abschluss für eine mexikanische Mahlzeit."
+              },
+              {
+                "type": "subtitle",
+                "content": "Ein kulturelles Erbe:"
+              },
+              {
+                "type": "text",
+                "content": "Im Jahr 2010 wurde die traditionelle mexikanische Küche von der UNESCO in die repräsentative Liste des immateriellen Kulturerbes der Menschheit aufgenommen, was ihren kulturellen Wert und ihre Bedeutung für die Identität des mexikanischen Volkes anerkennt."
+              },
+              {
+                "type": "subtite",
+                "content": "Eine kulinarische Reise:"
+              },
+              {
+                "type": "text",
+                "content": "Eine Reise durch Mexiko ist eine einzigartige kulinarische Erfahrung. Jede Region des Landes hat ihre eigene Gastronomie mit einzigartigen Zutaten, Gerichten und Traditionen. Von der Küche des Nordens mit ihrem amerikanischen Einfluss bis zur Küche des Südostens mit ihrem Mayanischen Erbe bietet die mexikanische Gastronomie ein unvergleichliches sensorisches Erlebnis."
+              },
+              {
+                "type": "text",
+                "content": "Neben den zuvor genannten Gerichten gibt es hier einige Beispiele für die Vielfalt der mexikanischen Gastronomie:"
+              },
+              {
+                "type": "subtitle",
+                "content": "Nordmexiko:"
+              },
+              {
+                "type": "text",
+                "content": "1. Carne Asada: Ursprünglich aus der nordmexikanischen Region stammend, ist Carne Asada ein charakteristisches Gericht, bestehend aus marinierten Rindersteaks, die gegrillt werden und mit Weizen-Tortillas, Guacamole, Salsa und Bohnen serviert werden."
+              },
+              {
+                "type": "text",
+                "content": "2. Cabrito: Eine Delikatesse aus Nuevo León, Cabrito ist ein Gericht aus junger Ziegenfleisch gewürzt mit Gewürzen und langsam im Ofen oder über Holzkohlen gegart, bis es zart und saftig ist."
+              },
+              {
+                "type": "subtitle",
+                "content": "Zentralmexiko:"
+              },
+              {
+                "type": "text",
+                "content": "1. Pozole: Ein traditionelles Gericht der mexikanischen Küche, Pozole ist eine dicke Suppe aus cacahuazintle Mais, Schweine- oder Hühnerfleisch und gewürzt mit Chilis und Gewürzen. Es wird mit Beilagen wie Salat, Radieschen, Zwiebeln und Zitrone serviert."
+              },
+              {
+                "type": "text",
+                "content": "2. Chiles en Nogada: Als das repräsentativste Gericht der mexikanischen Gastronomie betrachtet, sind Chiles en Nogada Poblano-Chilis, gefüllt mit Hackfleisch aus Rind und Schwein, in einer Nusssoße gebadet und mit Granatapfel und Petersilie dekoriert, was ein Fest der Farben und Aromen kreiert."
+              },
+              {
+                "type": "subtitle",
+                "content": "Südmexiko:"
+              },
+              {
+                "type": "text",
+                "content": "1. Mole Poblano: Ursprünglich aus Puebla stammend, ist Mole Poblano eine dicke und aromatische Sauce aus Chilis, Schokolade, Gewürzen und anderen Zutaten, die über Hühnchen oder Pute serviert wird und mit Reis und Tortillas serviert wird."
+              },
+              {
+                "type": "text",
+                "content": "2. Tamales: Ein Klassiker der mexikanischen Küche, Tamales sind kleine Maisbrei-Portionen, gefüllt mit einer Vielzahl von Zutaten wie Fleisch, Huhn, Gemüse oder Chilis, eingewickelt in Maisblätter und gedämpft."
+              },
+              {
+                "type": "text",
+                "content": "Die mexikanische Gastronomie ist ein kultureller Schatz, der den Reichtum und die Vielfalt des Landes widerspiegelt. Es ist eine lebendige Küche, die sich ständig weiterentwickelt und sich den Geschmäckern und Bedürfnissen der Menschen anpasst. Wenn Sie die Gelegenheit haben, mexikanisches Essen zu probieren, verpassen Sie es nicht. Es ist eine Erfahrung, die Sie fesseln und Sie nach mehr verlangen wird."
+              }
+
+            ]
+        },
+        {
+          "id": "las-10-mejores-ciudades-para-vivir-en-mexico",
+          "backButton": "Zurück zum Blog",
+          "urlImg": "newBlog/monterrey.jpg",
+          "name": "Die 10 besten Städte zum Leben in Mexiko: Ziele, die alles haben",
+          "categoriaSlug": "planea-tu-viaje",
+          "categoriaLabel": "Plane deine Reise",
+          "postReadmoreButton": "Mehr lesen",
+          "post": [
+            {
+              "type": "text",
+              "content": "Mexiko ist ein Land reich an kultureller Vielfalt, natürlicher Schönheit und Lebensmöglichkeiten. Von kosmopolitischen Städten bis hin zu bezaubernden Kolonialstädten bietet Mexiko eine breite Palette von Optionen für diejenigen, die sich in einem neuen Zuhause niederlassen möchten. In diesem Blog werden wir die 10 besten Städte zum Leben in Mexiko besprechen und ihre einzigartigen Merkmale hervorheben und warum sie bei den Einheimischen und Expatriates so beliebt sind."
+              },
+              {
+              "type": "subtitle",
+              "content": "1. Ciudad de México (CDMX):"
+              },
+              {
+              "type": "text",
+              "content": "Mexiko-Stadt, die Hauptstadt des Landes, ist eine lebendige und vielfältige Metropole, die eine einzigartige Mischung aus Kultur, Geschichte und Moderne bietet. Mit einer reichen kulturellen Szene, einer ausgezeichneten Gastronomie und einem breiten Angebot an Bildungs- und Arbeitsmöglichkeiten ist Mexiko-Stadt eine der aufregendsten und kosmopolitischsten Städte Mexikos."
+              },
+              {
+              "type": "subtitle",
+              "content": "2. Guadalajara, Jalisco:"
+              },
+              {
+              "type": "text",
+              "content": "Als Perle des Westens bekannt, ist Guadalajara die zweitgrößte Stadt Mexikos und ein wichtiges kulturelles und wirtschaftliches Zentrum. Mit einem angenehmen Klima, einer lebendigen Kunst- und Gastronomieszene sowie einer hohen Lebensqualität zieht Guadalajara Bewohner aus dem ganzen Land und dem Ausland an."
+              },
+              {
+              "type": "subtitle",
+              "content": "3. Monterrey, Nuevo León:"
+              },
+              {
+              "type": "text",
+              "content": "Als industrielles und wirtschaftliches Zentrum Nordmexikos ist Monterrey eine moderne und blühende Stadt, die hervorragende Arbeitsmöglichkeiten und eine hohe Lebensqualität bietet. Mit einem halbtrockenen Klima, einer vielfältigen Wirtschaft und einer gut entwickelten Infrastruktur ist Monterrey eine beliebte Wahl für diejenigen, die ein dynamisches städtisches Leben suchen."
+              },
+              {
+              "type": "subtitle",
+              "content": "4. Mérida, Yucatán:"
+              },
+              {
+              "type": "text",
+              "content": "Mérida, die Hauptstadt des Bundesstaates Yucatán, ist eine charmante Kolonialstadt, die für ihre historische Architektur, ihre reiche Kultur und ihren entspannten Lebensstil bekannt ist. Mit einem tropischen Klima, einer blühenden Kunstszene und einer aktiven Expatriatengemeinschaft ist Mérida ein beliebtes Ziel für diejenigen, die eine Veränderung suchen und eine authentische Atmosphäre erleben möchten."
+              },
+              {
+              "type": "subtitle",
+              "content": "5. Querétaro, Querétaro:"
+              },
+              {
+              "type": "text",
+              "content": "Querétaro ist eine malerische und charmante Kolonialstadt, die Geschichte, Schönheit und Moderne vereint. Mit einem gemäßigten Klima, einem wachsenden Wirtschaftssektor und einer hohen Lebensqualität zieht Querétaro gleichermaßen Einheimische und Expatriates an, die nach Ruhe und Sicherheit suchen."
+              },{
+                "type": "subtitle",
+                "content": "6. Puebla, Puebla:"
+                },
+                {
+                "type": "text",
+                "content": "Bekannt für ihre beeindruckende koloniale Architektur ist Puebla eine Stadt voller Charme und Kultur. Mit einem angenehmen Klima, einer einzigartigen Gastronomie und einer strategischen Lage in der Nähe von Mexiko-Stadt ist Puebla eine ausgezeichnete Wahl für diejenigen, die eine authentische Lebenserfahrung in Mexiko suchen."
+                },
+                {
+                "type": "subtitle",
+                "content": "7. Oaxaca, Oaxaca:"
+                },
+                {
+                "type": "text",
+                "content": "Oaxaca ist eine bunte und lebendige Stadt, die ihre Besucher mit ihrer reichen Kultur, ihrer köstlichen Gastronomie und ihrer wunderschönen kolonialen Architektur begeistert. Mit einem subtropischen Klima, einer blühenden Kunstszene und einer lebendigen indigenen Gemeinschaft bietet Oaxaca eine einzigartige und authentische Lebenserfahrung in Mexiko."
+                },
+                {
+                "type": "subtitle",
+                "content": "8. Tijuana, Baja California:"
+                },
+                {
+                "type": "text",
+                "content": "Tijuana, an der Grenze zu den Vereinigten Staaten gelegen, ist eine dynamische und multikulturelle Stadt, bekannt für ihre internationale Gastronomieszene, ihr lebhaftes Nachtleben und ihre blühende verarbeitende Industrie. Mit einem mediterranen Klima, einer vielfältigen Wirtschaft und einer strategischen Lage ist Tijuana eine beliebte Wahl für diejenigen, die berufliche Möglichkeiten und eine einzigartige Lebenserfahrung an der Grenze suchen."
+                },
+                {
+                "type": "subtitle",
+                "content": "9. San Miguel de Allende, Guanajuato:"
+                },
+                {
+                "type": "text",
+                "content": "San Miguel de Allende ist eine bezaubernde und malerische Kolonialstadt, die von der UNESCO zum Weltkulturerbe erklärt wurde. Mit ihrer historischen Architektur, ihrer ruhigen Atmosphäre und ihrer blühenden Künstlergemeinschaft ist San Miguel de Allende ein Zufluchtsort für diejenigen, die einen entspannten und kreativen Lebensstil suchen."
+                },
+                {
+                "type": "subtitle",
+                "content": "10. Cancún, Quintana Roo"
+                },
+                {
+                "type": "text",
+                "content": "Cancún ist ein weltweit bekanntes Touristenziel, das für seine beeindruckenden weißen Sandstrände und türkisfarbenen Gewässer berühmt ist. Neben seiner natürlichen Schönheit bietet Cancún eine Vielzahl von Dienstleistungen, ein lebhaftes Nachtleben und eine wachsende Wirtschaft, was es zu einer attraktiven Wahl für diejenigen macht, die einen tropischen Lebensstil in der mexikanischen Karibik suchen."
+                },
+                {
+                "type": "text",
+                "content": "Dies sind nur einige der vielen wunderbaren Städte, die Mexiko zu bieten hat. Egal, ob Sie das Stadtleben, die Ruhe einer Kolonialstadt oder die Schönheit der Karibik bevorzugen, Sie werden den perfekten Ort finden, um in diesem Land voller Vielfalt und Möglichkeiten ein Zuhause zu finden. Kommen Sie und entdecken Sie die Wunder des Lebens in Mexiko!"
+                }
+
+          ]
+      },
+      {
+        "id": "esferas",
+        "backButton": "Zurück zum Blog",
+        "urlImg": "newBlog/manoEsferas.png",
+        "name": "Kugeln, Glaskunst, die Weihnachten in Mexiko schmückt",
+        "categoriaSlug": "experiencias",
+        "categoriaLabel": "Erfahrungen",
+        "postReadmoreButton": "Mehr lesen",
+        "post": [
+          {
+            "type": "text",
+            "content": "Weihnachten in Mexiko ist eine tief verwurzelte, weltweit einzigartige Tradition, die jedes Jahr mit den Kugeln geschmückt wird, die von den magischen Händen der Meisterhandwerker hergestellt werden, die mit der Technik des geblasenen Glases wunderschöne Kreationen schaffen, die dieses Fest bereichern."
+          },
+          {
+            "type": "text",
+            "content": "Die Magischen Dörfer Tlalpujahua, Michoacán und Chignahuapan, Puebla sind die beiden repräsentativsten Reiseziele, wo Jahr für Jahr Tausende von nationalen und internationalen Besuchern diese ikonischen Produkte erwerben und gleichzeitig die touristischen Attraktionen und die Gastronomie des Ortes genießen."
+          },          
+              {
+                "type": "image",
+                "urlImg": "EsferasVidrioSoplado.jpg"
+              },
+              {
+                "type": "text",
+                "content": "Die Kugeln, die Weihnachten in Mexiko verschönern, sind das Produkt einer Tradition, die von Generation zu Generation weitergegeben wird, seit dem 17. Jahrhundert, als sie in unser Land kamen. Es ist bekannt, dass diese Kugeln bereits vor mehr als 2000 Jahren in China hergestellt wurden."
+              },
+              {
+                "type": "text",
+                "content": "Die Technik gelangte nach Europa und wurde dann seit der Kolonialzeit von den Gemeinschaften in Mexiko übernommen, was zu einer außergewöhnlichen Verschmelzung führte, die bis heute anhält."
+              },
+              {
+                "type": "title",
+                "content": "TLALPUJAHUA UND DIE KUGELMESSE"
+              },
+              {
+                "type": "text",
+                "content": "Die Tradition und Produktion dieser handwerklichen Kreationen ist so wichtig, dass eines der fünf wichtigsten Feste in Tlalpujahua die Kugelmesse ist, die von Oktober bis Dezember stattfindet, um den Besuchern die Gelegenheit zu geben, die breite Vielfalt an Farben, Modellen und Größen der produzierten Kugeln zu sehen."
+              },
+              {
+                "type": "text",
+                "content": "Auf diese Weise werden die Haushalte eines der charakteristischsten Elemente von Weihnachten in Mexiko haben."
+              },
+              {
+                "type": "text",
+                "content": "Tlalpujahua liegt etwa 3 Autostunden von Mexiko-Stadt und 1 Stunde 50 Minuten von Morelia oder Toluca entfernt. Es befindet sich im Nordwesten von Michoacán, angrenzend an Maravatío, Contepec, Senguio und den Bundesstaat Mexiko."
+              },
+              {
+                "type": "text",
+                "content": "Es ist die Heimat des mexikanischen Aufständischen Ignacio López Rayón, weshalb der offizielle Name des Ortes Tlalpujahua de Rayón lautet. Es zeichnet sich durch seine Architektur mit Bauten aus der Kolonialzeit und Häusern mit Balkonen aus und hat zudem eine reiche Bergbaugeschichte."
+              },              
+              {
+                "type": "image",
+                "urlImg": "EsferasChignahuapan.jpg"
+              },
+              {
+                "type": "text",
+                "content": "Wenn du dieses Magische Dorf besuchst, um Kugeln zu kaufen, nutze die Gelegenheit, um unvergessliche Orte wie das Casa-Museum der Rayón-Brüder, das Heiligtum Unserer Lieben Frau vom Karmel oder die Mine Dos Estrellas zu besuchen."
+              },
+              {
+                "type": "text",
+                "content": "Tlalpujahua hat auch bezaubernde Naturstätten in seiner Umgebung, was ihm einen besonderen Charme verleiht. Ein Beispiel dafür ist das Monarchfalter-Heiligtum, das zwischen November und Februar Tausende von Exemplaren dieser Wanderart empfängt, die von Kanada in die Wälder Michoacáns reisen, wie die, die sich an diesem Ort befinden."
+              },
+              {
+                "type": "text",
+                "content": "Der Charme von Tlalpujahua brachte ihm am 27. Juni 2005 die Auszeichnung als Magisches Dorf ein."
+              },              
+              {
+                "type": "image",
+                "urlImg": "EsferaArtesanal.jpg"
+              },
+              {
+                "type": "title",
+                "content": "CHIGNAHUAPAN UND SEINE KUGELWERKSTÄTTEN"
+              },
+              {
+                "type": "text",
+                "content": "Es ist bekannt, dass es in diesem Magischen Dorf in Puebla mehr als 200 Werkstätten und Fabriken gibt, in denen jährlich Dutzende von Millionen Kunstwerken hergestellt werden, die Weihnachten in Mexiko schmücken."
+              },
+              {
+                "type": "text",
+                "content": "Chignahuapan liegt 2 Stunden und 30 Minuten von Mexiko-Stadt, 1 Stunde und 30 Minuten von Pachuca und 2 Stunden und 10 Minuten von der Stadt Puebla entfernt. Es ist ein schönes Dorf, das zwischen Hügeln eingebettet ist, was ihm ein besonderes, besonders kaltes Klima verleiht."
+              },
+              {
+                "type": "text",
+                "content": "Der Mudejar-Pavillon ist einer der Orte, die jeder Besucher sehen muss, wegen des charakteristischen Stils dieser Kunstströmung, die Ende des 19. Jahrhunderts in Spanien entstand, und weil es ein obligatorisches Fotomotiv für jeden Touristen ist."
+              },
+              {
+                "type": "text",
+                "content": "Es gibt auch die Basilika der Unbefleckten Empfängnis und den Waffenplatz, aber die Naturattraktionen sind das repräsentativste in diesem Magischen Dorf. Wasserfälle wie El Cajón und Quetzalapan, seine Lagunen und heißen Quellen sind nur einige der beliebtesten Orte bei den Besuchern."
+              },
+              {
+                "type": "text",
+                "content": "Jetzt weißt du es, Tlalpujahua und Chignahuapan sind die beiden empfehlenswertesten Optionen, nicht nur um die Kugeln für die nächste Weihnachtszeit zu kaufen, sondern auch um die Gelegenheit zu nutzen, zwei unglaubliche Magische Dörfer in Mexiko kennenzulernen."
+              }
+              
+
+        ]
+    },
+    {
+      "id": "10-actividades-que-puedes-realizar-en-Cozumel",
+      "backButton": "Zurück zum Blog",
+      "urlImg": "newBlog/cozumel.webp",
+      "name": "10 Aktivitäten, die Sie in Cozumel unternehmen können",
+      "categoriaSlug": "destinos",
+      "categoriaLabel": "Reiseziele",
+      "postReadmoreButton": "Mehr lesen",
+      "post": [
+        {
+          "type": "text",
+          "content": "Im mexikanischen Karibik befindet sich eines der kostbarsten Inselparadiese Mexikos, Cozumel, dessen natürlicher Reichtum perfekt mit dem Erbe der Maya-Kultur und seiner modernen Tourismusinfrastruktur kombiniert wird, wie dem internationalen Flughafen, seinem Hotelbereich und dem Pier, der für große Kreuzfahrtschiffe geeignet ist."
+          },
+          {
+          "type": "text",
+          "content": "Auch bekannt als die Insel der Schwalben, ist Cozumel, Quintana Roo, der perfekte Ort, um die ausgedehnte Meeresflora und -fauna zu betrachten, da sie sich am zweitgrößten Korallenriff der Welt befindet."
+          },
+          {
+          "type": "text",
+          "content": "Umgeben von den türkisfarbenen Gewässern der Karibik ist mehr als die Hälfte des Gebiets dieses Reiseziels ein geschütztes Naturgebiet, was zur Erhaltung und zur Ausübung eines verantwortungsvollen Tourismus zum Vergnügen der Besucher beiträgt, die entweder mit Booten oder per Luftweg anreisen."
+          },
+          {
+          "type": "text",
+          "content": "Obwohl eine sehr beliebte Option darin besteht, eine Fähre von Playa del Carmen nach Cozumel zu nehmen, bietet diese Insel eine Vielzahl von Aktivitäten, sodass es sich lohnt, ein paar Tage dort zu verbringen, um sie maximal zu genießen."
+          },
+          {
+          "type": "title",
+          "content": "OBLIGATORISCHE AKTIVITÄTEN IN COZUMEL"
+          },
+            {
+              "type": "image",
+              "urlImg": "CozumelBicicleta.jpeg"
+            },
+            {
+              "type": "subtitle",
+              "content": "1. DEN HAFEN UND DAS ZENTRUM VON SAN MIGUEL DE COZUMEL BESUCHEN"
+              },
+              {
+              "type": "text",
+              "content": "Da es einer der Hauptzugangsorte zu diesem Inselziel ist, ist es am besten, den Hafen und das Zentrum von San Miguel de Cozumel zu besuchen, wo sich das Rathaus befindet und ein Teil der historischen und kulturellen Stätten sowie Restaurants, Kunsthandwerks- und Souvenirläden und andere Geschäfte zu finden sind. Außerdem können Sie die modernen Wandgemälde bewundern, die dem Besuch eine sehr malerische und angenehme Note verleihen und ideal sind, um einige gute Fotos zu machen."
+              },
+              {
+              "type": "subtitle",
+              "content": "2. TAUCHEN UND SCHNORCHELN"
+              },
+              {
+              "type": "text",
+              "content": "Dank seiner privilegierten geografischen Lage ist die beste Möglichkeit, die natürlichen Wunder von Cozumel zu genießen, das Tauchen. Ob für Experten oder Anfänger, in verschiedenen Bereichen der Insel gibt es Serviceanbieter, die den Besuchern helfen, diese Aktivität zu erlernen. Wenn Sie es jedoch bevorzugen, können Sie auch nur schnorcheln und die natürlichen Schätze bewundern, die die Tiefen dieser Zone der Karibik zu bieten haben."
+              },
+              {
+              "type": "subtitle",
+              "content": "3. REISE NACH PUNTA SUR"
+              },
+              {
+              "type": "text",
+              "content": "Wie der Name schon sagt, befindet sich am 'unteren' Ende von Cozumel Punta Sur, ein großes Naturgebiet, das sowohl aus ausgedehnten Vegetationsflächen, Mangroven und Korallenriffen als auch aus einem beeindruckenden Leuchtturm und dem Schifffahrtsmuseum besteht, in dem die Geschichte der Maya und Seefahrer dieser Region der mexikanischen Karibik sowie Überreste dieser beeindruckenden Kultur aufbewahrt werden."
+              },
+              {
+              "type": "subtitle",
+              "content": "4. BESUCHEN SIE DAS ARCHÄOLOGISCHE GEBIET VON SAN GERVASIO"
+              },
+              {
+              "type": "text",
+              "content": "Für die Maya ist Ixchel die Göttin der Fruchtbarkeit, der Geburt, der Medizin und der Künste, und dieses archäologische Gebiet von Cozumel ist ihr gewidmet. Obwohl dieses Gebiet die wichtigsten Überreste der Verehrung bewahrt, gibt es entlang von Cozumel verschiedene Manifestationen, die von der Verehrung zeugen, die ihr entgegengebracht wurde; Es ist sogar bekannt, dass früher alle Frauen die Insel mindestens einmal besuchen mussten."
+              },
+              {
+              "type": "subtitle",
+              "content": "5. BEWUNDERN SIE DIE ANKUNFT DER HEILIGEN MAYA-DURCHQUERUNG"
+              },
+              {
+              "type": "text",
+              "content": "Da wir über Ixchel sprechen, ist es auch wichtig, über eines der bedeutendsten Ereignisse in Cozumel zu sprechen, die Heilige Maya-Durchquerung, die heute eine Nachbildung der Route ist, die von den Kanuten gemacht wird, die von Playa del Carmen auf dem Festland abfahren, um dieser Göttin Tribut zu zollen, mit dem Ziel, um Fruchtbarkeit für das Land zu bitten und sich für das Erhaltene zu bedanken."
+              },
+            {
+              "type": "image",
+              "urlImg": "CozumelBuzo.webp"
+            },
+            {
+              "type": "subtitle",
+              "content": "6. DEN CHANKANAAB NATIONALPARK GENIESSEN"
+              },
+              {
+              "type": "text",
+              "content": "Geschichte, Natur und Spaß konzentrieren sich an einem Ort, dem Chankanaab-Nationalpark, der bereits zum Nationalpark erklärt wurde, in dem Sie Aktivitäten wie Schnorcheln, Tauchen und sogar Schwimmen mit Delfinen durchführen oder sich einfach am Strandclub entspannen können; außerdem verfügt er über ein Museum, weshalb es einer der besten Orte für alle Arten von Reisenden ist."
+              },
+              {
+              "type": "subtitle",
+              "content": "7. AUSRUHEN IM CEDRAL"
+              },
+              {
+              "type": "text",
+              "content": "Wenn Cozumel das perfekte Ziel für diejenigen ist, die Ruhe und Entspannung suchen, ist El Cedral die perfekte Ecke auf der Insel. Dieses kleine Dorf hat einen ganz besonderen Charme und ist Zeuge des Laufs der Geschichte vom Aufstieg der Maya-Kultur bis heute. Es ist auch Gastgeber des zweitwichtigsten Festivals des Ziels: die Fiesta del Cedral, am Tag des Heiligen Kreuzes."
+              },
+              {
+              "type": "subtitle",
+              "content": "8. WASSERAKTIVITÄTEN DURCHFÜHREN"
+              },
+              {
+              "type": "text",
+              "content": "Wenn Tauchen und Schnorcheln einige der beliebtesten Aktivitäten in Cozumel sind, gibt es eine breitere Palette, um seine Strände zu genießen. Entlang der Küste finden Sie Optionen zum Stand-up-Paddeln, Jet-Ski, Kajakfahren, immer mit der Unterstützung von Experten, die Ihnen volles Vertrauen geben."
+              },
+            {
+              "type": "image",
+              "urlImg": "CozumelBuzo.jpeg"
+            },
+            {
+              "type": "subtitle",
+              "content": "9. BESUCHEN SIE DIE INSEL DER LEIDENSCHAFT"
+              },
+              {
+              "type": "text",
+              "content": "Nördlich von Cozumel befindet sich ein kleiner Ort namens Isla Pasión, der nur einen Kilometer groß ist. Hier finden wir Mangroven, Riffe und Dschungel, und es gibt Touren, um seinen ruhigen und entspannenden Strand zu genießen, sowie etwas actionreichere Aktivitäten. Aufgrund seiner Merkmale hat es sich auch zu einem schönen Ziel für Hochzeiten entwickelt."
+              },
+              {
+              "type": "subtitle",
+              "content": "10. DER HIMMEL"
+              },
+              {
+              "type": "text",
+              "content": "Im Süden von Cozumel, auf dem Meeresboden mit dem weißen Sand, der das karibische Meer kennzeichnet, finden wir den echten Meereshimmel. Sein Name kommt von den Hunderten von Seesternen, die sich auf einer weiten Fläche befinden, sodass er keinen anderen Namen als Der Himmel, aber im Meer, erhalten könnte. Dieses Highlight zu genießen, ist ideal zum Tauchen oder Schnorcheln und ist ein weiterer Besuch, den kein Tourist verpassen sollte, wenn er nach Cozumel reist."
+              } 
+      ]
+  },
+  {
+    "id": "dia-de-muertos",
+    "backButton": "Zurück zum Blog",
+    "urlImg": "newBlog/dia-de-muertos.webp",
+    "name": "Tag der Toten",
+    "categoriaSlug": "planea-tu-viaje",
+    "categoriaLabel": "Plane deine Reise",
+    "postReadmoreButton": "Mehr lesen",
+    "post": [
+      {
+        "type": "text",
+        "content": "Der Tag der Toten ist vorbei, aber der Duft von Cempasúchil und Weihrauch ist immer noch überall zu spüren. Wir können immer noch den Duft von Pan de Muerto in jeder Ecke atmen, genauso wie die Erinnerung an unsere Verstorbenen in uns weiterlebt. Sie zu erinnern und ihre Erinnerung zu ehren, ist ein wichtiger ritueller Bestandteil unserer Identität und bereichert unsere Sicht auf die Welt. Denn in Mexiko verstehen wir den Tod als einen weiteren Teil des Lebens, aber niemals sein Ende."
+      },
+      {
+        "type": "text",
+        "content": "Wir verstehen auch, dass Leben gleichbedeutend mit Freude ist, und deshalb begrüßen wir unsere Verstorbenen mit Opfergaben. Aber auch die Lebenden, Freunde, geliebte Menschen und sogar Fremde sind in unseren Häusern willkommen, um zu feiern, dass wir am Leben sind und dass Teilen die vernünftigste und warmherzigste Art zu leben ist."
+      },
+      {
+        "type": "text",
+        "content": "Es gibt so viele Formen, wie dieses Fest gefeiert wird, dass es unmöglich wäre, sie hier aufzuzählen. Es gibt Rituale und Veranstaltungen, die so alt sind wie der Tag der Toten, aber jedes Jahr entstehen neue Möglichkeiten, ihn zu feiern. Dabei wird die Kreativität eines stolzen Volkes zum Ausdruck gebracht, das seine Wurzeln bewahrt und die Traditionen und Riten bewahrt, die die UNESCO als immaterielles Kulturerbe der Menschheit anerkennt, wie es 2008 für unseren geliebten Tag der Toten erklärt wurde."
+      },
+      {
+        "type": "text",
+        "content": "Von Sinaloa bis Yucatán, von Tamaulipas bis Tabasco verwandelt sich ganz Mexiko und drückt seine Identität auf erstaunliche Weise aus. Deshalb teilen wir dieses Fest mit eingeladenen Influencern aus verschiedenen Ländern Lateinamerikas: Isa Terrones (Peru), Christian Byfield (Kolumbien), Kattya Soto (Peru), Leonel Mijangos (Guatemala), Sergio Ríos (Peru) und Andrea Pedrero (Mexiko)."
+      },      
+          {
+            "type": "image",
+            "urlImg": "DIA-DE-MUERTOS-INFLUENCER_05.jpeg"
+          },
+          
+          {
+            "type": "text",
+            "content": "Die Content-Ersteller besuchten Ziele wie Aguascalientes, Michoacán, Mexiko-Stadt und Guanajuato, wo sie live miterleben konnten, wie Mexiko sich mit Farben, Düften und Aromen füllt, die alle unsere Sinne anregen. Sie konnten die Energie und Schönheit unseres Landes im Rahmen des Tag der Toten mit ihren Tausenden von Followern teilen."
+          },
+          {
+            "type": "text",
+            "content": "Ihre Reise wäre ohne das Professionalität und die Freundlichkeit von Trösten Transport, einem Transportunternehmen, das Dienstleistungen für Reisen, Personentransporte, geschäftliche und executive Transporte, Shuttle-Service zum Flughafen, Nachttransfers und andere anbietet, nicht möglich gewesen. Ebenso verfügen sie über verschiedene Einheiten mit bis zu 21 Passagieren, die verschiedene Vorteile bieten, von denen unsere Gäste während dieser Tag der Toten-Erfahrung bei den erforderlichen Transfers profitieren konnten."
+          },
+          {
+            "type": "text",
+            "content": "Diese Reise endete spektakulär mit der Teilnahme am großen Tag der Toten-Umzug in Mexiko-Stadt, der mit über 4.000 Teilnehmern gefeiert wurde und mehr als 1 Million Zuschauer mit Kunst-, Zirkus- und Musikdarbietungen begeisterte. Es war uns eine Freude, einen so besonderen Tag zu teilen, der uns gleichzeitig bewegt und erfreut. Die mexikanische Gastfreundschaft ist etwas, worauf wir stolz sind, und wir hoffen, dass Touristen aus der ganzen Welt uns am Tag der Toten besuchen, denn wir dürfen unsere geliebten Verstorbenen, die uns vorausgegangen sind, nie vergessen. Wenn wir uns an sie erinnern, werden sie immer leben."
+          }
+          
+    ]
+},
+{
+  "id": "alexander-von-humboldt-y-acapulco",
+  "backButton": "Zurück zum Blog",
+  "urlImg": "newBlog/alexander_von_humboldt.jpg",
+  "name": "Alexander von Humboldt und Acapulco",
+  "categoriaSlug": "destinos",
+  "categoriaLabel": "Reiseziele",
+  "postReadmoreButton": "Mehr lesen",
+  "post": [
+    {
+      "type": "text",
+      "content": "Es gibt unzählige Essays, Artikel und Bücher über Alexander von Humboldt, in denen eine oder mehrere seiner vielen Facetten als Biologe, Humanist, Geograf und Astronom hervorgehoben werden. Doch wenig wird über seinen Beitrag als Förderer des Tourismus in Mexiko gesprochen."
+  },
+  {
+      "type": "text",
+      "content": "Angespornt von seinen privaten Tutoren war er ein großer Liebhaber der Natur und des Reisens."
+  },
+  {
+      "type": "text",
+      "content": "Nach dem Tod seiner Mutter im Jahr 1797 gab er seine vielversprechende Karriere als Regierungsbeamter auf und ging nach Paris, Frankreich, wo er später den Botaniker Aimé Bonpland kennenlernte, mit dem er nicht nur eine Freundschaft, sondern auch das Interesse an wissenschaftlichen Reisen teilte."
+  },
+  {
+      "type": "text",
+      "content": "Am 5. Juni 1799, nachdem sie vom spanischen König Karl IV. die Durchreisegenehmigung erhalten hatten, um die amerikanischen Provinzen unter spanischer Herrschaft zu erkunden, segelten sie nach Venezuela."
+  },
+  {
+      "type": "text",
+      "content": "Nach einer faszinierenden Reise durch den amerikanischen Kontinent landete Humboldt am 23. März 1803 in Acapulco, von Guayaquil kommend. Überrascht von der Schönheit der Bucht von Santa Lucia zog er seine Stiefel aus, um auf dem Sand des paradiesischen Strandes zu gehen."
+  },
+  {
+      "type": "text",
+      "content": "Acapulco verzauberte, verzaubert und wird weiterhin auf den ersten Blick verzaubern, und von Humboldt war nicht unempfänglich für seinen Charme. Sein „Politischer Essay über das Königreich Neuspanien“ ist ein eindeutiger Beweis dafür."
+  },
+  {
+      "type": "text",
+      "content": "In seinem Essay, neben der Hervorhebung der Bedeutung, die Acapulco für den Handel der damaligen Zeit hatte, finden sich folgende Beschreibungen:"
+  },
+  {
+      "type": "text",
+      "content": "„Einer der schönsten Häfen der Welt“,"
+  },
+  {
+      "type": "text",
+      "content": "„Der schönste von allen an der Küste des Pazifischen Ozeans“,"
+  },
+  {
+      "type": "text",
+      "content": "„Es sieht aus wie ein riesiger Teich, geschaffen von Menschenhand“,"
+  },
+  {
+      "type": "text",
+      "content": "„Eine riesige Muschel, eingeschnitten zwischen Felsen“."
+  },
+  {
+      "type": "text",
+      "content": "Zusätzlich zu dem Vorhergehenden und nachdem er in seinen Schriften die Schönheiten von Acapulco beschrieben hatte, nannte er die Orte in Mexiko-Stadt, die Reisende am meisten anziehen: die Kathedrale, die Münzprägeanstalt, die Bergbauakademie und andere."
+  },
+  {
+      "type": "text",
+      "content": "Das damalige Neuspanien war eines der beeindruckendsten Erlebnisse für den Reisenden, Entdecker und Tourismus-Pionier in Mexiko."
+  },
+  {
+      "type": "text",
+      "content": "Dank dieser und anderer Schriften lernten die Menschen in Europa und anderen Teilen der Welt eine andere Seite unseres Landes kennen, und die Reisenden interessierten sich mehr für das heutige Guerrero, Morelos, Puebla, Hidalgo, Michoacán, Guanajuato, Querétaro, den Bundesstaat Mexiko und Veracruz."
+  },
+  {
+      "type": "text",
+      "content": "Um den Beitrag seiner Arbeiten für unser Land zu verdeutlichen, reicht es zu sagen, dass Präsident Benito Juárez ihm 1859 den Titel „Benemérito de la Patria“ verlieh."
+  },
+  {
+      "type": "text",
+      "content": "Ohne Zweifel markierte Alexander von Humboldt einen Wendepunkt, damit die Welt die Schönheit und Bedeutung Mexikos und vor allem des majestätischen Hafens von Acapulco kennenlernte."
+  }
+  
+  ]
+},
+{
+  "id": "vino-mexicano",
+  "backButton": "Zurück zum Blog",
+  "urlImg": "newBlog/vino-mexicano.jpg",
+  "name": "VMexikanischer Wein",
+  "categoriaSlug": "experiencias",
+  "categoriaLabel": "Erfahrungen",
+  "postReadmoreButton": "Mehr lesen",
+  "post": [
+    {
+      "type": "text",
+      "content": "Vor einigen Monaten erhielt Mexiko Besuch von einer der wichtigsten und bekanntesten Persönlichkeiten der Weinbranche weltweit, Jancis Robinson. Sie ist eine englische Kritikerin, Journalistin und Herausgeberin wichtiger Bücher und Veröffentlichungen zum Thema Wein, Beraterin für den Weinkeller von Königin Elisabeth II. von England, wöchentliche Kolumnistin der Financial Times und vieles mehr."
+  },
+  {
+      "type": "text",
+      "content": "Die 73-jährige Jancis kam nach Mexiko-Stadt und fragte sich, was mexikanischen Wein so attraktiv macht. Was ist der Grund dafür, dass mexikanische Weine, als sie begannen, an den wichtigsten Wettbewerben der Welt teilzunehmen, Goldmedaillen von spanischen, italienischen und sogar französischen Weinen abräumten? Seit etwa 5 Jahren bis zum Jahr 2023 ist Mexiko für die Herstellung von qualitativ hochwertigen Weinen bekannt geworden, was dazu führte, dass wichtige Persönlichkeiten unser Land ins Visier nahmen."
+  },
+  {
+      "type": "text",
+      "content": "Die großartige Nacht, die Robinson und eine sorgfältige Auswahl von 27 mexikanischen Weinen verbrachten, die die besten Eigenschaften unserer Weinkultur repräsentierten, die im majestätischen Weinkeller des Weltweinwettbewerbs in Brüssel, der sich im Herzen von Mexiko-Stadt befindet, gefeiert wurde, zerstreute viele ihrer Zweifel. Carlos Borboa, der Direktor des Weinkellers, Manuel Negrete und Sandra Fernández, und mexikanische Sommeliers, waren dafür verantwortlich, Jancis jeden der 27 Weine, ihre Regionen und Eigenschaften vorzustellen."
+  },
+  
+  {
+      "type": "text",
+      "content": "Bis vor kurzem war der Weintourismus, d.h. der Tourismus in Weinanbaugebieten, nicht sehr bekannt. Es handelt sich um eine Aktivität, die nicht nur die Produzenten, sondern auch alle Arbeiter und die umliegenden Bevölkerungen durchdringt und jedes Jahr mehr Besucher aus der ganzen Welt anzieht. Liebhaber von gutem Wein und gutem Essen reisen Kilometer weit aus ihren Heimatländern an, um zu genießen, was unser mexikanischer Weinbau zu bieten hat. Denn mit dieser Qualität an Weinen, kombiniert mit unserer spektakulären mexikanischen Küche, was könnte uns noch fehlen?"
+  }
+  ]
+}
+      ]
+}

@@ -1,0 +1,313 @@
+{
+	"homeBienvenido": "欢迎来到VisitMexico：",
+	"homeBienvenidoText": "您发现墨西哥美丽的门户网站探索使墨西哥成为无与伦比目的地的文化财富、迷人的历史和令人印象深刻的风景。在 VisitMexico，我们带您参观这个美丽国家最具象征意义的地方和隐藏的角落",
+	"homeDescubre": "探索令人难忘的目的地VisitMexico",
+	"homeDescubreText": "从古老的玛雅废墟到白色的沙滩，墨西哥提供了各种各样的目的地，让你喘不过气来。探索充满魅力的殖民城市，沉浸在考古区的前西班牙历史中，在墨西哥加勒比的天堂海滩上放松身心。",
+	"homeSumergete": "通过VisitMexico沉浸在墨西哥文化中",
+	"homeSumergeteText": "墨西哥文化充满活力、多样性和活力。探索传统节日的乐趣，惊叹于殖民地建筑，品尝美味的墨西哥美食。在 VisitMexico，我们带你经历真正的经历，这些经历将把你与墨西哥的真正本质联系起来。",
+	"homeAventuras": "VisitMexico的户外冒险",
+	"homeAventurasText": "通过我们的户外体验，探索墨西哥的野生自然和令人印象深刻的风景。从在墨西哥湾清澈的水域进行水上运动到在恰帕斯丛林中进行令人兴奋的徒步旅行，在VisitMexico，我们带你去发现你永远不会忘记的冒险。",
+	"homePlanifica": "计划你的墨西哥之旅在VisitMexico",
+	"homePlanificaText": "在VisitMexico，我们帮助你计划你梦想的旅程。找到有关墨西哥各地住宿、交通、活动和活动的有用信息。有了我们的旅行指南和建议，您将能够设计一种独特而个性化的体验，让您发现墨西哥最好的东西。",
+	
+	"galeria": [
+    {
+      "image": "../../assets/img/header/mexicoatravesdelosanos.webp",
+      "caption": "<div>墨西哥多年來<br/>保護墨西哥的過去</div>"
+    },
+    {
+      "image": "../../assets/img/header/piramide.webp",
+      "caption": "<div>探索考古遺址<br/>發現他們</div>"
+    },
+	{
+		"image": "../../assets/img/header/dia-de-muertos (1).webp",
+		"caption": "<div>亡靈節即將到來<br/>世界上最受歡迎的墨西哥約會</div>"
+	  },
+	  {
+		"image": "../../assets/img/header/PUEBLOS-MAGICOS.webp",
+		"caption": "<div>新的神奇城鎮<br/> 2023 年預約</div>"
+	  }
+	],
+
+	"titleListKnow": "你想知道墨西哥什么吗?",
+	"subtitleListKnow": "墨西哥是一个充满文化、风景、体验、美食等的国家。",
+	"listKnow": [
+		{
+		  "image": "trenMaya.webp",
+		  "title": "玛雅火车",
+		  "fields": [
+			{
+			  "quantity": "5",
+			  "description": "Estados"
+			},
+			{
+			  "quantity": "1,554",
+			  "description": "KM"
+			},
+			{
+			  "quantity": "21",
+			  "description": "Estaciones de tren"
+			},
+			{
+			  "quantity": "117",
+			  "description": "Experiencias"
+			}
+		  ],
+		  "dir": "/tren-maya"
+		},
+		{
+		  "image": "MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp",
+		  "title": "目的地",
+		  "fields": [
+			{
+			  "quantity": "32",
+			  "description": "estados llenos de sorpresas"
+			},
+			{
+			  "quantity": "2,469",
+			  "description": "ciudades y municipios"
+			},
+			{
+			  "quantity": "10",
+			  "description": "Ciudades Patrimonio de la Humanidad por la UNESCO"
+			},
+			{
+			  "quantity": "440",
+			  "description": "playas"
+			}
+		  ],
+		  "dir": "/destinos"
+		},
+		{
+		  "image": "oaxacaguelaguetza.webp",
+		  "title": "Pueblos Mágicos",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "¡Ya son 177 Pueblos Mágicos!"
+			},
+			{
+			  "quantity": "",
+			  "description": "Opiniones"
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			}
+		  ],
+		  "dir": "/pueblos-magicos"
+		},
+		{
+		  "image": "f1evento.webp",
+		  "title": "国际活动",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "Eventos de talla internacional que ponen la atención del mundo en México."
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			}
+		  ],
+		  "dir": "/eventos-internacionales"
+		},
+		{
+		  "image": "CALENDARIO.webp",
+		  "title": "日历",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "Los eventos y fechas que deben estar en tu agenda para asistir."
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			}
+		  ],
+		  "dir": "/calendario"
+		},
+		{
+		  "image": "MOR_xochicalco_t_156-_1__11zon.webp",
+		  "title": "部落格",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "Las notas y tendencias turísticas para tu siguiente viaje."
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			},
+			{
+			  "quantity": "",
+			  "description": ""
+			}
+		  ],
+		  "dir": "/blog"
+		},
+		{
+		  "image": "videos.webp",
+		  "title": "视频",
+		  "fields": [
+			{
+			  "quantity": "",
+			  "description": "El destino del mes"
+			},
+			{
+			  "quantity": "",
+			  "description": "Lo imperdible"
+			},
+			{
+			  "quantity": "",
+			  "description": "Tips de personalidades"
+			},
+			{
+			  "quantity": "",
+			  "description": "Trivias"
+			}
+		  ],
+		  "dir": "/videos"
+		}
+	],
+	"listMostViewed": {
+		"title":"访问量最多的",
+		"sections": [
+		  {
+			"name": "玛雅火车",
+			"image": "trenMaya.webp",
+			"dir": "/tren-maya"
+		  },
+		  {
+			"name": "婚礼",
+			"image": "NoviosGuerrero.webp",
+			"dir": "/experiencias/bodas"
+		  },
+		  {
+			"name": "海滩",
+			"image": "Nuevo-Vallarta.webp",
+			"dir": "/experiencias/sol-y-playa"
+		  },
+		  {
+			"name": "墨西哥风味",
+			"image": "Mole-Poblano.webp",
+			"dir": "/experiencias/rutas-gastronomicas"
+		  },
+		  {
+			"name": "神奇小镇",
+			"image": "PUEBLOS-MAGICOS.webp",
+			"dir": "/pueblos-magicos"
+		  }
+		]
+	},
+	"listSunBeachAndSand": {
+		"image": "Qroo_cancun_playa108.webp",
+		"title": "阳光、海滩和沙滩",
+		"subtitle": "墨西哥有最好的海滩",
+		"description": "墨西哥优越的地理位置使其能够“沐浴”在太平洋、墨西哥湾和加勒比海，这使我国成为寻找阳光和海滩的游客的天堂。超过11000公里的长海岸线使每个海滩都是独一无二的，有不同色调的水和不同质地的沙子。",
+		"button": {
+		  "title": "来吧",
+		  "dir": "/experiencias/sol-y-playa"
+		}
+	},
+	"listHomeTravelInspiration": {
+		"title": "旅行灵感",
+		"destinations": [
+		  {
+			"title": "顶级目的地推荐",
+			"image": "CiudaddeMexico_Portada.webp",
+			"dir": "/videos#destinos-mes"
+		  },
+		  {
+			"title": "必要参观的地方",
+			"image": "Chiapas-agua_azul-01.webp",
+			"dir": "/videos#imperdible"
+		  },
+		  {
+			"title": "已经177 PUEBLOS MÁGICOS了",
+			"image": "YUC_Cusaman_Cenotes152.webp",
+			"dir": "/pueblos-magicos"
+		  },
+		  {
+			"title": "旅行提示",
+			"image": "QuintanaRoo.webp",
+			"dir": "/videos#asi-viajan"
+		  }
+		]
+	},
+	"homeSlides": [
+		{
+			"key": "1",
+			"content": "https://www.youtube.com/embed/3wxzXkp29bU",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		},
+		{
+			"key": "2",
+			"content": "https://www.youtube.com/embed/FYBaZb3dwJg",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		},
+		{
+			"key": "3",
+			"content": "https://www.youtube.com/embed/QvTWuzazGtc",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		},
+		{
+			"key": "4",
+			"content": "https://www.youtube.com/embed/Q601HFpAJJ0",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		},
+		{
+			"key": "5",
+			"content": "https://www.youtube.com/embed/ClDXumthxZM",
+			"title": "Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+		}
+	],
+	"listRecentArticles": {
+		"title": "最近的文章",
+		"subtitle": "我们的博客可以帮助您了解一些提示或细节，如果您决定前往墨西哥的一些旅游景点，您必须知道这些提示或细节。",
+		"button" : {
+		  "name": "查看全部",
+		  "dir": "/blog"
+		},
+		"articles": [
+		  {
+			"image": "manoEsferas.png",
+			"date": "15/07/2022",
+			"title": "圣诞玻璃球挂件，装饰墨 ⻄哥圣诞节的玻璃艺术",
+			"type": "Categorias",
+			"category": "Curiosidades"
+		  },
+		  {
+			"image": "titulo-cozumel.jpg",
+			"date": "15/07/2022",
+			"title": "在 Cozumel（科苏梅尔岛）可以进行的 10 项活动 E",
+			"type": "Categorias",
+			"category": "Curiosidades"
+		  }
+		]
+	}
+}

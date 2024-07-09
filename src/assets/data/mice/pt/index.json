@@ -1,0 +1,104 @@
+{
+    "title":"Turismo para reuniões, incentivos, congressos e exposições | MICE",
+    "urlVideoTop": "https://www.youtube.com/embed/x2bMr85mhEg?autoplay=1&mute=1&loop=1&rel=0",
+    "subtitle": "México como protagonista global",
+    "boldText": "O México é um país altamente competitivo mundialmente na indústria do turismo de reuniões",
+    "paragraph": "porque possui ampla infra-estrutura para a realização de congressos, viagens de incentivo, conferências, convenções, reuniões e exposições; além de excelente qualidade e cordialidade no atendimento.",
+    "imageUrl": "mice/imgprotagonista.png",
+    "slides": [
+        "Turismo de reunião representou 1,5% do PIB em 2022  (Fonte COMIR)",
+        "Em termos de emprego, em 2022 foram gerados cerca de 1 milhão de empregos diretos e indiretos, nos quais se destacam os jovens e as mulheres.  (Fonte COMIR)",
+        "Além do mais, houve uma ocupação hoteleira de 18,88%"
+    ],
+    "reunionesTitle":"Reuniões no México: perspectiva para 2040",
+    "reunionesItem1Title":"Um México seguro",
+    "reunionesItem1Parrafo1":"Devido ao crescimento moderado demonstrado pela atividade de viagens, o México mantém a sexta posição n",
+    "reunionesBoldText": "ranking de Turismo da ONU em 2023",
+    "reunionesAfterBoldText": "em chegada de viajantes estrangeiros e em nono lugar em termos de captação de divisas por turismo.",
+    "reunionesItem1Parrafo2":"No final de 2022, previa-se uma receita de visitantes internacionais de 27.429 milhões de dólares, ou seja, 11,6% a mais que em 2019; e o Investimento Estrangeiro Direto em Turismo (IEDT) para o México ascendeu a 3.147 milhões de dólares, de janeiro a setembro de 2022, superando o IDE registado em todo o ano de 2019, que foi de 1.095 milhões de dólares.",
+    "reunionesItem1Parrafo3":"Estes números mostram que o México é um destino com múltiplas vantagens para o investimento, o que gera confiança e segurança jurídica no atendimento ao turismo.",
+    "imgItem1":"mice/reuniones1.png",
+    "reunionesItem2Title":"Um México conectado",
+    "reunionesItem2Parrafo1":"Nosso país possui 780.511 quilômetros de infraestrutura rodoviária e uma rede aeroportuária de 78 aeroportos, operando 1.503 rotas de “origem-destino”, das quais 485 permitem conectividade com 44 nações do mundo.",
+    "reunionesItem2Parrafo2":"O Aeroporto de Chetumal, em Quintana Roo, também foi ampliado e remodelado; Os aeroportos de Barrancas del Cobre, em Creel, Chihuahua, estão sendo modernizados, além do aeroporto de Tepic, Nayarit; de Tamuín, San Luis Potosí; de Porto Escondido, Oaxaca; e é construído o terminal aéreo de Tulum, em Quintana Roo; aeroportos que terão um grande impacto no turismo regional.",
+    "imgItem2":"mice/reuniones2.png",
+    "reunionesItem3Title":"Um México com infraestrutura de classe mundial para o turismo de reuniões",
+    "reunionesItem3Parrafo1":"O México possui em todo o seu território 54 locais ideais para o turismo de reuniões, que oferecem instalações adequadas para a realização de eventos de 100 a mais de 20 mil pessoas, além de serem equipados com a mais alta tecnologia e contar com suprimentos de primeira classe.",
+    "reunionesItem3Parrafo2":"Vale ressaltar que 27 cidades mexicanas já contam com escritório de convenções e visitantes, para promover o turismo de reuniões.",
+    "imgItem3":"mice/reuniones3.png",
+    "reunionesItem4Title":"Um México com serviços turísticos integrados e de alta qualidade",
+    "reunionesItem4Parrafo1":"O México é um país altamente competitivo para o turismo de reuniões porque oferece uma série de incentivos que o posicionam como um destino com amplas oportunidades para o estabelecimento de negócios rentáveis ​​e de sucesso.",
+    "reunionesItem4Parrafo2":"O país integra horizontal e verticalmente os serviços turísticos associados à indústria de reuniões, com custos competitivos e de elevada qualidade, através do fortalecimento do capital humano, da cadeia produtiva do sector e de produtos turísticos integrais que geram sinergias entre reuniões, turismo de sol e praia e turismo cultural.",
+    "imgItem4":"mice/reuniones4.png",
+    "reunionesItem5Title":"México como protagonista global",
+    "reunionesItem5Parrafo1":"No turismo de reuniões, o México ocupa o 23º lugar no mundo e o 5º no continente americano, com 197 congressos empresariais.",
+    "reunionesItem5Parrafo2":"O sucesso deste segmento turístico está também ligado à riqueza natural, cultural e gastronómica do país.",
+    "imgItem5":"mice/reuniones5.png",
+    "titleClasificacion": "Classificação turismo de reuniões",
+    "descripcionClasificacion": "",
+    "clasificacionColumnas": [
+        {
+          "imagen": "mice/convenciones_purple.svg",
+          "descripcion": "Convenções e reuniões corporativas ou de negócios"
+        },
+        {
+          "imagen": "mice/congresos_purple.svg",
+          "descripcion": "Congressos de diversas associações e indústrias, bem como de sociedades profissionais e científicas"
+        },
+        {
+          "imagen": "mice/ferias_purple.svg",
+          "descripcion": "Feiras e exposições de negócios"
+        },
+        {
+          "imagen": "mice/incentivos_purple.svg",
+          "descripcion": "Viagens de incentivo"
+        },
+        {
+          "imagen": "mice/otras_reuniones_purple.svg",
+          "descripcion": "Outras reuniões"
+        }
+      ],
+      "mexicoTitulo": "Conhecendo destinos turísticos no México",
+      "mexicoParrafoSuperior": "O México é um lugar estratégico para fazer negócios, conhecer o turismo e realizar importantes congressos, exposições e feiras graças à sua localização geográfica em relação aos Estados Unidos e à América Latina.",
+      "miceCallToAction": "Para saber mais, acesse: ",
+      "mexicoParrafoInferior": "O turismo de  reuniões é particularmente relevante porque funciona como um gatilho para o investimento, o desenvolvimento empresarial e o crescimento econômico, e contribui para melhorar a reputação das cidades anfitriãs.",
+      "collageColumnas": [
+        {
+          "imagen": "mice/collage/1.jpg",
+          "texto": "Showcenter Complex, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/2.jpg",
+          "texto": "Baja California Center"
+        },
+        {
+          "imagen": "mice/collage/3.jpg",
+          "texto": "Centro Internacional de Convenções, Yucatán"
+        },
+        {
+          "imagen": "mice/collage/10.jpg",
+          "texto": "Palácio de convenções, Zacatecas"
+        },
+        {
+          "imagen": "mice/collage/5.jpg",
+          "texto": "Cintermex, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/6.jpg",
+          "texto": "Auditório Pabellón M, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/7.jpg",
+          "texto": "Poliforum, Guanajuato"
+        },
+        {
+          "imagen": "mice/collage/8.jpg",
+          "texto": "Centro Internacional de Convenções de Querétaro"
+        },
+        {
+          "imagen": "mice/collage/9.jpg",
+          "texto": "Foro Didi Pabellón M, Nuevo León"
+        }
+      ],
+      "mapaMexico": "mice/mapa.svg"
+}

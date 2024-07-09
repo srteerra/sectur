@@ -1,0 +1,68 @@
+{
+
+    "trenTitle1": "Descubre el Encanto del Sureste de México en el Tren Maya",
+    "trenP1": "El Tren Maya es un importante proyecto de infraestructura en México. Se trata de una propuesta de sistema ferroviario que tiene como objetivo conectar destinos turísticos y sitios arqueológicos en los estados del sureste de México, como Chiapas, Tabasco, Campeche, Yucatán y Quintana Roo. El Tren Maya te llevará a descubrir los tesoros ocultos y la rica cultura de esta fascinante región.",
+
+    "trenTitle2": "",
+    "trenP2": "Disfruta de la auténtica hospitalidad mexicana a bordo del Tren Maya. Con cómodas instalaciones, deliciosa comida regional y un servicio excepcional, tu viaje será una experiencia única y memorable que te permitirá conectar con la gente y la cultura de México.",
+
+    "trenTitle3": "",
+    "trenP3": "Desde las selvas de Chiapas hasta las playas de Quintana Roo, este viaje estará lleno de  paisajes espectaculares y destinos históricos que te dejarán sin aliento.",
+
+    "trenTitle4": "",
+    "trenP4": "",
+
+    
+
+    "title": "TRAIN MAYA",
+    "subTitle":"TRAIN MAYA",
+    "subTitle2":"IMÁGENES",
+    "subTitle3":"VIDEOS",
+    "text":"",
+    "imgUrl":"trenMaya/TulumQuintanaRoo.webp",
+    "urlVideo": "https://www.youtube.com/embed/r8EDwvRJXIE?autoplay=1&mute=1&loop=1&rel=0",
+    "subText": [
+       
+    ],
+    "gallery":[
+        {
+            "title":"",
+            "imgUrl":"trenMaya/BacalarQuintanaRoo.webp",
+            "clase":"imagen1"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/ChichenItzaYucatan.webp",
+            "clase":"imagen2"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/IzamalYucatanpan.webp",
+            "clase":"imagen3"
+        }
+    ],
+    "videos":[
+        {
+        "title":"Campeche",
+        "urlVideo":"https://www.youtube.com/embed/HvBIXBIGt3k?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+        "title":"Tabasco",
+        "urlVideo":"https://www.youtube.com/embed/noJ6i36csXQ?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Chiapas",
+            "urlVideo":"https://www.youtube.com/embed/KeQ___kEs2Q?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Yucatán",
+            "urlVideo":"https://www.youtube.com/embed/aDjSaYjccbE?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Quintana Roo, Cancún",
+            "urlVideo":"https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=0&mute=0&loop=1&rel=0"
+        }
+
+    ]
+    
+}

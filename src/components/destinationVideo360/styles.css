@@ -1,0 +1,17 @@
+.state-video-360-ctn {
+  height: 100%;
+  width: 100%;
+  aspect-ratio: 4/3;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+@media (min-width: 744px) {
+  
+}
+
+@media screen and (min-width: 1353px) {
+  .state-video-360-ctn {
+    aspect-ratio: 16 / 9;
+  }
+}

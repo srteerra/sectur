@@ -1,0 +1,65 @@
+{
+    "id": "vinos",
+    "title": "ワイン",
+    "subtitle": "ワインを発見する",
+    "gallerySlider": [
+        {
+            "urlImg": "BCN_valle_guadalupe_22.webp",
+            "name": "バジェ・デ・グアダルーペ、バハ・カリフォルニア",
+            "dir": "https://www.ensenada.travel/la-ruta-del-vino/valle-de-guadalupe/"
+        },
+        {
+            "urlImg": "8_VINOS_DE_COAHUILA.webp",
+            "name": "コアウイラ・ワインルート",
+            "dir": "https://hazturismoencoahuila.mx/vinos-de-coahuila"
+        },
+        {
+            "urlImg": "uvasaguascalientes.webp",
+            "name": "アグアスカリエンテス・ワインルート",
+            "dir": "https://rutadelvino.aguascalientes.gob.mx/"
+        },
+        {
+            "urlImg": "Region_vinos_Cava_Freixenetqueretaro.webp",
+            "name": "ケレタロ・ワインルート",
+            "dir": "https://queretaro.travel/tipo-de-destino/ruta-arte-queso-y-vino/"
+        }
+    ],
+    "urlImg": "uvabajacalifornia.webp",
+    "description": [
+        {
+            "text": "メキシコでは、試飲する人を大いに楽しませ、優れた官能特性を持つ高品質のワインが造られています。テイスティング、ペアリング、ブドウ畑見学などのアクティビティを通して、より味わうことができ、家族・恋人・友人と共に楽しめるユニークな体験ができます。"
+        },
+        {
+            "text": "メキシコには、世界的に知られている10のワインルートがあります（アグアスカリエンテス、バハ・ カリフォルニア、コアウィラ、グアナファト、イダルゴ、ケレタロ）。それぞれの州で、記憶に残る美食体験があなたを待っています。"
+        },
+        {
+            "text": "メキシコ観光省、メキシコワイン協議会、各州政府観光局共同で、メキシコのワインツーリズムやメキシコに存在しているワインルート・製品を地元や国内外の観光客に知ってもらう目的で、このカタログ初版が発行されています。"
+        }
+    ],
+    "cardsGallery": [
+    {
+      "title": "Feria de la Muñeca Artesanal en Amealco, Querétaro",
+      "date": "18 al 21 de noviembre, 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "De Mar a Mar, Baja California Sur",
+      "date": "1 al 3 de diciembre, 2023",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo se ilumina. Manzanillo, Colima",
+      "date": "31 de diciembre 2023 - 1 de enero 2024",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ]
+}

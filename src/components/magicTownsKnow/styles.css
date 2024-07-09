@@ -1,0 +1,116 @@
+.magic-towns-know-ctn {
+	box-sizing: border-box;
+	padding: 32px 0;
+	text-align: center; /* Centrar elementos horizontalmente */
+  }
+
+  .magic-towns-know-ctn {
+	box-sizing: border-box;
+	padding: 90px 0;
+	background-image: url('../../assets/img/header/liston-azul.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 90px;
+	background-position: top;
+  }
+  
+  .magic-towns-know-title {
+	font-size: var(--txt-title-sm);
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: 1px;
+	color: var(--blue);
+  }
+  
+  .magic-towns-know-content {
+	display: flex;
+	justify-content: center; /* Centrar elementos hijos horizontalmente */
+	align-items: flex-start; /* Alinear elementos hijos en la parte superior */
+	margin-top: 20px; /* Espacio entre el título y las columnas */
+  }
+  
+  .magic-towns-know-ctn-button,
+  .magic-towns-know-ctn-image {
+	width: 50%; /* Ambas columnas ocupan el 50% del ancho */
+	box-sizing: border-box;
+	padding: 0 10px; /* Espacio interno de las columnas */
+  }
+  
+  .magic-towns-icon {
+	width: 80%; /* Ancho máximo del icono */
+	height: auto;
+	max-width: 300px; /* Tamaño máximo para la imagen */
+	display: block;
+	margin: 0 auto; /* Centrar la imagen horizontalmente */
+  }
+  
+  .magic-towns-know-button-link {
+	margin-top: 30px;
+	width: 50%;
+	display: block;
+	margin-left: auto; /* Centrar el botón horizontalmente */
+	margin-right: auto; /* Centrar el botón horizontalmente */
+	text-decoration: none;
+	color: #fff;
+	background: var(--pink);
+	padding: 12px;
+	font-weight: 700;
+	border-radius: 9px;
+	font-size: var(--txt-h5-xl);
+	text-align: center;
+  }
+  
+  
+  .magic-towns-know-image {
+	width: 100%;
+	height: auto;
+	border-radius: 8px;
+	position: relative; /* Added to position the title */
+  }
+  .magic-towns-know-ctn-image {
+	position: relative;
+  }
+
+  .magic-towns-know-image-title {
+	position: absolute;
+	bottom: 0; /* Margin from the bottom */
+	left: 30px; /* Margin from the left */
+	font-family: 'Bebas Neue', sans-serif;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 24px;
+	background-color: rgba(0, 0, 0, 0.5); /* Optional: Add a semi-transparent background for better readability */
+	padding: 5px; /* Optional: Add some padding */
+	border-radius: 3px; /* Optional: Add some border radius */
+  }
+
+  @media (max-width: 768px) {
+	.magic-towns-know-ctn {
+		box-sizing: border-box;
+		padding: 90px 0;
+		background-image: url('../../assets/img/header/liston-azul.webp');
+		background-repeat: no-repeat;
+		background-size: 100% 50px;
+		background-position: top;
+	  }
+	.magic-towns-know-content {
+	  flex-direction: column; /* Apilar las columnas verticalmente */
+	}
+	
+	.magic-towns-know-ctn-button,
+	.magic-towns-know-ctn-image {
+	  width: 100%; /* Cada columna ocupa el 100% del ancho */
+	  padding: 0; /* Elimina el espacio interno de las columnas */
+	}
+  
+	.magic-towns-know-ctn-image {
+		padding: 20px;
+		margin-top: 30px;
+	  margin-bottom: 20px; /* Margen inferior entre las columnas */
+	}
+	
+	.magic-towns-know-button-link {
+	  width: 80%; /* Ajustar el ancho del botón para que no sea demasiado grande en pantallas pequeñas */
+	}
+  }
+  
+  
+  

@@ -1,0 +1,259 @@
+.experience-aventure-gallery-ctn {
+  padding: 50px 0 0 0;
+  background-image: url('../../assets/img/header/liston-azul.webp');
+  background-repeat: no-repeat;
+  background-size: 100% 50px;
+  background-position: top;
+  box-sizing: border-box;
+}
+
+.experience-aventure-gallery-images-ctn {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 64px 32px 32px;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+  width: 100%;
+  gap: 32px;
+}
+
+.experience-aventure-gallery-ctn-image-left-top,
+.experience-aventure-gallery-ctn-image-left-bottom-left,
+.experience-aventure-gallery-ctn-image-left-bottom-right,
+.experience-aventure-gallery-ctn-image-center,
+.experience-aventure-gallery-ctn-image-right-top,
+.experience-aventure-gallery-ctn-image-right-bottom,
+.experience-aventure-gallery-image-left-top,
+.experience-aventure-gallery-image-left-bottom-left,
+.experience-aventure-gallery-image-left-bottom-right,
+.experience-aventure-gallery-image-center,
+.experience-aventure-gallery-image-right-top,
+.experience-aventure-gallery-image-right-bottom {
+  flex: 1 0 100%;
+  object-fit: cover;
+  aspect-ratio: 4/3;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+
+.experience-aventure-gallery-ctn-image-left-top .experience-aventure-gallery-image-ctn-description,
+.experience-aventure-gallery-ctn-image-left-bottom-left .experience-aventure-gallery-image-ctn-description,
+.experience-aventure-gallery-ctn-image-left-bottom-right .experience-aventure-gallery-image-ctn-description,
+.experience-aventure-gallery-ctn-image-center .experience-aventure-gallery-image-ctn-description,
+.experience-aventure-gallery-ctn-image-right-top .experience-aventure-gallery-image-ctn-description,
+.experience-aventure-gallery-ctn-image-right-bottom .experience-aventure-gallery-image-ctn-description {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.experience-aventure-gallery-ctn-image-left-top:hover .experience-aventure-gallery-image-ctn-description,
+.experience-aventure-gallery-ctn-image-left-bottom-left:hover .experience-aventure-gallery-image-ctn-description,
+.experience-aventure-gallery-ctn-image-left-bottom-right:hover .experience-aventure-gallery-image-ctn-description,
+.experience-aventure-gallery-ctn-image-center:hover .experience-aventure-gallery-image-ctn-description,
+.experience-aventure-gallery-ctn-image-right-top:hover .experience-aventure-gallery-image-ctn-description,
+.experience-aventure-gallery-ctn-image-right-bottom:hover .experience-aventure-gallery-image-ctn-description {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.experience-aventure-gallery-image-ctn-description {
+  display: none;
+}
+
+.experience-aventure-gallery-image-description {
+  font-size: var(--txt-h5-xl);
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 3px;
+  color: #fff;
+}
+
+@media screen and (min-width: 744px) {
+  .experience-aventure-gallery-ctn {
+    padding: 90px 0 0 0;
+    background-size: 100% 90px;
+  }
+  
+  .experience-aventure-gallery-ctn-image-left-top,
+  .experience-aventure-gallery-ctn-image-left-bottom-left,
+  .experience-aventure-gallery-ctn-image-left-bottom-right,
+  .experience-aventure-gallery-ctn-image-center,
+  .experience-aventure-gallery-ctn-image-right-top,
+  .experience-aventure-gallery-ctn-image-right-bottom,
+  .experience-aventure-gallery-image-left-top,
+  .experience-aventure-gallery-image-left-bottom-left,
+  .experience-aventure-gallery-image-left-bottom-right,
+  .experience-aventure-gallery-image-center,
+  .experience-aventure-gallery-image-right-top,
+  .experience-aventure-gallery-image-right-bottom {
+    flex: 1 0 40%;
+  }
+  
+  
+  .experience-aventure-gallery-ctn-image-left-top .experience-aventure-gallery-image-ctn-description,
+  .experience-aventure-gallery-ctn-image-left-bottom-left .experience-aventure-gallery-image-ctn-description,
+  .experience-aventure-gallery-ctn-image-left-bottom-right .experience-aventure-gallery-image-ctn-description,
+  .experience-aventure-gallery-ctn-image-center .experience-aventure-gallery-image-ctn-description,
+  .experience-aventure-gallery-ctn-image-right-top .experience-aventure-gallery-image-ctn-description,
+  .experience-aventure-gallery-ctn-image-right-bottom .experience-aventure-gallery-image-ctn-description {
+    display: none;
+  }
+
+
+  .experience-aventure-gallery-ctn-image-left-top:hover .experience-aventure-gallery-image-left-top,
+  .experience-aventure-gallery-ctn-image-left-bottom-left:hover .experience-aventure-gallery-image-left-bottom-left,
+  .experience-aventure-gallery-ctn-image-left-bottom-right:hover .experience-aventure-gallery-image-left-bottom-right,
+  .experience-aventure-gallery-ctn-image-center:hover .experience-aventure-gallery-image-center,
+  .experience-aventure-gallery-ctn-image-right-top:hover .experience-aventure-gallery-image-right-top,
+  .experience-aventure-gallery-ctn-image-right-bottom:hover .experience-aventure-gallery-image-right-bottom {
+    transform: scale(1.2);
+    transition: 0.4s;
+  }
+  
+  
+  .experience-aventure-gallery-ctn-image-left-top:hover .experience-aventure-gallery-image-ctn-description,
+  .experience-aventure-gallery-ctn-image-left-bottom-left:hover .experience-aventure-gallery-image-ctn-description,
+  .experience-aventure-gallery-ctn-image-left-bottom-right:hover .experience-aventure-gallery-image-ctn-description,
+  .experience-aventure-gallery-ctn-image-center:hover .experience-aventure-gallery-image-ctn-description,
+  .experience-aventure-gallery-ctn-image-right-top:hover .experience-aventure-gallery-image-ctn-description,
+  .experience-aventure-gallery-ctn-image-right-bottom:hover .experience-aventure-gallery-image-ctn-description {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+  }
+}
+
+@media screen and (min-width: 1353px) {
+  .experience-aventure-gallery-ctn {
+    padding: 120px 0 0 0;
+    background-size: 100% 120px;
+  }
+  
+  .experience-aventure-gallery-images-ctn {
+    box-sizing: border-box;
+    margin: 90px 0;
+    padding: 32px;
+    display: grid;
+    grid-template-areas: 
+    "left-top         left-top          center-center right-top"
+    "left-bottom-left left-bottom-right center-center right-bottom";
+    height: 100%;
+    width: 100%;
+    gap: 32px;
+  }
+  
+  .experience-aventure-gallery-ctn-image-left-top {
+    grid-area: left-top;
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  .experience-aventure-gallery-ctn-image-left-bottom-left {
+    grid-area: left-bottom-left;
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  .experience-aventure-gallery-ctn-image-left-bottom-right {
+    grid-area: left-bottom-right;
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  .experience-aventure-gallery-ctn-image-center {
+    grid-area: center-center;
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  .experience-aventure-gallery-ctn-image-right-top {
+    grid-area: right-top;
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  .experience-aventure-gallery-ctn-image-right-bottom {
+    grid-area: right-bottom;
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  .experience-aventure-gallery-image-left-top {
+    object-fit: cover;
+    aspect-ratio: 19/6;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .experience-aventure-gallery-image-left-bottom-left {
+    object-fit: cover;
+    aspect-ratio: 1/1;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .experience-aventure-gallery-image-left-bottom-right {
+    object-fit: cover;
+    aspect-ratio: 1/1;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .experience-aventure-gallery-image-center {
+    object-fit: cover;
+    aspect-ratio: 3/4;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .experience-aventure-gallery-image-right-top {
+    object-fit: cover;
+    aspect-ratio: 1/1;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .experience-aventure-gallery-image-right-bottom {
+    object-fit: cover;
+    aspect-ratio: 1/1;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+
+
+
+
+
+

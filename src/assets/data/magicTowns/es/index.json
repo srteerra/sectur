@@ -1,0 +1,104 @@
+{
+	"id": "pueblos-magicos",
+	"urlVideoTop": "https://www.youtube.com/embed/vh7K3C7Hm8U?autoplay=1&mute=1&loop=1&rel=0",
+	"title": "PUEBLOS MÁGICOS",
+	"imageTopUrl": "CentroHistorico.webp",
+	"descriptionTop": [
+		{
+			"text": "Un Pueblo Mágico es un sitio con símbolos y leyendas, poblados con historia que en muchos casos han sido escenario de hechos trascendentes para nuestro país, son lugares que muestran la identidad nacional en cada uno de sus rincones, con una magia que emana de sus atractivos; visitarlos es una oportunidad para descubrir el encanto de México."
+		},
+		{
+			"text": "El Programa Pueblos Mágicos contribuye a revalorar a un conjunto de poblaciones del país que siempre han estado en el imaginario colectivo de la nación y que representan alternativas frescas y variadas para los visitantes nacionales y extranjeros."
+		}
+	],
+	"titleSlider": "Explora",
+	"slidersExplore": [
+		{
+			"imageUrl":"PalenqueChiapas.jpg",
+			"title":"Palenque, Chiapas",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/chiapas/palenque"
+		},
+		{
+			"imageUrl":"IslaMujeresQuintanaRoo.jpg",
+			"title":"Isla Mujeres, Quintana Roo",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/quintana-roo/isla-mujeres-quintana-roo"
+		},
+
+		{
+			"imageUrl": "HuamantlaTlaxcala.jpg",
+			"title": "Huamantla, Tlaxcala",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/tlaxcala/huamantla"
+		},
+		{
+			"imageUrl": "CholulaPuebla.jpg",
+			"title": "Cholula, Puebla",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/puebla/cholula-puebla"
+		},
+		{
+			"imageUrl": "MuralesdeAjijic.webp",
+			"title": "Ajijic, Jalisco",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/jalisco/ajijic"
+		},
+		{
+			"imageUrl": "ElFuerteSinaloa.jpeg",
+			"title": "El Fuerte, Sinaloa",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/sinaloa/el-fuerte-sinaloa"
+		},
+		{
+			"imageUrl": "VilladelCarbonEstadodeMexico.png",
+			"title": "Villa del Carbón, Estado de México",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/estado-de-mexico/villa-del-carbon"
+		},
+		{
+			"imageUrl": "DelfinesIslaAguada.webp",
+			"title": "Isla Aguada, Campeche",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/campeche/isla-aguada"
+		}
+		
+		
+		
+		
+	],
+	"titleKnow": "Para Conocer Más de Nuestros",
+	"actions": {
+		"button": "PRESIONA AQUÍ",
+		"dir": "https://pueblosmagicos.mexicodesconocido.com.mx/"
+	},
+	"imageUrlKnow": "villa-del-carbon.jpg",
+	"slides": [
+		
+		{
+			"videoUrl": "https://www.youtube.com/embed/aMfpQi4M9mA?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "Hidalgo del Parral - Chihuahua | Pueblos Mágicos "
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/U5nN4IfmfFk?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "Guachochi - Chihuahua | Pueblos Mágicos de México"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/z4EPuUpf6Qs?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "TEQUILA"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/eNn83mXHwg0?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "San Cristóbal de las casas"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/VRFTsB1ASxE?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "Paracho"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/bRpeilRty0c?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "Múzquiz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Orm6xaA2boY?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "Mineral del Chico"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/YctE9pnGFbY?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "Mexcaltitán"
+
+		}
+	]
+}

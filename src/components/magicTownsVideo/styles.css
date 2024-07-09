@@ -1,0 +1,24 @@
+.magic-towns-video-ctn {
+  height: 260px;
+  width: 100%;
+  aspect-ratio: 9/6;
+  object-fit: cover
+}
+
+@media screen and (min-width: 744px) {
+  .magic-towns-video-ctn {
+    height: 530px;
+    width: 100%;
+    aspect-ratio: 9/6;
+    object-fit: cover
+  }
+}
+
+@media screen and (min-width: 1353px) {
+  .magic-towns-video-ctn {
+    height: 1090px;
+    width: 100%;
+    aspect-ratio: 9/6;
+    object-fit: cover
+  }
+}

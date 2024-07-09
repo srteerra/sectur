@@ -1,0 +1,50 @@
+{
+    "id": "islas-marias",
+    "title": "Islas Marías",
+    "subtitle": "Descubra as Islas Marías",
+    "urlVideoTop":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "urlVideo":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "Farol Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "Visto Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "As Islas Marías foram, durante mais de 100 anos, núcleo de uma das prisões mais temidas, que é hoje um novo destino turístico onde se respira liberdade, se promove a educação ambiental, a cultura e as artes. A combinação perfeita para férias inesquecíveis."
+        },
+        {
+            "text": "As Ilhas Três Marías, como são conhecidas, estão localizadas no estado de Nayarit e são formadas pela Isla Magdalena, María Cleofas, San Juanito e María Madre. A importância destas ilhas reside na sua enorme biodiversidade, já que em 2000 foram declaradas Área Natural Protegida, como Reserva da Biosfera. É reconhecida pela UNESCO devido à sua flora e fauna endémicas, que vão desde manguezais a recifes de coral, incluindo inúmeras espécies animais, algumas delas em perigo de extinção."
+        }
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "Praça Juárez",
+            "dir": "/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "Porto Balleto",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "Estação Aérea Naval da Ilha María Madre",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "Mural Pueblo Príncipe",
+            "dir": "/"
+        }
+    ]
+}

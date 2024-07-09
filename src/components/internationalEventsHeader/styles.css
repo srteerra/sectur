@@ -1,0 +1,75 @@
+.international-events-header-ctn {
+	display: block;
+	padding: 64px 32px;
+}
+
+.international-events-header-title {
+	font-size: var(--txt-title-sm);
+	color: var(--purple);
+	font-family: "Bebas Neue", sans-serif;
+	letter-spacing: 1px;
+	text-align: center;
+	margin: 0;
+}
+
+.international-events-header-content {
+	margin-top: 60px;
+	display: block;
+	width: 100%;
+}
+
+.international-events-header-content-iframe {
+	width: 100%;
+	height: auto;
+}
+
+.international-events-header-content-texto {
+	font-size: var(--txt-h5-sm);
+	text-align: center;
+	line-height: 1.5;
+	margin: 64px auto 0 auto;
+	padding: 0 16px; /* Agregar padding para evitar que el texto se salga del viewport */
+	width: 100%;
+	box-sizing: border-box; /* Incluir padding en el tamaño total del elemento */
+}
+
+@media screen and (min-width: 744px) {
+	.international-events-header-title {
+		font-size: var(--txt-title-md);
+	}
+	
+	.international-events-header-content-texto {
+		font-size: var(--txt-h5-md);
+		text-align: justify;
+		padding: 0 32px; /* Ajustar padding para pantallas medianas */
+	}
+}
+
+@media screen and (min-width: 1353px) {
+	.international-events-header-ctn {
+		padding: 64px 32px;
+	}
+	
+	.international-events-header-title {
+		font-size: var(--txt-title-xl);
+	}
+	
+	.international-events-header-content {
+		margin: 60px 0;
+		display: block; /* Mantener bloque para evitar el uso de flex */
+		width: 100%;
+	}
+
+	.international-events-header-content-iframe {
+		width: 100%;
+		height: auto; /* Asegurar que el iframe ocupe el 100% del ancho */
+	}
+
+	.international-events-header-content-texto {
+		font-size: var(--txt-h5-xl);
+		text-align: justify;
+		padding: 0 32px; /* Ajustar padding para pantallas grandes */
+		width: 100%; /* Asegurar que el texto ocupe el 100% del ancho */
+		box-sizing: border-box; /* Incluir padding en el tamaño total del elemento */
+	}
+}

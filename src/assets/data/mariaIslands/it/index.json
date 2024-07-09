@@ -1,0 +1,50 @@
+{
+    "id": "islas-marias",
+    "title": "Islas Marías",
+    "subtitle": "Scopri Islas Marías",
+    "urlVideoTop":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "urlVideo":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "Faro Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "Guardò Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "Le Islas Marías sono state, per più di 100 anni, la sede di uno dei più temuti penitenziari, che oggi è una nuova destinazione turistica dove si respira libertà, si promuove l'educazione ambientale, la cultura e le arti. La combinazione perfetta per una vacanza indimenticabile."
+        },
+        {
+            "text": "Si trovano nello stato di Nayarit e sono costituite dalle isole di Maria Magdalena, Maria Cleofas, San Juanito e Maria Madre. L'importanza di queste isole risiede nella loro enorme biodiversità, poiché nel 2000 sono state dichiarate Area Naturale Protetta, con lo status di Riserva della Biosfera. Il riconoscimento da parte dell'UNESCO è dovuto alla flora e alla fauna endemiche, che vanno dalle mangrovie alle barriere coralline, oltre a numerose specie animali, alcune delle quali in pericolo di estinzione."
+        }
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "Piazza Juarez",
+            "dir": "/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "Porta Balleto",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "Stazione aerea navale Isla Maria Madre",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "Murale della città principale",
+            "dir": "/"
+        }
+    ]
+}

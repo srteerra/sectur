@@ -1,0 +1,439 @@
+.guias-title-ctn {
+  box-sizing: border-box;
+  padding: 50px 0 0 0;
+  background-image: url('../../assets/img/diaMuertos/Fondo amarillo 5.png');
+  background-size: 100% 50px;
+  background-repeat: no-repeat;
+  background-position: top;
+  width: 100%;
+  height: 100%;
+}
+
+.guias-known-title {
+    font-size: var(--txt-title-sm);
+    color: var(--purple);
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 64px;
+}
+
+.guias-known-subtitle{
+    text-align: center;
+    font-size: var(--txt-h5-sm);
+}
+
+.guias-contenedor{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.guias-item{
+    width: 100%;
+    display: block;
+    cursor: pointer;
+    box-sizing: border-box;
+    padding: 32px;
+}
+.guias-item:hover{
+    opacity: 0.5;
+    transition: 0.4s;
+}
+
+.guias-item img{
+    width: 100%;
+    border-radius: 10px;
+    aspect-ratio: 3/4;
+}
+.guias-texto{
+    text-align: center;
+    font-size: var(--txt-h5-sm);
+    font-weight: 700;
+    color: #EEB526;
+}
+
+
+/*====MODAL====*/
+
+.modalGuides{
+    background-color: #f5f0ef;
+    position: absolute;
+    border-radius: 10px;
+    min-height: 100vh;
+    width: 100vw;
+}
+.modalGuides2{
+    position:relative;
+    background-color: #7d7d7d;
+    
+ }
+
+.guias-modal{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.guias-modal-content{
+    width: 50%;
+    height: auto;
+    background: white;
+    border-radius: 10px;
+}
+.guias-modal-header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #CECECE;
+}
+.guias-modal-title{
+    font-size: var(--txt-h5-xl);
+    font-weight: 700;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #B21F67;
+    padding: 10px 25px;
+    margin: 10px 0;
+}
+.guias-modal-close{
+    font-size: 32px;
+    color: #bbb;
+    padding: 5px;
+    border-radius: 5px;
+    align-content: center;
+    vertical-align: center;
+    height: 3%;
+}
+
+.guias-modal-close:hover {
+    background: #bbb; 
+    color: #fff;
+  }
+
+.guias-modal-text{
+    font-size: var(--txt-h5-sm);
+    font-weight: 700;
+    color: #7d7d7d;
+    padding: 24px;
+    margin: 24px auto;
+    text-align: center;
+}
+.guias-modal-downloads{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+    padding: 0 32px;
+}
+.guias-modal-download{
+    width: 100%;
+    margin: 10px;
+}
+.guias-modal-download img{
+    width: 100%;
+}
+.guias-modal-download-text{
+    font-size: var(--txt-h5-sm);
+    font-weight: 700;
+    color: #EEB526;
+    padding: 10px;
+    margin:0px auto;
+    text-align: center;
+}
+
+
+.guias-modal-body{
+    overflow: scroll;
+    height: 85vh;
+    justify-content: center;
+    text-align: center;
+}
+
+@media screen and (min-width: 744px) {
+    .guias-title-ctn {
+        padding: 90px 0 0 0;
+        background-size: 100% 90px;
+    }
+    
+    .guias-known-title {
+        font-size: var(--txt-title-md);
+    }
+    
+    .guias-known-subtitle{
+        text-align: center;
+        font-size: var(--txt-h5-md);
+        padding: 0 32px;
+    }
+    
+    .guias-contenedor{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 32px;
+        width: 100%;
+        height: 100%;
+    }
+
+    .guias-item{
+        flex: 1 0 30%;
+        width: 100%;
+        display: block;
+        cursor: pointer;
+        box-sizing: border-box;
+        padding: 32px;
+    }
+    .guias-item:hover{
+        opacity: 0.5;
+        transition: 0.4s;
+    }
+    
+    .guias-item img{
+        width: 100%;
+        border-radius: 10px;
+        aspect-ratio: 3/4;
+    }
+    .guias-texto{
+        text-align: center;
+        font-size: var(--txt-h5-md);
+        font-weight: 700;
+        color: #EEB526;
+    }
+
+
+    .modalGuides{
+        background-color: #f5f0ef;
+        position: absolute;
+        border-radius: 10px;
+        min-height: 100vh;
+        width: 100vw;
+    }
+    .modalGuides2{
+        position:relative;
+        background-color: #7d7d7d;
+        
+     }
+    
+    .guias-modal{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        background: rgba(0,0,0,0.5);
+        z-index: 9999;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .guias-modal-content{
+        width: 50%;
+        height: auto;
+        background: white;
+        border-radius: 10px;
+    }
+    .guias-modal-header{
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 1px solid #CECECE;
+    }
+    .guias-modal-title{
+        font-size: var(--txt-h5-xl);
+        font-weight: 700;
+        font-family: 'Bebas Neue', sans-serif;
+        color: #B21F67;
+        padding: 10px 25px;
+        margin: 10px 0;
+    }
+    .guias-modal-close{
+        font-size: 32px;
+        color: #bbb;
+        padding: 5px;
+        border-radius: 5px;
+        align-content: center;
+        vertical-align: center;
+        height: 3%;
+    }
+    
+    .guias-modal-close:hover {
+        background: #bbb; 
+        color: #fff;
+      }
+    
+    .guias-modal-text{
+        font-size: var(--txt-h5-md);
+        font-weight: 700;
+        color: #7d7d7d;
+        padding: 24px;
+        margin: 24px auto;
+        text-align: center;
+    }
+    .guias-modal-downloads{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        height: 100%;
+        padding: 0 32px;
+    }
+    .guias-modal-download{
+        width: 100%;
+        margin: 10px;
+    }
+    .guias-modal-download img{
+        width: 100%;
+    }
+    .guias-modal-download-text{
+        font-size: var(--txt-h5-xl);
+        font-weight: 700;
+        color: #EEB526;
+        padding: 10px;
+        margin:0px auto;
+        text-align: center;
+    }
+    
+    
+    .guias-modal-body{
+        overflow: scroll;
+        height: 85vh;
+        justify-content: center;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 1353px) {
+    .guias-title-ctn {
+        padding: 120px 0 0 0;
+        background-size: 100% 120px;
+    }
+    
+    .guias-known-title {
+        font-size: var(--txt-title-xl);
+    }
+    
+    .guias-known-subtitle{
+        font-size: var(--txt-h5-xl);
+    }
+
+    .guias-item{
+        flex: 1 0 20%;
+        max-width: 23%;
+    }
+    
+    .guias-texto{
+        font-size: var(--txt-h5-xl);
+    }
+
+    .modalGuides{
+        background-color: #f5f0ef;
+        position: absolute;
+        border-radius: 10px;
+        height: 60px;
+        width: 60%;
+        margin: 1% 20%;
+    }
+    .modalGuides2{
+        position:relative;
+        background-color: #7d7d7d;
+     }
+    
+    .guias-modal{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        background: rgba(0,0,0,0.5);
+        z-index: 9999;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .guias-modal-content{
+        width: 50%;
+        height: auto;
+        background: white;
+        border-radius: 10px;
+    }
+    .guias-modal-header{
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 1px solid #CECECE;
+    }
+    .guias-modal-title{
+        font-size: var(--txt-h5-xl);
+        font-weight: 700;
+        font-family: 'Bebas Neue', sans-serif;
+        color: #B21F67;
+        padding: 10px 25px;
+        margin: 10px 0;
+    }
+    .guias-modal-close{
+        font-size: 32px;
+        color: #bbb;
+        padding: 5px;
+        border-radius: 5px;
+        align-content: center;
+        vertical-align: center;
+        height: 3%;
+    }
+    
+    .guias-modal-close:hover {
+        background: #bbb; 
+        color: #fff;
+      }
+    
+    .guias-modal-text{
+        font-size: var(--txt-h5-md);
+        font-weight: 700;
+        color: #7d7d7d;
+        padding: 24px;
+        margin: 24px auto;
+        text-align: center;
+    }
+    .guias-modal-downloads{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        height: 100%;
+        padding: 0 32px;
+    }
+    .guias-modal-download{
+        width: 100%;
+        margin: 10px;
+    }
+    .guias-modal-download img{
+        width: 350px;
+        aspect-ratio: 3/4;
+        object-fit: cover;
+    }
+    .guias-modal-download-text{
+        font-size: var(--txt-h5-xl);
+        font-weight: 700;
+        color: #EEB526;
+        padding: 10px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .guias-modal-download p {
+        text-align: center !important;
+    }
+    
+    .guias-modal-body{
+        overflow: scroll;
+        height: 85%;
+        justify-content: center;
+        text-align: center;
+    }
+}
+
+/* Daniel Rivera: Agregue estas lneas qe vienen de estilos del home paar ue compartan el mismo patron de diseño */
+.home-know-ctn-description {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .home-know-description-title {
+    font-size: var(--txt-p-md);
+    text-align: center;
+  }

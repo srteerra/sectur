@@ -1,0 +1,20 @@
+[
+	{ "name":"Kalender", 
+		"dir": "/calendario"
+	},
+	{ "name":"Videos", 
+		"dir": "/videos"
+	},
+	{ "name":"Herunterladen", 
+		"dir": "https://visitmexico.com/descargas/"
+	},
+	{ "name":"Blog", 
+		"dir": "/blog"
+	},
+	{ "name":"Reiseführer", 
+		"dir": "/guias-turisticas"
+	},
+	{ "name":"Karte", 
+		"dir": "/mapa-pueblos-magicos"
+	}
+]

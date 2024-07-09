@@ -1,0 +1,54 @@
+{
+    "id": "islas-marias",
+    "title": "Islas Marías",
+    "subtitle": "Descubre Islas Marías",
+    "urlVideoTop":"https://www.youtube.com/embed/s0hm3Td2FmY?autoplay=1&mute=1&loop=1&rel=0",
+    "urlVideo":"https://www.youtube.com/embed/s0hm3Td2FmY?autoplay=1&mute=1&loop=1&rel=0",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "Faro Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "Mirado Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "Visitar las Islas Marías, en las costas del estado de Nayarit, es una experiencia que te permite conocer su fascinante historia y la belleza natural del archipiélago formado por cuatro islas: María Madre, María Magdalena, María Cleofas y San Juanito."
+        },
+        {
+            "text": "Históricamente, las islas sirvieron para albergar una prisión de máxima seguridad, pero en 2019 el gobierno mexicano decidió cerrar la prisión y convertir las Islas Marías en un centro cultural y ecológico; la combinación perfecta para visitar México y disfrutar de unas vacaciones inolvidables."
+        },
+        {
+            "text": "La importancia las Islas Marías radica en su enorme biodiversidad, pues en el año 2000 las declararon Área Natural Protegida con carácter de Reserva de la Biósfera. Y están reconocidas por la UNESCO gracias a la flora y fauna endémica, como manglares hasta arrecifes coralinos y animales en peligro de extinción."
+        }
+        
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "Plaza Juárez",
+            "dir": "https://visitaislasmarias.com/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "Puerto Balleto",
+            "dir": "https://visitaislasmarias.com/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "Estación Aeronaval Isla Maria Madre",
+            "dir": "https://visitaislasmarias.com/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "Mural Pueblo Principal",
+            "dir": "https://visitaislasmarias.com/"
+        }
+    ]
+}

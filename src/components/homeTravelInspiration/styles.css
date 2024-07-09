@@ -1,0 +1,128 @@
+.home-travel-inspiration-ctn {
+  background: whitesmoke;
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 
+  260px 32px 40px 32px;
+}
+
+.home-travel-inspiration-title {
+  font-size: var(--txt-title-sm);
+  text-align: center;
+  margin: 0;
+  color: var(--purple);
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+}
+
+.home-travel-inspiration-ctn-cards {
+  display: block;
+  padding-top: 62px;
+}
+
+.home-travel-inspiration-ctn-card {
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  margin-bottom: 32px;
+}
+
+.home-travel-inspiration-card-img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 3/4;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.home-travel-inspiration-ctn-card-hover {
+  display: none;
+}
+
+.home-travel-inspiration-card-hover-title {
+  font-size: var(--txt-h5-xl);
+  padding: 32px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+}
+
+.home-travel-inspiration-ctn-card .home-travel-inspiration-ctn-card-hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, .3);
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-travel-inspiration-ctn-card:hover .home-travel-inspiration-card-img {
+  transform: scale(1.2);
+  transition: 0.4s;
+}
+
+@media screen and (min-width: 744px) {
+  .home-travel-inspiration-ctn {
+    padding: 240px 32px 60px 32px;
+  }
+  
+  .home-travel-inspiration-title {
+    font-size: var(--txt-title-md);
+  }
+  
+  .home-travel-inspiration-ctn-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 22px;
+  }
+  
+  .home-travel-inspiration-ctn-card {
+    flex: 1 0 40%;
+    margin-bottom: 0;
+  }
+  
+  .home-travel-inspiration-card-img {
+    aspect-ratio: 3/4;
+  }
+
+  .home-travel-inspiration-ctn-card .home-travel-inspiration-ctn-card-hover {
+    display: none;
+  }
+
+  .home-travel-inspiration-ctn-card:hover .home-travel-inspiration-ctn-card-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .3);
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media screen and (min-width: 1353px) {
+  .home-travel-inspiration-ctn {
+    padding: 240px 32px 90px 32px;
+  }
+  
+  .home-travel-inspiration-title {
+    font-size: var(--txt-title-xl);
+  }
+  
+  .home-travel-inspiration-ctn-card {
+    flex: 1 0 20%;
+  }
+  
+  .home-travel-inspiration-card-img {
+    aspect-ratio: .5;
+  }
+}

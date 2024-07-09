@@ -1,0 +1,67 @@
+{
+	"description": "",
+	"followUs": "Follow us:",
+	"linksFast": {
+		"name": "Links of Interest",
+		"links": [
+			{
+				"name": "Mayan Train",
+				"dir": "/tren-maya"
+			},
+			{
+				"name": "Destinations",
+				"dir": "/destinos"
+			},
+			{
+				"name": "Pueblos Mágicos",
+				"dir": "/pueblos-magicos"
+			},
+			{
+				"name": "International Events",
+				"dir": "/eventos-internacionales"
+			},
+			{
+				"name": "Experiences",
+				"dir": "/experiencias"
+			}
+		]
+	},
+	"linksKnow": {
+		"name": "Discover More",
+		"links": [
+			{
+				"name": "Videos",
+				"dir": "/videos"
+			},
+			{
+				"name": "Travel Guides",
+				"dir": "/guias-turisticas"
+			},
+			{
+				"name": "Downloadable Resources",
+				"dir": "https://visitmexico.com/descargas/"
+			},
+			{
+				"name": "Calendar",
+				"dir": "/calendario"
+			}
+		]
+	},
+	"linksContact": {
+		"name": "Contact Us",
+		"links": [
+			
+			{
+				"name": "E-mail:",
+				"dir": "/"
+			},
+			{
+				"name": "contacto@sectur.gob.mx",
+				"dir": "/"
+			}
+		]
+	},
+	"legalWarning": "Legal warning",
+	"privacyPolicy": "Privacy Notice",
+	"register": "Mexico®, visitmexico.com®, visitmexico®, Pueblos Mágicos®, Atención al Turista 078® are trademarks registered in favor of the Ministry of Tourism of the Government of Mexico."
+}

@@ -1,0 +1,111 @@
+/* Estilos para el contenedor principal del carousel */
+.ciudades-carousel-container {
+    padding-left: 20px;
+    padding-right: 20px;
+    display: grid;
+    gap: 0px; /* Espacio entre las filas */
+    margin-bottom: 30px;
+}
+
+/* Estilos para cada fila */
+.ciudades-carousel-container .carousel-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(50%, 1fr)); /* Cada fila se adapta al tamaño del contenedor */
+    gap: 20px; /* Espacio entre las columnas */
+}
+
+/* Estilos para cada elemento del carousel */
+.ciudades-carousel-container .carousel-item {
+    width: 100%; /* Por defecto, cada elemento ocupa todo el ancho */
+}
+
+/* Estilos para el contenedor del carrusel */
+.ciudades-carousel-container .carousel {
+    border-radius: 10px;
+    width: 100%; /* Ancho completo */
+    margin: 0 auto; /* Centrar horizontalmente */
+    overflow: hidden; /* Para asegurar que las imágenes no desborden el contenedor */
+}
+
+/* Estilos para las imágenes dentro del carrusel */
+.ciudades-carousel-container .carousel .carousel-image {
+    width: 100%; /* Ancho completo */
+    height: auto; /* Altura automática para mantener la relación de aspecto */
+    max-height: 300px; /* Altura máxima deseada para las imágenes */
+    object-fit: contain; /* Ajustar la imagen dentro del contenedor manteniendo la relación de aspecto */
+}
+
+.lazy-loaded-image-ciudades {
+    object-fit: cover;
+}
+
+/* Estilos para las flechas de navegación */
+.ciudades-carousel-container .arrow-prev,
+.ciudades-carousel-container .arrow-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: black; /* Cambio del color de fondo a negro */
+    border: none;
+    color: white; /* Cambio del color de los iconos a blanco */
+    font-size: 24px;
+    width: 40px; /* Ancho igual al alto para formar un círculo */
+    height: 40px; /* Alto igual al ancho para formar un círculo */
+    padding: 0; /* Eliminamos el padding para que el círculo sea perfecto */
+    border-radius: 50%; /* Botones redondeados */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: flex; /* Para poder alinear verticalmente */
+    justify-content: center; /* Para alinear horizontalmente */
+    align-items: center; /* Para alinear verticalmente */
+    z-index: 1; /* Asegura que las flechas estén por encima de las imágenes */
+}
+
+.ciudades-carousel-container .arrow-prev:hover,
+.ciudades-carousel-container .arrow-next:hover {
+    background-color: rgba(255, 255, 255, 0.8); /* Cambio de color al pasar el mouse */
+}
+
+.ciudades-carousel-container .arrow-prev {
+    left: 10px;
+}
+
+.ciudades-carousel-container .arrow-next {
+    right: 10px;
+}
+
+.control-dots {
+    display: none;
+}
+
+.carousel .slide img {
+    border-radius: 10px;
+    height: 300px;
+}
+
+/* Estilos para el contenedor del texto en el primer slide */
+.first-slide-text-container {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+/* Estilos para el texto en el primer slide */
+.first-slide-text {
+    padding-right: 20px;
+    margin: 0;
+    color: white; /* Color del texto */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra de texto */
+    font-family: 'Bebas Neue', sans-serif; /* Fuente */
+    text-align: left;
+    text-transform: uppercase; /* Convertir texto a mayúsculas */
+    font-size: 1.5vw; /* Tamaño de fuente relativo al ancho del viewport */
+    line-height: normal;
+}
+
+/* Media query para dispositivos grandes */
+@media screen and (min-width: 1024px) {
+    .ciudades-carousel-container .carousel-row {
+        grid-template-columns: repeat(2, 1fr); /* Cada fila tiene dos columnas */
+}
+}

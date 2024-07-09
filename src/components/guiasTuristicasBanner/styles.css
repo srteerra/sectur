@@ -1,0 +1,46 @@
+.gt-images-ctn {
+  background-image: url('../../assets/img/header/liston-azul.webp');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: bottom;
+  min-height: 458px;
+}
+
+.gt-images-ctn-hero {
+  background-image: url('../../assets/img/guiasTuristicas/guiasTuristicasBanner.webp');
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: top;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  aspect-ratio: 4/3;
+}
+
+.gt-images-title {
+  text-align: center;
+  font-size: var(--txt-title-sm);
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+  color: var(--white);
+}
+
+.gt-images-ctn-hero-description {
+  margin-left: 0;
+}
+
+@media screen and (min-width: 744px) {
+  .gt-images-title {
+    font-size: var(--txt-title-md);
+  }
+}
+
+@media screen and (min-width: 1353px) {
+  .gt-images-ctn-hero {
+    aspect-ratio: 16/9;
+  }
+
+  .gt-images-title {
+    font-size: var(--txt-title-xl);
+  }
+}

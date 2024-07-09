@@ -1,0 +1,159 @@
+/* Estilos para la componente Galeria */
+.galeria-container {
+    display: flex;
+    overflow-x: hidden; /* Ocultar desbordamiento horizontal */
+    overflow-y: hidden; /* Ocultar desplazamiento vertical */
+    width: 100%; /* Asegurar que el contenedor ocupe todo el ancho disponible */
+    height: 700px;
+    position: relative; /* Agregado para posicionar correctamente los detalles expandidos */
+}
+
+/* Estilos para cada columna de la galeria */
+.galeria-column {
+    position: relative;
+    cursor: pointer;
+    transition: flex 0.5s, transform 0.5s; /* Transición del tamaño de la columna y transformación */
+}
+
+/* Estilos para la imagen dentro de cada columna */
+.galeria-image {
+    width: 100%; /* Expandir la imagen al ancho completo de la columna */
+    height: 100%; /* Expandir la imagen al alto completo de la columna */
+    object-fit: cover;
+    transition: transform 0.5s ease; /* Transición de transform con efecto ease */
+}
+
+.galeria-text-container {
+    position: relative;
+}
+
+.galeria-text-gradient {
+    position: absolute;
+    bottom: 0; /* Cambiado de top a bottom */
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0)); /* Gradiente de negro a transparente */
+    z-index: 2; /* Asegura que el gradiente esté encima del texto */
+}
+
+/* Estilos para el texto en la parte inferior */
+.galeria-text {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: bold;
+    z-index: 3; /* Asegura que el texto esté encima del gradiente */
+    transition: bottom 0.5s;
+}
+
+/* Estilos adicionales para las columnas al hacer hover */
+.galeria-column:hover .galeria-image {
+    transform: scale(1.1); /* Escala al 110% al pasar el mouse */
+}
+
+/* Estilos adicionales para el texto al hacer hover */
+.galeria-column:hover .galeria-text {
+    bottom: 50px; /* Mueve el texto hacia arriba */
+}
+
+/* Estilos adicionales para las columnas activas */
+.galeria-column.active {
+    flex: 3; /* Expande la columna seleccionada */
+    display: flex; /* Usar display flex */
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+}
+
+/* Estilos para ocultar las imágenes adyacentes */
+.galeria-column:not(.active) {
+    overflow: hidden; /* Oculta el desbordamiento */
+    transition: width 0.5s; /* Transición de ancho */
+}
+
+/* Excepción para la imagen seleccionada */
+.galeria-column.active .galeria-image {
+    width: 100vw; /* Expandir la imagen al ancho completo del viewport */
+    height: 100vh; /* Expandir la imagen al alto completo del viewport */
+    display: flex; /* Usar display flex */
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    transform-origin: center; /* Especificar el origen de la transformación */
+    transform: scale(1); /* Escalar la imagen */
+}
+
+/* Estilos para ocultar el texto en las columnas activas */
+.galeria-column.active .galeria-text {
+    opacity: 0; /* Hacer el texto transparente */
+    pointer-events: none; /* Deshabilitar eventos de puntero */
+    transition: opacity 0.5s; /* Transición para suavizar el cambio de opacidad */
+}
+
+/* Estilos para mostrar el texto cuando se pasa el mouse sobre las columnas activas */
+.galeria-column.active:hover .galeria-text {
+    opacity: 1; /* Hacer el texto visible */
+    pointer-events: auto; /* Habilitar eventos de puntero */
+}
+
+/* Estilos para los detalles expandidos */
+.galeria-details {
+    position: absolute;
+    top: 0;
+    left: 100%; /* Inicialmente, mueve los detalles fuera del contenedor */
+    width: 400px; /* Ancho fijo de los detalles */
+    height: 100%; /* Ocupa toda la altura del contenedor principal */
+    display: flex;
+    flex-direction: column; /* Alinear los elementos en columna */
+    justify-content: center;
+    z-index: 100;
+    padding: 20px; /* Espaciado interior */
+    background-color: #fff;
+    border-left: 1px solid #ccc; /* Borde a la izquierda */
+    transition: left 0.5s; /* Agrega una transición suave */
+}
+
+/* Estilos para los detalles expandidos cuando están activos */
+.galeria-container.active .galeria-details {
+    left: calc(100% - 400px); /* Muestra los detalles dentro del contenedor principal */
+}
+
+/* Estilos para el contenido dentro de los detalles expandidos */
+.galeria-details-content {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 50px;
+    
+    flex: 1; /* El contenido se expandirá para llenar el espacio disponible */
+    overflow: auto; /* Agregar desplazamiento si el contenido es demasiado largo */
+}
+
+/* Estilos para el botón de cerrar */
+.close-btn {
+    align-self: flex-end; /* Alinear el botón al extremo derecho */
+    cursor: pointer;
+    font-size: 24px;
+    color: #000;
+}
+
+@media screen and (max-width: 768px) {
+    .galeria-container {
+        flex-direction: column;
+        height: auto; /* Permite que la altura se ajuste automáticamente según el contenido */
+    }
+  
+    .galeria-column {
+        width: 100%; /* Ajusta el ancho de las columnas para que ocupen todo el ancho */
+    }
+  
+    .galeria-details {
+        width: 100%; /* Ajusta el ancho de los detalles para que coincida con la pantalla */
+        padding: 30px;
+        left: 0; /* Muestra los detalles directamente debajo de la columna en dispositivos móviles */
+    }
+    
+}

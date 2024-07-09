@@ -1,0 +1,42 @@
+.containerClasificacion {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  position: relative; /* Establece el contexto de posición para el elemento hijo */
+}
+
+
+.titleClasificacion {
+  text-align: center;
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centra horizontalmente las columnas */
+}
+
+.containerClasificacion .column {
+  flex: 1;
+  padding: 10px;
+  text-align: center; /* Alinea el texto al centro horizontalmente */
+}
+
+.column img.icon-img {
+  width: 80px; /* Tamaño deseado para los iconos */
+  height: auto; /* Ajusta la altura automáticamente */
+  margin-bottom: 10px; /* Espacio entre el icono y el texto */
+}
+
+.cinta-rosa {
+  height: 100px; /* Ajusta la altura según sea necesario */
+  background-image: url('../../assets/img/header/Fondorosa.webp');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: top;
+  width: 100%; /* Ocupa el 100% del ancho */
+  margin-bottom: 30px;
+}
+
+

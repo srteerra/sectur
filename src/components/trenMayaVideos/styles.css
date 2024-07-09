@@ -1,0 +1,102 @@
+.train-maya-video-slider-ctn-carousel {
+	height: 420px;
+  position: relative;
+  overflow: hidden;
+}
+
+.train-maya-video-slider-ctn-carousel .css-1qzevvg {
+    position: absolute !important;
+    z-index: 2;
+    bottom: 37px;
+    left: calc(41.5vw - 20px);
+    color: #fff;
+    cursor: pointer;
+}
+
+.train-maya-video-slider-ctn-carousel-item-video {
+	height: 100%;
+	width: 100%;
+}
+
+.train-maya-video-slider-ctn-carousel-item {
+	border-radius: 12px;
+}
+
+.train-maya-video-slider-description {
+	font-size: var(--txt-h5-xl);
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 2px;
+}
+
+@media screen and (min-width: 744px) {
+    .train-maya-video-slider-ctn-carousel {
+        height: 470px;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .train-maya-video-slider-ctn-carousel .css-1qzevvg {
+        position: absolute !important;
+      z-index: 2;
+      bottom: 37px;
+      left: calc(41.5vw - 10px);
+      color: #fff;
+      cursor: pointer;
+    }
+    
+    .train-maya-video-slider-ctn-carousel-item-video {
+        height: 100%;
+        width: 100%;
+    }
+    
+    .train-maya-video-slider-ctn-carousel-item {
+        border-radius: 12px;
+    }
+    
+    .train-maya-video-slider-description {
+        font-size: var(--txt-h5-xl);
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-family: 'Bebas Neue', sans-serif;
+      letter-spacing: 2px;
+    }
+}
+
+@media screen and (min-width: 1353px) {
+    .train-maya-video-slider-ctn-carousel {
+        height: 870px;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .train-maya-video-slider-ctn-carousel .css-1qzevvg {
+        position: absolute !important;
+      z-index: 2;
+      bottom: 37px;
+      left: calc(41.5vw - 30px);
+      color: #fff;
+      cursor: pointer;
+    }
+    
+    .train-maya-video-slider-ctn-carousel-item-video {
+        height: 100%;
+        width: 100%;
+    }
+    
+    .train-maya-video-slider-ctn-carousel-item {
+        border-radius: 12px;
+    }
+    
+    .train-maya-video-slider-description {
+        font-size: var(--txt-h5-xl);
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-family: 'Bebas Neue', sans-serif;
+      letter-spacing: 2px;
+    }
+}

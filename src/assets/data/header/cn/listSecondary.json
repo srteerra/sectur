@@ -1,0 +1,20 @@
+[
+	{ "name": "日历",
+		"dir": "/calendario"
+	},
+	{ "name":  "视频",
+		"dir": "/videos"
+	},
+	{ "name":"下载", 
+		"dir": "https://visitmexico.com/descargas/"
+	},
+	{ "name":"部落格",
+		"dir": "/blog"
+	},
+	{ "name":"导游", 
+		"dir": "/guias-turisticas"
+	},
+	{ "name":"地图", 
+		"dir": "/mapa-pueblos-magicos"
+	}
+]

@@ -1,0 +1,50 @@
+{
+    "id": "islas-marias",
+    "title": "Islas Marías",
+    "subtitle": "Discover the Islas Marías",
+    "urlVideoTop":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "urlVideo":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "Lighthouse Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "Looked Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "For over a century, the Islas Marías served as the site of one of the most notorious penitentiaries, but today, they have transformed into a vibrant new tourist destination where freedom reigns. Here, visitors can immerse themselves in environmental education, culture, and the arts, creating the perfect blend for an unforgettable vacation."
+        },
+        {
+            "text": "Located in the state of Nayarit, the Islas Marías comprise Maria Magdalena, Maria Cleofas, San Juanito, and Maria Madre islands. Their significance lies in their vast biodiversity, earning them the designation of a Natural Protected Area and Biosphere Reserve in 2000. Recognized by UNESCO, these islands boast endemic flora and fauna, ranging from mangroves to coral reefs, and are home to numerous endangered animal species."
+        }
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "Square Juarez",
+            "dir": "/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "Port Balleto",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "Naval Air Station Isla Maria Madre",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "Main Town Mural",
+            "dir": "/"
+        }
+    ]
+}

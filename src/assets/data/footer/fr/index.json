@@ -1,0 +1,67 @@
+{
+	"description": "",
+	"followUs": "Suivez-nous sur:",
+	"linksFast": {
+		"name": "Liens d’intérêt",
+		"links": [
+			{
+				"name": "Train maya",
+				"dir": "/tren-maya"
+			},
+			{
+				"name": "Destinations",
+				"dir": "/destinos"
+			},
+			{
+				"name": "Pueblos Mágicos",
+				"dir": "/pueblos-magicos"
+			},
+			{
+				"name": "Événements Internationaux",
+				"dir": "/eventos-internacionales"
+			},
+			{
+				"name": "Expériences",
+				"dir": "/experiencias"
+			}
+		]
+	},
+	"linksKnow": {
+		"name": "En savoir plus",
+		"links": [
+			{
+				"name": "Vidéos",
+				"dir": "/videos"
+			},
+			{
+				"name": "Guides Touristiques",
+				"dir": "/guias-turisticas"
+			},
+			{
+				"name": "Matériel Téléchargeable",
+				"dir": "https://visitmexico.com/descargas/"
+			},
+			{
+				"name": "Calendrier",
+				"dir": "/calendario"
+			}
+		]
+	},
+	"linksContact": {
+		"name": "Contactez-nous",
+		"links": [
+			
+			{
+				"name": "Courrier:",
+				"dir": "/"
+			},
+			{
+				"name": "contacto@sectur.gob.mx",
+				"dir": "/"
+			}
+		]
+	},
+	"legalWarning": "Avis de Confidentialité",
+	"privacyPolicy": "Avis de Confidentialité",
+	"register": "México®, visitmexico.com®, visitmexico®, Pueblos Mágicos®, Atención al Turista 078®, marques déposées en faveur du Ministère du Tourisme du Gouvernement du Mexique."
+}

@@ -1,0 +1,560 @@
+{
+  "descubreTitle": "Descubra o México com nossos guias turísticos: seu companheiro de viagem perfeito",      
+  "descubreParrafo": "Bem-vindo à nossa seção de guias turísticos, onde você encontrará tudo o que precisa para planejar e aproveitar ao máximo sua viagem ao México. Das cidades coloniais às praias paradisíacas, nossos guias o levarão a explorar os recantos mais fascinantes e os segredos mais bem guardados deste belo país.",
+  "guiasTitle": "Guias detalhados dos destinos mais emblemáticos do México",
+  "guiasParrafo": "Explore nossos guias detalhados dos destinos mais emblemáticos do México e descubra tudo o que você precisa saber para planejar sua visita. De pontos turísticos a joias geográficas escondidas, nossos guias fornecerão informações práticas, dicas úteis e recomendações locais para cada destino.",
+  "consejosTitle": "Dicas de viagem para explorar o México como um morador local",
+  "consejosParrafo": "Mergulhe em nossas dicas de viagem e descubra como explorar o México como um morador local. Desde onde encontrar a melhor comida de rua até como se locomover pelas cidades, nossos guias irão ajudá-lo a ter uma experiência autêntica e memorável em cada lugar que visitar.",
+  "actividadesTitle": "Atividades e experiências únicas no México",
+  "actividadesParrafo": "Descubra as atividades e experiências únicas que esperam por você no México através de nossos guias temáticos. Do turismo de aventura ao relaxamento nos melhores spas, nossos guias irão ajudá-lo a encontrar a atividade perfeita para você.",
+  
+  "urlImagenTop":"guiasTuristicas/guiasTuristicasBanner.webp",
+  "title":"GUIAS TURÍSTICOS",
+  "titleTop":"GUIAS TURÍSTICOS DO MÉXICO",
+  "subTitle":"Baixe os guias turísticos e prepare-se para curtir seu próximo destino.",
+  "gallery":[
+    {
+      "title":"ACAPULCO",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ACAPULCO-8.png",
+      "text":"Seu clima, as águas mornas e os 365 dias do ano ensolarados, suas belas praias e as incomparáveis paisagens, um pôr do sol  inesquecível, o clima descontraído, a impressionante infraestrutura turística e, acima de tudo, a hospitalidade de seu povo fazem de Acapulco um dos destinos preferidos no mundo.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ACAPULCO-8.png",
+          "link":"https://drive.google.com/uc?id=1pYTbxI3SzT424U54O7zeOuwsEXOKH9pc&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ACAPULCO-8.png",
+          "link":"https://drive.google.com/uc?id=12gpuWlS4vdf3hxxV4Wke8eeGfrkMSYxc&export=download"
+        }
+
+      ]
+    },
+
+    {
+      "title":"CAMPECHE",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CAMPECHE-8.png",
+      "text":"Campeche é uma cidade fortificada e famosa por manter, em excelente estado, fortalezas, baluartes e muralhas, construídas para proteger a cidade dos piratas durante a época colonial. É por isso que seu centro histórico está inscrito como Patrimônio da Humanidade.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CAMPECHE-8.png",
+          "link":"https://drive.google.com/uc?id=1ZVVQYSZ_Aap3LRLngxuNK8zI5lWVWvo9&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CAMPECHE-8.png",
+          "link":"https://drive.google.com/uc?id=1orolHDDjrxbeeXvB7MA6pYCPDZ8WDY6R&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"CANCÚN",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+      "text":"Cancún, uma verdadeira joia do Caribe mexicano, está localizada ao norte do estado de Quintana Roo na Península de Yucatán.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+          "link":"https://drive.google.com/uc?id=13HenPrl-vnXfbJRPiHna909uzcDDZadN&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+          "link":"https://drive.google.com/uc?id=1dlg_K95TBHMvw1t6VW_veQehKOJUb13I&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+          "link":"https://drive.google.com/uc?id=1EjkvK1tL1fZ6CzjRqKuxUpWRW_1Fcu5b&export=download"
+        },
+        {
+          "title":"GEISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+          "link":"https://drive.google.com/uc?id=1P09KMbKSEq-IKU4pu8anZNEFHnODyY-N&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+          "link":"https://drive.google.com/uc?id=1OHNCdsARx8BhjGpITJBEdgOd22A4Mhc6&export=download"
+        },
+        {
+          "title":"GUÍA TURÍSTICA PORTUGUES",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+          "link":"https://drive.google.com/uc?id=1oYpPt1Jlz3SAlkXezRW08ZhbbJPBDiLH&export=download"
+        }
+
+
+      ]
+    },
+    {
+      "title":"CIDADE DO MÉXICO",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CDMX-8.png" ,
+      "text":"A Cidade do México, a capital da República Mexicana, é uma das maiores cidades e mais habitadas do mundo. Tornou-se o centro financeiro, cultural e político do país.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CDMX-8.png" ,
+          "link":"https://drive.google.com/uc?id=1zKK_2D-E9fBqtHcsL3EX1nXEBgzpnTfD&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CDMX-8.png" ,
+          "link":"https://drive.google.com/uc?id=1YJc4Upv66bKhOfkTEdCnvBJwACxAQRSA&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CDMX-8.png" ,
+          "link":"https://drive.google.com/uc?id=1bJ4xXLS-5nFfB0-1gfIKov7oO2frTOXS&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CDMX-8.png" ,
+          "link":"https://drive.google.com/uc?id=1JqXdAIQEctJP6_q34gjPYfNHyqbJPvLi&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CDMX-8.png" ,
+          "link":"https://drive.google.com/uc?id=1rAQSVahMmKJCIRpY0cw_zV76bBdQE3Gj&export=download"
+        }
+
+      ]
+    },
+
+    {
+      "title":"CHIAPAS",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CHIAPAS-8.png" ,
+      "text":"Chiapas é um dos estados com maior biodiversidade no mundo. Sua variada vegetação, em bosques e florestas, concentra uma flora e fauna únicas, que são um dos grandes grandes atrativos da região.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CHIAPAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1sQDKGszxR-0kbmKb04xkyxwwNuh9ZH_R&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CHIAPAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1iFGIVG9Yo53IZsBNkB3HLgh6qxEfpCR-&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CHIAPAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1bJ4xXLS-5nFfB0-1gfIKov7oO2frTOXS&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CHIAPAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1kQkyckk4kjPPKEtaRcLBYyIGZMig4QZC&export=download"
+        },
+        {
+          "title":"TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CHIAPAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1d7gpcWY4Jxn88k-0E0tAMvYWQXtzxYAw&export=download"
+        }
+
+
+      ]
+    },
+    {
+      "title":"COSTA MAIA",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/COSTA-MAYA-8.png" ,
+      "text":"É uma terra abençoada pela combinação de floresta tropical, zonas úmidas, praias de areia branca, recifes de coral, abundante vida selvagem e maravilhosos sítios arqueológicos. O lugar ideal para fazer turismo alternativo e apreciar a cultura maia, pois existem comunidades que conservam suas tradições ancestrais.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/COSTA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1TGdaxbtRIVuFiXCPMt35ACjRIaBDrVx-&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/COSTA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1-zHwTYiSaLMJdT9J-fVLiMq0Imqdsb0X&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/COSTA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1zWb0d-WlM3nMEzRZpubq8sQeYFJO-4qn&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/COSTA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1TO_0fLy-hKECLSsOcUZF6LKpPOLMSBb6&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/COSTA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1C1bw04uWllnMqcXYAnpRdy6naPMY4Sz1&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"GUADALAJARA",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUADALAJARA-8.png" ,
+      "text":"A pérola ocidental do México é uma cidade majestosa com monumentos, parques e flores, fontes e árvores alinhadas ao longo de suas avenidas.  Uma cidade viva que atrai e mantém entretido durante semanas a quem a visita pela primeira vez. A rica herança do México colonial é evidente em todo lugar, sobretudo em sua enorme catedral, símbolo da cidade.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUADALAJARA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1lA8Iv0BcEvdIhGe3AI_XBVnUpCnE2wRW&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUADALAJARA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1YwFJIMSfkIm1lcF-2jGOMNSNsw0xu1FS&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUADALAJARA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1i-85jmSdweywVD3uuSGBLEGaaCYqvYZp&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUADALAJARA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1i-85jmSdweywVD3uuSGBLEGaaCYqvYZp&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUADALAJARA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1mtnLi5avo19eDZ3VIlztogb2Gmrp8ccI&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"GUANAJUATO",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUANAJUATO-8.png" ,
+      "text":"Guanajuato, antiga cidade mineira com uma monumental história, foi nomeada “Patrimônio da Humanidade” pela UNESCO. Assentada em encostas, seu traço irregular obedece aos morros que a rodeiam. Concilia um ambiente boêmio e intelectual dentro de uma atmosfera especial criada por sua arquitetura que, junto com suas estudiantinas – as bandas de universitários, praças, ruelas e túneis subterrâneos, faz com que seus visitantes vivam uma magia inusitada.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUANAJUATO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1CB3lh8nwj6xWHtGVotj080JJeA80bOSg&export=download"
+        },
+        {
+          "title":"RAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUANAJUATO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1xsFLkJ2P0u4Awcq8aieBaCnoqRpYdFEp&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUANAJUATO-8.png" ,
+          "link":"https://drive.google.com/uc?id=15D30kATMS7DCkPyVImrKEP-XcxwVleZm&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUANAJUATO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1bR-M6CiK345PV5JVIHGKOWx__U_5JLi4&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUANAJUATO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1ptx4uu6pSvJpFZLOal_I-WlrgJVQG8-U&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"ILHA COZUMEL",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLA-COZUMEL-8.png" ,
+      "text":"De coração mexicano e alma caribenha, Cozumel é um paraíso onde se reúnem tradição, sabor e alegria. Aliás, você sempre encontrará uma cara amigável e uma calorosa acolhida que fará, de sua visita, um momento inesquecível. A maior parte do território virgem rumo ao centro da ilha de Cozumel, encontra-se coberto por florestas e lagoas pantanosas, o habitat de pequenos mamíferos e aves endémicas que têm habitado a ilha desde sempre. Vale a pena mencionar o Parque Nacional, símbolo de Cozumel, e a Reserva Ecológica Punta Sur.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLA-COZUMEL-8.png" ,
+          "link":"https://drive.google.com/uc?id=17FsLF5RrmiyVVJ7ix61KBKKyqMMbbNn6&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLA-COZUMEL-8.png" ,
+          "link":"https://drive.google.com/uc?id=1OwasOwli_wv7JkWa_jdrtGllw16ag8Te&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLA-COZUMEL-8.png" ,
+          "link":"https://drive.google.com/uc?id=1gNzHWvO021m2HQlQ7KyF3Vz0tfBDYpck&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLA-COZUMEL-8.png" ,
+          "link":"https://drive.google.com/uc?id=1-TuueGORbS1vMfaI1MNJcXciAlym1ALL&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLA-COZUMEL-8.png" ,
+          "link":"https://drive.google.com/uc?id=1fRQ0pNAduYwqgKu0bIk0-5u5u2X8CcLY&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"ILHAS DO CARIBE",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLAS-DEL-CARIBE-8.png" ,
+      "text":"Suas praias são ideais para relaxar já que sua areia é fina e branca, característica do Caribe, e sua água, cristalina, de pouca profundidade e de ondas suaves. No centro, você poderá apreciar suas típicas construções como casas coloridas de madeira e diversos murais que dão um caráter singular à cidade.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLAS-DEL-CARIBE-8.png" ,
+          "link":"https://drive.google.com/uc?id=1e-1DUKN10nFd0-VhZIcvPJSt5FGqz4A8&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLAS-DEL-CARIBE-8.png" ,
+          "link":"https://drive.google.com/uc?id=10ueWPkYehR-X88pmBgQTOsbK6rTTQX-Z&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLAS-DEL-CARIBE-8.png" ,
+          "link":"https://drive.google.com/uc?id=1O8T5r2ajpSN1HHPdMt5nLVwqVvl7nDA4&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLAS-DEL-CARIBE-8.png" ,
+          "link":"https://drive.google.com/uc?id=1ONx0pV2ll6gqIPNHTG25Ntn4KmcrM22X&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLAS-DEL-CARIBE-8.png" ,
+          "link":"https://drive.google.com/uc?id=1AUV7iW3ue5HKSNT24D-1kZgzLsz_Ylno&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"IXTAPA ZIHUATANEJO",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/IXTAPA-ZIHUATANEJO-8.png" ,
+      "text":"Estes dois lugares totalmente diferentes, separados por apenas 7 quilômetros, são como um paraíso em dose dupla que pode satisfazer os gostos de todo visitante, seja ele um aventureiro ou alguém que gosta de tomar sol e relaxar. Em suas belas praias de águas cristalinas pode-se praticar todos os tipos de esportes aquáticos. É um destino que também oferece baías tranquilas, além de hotéis luxuosos e o sabor de uma típica cidade mexicana.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/IXTAPA-ZIHUATANEJO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1wfZKnqiuIisL5jiquZ4VnJJtKTEGOqkU&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/IXTAPA-ZIHUATANEJO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1EqxuLwbr3ywl4UmioH2b06DpvxW1AiU_&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/IXTAPA-ZIHUATANEJO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1dq45DlZCwWrvB-A0L_7h6kemB0kLfHrQ&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"MICHOACÁN",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/MICHOACAN-8.png" ,
+      "text":"Michoacán é um estado que se destaca por ser rico em beleza natural e patrimônio cultural. Possui, atualmente, cinco Patrimônios da Humanidade declarados pela UNESCO e cinco Pueblos Mágicos.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/MICHOACAN-8.png" ,
+          "link":"https://drive.google.com/uc?id=1OsYY07BPwV3xCNblkKMmdkw8865qqljk&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/MICHOACAN-8.png" ,
+          "link":"https://drive.google.com/uc?id=1eb5mnO04Jw_0_xY8SVkjJHy-oXncNZn9&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/MICHOACAN-8.png" ,
+          "link":"https://drive.google.com/uc?id=1JlIw9vmP2vlisw0VuY70Il-63STRDXLE&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"OAXACA",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/OAXACA-8.png" ,
+      "text":"Oaxaca tem montanhas de mais de três mil metros de altitude, cavernas dentre as mais profundas do mundo, praias virgens, selvas escondidas e vales que abrigam povoados onde se fundem as culturas de povos que ainda preservam suas tradições e costumes.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/OAXACA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1OswDdxH7jAn4WQ3qoBOvdJoQGQ7EDgYz&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/OAXACA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1u1ib-4jr-1RmKKNHd6uDdRQAnup5AoBr&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/OAXACA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1SHnTnQd7aBdsnGFDnkyzAjWuQ65W4YFY&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/OAXACA-8.png" ,
+          "link":"https://drive.google.com/uc?id=175JGs0pgPOLhEaXeKvHOieMRzHg3z7C3&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/OAXACA-8.png" ,
+          "link":"https://drive.google.com/uc?id=19Y5d2CHn3ifcG_9R2xDXSnadGwJHUeKn&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"PUEBLA",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/PUEBLA-8.png" ,
+      "text":"É um estado localizado no coração do México, no lugar exato de toda sua história da qual, mais do que espectador, tem sido protagonista. Combina o passado indígena, o legado do Vice-Rei Palafox, os movimentos revolucionários e as expressões modernas de arte e cultura.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/PUEBLA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1qdtzChuodBsGzKCdxJcz084ngSHRscuw&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/PUEBLA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1OwlbgquQ2snbPqu0C2C-oOD1R-QIhmDg&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/PUEBLA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1CkbJvp9i9UEFMAoRnVaVovyVzeoSrQ59&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/PUEBLA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1eD7LheXU2-hoy9HrM27s7MK9ycejh5hm&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/PUEBLA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1-4B1kCztYT0C4PkVFpcMQDt_V8h_KCKO&export=download"
+        }
+
+
+      ]
+    },
+    {
+      "title":"RIVIERA MAIA",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-MAYA-8.png" ,
+      "text":"A Riviera Maya oferece areias brancas, águas azul-turquesa, sítios arqueológicos, cidades pitorescas, centros recreativos, lagoas de água doce, cavernas subterrâneas e grutas cenotes, bem como opções de hospedagem que variam de cabanas rústicas a luxuosos hotéis de grande turismo.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1zpBd4FxzdLqzaeR2TCrZ6wirS9xP0eok&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1vjuw1-y4Y-dH3qBU3ZsALgpFcT5riLKy&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1JY91Fl9VtL-gmse5ri7IqsTVLctxINDv&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1BC_e6NRVSi8YQObZIBm7Gp6pMOhQKh2U&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1BC_e6NRVSi8YQObZIBm7Gp6pMOhQKh2U&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"RIVIERA NAYARIT",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-NAYARIT-8.png" ,
+      "text":"Proveniente da língua do grupo indígena cora, seu nome significa 'Filho de Deus que está no céu e no sol'. A principal atração turística do estado de Nayarit é sua costa, chamada Riviera Nayarit. Mas também possui cidades coloniais, spas, sítios arqueológicos e, acima de tudo, uma riqueza privilegiada em cultura e tradições.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-NAYARIT-8.png" ,
+          "link":"https://drive.google.com/uc?id=15drnuE8zZpFLS8OzaChW2pm9V-xs5XUC&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-NAYARIT-8.png" ,
+          "link":"https://drive.google.com/uc?id=18UtJqKoPaK5LNGnCwXr6yMxXMMBdOy32&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"YUCATÁN",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/YUCATÁN-8.png" ,
+      "text":"Lugar mágico onde o passado se torna presente. Terra de histórias e maravilhas eternas, de pessoas simpáticas e de tradições que contrastam com sua modernidade, sua indústria e seu porto para navios de grande calado.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/YUCATÁN-8.png" ,
+          "link":"https://drive.google.com/uc?id=18UtJqKoPaK5LNGnCwXr6yMxXMMBdOy32&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/YUCATÁN-8.png" ,
+          "link":"https://drive.google.com/uc?id=1hh7TS7AuyFY-6udUpK7JTtFlyS1WaFpX&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/YUCATÁN-8.png" ,
+          "link":"https://drive.google.com/uc?id=1jkkc3-noG2JHzrh72aSNOqEuAUgF-mE6&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/YUCATÁN-8.png" ,
+          "link":"https://drive.google.com/uc?id=1MSeIpfoRn9Z9hMpN8iRqua2XnqaiIfB-&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/YUCATÁN-8.png" ,
+          "link":"https://drive.google.com/uc?id=15jsQXFKPddlItOWoCcwfgAPhd1Q7GD7Z&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"ZACATECAS",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ZACATECAS-8.png" ,
+      "text":"É um lugar com rica história cuja herança colonial se reflete em sua bela arquitetura barroca, onde predomina a pedra rosa.  Zacatecas é um território cheio de lendas e magia, onde se pode explorar maravilhosos museus e se surpreender com as belezas naturais incríveis de seus terrenos acidentados, tudo sob um céu de um azul intenso extraordinário. Esse destino oferece cultura, tradições, gastronomia, aventura, romance, festas, cores e muito mais.",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ZACATECAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1AmRlfsPYd1cOCcm5OXQVzAIZSWutJuGX&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ZACATECAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1jvj3zYaXlRKMhpZ_6kdsepe2-9sFcYpM&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ZACATECAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1j55UDP0eV9hIeApYbgyzZwKHR7JO0PUW&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ZACATECAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=11UEeTvmYh0qulrynedHb_MfGnh_7SJDP&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ZACATECAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1pUH6Efshnf_PgJmUolV97GVsb20z_BUu&export=download"
+        }
+
+      ]
+    }
+
+
+   
+  ]
+
+}

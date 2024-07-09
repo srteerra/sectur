@@ -1,0 +1,220 @@
+/* styles.css */
+
+.titulo-blog-seccion {
+    padding: 20px;
+    width: 100%;
+}
+
+/* Configuración para el contenedor principal de los últimos posts del blog */
+.blog-last-post-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Estilos para la sección izquierda del último post del blog */
+.blog-last-post-left {
+    width: 70%;
+    box-sizing: border-box;
+    padding: 20px; /* Espacio interior */
+
+    /* Ajustes para dispositivos móviles */
+    @media screen and (max-width: 768px) {
+        width: 100%; /* Ocupar el 100% del ancho disponible en pantallas pequeñas */
+        padding: 10px; /* Reducir el padding en pantallas pequeñas */
+    }
+}
+
+/* Estilos para la sección derecha del último post del blog */
+.blog-last-post-right {
+    padding: 20px;
+    width: 30%;
+    box-sizing: border-box;
+    color: #fff;
+
+    /* Ajustes para dispositivos móviles */
+    @media screen and (max-width: 768px) {
+        width: 100%; /* Ocupar el 100% del ancho disponible en pantallas pequeñas */
+        padding: 10px; /* Reducir el padding en pantallas pequeñas */
+    }
+}
+
+.blog-last-post-right h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+.blog-last-post-right h3 {
+    color: #333;
+}
+
+.blog-last-mas-leidos {
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: -1px 1px 15px 0px rgba(0,0,0,0.4);
+    -webkit-box-shadow: -1px 1px 15px 0px rgba(0,0,0,0.4);
+    -moz-box-shadow: -1px 1px 15px 0px rgba(0,0,0,0.4);
+}
+
+.blog-last-post-right .middle-content-post .middle-content-post-right spam.badge {
+    font-size: 9px;
+}
+
+/* Contenedor principal de cada entrada del blog */
+.blog-last-post-main-single {
+    position: relative;
+    max-height: 450px; /* Altura máxima del contenedor */
+    overflow: hidden;
+    border-radius: 10px;
+    display: flex; /* Utilizar flexbox para alinear verticalmente */
+    justify-content: center; /* Centrar elementos horizontalmente */
+    align-items: center; /* Centrar elementos verticalmente */
+}
+
+/* Estilos para el botón "Leer más" */
+.read-more-button {
+    display: inline-block;
+    padding: 10px 20px; /* Espaciado interno */
+    background-color: var(--pink); /* Color de fondo */
+    color: #fff; /* Color del texto */
+    text-decoration: none; /* Quitar subrayado del enlace */
+    border-radius: 5px; /* Bordes redondeados */
+    text-align: center; /* Alinear texto al centro */
+    transition: background-color 0.3s ease; /* Transición suave del color de fondo */
+}
+
+/* Estilos para el botón "Leer más" al pasar el mouse */
+.read-more-button:hover {
+    text-decoration: none; /* Subrayar enlace al pasar el mouse */
+    background-color: #ff69b4; /* Cambiar color de fondo al pasar el mouse */
+}
+
+/* Estilo para la superposición de imagen */
+.main-image-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    z-index: 2; /* Asegurar que esté encima de la imagen (z-index mayor) */
+}
+
+/* Estilos para los elementos dentro de la superposición de imagen */
+.image-overlay h2,
+.image-overlay a {
+    margin-bottom: 10px; /* Agregar espacio inferior entre elementos */
+}
+
+/* Estilo para la imagen dentro de .blog-last-post-main-single */
+.blog-last-post-main-single img {
+    width: 100%; /* Ajustar el ancho máximo de la imagen */
+    height: auto; /* Permitir que la altura se ajuste automáticamente */
+    object-fit: cover; /* Escalar la imagen para llenar el contenedor y recortar si es necesario */
+    border-radius: 10px; /* Bordes redondeados para la imagen */
+}
+
+/* Estilos para el contenedor de contenido medio */
+.middle-content-post {
+    margin-top: 30px;
+    display: flex; /* Utilizar flexbox para distribuir elementos */
+    width: 100%; /* Ocupar todo el ancho disponible */
+    margin-bottom: 20px; /* Espacio inferior entre bloques */
+    flex-direction: row; /* Asegurar que los elementos se distribuyan en fila por defecto */
+
+    /* Ajustes para dispositivos móviles */
+    @media screen and (max-width: 768px) {
+        flex-direction: column; /* Apilar elementos en columna en pantallas pequeñas */
+    }
+}
+
+/* Estilos para la columna izquierda del contenido medio */
+.middle-content-post-left {
+    width: 40%; /* Ancho del 40% del contenedor padre */
+    padding-right: 20px; /* Espacio entre elementos dentro del contenedor */
+}
+
+/* Estilos para la imagen dentro de la columna izquierda */
+.middle-content-post-left .lazy-load-image-wrapper {
+    width: 100%; /* Ajustar imagen al 100% del contenedor */
+    height: 0; /* Establecer altura inicial en 0 para calcular aspect ratio */
+    padding-bottom: 60%; /* Aspect ratio horizontal (60% de la anchura) */
+    position: relative; /* Posición relativa para contener la imagen absoluta */
+    overflow: hidden; /* Ocultar desbordamiento */
+}
+
+/* Estilos para las imágenes dentro de la columna izquierda */
+.middle-content-post-left img {
+    width: 100%; /* Ajustar imagen al 100% del contenedor */
+    height: auto; /* Mantener proporción de aspecto */
+    object-fit: cover; /* Escalar la imagen para llenar el contenedor */
+    border-radius: 10px; /* Bordes redondeados para la imagen */
+}
+
+/* Estilos para la columna derecha del contenido medio */
+.middle-content-post-right {
+    width: 60%; /* Ancho del 60% del contenedor padre */
+}
+
+.blog-last-add {
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+/* Estilos para la imagen dentro de .blog-last-add */
+.blog-last-add img {
+    width: 100%; /* Ocupar todo el ancho del contenedor */
+    height: auto; /* Permitir que la altura se ajuste automáticamente */
+    border-radius: 10px; /* Bordes redondeados */
+    object-fit: cover; /* Escalar la imagen para llenar el contenedor */
+    aspect-ratio: 1 / 1; /* Establecer una relación de aspecto 1:1 (cuadrada) */
+}
+
+.blog-last-add h4 {
+    text-align: center; /* Alinear el texto al centro */
+    margin-top: 10px; /* Espacio superior para el texto */
+    color: #333;
+}
+
+/* Estilos para el título dentro de la columna derecha */
+.middle-content-post-right h2 {
+    margin-top: 10px; /* Margen superior para el título */
+}
+
+/* Estilos para el párrafo dentro de la columna derecha */
+.middle-content-post-right p {
+    color: #333; /* Color de texto gris oscuro */
+}
+
+/* Estilos para el enlace "Leer más" dentro de la columna derecha */
+.middle-content-post-right a {
+    color: var(--pink); /* Color azul para el enlace "Leer más" */
+    text-decoration: none;
+}
+
+/* Estilos para el enlace "Leer más" al pasar el mouse */
+.middle-content-post-right a:hover {
+    text-decoration: underline; /* Subrayar enlace al pasar el mouse */
+}
+
+/* Estilos para el badge (etiqueta) */
+.badge {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 20px; /* Bordes redondeados */
+    background-color: var(--pink); /* Color de fondo */
+    color: #fff; /* Color de texto */
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Media Query para pantallas pequeñas */
+@media screen and (max-width: 768px) {
+    /* Ajustes para .middle-content-post-left y .middle-content-post-right en pantallas pequeñas */
+    .middle-content-post-left,
+    .middle-content-post-right {
+        width: 100%; /* Ambos ocupan el 100% del ancho disponible en pantallas pequeñas */
+        padding-right: 0; /* Eliminar el espacio derecho */
+    }
+}

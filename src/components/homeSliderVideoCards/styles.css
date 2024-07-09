@@ -1,0 +1,35 @@
+.home-slider-video-cards-ctn {
+  height: 420px;
+  background: var(--white);
+  position: relative;
+  overflow: hidden;
+}
+
+.css-1qzevvg {
+  position: absolute !important;
+  z-index: 2;
+  bottom: 37px;
+  left: calc(41.5vw - 20px);
+  color: #fff;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 744px) {
+  .home-slider-video-cards-ctn {
+    height: 570px;
+  }
+  
+  .css-1qzevvg {
+    left: calc(41.5vw - 10px);
+  }
+}
+
+@media screen and (min-width: 1353px) {
+  .home-slider-video-cards-ctn {
+    height: 970px;
+  }
+  
+  .css-1qzevvg {
+    left: calc(41.5vw - 30px);
+  }
+}

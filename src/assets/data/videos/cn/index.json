@@ -1,0 +1,248 @@
+{
+
+	"videoH1Title": "通过我们的视频探索墨西哥:了解该国美丽的窗口",
+	"videoP1": "通过我们精心挑选的视频系列，沉浸在墨西哥的魔力中。从原始海滩到历史城市，我们的视频捕捉到了这个充满活力和多样化的国家的本质和美丽。加入我们在墨西哥的视觉之旅，发现其文化财富、令人印象深刻的风景和独特的体验。",
+
+	"videoTitle2": "在我们的视频中发现墨西哥的多样性",
+	"videoP2": "通过我们的视频探索墨西哥的多样性，这些视频展示了该国提供的各种目的地、活动和体验。从尤卡坦的古代玛雅废墟到西部马德雷山脉的雪山，每一段视频都将把你带到一个令人兴奋的新地方。",
+
+	"videoTitle3": "激发你下一次墨西哥之行的灵感",
+	"videoP3": "让自己受到我们视频的启发，开始计划你的下一次墨西哥之行。找到在这个充满活力和色彩的国家等待你的杰出目的地、流行活动和文化活动的信息。准备在墨西哥度过一段难忘的经历！",
+
+	"id": "videos",
+	"urlVideoTop": "https://www.youtube.com/embed/eIDWAPccLVg?autoplay=1&mute=1&loop=1&rel=0",
+	"title": "2023年墨西哥旅游街头市场",
+	"videosTop": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/q_8XWtdqcLA?rel=0&autoplay=0&mute=0&loop=1",
+			"name": "旅遊天吉斯結果"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/BechWssQXVE?rel=0&autoplay=0&mute=0&loop=1",
+			"name": "墨西哥這些年來"
+		}
+	],
+	"titleSlider": "本月的目的地",
+	"slides": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/zfrqT-hzFFU?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Chihuahua"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/PDKonQ7I-Vk?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Morelos"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/_2IjPSffvdA?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Jalisco"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7GokE-3UBFw?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Tlaxcala"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/K6yj7d160c4?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "VERACRUZ"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/i_BIh-F8EA8?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/PoxhjVUVSzY?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Izamal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Sn9So_Ab8xo?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Bacalar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7BbyoIj99bI?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "San Cristóbal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/3wxzXkp29bU?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Aguascalientes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/M4d_vArum7c?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Querétaro"
+		}
+	],
+	"titleSliderGallery": "不能错过的",
+	"slidesGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/0BMF8_lw7UE?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "墨西哥的旅游景点 | Creel - Chihuahua"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/spXeXmUWWTI?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Pueblo Mágico Tonatico - Estado de México"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/h-H29jeXA9o?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Pueblo Mágico | Otumba - Estado de México"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/n7DXDGwo_JU?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Pueblo Mágico | Jilotepec - Estado de México"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7U8GuJxGDlM?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Pueblo Mágico | Huejozingo - Puebla"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/FHpKOuvVD1M?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Pueblo Mágico | Tetela de Ocampo - Puebla"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Ggv52zh7ycc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Pueblo Mágico | Teziutlán - Puebla"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/yvqcA9p2iCk?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Tlaltizapán de Zapata"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/IOzOWw2cyUU?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Xochitepec"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/eajv334aE8I?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Tequesquitengo"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/FM-yLeGnWOE?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Ajijic"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/i0Mpa4-MsP8?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Sayula"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/02-uDKy_fSg?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Puerto Vallarta"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/1kanKtwnpQM?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Cocula"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/QZ86H72f0e8?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Temacapulín"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Tt0MMeA6HzQ?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "墨西哥很有味道"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/EpcDhxKXYic?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "MÚZQUIZ"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/DpYDJs-6HI8?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "考古學"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/yTGCT8xJtLM?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Mineral del Chico"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/gIfX_dkoRPc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "奥罗兹科厨师"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/FYBaZb3dwJg?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Islas Marías"
+		}
+	],
+	"slidesGalleryGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/nmpXIr-gycA?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "龍舌蘭酒"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/W3baXuazM0U?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "銅峽谷"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/fAexuBFyySY?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Chile en Nogada"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/0Eu6b6JzjEo?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Chef Aidé"
+		}
+	],
+	"titleTravels": "就是这样旅行的",
+	"subTitleTravels": "给你旅行建议的名人",
+	"travelsGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/fVxjCH8tNdQ?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Kika Edgar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/-Yzq9BC_ocs?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Alex Sirvent"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/XHWX9PPGNeE?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Jacky Bracamontes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/ZSoH33KJilc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Aleks Syntek"
+		}
+	],
+	"titleTriTraveler": "琐细",
+	"subTitleTriTraveler": "你对墨西哥了解多少？试验自己",
+	"tritravelerGellery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/Vu792cq34Jw?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Magdalena de Kino"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/lhaNaFDhQtk?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/A_yutAiNhRA?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "伊薩馬爾"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/uZ7UluIb-8Y?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "巴卡拉爾"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/12psVwzj_ts?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "Comala, Colima"
+		}
+	],
+	"titleGallery": "了解墨西哥",
+	"subtitleGallery": "我们分享了一些你可能不知道的关于墨西哥的数据",
+	"videosGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/1kUCbDgSkVU?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "黑武士"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Q601HFpAJJ0?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "奎奎爾科"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/iPGgQcByjvc?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "僧侶谷"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/DkaIh-9eQNI?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "琥珀色"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/SkkQdafBrTk?rel=0&autoplay=0&mute=0&loop=1",
+			"title": "龍舌蘭龍舌蘭酒"
+		}
+	],
+	"titleBottom": "马萨特兰大水族馆",
+	"descriptionBottom": "马萨特兰大水族馆是墨西哥最大的水族馆，也是拉丁美洲最重要的水族馆，致力于科尔特斯海。以教育、研究和传播知识为重点，它将成为世界水族馆的标杆。",
+	"videoBottomVideoUrl": "https://www.youtube.com/embed/dNIrs66OMOo?rel=0&autoplay=0&mute=0&loop=1"
+}

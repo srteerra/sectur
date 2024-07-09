@@ -1,0 +1,765 @@
+{
+    "title": "Blog",
+    "bgCategoriaDestinos": "newBlog/destinos.jpg",
+    "bgCategoriaExperiencias": "newBlog/experiencias.jpg",
+    "bgCategoriaPlaneaTuViaje": "newBlog/planea-tu-viaje.jpg",
+    "labelCategoriaDestinos": "Destinos",
+    "labelCategoriaExperiencias": "Experiencias",
+    "labelCategoriaPlanea": "Planea tu viaje",
+    "botonVerMas": "Leer más",
+    "ultimosArticulos": "Últimos artículos",
+    "masLeidos": "Más Leídos",
+    "labelCategoryArticles": "Artículos de la categoría:",
+    "labelCategoryArticlesBack": "Volver al blog",
+      "heroPost": [
+        {
+            "idPost": "ruta-del-queso-y-del-vino-en-queretaro",
+            "tituloPost": "Embárcate en una aventura de sabores: Ruta del Queso y del Vino en Querétaro",
+            "imgPost": "newBlog/la-redonda.jpg",
+            "fechaPost": "21 de Mayo de 2024",
+            "urlPost": "/blog/post/ruta-del-queso-y-del-vino-en-queretaro",
+            "readMoreButton": "Leer más"
+        },
+        {
+            "idPost": "la-gastronomia-mexicana",
+            "tituloPost": "La Gastronomía Mexicana: Un viaje culinario a través de la historia y la tradición",
+            "imgPost": "newBlog/gastronomia-mexicana.jpg",
+            "fechaPost": "21 de Mayo de 2024",
+            "urlPost": "/blog/post/la-gastronomia-mexicana",
+            "readMoreButton": "Leer más"
+        },
+        {
+            "idPost": "las-10-mejores-ciudades-para-vivir-en-mexico",
+            "tituloPost": "Las  10 mejores ciudades para vivir en México: Destinos que lo tienen todo",
+            "imgPost": "newBlog/monterrey.jpg",
+            "fechaPost": "21 de Mayo de 2024",
+            "urlPost": "/blog/post/las-10-mejores-ciudades-para-vivir-en-mexico",
+            "readMoreButton": "Leer más"
+        },
+        {
+            "idPost": "esferas",
+            "tituloPost": "Esferas, artes en vidrio que engalana la navidad en México",
+            "imgPost": "newBlog/manoEsferas.png",
+            "fechaPost": "21 de Mayo de 2024",
+            "urlPost": "/blog/post/esferas",
+            "readMoreButton": "Leer más"
+        },
+        {
+            "idPost": "10-actividades-que-puedes-realizar-en-Cozumel",
+            "tituloPost": "10 Actividades que puedes realizar en Cozumel",
+            "imgPost": "newBlog/cozumel.webp",
+            "fechaPost": "21 de Mayo de 2024",
+            "urlPost": "/blog/post/10-actividades-que-puedes-realizar-en-Cozumel",
+            "readMoreButton": "Leer más"
+        },
+        {
+            "idPost": "alexander-von-humboldt-y-acapulco",
+            "tituloPost": "Alexander Von Humboldt y Acapulco",
+            "imgPost": "newBlog/alexander_von_humboldt.jpg",
+            "fechaPost": "21 de Mayo de 2024",
+            "urlPost": "/blog/post/alexander-von-humboldt-y-acapulco",
+            "readMoreButton": "Leer más"
+        },
+        {
+            "idPost": "vino-mexicano",
+            "tituloPost": "Vino Mexicano",
+            "imgPost": "newBlog/vino-mexicano.jpg",
+            "fechaPost": "21 de Mayo de 2024",
+            "urlPost": "/blog/post/vino-mexicano",
+            "readMoreButton": "Leer más"
+        }
+      ],
+
+      "posts": [
+        {
+          "id": "ruta-del-queso-y-del-vino-en-queretaro",
+          "backButton": "Volver al blog",
+          "urlImg": "newBlog/la-redonda.jpg",
+          "categoriaSlug": "destinos",
+          "categoriaLabel": "Destinos",
+          "postReadmoreButton": "Leer más",
+          "name": "Embárcate en una aventura de sabores: Ruta del Queso y del Vino en Querétaro",
+          "post": [
+            {
+              "type": "text",
+              "content": "¿Te apasiona la gastronomía y disfrutas de experiencias únicas? Entonces la Ruta del Queso y del Vino en Querétaro es para ti. Sumérgete en un recorrido por pintorescos viñedos y queserías artesanales, donde podrás degustar exquisitos quesos y vinos de la región, conocer los procesos de elaboración y disfrutar de paisajes encantadores."
+            },
+            {
+              "type": "subtitle",
+              "content": "¿Qué hacer en la Ruta del Queso y del Vino?"
+            },
+            
+            {
+              "type": "text",
+              "content": "Degusta quesos artesanales: Explora queserías locales y prueba una variedad de quesos frescos, añejos y con diferentes sabores. Aprende sobre las técnicas de elaboración y la historia quesera de la región."
+            },
+            {
+              "type": "text",
+              "content": "Visita viñedos y bodegas: Recorre viñedos y bodegas donde se producen vinos de alta calidad. Disfruta de catas guiadas, conoce el proceso de elaboración del vino y elige tus favoritos para llevar a casa."
+            },
+            {
+              "type": "text",
+              "content": "Disfruta de la gastronomía local: Degusta platillos típicos de la región en restaurantes y puestos de comida. Prueba deliciosas recetas elaboradas con quesos y vinos locales."
+            },
+            {
+              "type": "text",
+              "content": "Vive experiencias únicas: Participa en talleres de elaboración de quesos y vinos, disfruta de conciertos y eventos culturales en los viñedos, o relájate en spas y hoteles boutique rodeados de naturaleza."
+            },
+            {
+              "type": "subtitle",
+              "content": "Costos de la Ruta del Queso y del Vino"
+            },
+            {
+              "type": "text",
+              "content": "El costo de la Ruta del Queso y del Vino varía dependiendo de las actividades que elijas realizar. Algunas opciones incluyen:"
+            },
+            {
+              "type": "text",
+              "content": "Tours guiados: Desde $500 MXN por persona, incluyendo transporte, visitas a viñedos y queserías, degustaciones y entradas a museos."
+            },
+            {
+              "type": "text",
+              "content": "Experiencias personalizadas: Desde $1,500 MXN por persona, incluyendo tours privados, catas personalizadas, alojamiento en viñedos y actividades especiales."
+            },
+            {
+              "type": "text",
+              "content": "Acceso individual: Algunas queserías y viñedos ofrecen degustaciones y visitas guiadas por un costo individual que ronda entre $100 y $300 MXN."
+            },
+            {
+              "type": "subtitle",
+              "content": "Atracciones principales de la Ruta del Queso y del Vino"
+            },
+            {
+              "type": "text",
+              "content": "Finca Sala Vivé de Freixenet: Un viñedo español con una arquitectura única y vinos de alta calidad."
+            },
+            {
+              "type": "text",
+              "content": "Viñedos Azteca: Un viñedo con una amplia variedad de vinos y un restaurante con vista a los viñedos."
+            },
+            {
+              "type": "text",
+              "content": "Quesería Vaya Oveja: Una quesería artesanal que produce quesos de oveja con sabores excepcionales."
+            },
+            {
+              "type": "text",
+              "content": "Finca Sala Vivé de Freixenet: Un viñedo español con una arquitectura única y vinos de alta calidad."
+            },
+            {
+              "type": "text",
+              "content": "Museo del Queso y del Vino: Un museo que te lleva por un recorrido a través de la historia del queso y del vino en Querétaro."
+            },
+            {
+              "type": "subtitle",
+              "content": "Cómo llegar:"
+            },
+            {
+              "type": "text",
+              "content": "La Ruta del Queso y del Vino se encuentra en el estado de Querétaro, a unas 2 horas de la Ciudad de México. Puedes llegar en coche propio, autobús o avión."
+            },
+            {
+                "type": "subtitle",
+                "content": "Recomendaciones:"
+              },
+            {
+                "type": "text",
+                "content": "Reserva con anticipación: Especialmente si viajas en temporada alta, es recomendable reservar con anticipación tus tours, catas y alojamiento."
+              },
+            {
+                "type": "text",
+                "content": "Lleva ropa y calzado cómodos: Caminarás por viñedos y queserías, por lo que es importante llevar ropa y calzado cómodos."
+              },
+            {
+                "type": "text",
+                "content": "No olvides tu cámara: Captura los hermosos paisajes y momentos memorables de tu viaje."
+              },
+            {
+                "type": "text",
+                "content": "Disfruta de la experiencia: La Ruta del Queso y del Vino es una experiencia para disfrutar con todos los sentidos. Abre tu mente, tu paladar y tu corazón para apreciar la riqueza gastronómica y cultural de Querétaro."
+              },
+            {
+                "type": "text",
+                "content": "¡Embárcate en esta aventura de sabores y descubre la magia de la Ruta del Queso y del Vino en Querétaro!"
+              }
+          ]
+        },
+        {
+            "id": "la-gastronomia-mexicana",
+            "backButton": "Volver al blog",
+            "urlImg": "newBlog/gastronomia-mexicana.jpg",
+            "name": "La Gastronomía Mexicana: Un viaje culinario a través de la historia y la tradición",
+            "categoriaSlug": "experiencias",
+            "categoriaLabel": "Experiencias",
+            "postReadmoreButton": "Leer más",
+            "post": [
+                {
+                    "type": "text",
+                    "content": "La gastronomía mexicana es un universo de sabores, aromas y colores que ha conquistado paladares alrededor del mundo. Es una herencia cultural milenaria que se ha ido enriqueciendo con el paso del tiempo, gracias al mestizaje de las culturas indígenas con la española y las influencias de otros países."
+                },
+                {
+                    "type": "subtite",
+                    "content": "Un festín de sabores:"
+                },
+                {
+                    "type": "text",
+                    "content": "La cocina mexicana se caracteriza por su gran variedad de platillos, cada uno con su propia historia, tradición y sabor único. Algunos de los platillos más emblemáticos son:"
+                },
+                {
+                    "type": "text",
+                    "content": "● Mole poblano: Un complejo y aromático guiso con base de chile ancho, chocolate, especias y diversos ingredientes, originario de Puebla."
+                },
+                {
+                    "type": "text",
+                    "content": "● Tacos: Tortillas de maíz rellenas de una gran variedad de ingredientes, como carne, pescado, mariscos, verduras y queso. Son un ejemplo de la sencillez y versatilidad de la cocina mexicana."
+                },
+                {
+                    "type": "text",
+                    "content": "● Enchiladas: Tortillas de maíz bañadas en salsa picante, rellenas de carne, queso o verduras y gratinadas con queso."
+                },
+                {
+                    "type": "text",
+                    "content": "● Pozole: Un caldo sustancioso a base de maíz y carne de cerdo o pollo, típico de Jalisco y Sinaloa."
+                },
+                {
+                    "type": "text",
+                    "content": "● Tamales: Masa de maíz rellena de carne, verduras o mole, envuelta en hojas de maíz o plátano y cocida al vapor."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "Más allá de los platillos:"
+                },
+                {
+                    "type": "text",
+                    "content": "La gastronomía mexicana no se limita solo a los platillos, sino que también incluye una gran variedad de bebidas, salsas, tortillas y postres. Algunas de las bebidas más populares son el tequila, el mezcal, el pulque y la horchata. Las salsas son un elemento esencial para resaltar el sabor de los platillos, y las hay de diferentes tipos, desde las picantes hasta las más suaves. Las tortillas, hechas de maíz o harina, son la base de muchos platillos mexicanos. Y los postres, como el flan, el arroz con leche y los churros, son el final perfecto para una comida mexicana."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "Un patrimonio cultural:"
+                },
+                {
+                    "type": "text",
+                    "content": "En 2010, la cocina tradicional mexicana fue inscrita en la Lista Representativa del Patrimonio Inmaterial de la Humanidad por la UNESCO, reconociendo su valor cultural y su importancia en la identidad del pueblo mexicano."
+                },
+                {
+                    "type": "subitle",
+                    "content": "Un viaje culinario:"
+                },
+                {
+                    "type": "text",
+                    "content": "Recorrer México es embarcarse en un viaje culinario sin igual. Cada región del país tiene su propia gastronomía, con ingredientes, platillos y tradiciones únicas. Desde la cocina del norte, con su influencia americana, hasta la cocina del sureste, con su herencia maya, la gastronomía mexicana ofrece una experiencia sensorial inigualable."
+                },
+                {
+                    "type": "text",
+                    "content": "Además de los platillos mencionados anteriormente, aquí hay algunos ejemplos de la gran variedad de la gastronomía mexicana:"
+                },
+                {
+                    "type": "subtitle",
+                    "content": "Norte de México:"
+                },
+                {
+                    "type": "text",
+                    "content": "1. Carne Asada: Originaria de la región norteña, la carne asada es un plato emblemático que consiste en cortes de carne de res marinados y cocinados a la parrilla, acompañados de tortillas de harina, guacamole, salsa y frijoles charros."
+                },
+                {
+                    "type": "text",
+                    "content": "2. Cabrito: Un manjar típico de Nuevo León, el cabrito es un plato elaborado con carne de cabra joven sazonada con especias y cocida lentamente al horno o a las brasas, hasta que queda tierna y jugosa."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "Centro de México:"
+                },
+                {
+                    "type": "text",
+                    "content": "1. Pozole: Un platillo tradicional de la cocina mexicana, el pozole es una sopa espesa elaborada con maíz cacahuazintle, carne de cerdo o pollo, y condimentada con chiles y especias. Se sirve con acompañamientos como lechuga, rábano, cebolla y limón."
+                },
+                {
+                    "type": "text",
+                    "content": "2. Chiles en Nogada: Considerado el platillo más representativo de la gastronomía mexicana, los chiles en nogada son chiles poblanos rellenos de picadillo de carne de res y cerdo, bañados en una salsa de nueces y decorados con granada y perejil, creando un festín de colores y sabores."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "Sur de México:"
+                },
+                {
+                    "type": "text",
+                    "content": "1. Mole Poblano: Originario de Puebla, el mole poblano es una salsa espesa y aromática elaborada con chiles, chocolate, especias y otros ingredientes, que se sirve sobre pollo o pavo y se acompaña con arroz y tortillas."
+                },
+                {
+                    "type": "text",
+                    "content": "2. Tamales: Un clásico de la cocina mexicana, los tamales son pequeñas porciones de masa de maíz rellenas de una variedad de ingredientes, como carne, pollo, verduras o chiles, envueltas en hojas de maíz y cocidas al vapor."
+                },
+                {
+                    "type": "text",
+                    "content": "La gastronomía mexicana es un tesoro cultural que refleja la riqueza y diversidad del país. Es una cocina viva, en constante evolución, que se adapta a los gustos y necesidades de las personas. Si tienes la oportunidad de probar la comida mexicana, no la pierdas. Es una experiencia que te cautivará y te dejará con ganas de más."
+                }
+
+            ]
+        },
+        {
+            "id": "las-10-mejores-ciudades-para-vivir-en-mexico",
+            "backButton": "Volver al blog",
+            "urlImg": "newBlog/monterrey.jpg",
+            "name": "Las  10 mejores ciudades para vivir en México: Destinos que lo tienen todo",
+            "categoriaSlug": "planea-tu-viaje",
+            "categoriaLabel": "Planea tu viaje",
+            "postReadmoreButton": "Leer más",
+            "post": [
+                {
+                    "type": "text",
+                    "content": "México es un país rico en diversidad cultural, belleza natural y oportunidades de vida. Desde ciudades cosmopolitas hasta encantadoras ciudades coloniales, México ofrece una amplia gama de opciones para aquellos que buscan establecerse en un nuevo hogar. En este blog, comentaremos las 10 mejores ciudades para vivir en México, destacando sus características únicas y por qué son tan populares entre los residentes locales y los expatriados."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "1. Ciudad de México (CDMX):"
+                },
+                {
+                    "type": "text",
+                    "content": "La Ciudad de México, la capital del país, es una metrópoli vibrante y diversa que ofrece una mezcla única de cultura, historia y modernidad. Con una rica escena cultural, una excelente gastronomía, y una amplia oferta educativa y laboral, la CDMX es una de las ciudades más emocionantes y cosmopolitas de México."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "2. Guadalajara, Jalisco:"
+                },
+                {
+                    "type": "text",
+                    "content": "Conocida como la Perla de Occidente, Guadalajara es la segunda ciudad más grande de México y un importante centro cultural y económico. Con un clima agradable, una vibrante escena artística y gastronómica, y una alta calidad de vida, Guadalajara atrae a residentes de todo el país y del extranjero."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "3. Monterrey, Nuevo León:"
+                },
+                {
+                    "type": "text",
+                    "content": "Como el centro industrial y económico del norte de México, Monterrey es una ciudad moderna y próspera que ofrece excelentes oportunidades laborales y una alta calidad de vida. Con un clima semiárido, una economía diversificada y una infraestructura bien desarrollada, Monterrey es una opción popular para aquellos que buscan una vida urbana dinámica."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "4. Mérida, Yucatán:"
+                },
+                {
+                    "type": "text",
+                    "content": "Mérida, la capital del estado de Yucatán, es una encantadora ciudad colonial conocida por su arquitectura histórica, su rica cultura y su estilo de vida relajado. Con un clima tropical, una próspera escena artística y una comunidad expatriada activa, Mérida es un destino popular para aquellos que buscan un cambio de ritmo y un ambiente auténtico."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "5. Querétaro, Querétaro:"
+                },
+                {
+                    "type": "text",
+                    "content": "Querétaro es una ciudad colonial pintoresca y encantadora que combina historia, belleza y modernidad. Con un clima templado, una economía en crecimiento y una alta calidad de vida, Querétaro atrae a residentes locales y expatriados por igual en busca de tranquilidad y seguridad."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "6. Puebla, Puebla:"
+                },
+                {
+                    "type": "text",
+                    "content": "Conocida por su impresionante arquitectura colonial, Puebla es una ciudad llena de encanto y cultura. Con un clima agradable, una gastronomía única y una ubicación estratégica cerca de la Ciudad de México, Puebla es una excelente opción para aquellos que buscan una experiencia de vida auténtica en México."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "7. Oaxaca, Oaxaca:"
+                },
+                {
+                    "type": "text",
+                    "content": "Oaxaca es una ciudad colorida y vibrante que cautiva a sus visitantes con su rica cultura, su deliciosa gastronomía y su hermosa arquitectura colonial. Con un clima subtropical, una escena artística floreciente y una comunidad indígena vibrante, Oaxaca ofrece una experiencia de vida única y auténtica en México."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "8. Tijuana, Baja California:"
+                },
+                {
+                    "type": "text",
+                    "content": "Tijuana, ubicada en la frontera con Estados Unidos, es una ciudad dinámica y multicultural conocida por su escena gastronómica internacional, su vida nocturna animada y su próspera industria manufacturera. Con un clima mediterráneo, una economía diversificada y una ubicación estratégica, Tijuana es una opción popular para aquellos que buscan oportunidades laborales y una experiencia de vida única en la frontera."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "9. San Miguel de Allende, Guanajuato:"
+                },
+                {
+                    "type": "text",
+                    "content": "San Miguel de Allende es una ciudad colonial encantadora y pintoresca que ha sido nombrada Patrimonio de la Humanidad por la UNESCO. Con su arquitectura histórica, su atmósfera tranquila y su próspera comunidad artística, San Miguel de Allende es un refugio para aquellos que buscan un estilo de vida relajado y creativo."
+                },
+                {
+                    "type": "subtitle",
+                    "content": "10. Cancún, Quintana Roo"
+                },
+                {
+                    "type": "text",
+                    "content": "Cancún es un destino turístico de renombre mundial conocido por sus impresionantes playas de arena blanca y aguas turquesas. Además de su belleza natural, Cancún ofrece una amplia gama de servicios, una vibrante vida nocturna y una economía en crecimiento, convirtiéndola en una opción atractiva para aquellos que buscan un estilo de vida tropical en el Caribe mexicano."
+                },
+                {
+                    "type": "text",
+                    "content": "Estas son solo algunas de las muchas ciudades maravillosas que México tiene para ofrecer. Ya sea que prefieras la vida urbana, la tranquilidad de una ciudad colonial o la belleza del Caribe, encontrarás el lugar perfecto para llamar hogar en este país lleno de diversidad y oportunidades. ¡Ven y descubre las maravillas de vivir en México!"
+                }
+                
+
+            ]
+        },
+        {
+            "id": "esferas",
+            "backButton": "Volver al blog",
+            "urlImg": "newBlog/manoEsferas.png",
+            "name": "Esferas, artes en vidrio que engalana la navidad en México",
+            "categoriaSlug": "experiencias",
+            "categoriaLabel": "Experiencias",
+            "postReadmoreButton": "Leer más",
+            "post": [
+                {
+                    "type": "text",
+                    "content": "La Navidad en México es una arraigada tradición única en el mundo, que año con año se ve engalanada con las esferas que elaboran las manos mágicas de maestros artesanos que hacen de la técnica del vidrio soplado, bellas creaciones que enaltecen esta festividad."
+                  },
+                  {
+                    "type": "text",
+                    "content": "Los Pueblos Mágicos de Tlalpujahua, Michoacán y Chignahuapan, Puebla son los dos destinos más representativos en donde año con año, miles de visitantes nacionales y extranjeros, adquieren estos icónicos productos, y al mismo tiempo disfrutan de los atractivos turísticos y la gastronomía del lugar."
+                  },
+                  {
+                    "type": "image",
+                    "urlImg": "EsferasVidrioSoplado.jpg"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Las esferas que embellecen la Navidad en México son producto de una tradición que se hereda de generación en generación, desde el siglo XVII cuando llegó a nuestro país. Se tiene registro que desde hace más de 2000 años, en China ya se elaboraban."
+                  },
+                  {
+                    "type": "text",
+                    "content": "La técnica pasó a Europa y luego las comunidades en México la adoptaron desde la época del virreinato, dando como resultado una fusión extraordinaria, que permanece hasta nuestros días."
+                  },
+                  {
+                    "type": "title",
+                    "content": "TLALPUJAHUA Y LA FERIA DE LA ESFERA"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Es tan importante la tradición y producción de estas creaciones artesanales, que una de las 5 festividades más importantes de Tlalpujahua es la Feria de la Esfera, que se lleva a cabo desde octubre hasta diciembre, con el objetivo de que los visitantes puedan ver con oportunidad la amplia variedad de colores, modelos y tamaños de esferas que se producen."
+                  },
+                  {
+                    "type": "text",
+                    "content": "De esa manera, los hogares contarán con uno de los elementos más característico de la Navidad en México."
+                  },
+                  {
+                    "type": "text",
+                    "content": "Tlalpujahua se encuentra aproximadamente a 3 horas por carretera desde la Ciudad de México, y a 1:50 horas desde Morelia o Toluca. Se ubica al noroeste de Michoacán, limitando con Maravatío, Contepec, Senguio y con el Estado de México."
+                  },
+                  {
+                    "type": "text",
+                    "content": "Es cuna del insurgente mexicano Ignacio López Rayón, por lo que el nombre oficial del destino es Tlalpujahua de Rayón, y destaca por su arquitectura con construcciones de la época virreinal y casonas con balcones, además cuenta con una rica historia minera."
+                  },
+                  {
+                    "type": "image",
+                    "urlImg": "EsferasChignahuapan.jpg"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Así que cuando visites este Pueblo Mágico para adquirir esferas, date la oportunidad de conocer sitios imperdibles como la Casa-Museo Hermanos Rayón, el Santuario de Nuestra Señora del Carmen o la Mina Dos Estrellas."
+                  },
+                  {
+                    "type": "text",
+                    "content": "Pero Tlalpujahua también cuenta con encantadores sitios de naturaleza a su alrededor, lo que le da un encanto especial. Prueba de ello es el Santuario de la Mariposa Monarca, que entre los meses de noviembre y febrero recibe a miles de ejemplares de esta especie migrante, que viajan desde Canadá hasta los bosques michoacanos, como lo que se encuentran en este destino."
+                  },
+                  {
+                    "type": "text",
+                    "content": "El encanto de Tlalpujahua lo hizo merecedor al nombramiento de Pueblo Mágico desde el 27 de junio de 2005."
+                  },
+                  {
+                    "type": "image",
+                    "urlImg": "EsferaArtesanal.jpg"
+                  },
+                  {
+                    "type": "title",
+                    "content": "CHIGNAHUAPAN Y SUS TALLERES DE ESFERAS"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Se tiene registro de que en ese Pueblo Mágico de Puebla, existen más de 200 talleres y fábricas de esferas en donde anualmente se producen decenas de millones de piezas de arte que adornan la Navidad en México."
+                  },
+                  {
+                    "type": "text",
+                    "content": "Ubicado a 2:30 horas de la Ciudad de México, 1:30 horas de Pachuca y 2:10 horas de la ciudad de Puebla, Chignahuapan es un bello poblado enclavado entre cerros que le dan un clima peculiar, particularmente frío."
+                  },
+                  {
+                    "type": "text",
+                    "content": "El Kiosco Mudéjar es uno de los sitios que todo visitante debe conocer, por el característico estilo de esta corriente artística que surge en España a fines del siglo XIX, porque además es la foto obligada de todo turista."
+                  },
+                  {
+                    "type": "text",
+                    "content": "También se encuentran la Basílica de la Inmaculada Concepción y la Plaza de Armas, pero los atractivos naturales son lo más representativo en este Pueblo Mágico. Cascadas como El Cajón, Quetzalapan, sus lagunas y aguas termales, son solo algunos de los puntos más socorridos por los visitantes."
+                  },
+                  {
+                    "type": "text",
+                    "content": "Así que ya lo sabes, Tlalpujahua y Chignahuapan son las dos opciones más recomendables, no solo para adquirir las esferas de la próxima temporada navideña, sino también la oportunidad de conocer dos increíbles Pueblos Mágicos de México."
+                  }
+
+            ]
+        },
+        {
+            "id": "10-actividades-que-puedes-realizar-en-Cozumel",
+            "backButton": "Volver al blog",
+            "urlImg": "newBlog/cozumel.webp",
+            "name": "10 Actividades que puedes realizar en Cozumel",
+            "categoriaSlug": "destinos",
+            "categoriaLabel": "Destinos",
+            "postReadmoreButton": "Leer más",
+            "post": [
+                {
+                    "type": "text",
+                    "content": "En el Caribe Mexicano se encuentra uno de los paraísos insulares más preciados de México, Cozumel, cuya riqueza natural se combina a la perfección con el legado de la Cultura Maya y su moderna infraestructura para recibir al turismo, como su aeropuerto internacional, su zona hotelera y el muelle apto para recibir cruceros de gran tamaño."
+                  },
+                  {
+                    "type": "text",
+                    "content": "También conocida como la Isla de las Golondrinas, Cozumel, Quintana Roo es el sitio perfecto para contemplar la extensa flora y fauna marina, ya que se ubica en la segunda barrera de coral más grande del mundo."
+                  },
+                  {
+                    "type": "text",
+                    "content": "Rodeado por las aguas turquesa del mar Caribe, más de la mitad del territorio de este destino es Área Natural Protegida, lo que ayuda a la conservación y la práctica de un turismo responsable para deleite de los visitantes que llegan, ya sea a través de embarcaciones, o por vía aérea."
+                  },
+                  {
+                    "type": "text",
+                    "content": "Aunque una opción muy recurrente es tomar un ferry desde Playa del Carmen para hacer una visita a Cozumel, esta isla cuenta con una variada gama de actividades, por lo que bien vale la pena tener una estancia de algunos días, para disfrutarla al máximo."
+                  },
+                  {
+                    "type": "title",
+                    "content": "ACTIVIDADES OBLIGADAS PARA REALIZAR EN COZUMEL"
+                  },
+                  {
+                    "type": "image",
+                    "urlImg": "CozumelBicicleta.jpeg"
+                  },
+                  {
+                    "type": "subtitle",
+                    "content": "1. VISITAR EL MUELLE Y EL CENTRO DE SAN MIGUEL DE COZUMEL"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Al ser uno de los principales sitios de entrada a este destino insular, lo más recomendable es conocer su muelle y el centro de San Miguel de Cozumel, en donde se encuentra la cabecera municipal, y cuenta con parte de los sitios históricos y culturales, además de restaurantes, tiendas de artesanías y recuerdos, entre otros establecimientos. Además, podrás admirar los modernos murales que le dan a la visita un toque muy pintoresco y agradable, ideal para tomarse unas buenas fotos."
+                  },
+                  {
+                    "type": "subtitle",
+                    "content": "2. PRACTICAR BUCEO Y ESNÓRQUEL"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Por su privilegiada ubicación geográfica, la mejor manera de disfrutar las maravillas naturales de Cozumel, es mediante la práctica de buceo. Ya sea para expertos o principiantes, en las diferentes áreas de la isla se encuentran prestadores de servicio que ayudarán al visitante a aprender esta actividad. Pero si lo prefieres, también es posible hacer solo esnórquel y ver los tesoros naturales que esconden las profundidades de esta zona del mar Caribe."
+                  },
+                  {
+                    "type": "subtitle",
+                    "content": "3. VIAJAR A PUNTA SUR"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Como su nombre lo indica, en el extremo ‘inferior’ de Cozumel se encuentra Punta Sur, una gran área natural que cuenta con amplias extensiones de vegetación, manglares y arrecifes, así como un impresionante faro y el Museo de la Navegación. En este museo se resguarda la historia de los mayas y los navegantes de esta zona del Caribe mexicano, incluyendo vestigios de esta impresionante cultura."
+                  },
+                  {
+                    "type": "subtitle",
+                    "content": "4. RECORRER LA ZONA ARQUEOLÓGICA DE SAN GERVASIO"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Para los mayas, Ixchel es la diosa de la fertilidad, el parto, la medicina y las artes, y esta zona arqueológica de Cozumel está dedicada a esta deidad. Aunque esta área resguarda los principales vestigios de veneración, a lo largo de Cozumel hay distintas manifestaciones que dan fe del culto que se le rendía; incluso se sabe que anteriormente, todas las mujeres debían visitar alguna vez la isla."
+                  },
+                  {
+                    "type": "subtitle",
+                    "content": "5. APRECIAR LA LLEGADA DE LA TRAVESÍA SAGRADA MAYA"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Ya que hablamos de Ixchel, también es importante hablar de uno de los eventos más significativos de Cozumel, la Travesía Sagrada Maya, que actualmente es una recreación del recorrido que hacen los canoeros que parten desde la zona continental en Playa del Carmen, para rendir tributo a esta diosa, con el propósito de pedir por la fertilidad de la tierra y agradecer por lo recibido."
+                  },
+                  {
+                    "type": "image",
+                    "urlImg": "CozumelBuzo.webp"
+                  },
+                  {
+                    "type": "subtitle",
+                    "content": "6. DISFRUTAR DEL PARQUE NACIONAL CHANKANAAB"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Historia, naturaleza y diversión se concentran en un solo sitio, el Parque Chankanaab, ya declarado nacional en cuyo interior, además de poder realizar actividades como esnórquel, buceo y hasta nado con delfines, o simplemente relajarse en su club de playa; además, cuenta con un museo, por lo que es uno de los mejores sitios para todo tipo de viajeros."
+                  },
+                  {
+                    "type": "subtitle",
+                    "content": "7. DESCANSAR EN EL CEDRAL"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Si Cozumel es el destino perfecto para quien busca tranquilidad y relajación, El Cedral es el rincón perfecto dentro de la isla. Este pequeño pueblito tiene un encanto particular, y es testigo del paso de la historia desde el auge de la Cultura Maya hasta nuestros días. También es sede de la segunda festividad más importante del destino: La Fiesta del Cedral, el día de la Santa Cruz."
+                  },
+                  {
+                    "type": "subtitle",
+                    "content": "8. REALIZAR ACTIVIDADES ACUÁTICAS"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Si el buceo y el esnórquel son algunas de las actividades más recurrentes en Cozumel, existe una gama más amplia para disfrutar de sus playas. A lo largo de la costa, encontrarás opciones para practicar paddleboard, jet ski, kayak, siempre con el apoyo de expertos en la materia, que te brindarán toda la confianza."
+                  },
+                  {
+                    "type": "image",
+                    "urlImg": "CozumelBuzo.jpeg"
+                  },
+                  {
+                    "type": "subtitle",
+                    "content": "9. VISITA A LA ISLA DE LA PASIÓN"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Hacia el norte de Cozumel se encuentra un pequeño lugar llamado Isla Pasión, con una extensión de solo un kilómetro. Aquí encontramos manglares, arrecifes y selva, donde se pueden hacer tours para disfrutar de su tranquila y relajante playa, así como actividades un poco más emocionantes. Además, por sus características, también se ha convertido en un bello destino para realizar bodas."
+                  },
+                  {
+                    "type": "subtitle",
+                    "content": "10. EL CIELO"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Al sur de Cozumel, en el fondo del mar con la arena blanca que caracteriza el mar Caribe, encontramos el auténtico cielo marino. Su nombre se debe a los cientos de estrellas de mar que reposan en una amplia extensión, por lo que no podría recibir otro nombre más que El Cielo, pero dentro del mar. Disfrutar este atractivo es ideal mediante el buceo o esnórquel, y es una más de las visitas que ningún turista puede dejar pasar por alto al viajar a Cozumel."
+                  } 
+            ]
+        },
+        {
+            "id": "dia-de-muertos",
+            "backButton": "Volver al blog",
+            "urlImg": "newBlog/dia-de-muertos.webp",
+            "name": "Día de muertos",
+            "categoriaSlug": "planea-tu-viaje",
+            "categoriaLabel": "Planea tu viaje",
+            "postReadmoreButton": "Leer más",
+            "post": [
+                {
+                    "type": "text",
+                    "content": "El Día de Muertos terminó, pero aún se puede apreciar el olor del cempasúchil y del incienso impregnados en todas partes, aun podemos respirar el olor del pan de muerto habitando cada espacio común, de la misma forma en que la memoria de nuestros difuntos se impregna dentro de nosotros. Recordarlos y honrar su memoria es un ritual importante para nuestra identidad y enriquece nuestra visión del mundo, pues en México entendemos la muerte como una parte más de la vida, pero jamás su final."
+                  },
+                  {
+                    "type": "text",
+                    "content": "También entendemos que vivir en sinónimo de alegría y por ello recibimos con ofrendas a nuestros difuntos, pero también a los vivos, amigos, seres queridos y hasta extraños son bienvenidos en nuestras casas para celebrar que estamos con vida y que compartir es la forma más sensata y cálida de vivir."
+                  },
+                  {
+                    "type": "text",
+                    "content": "Son tantas las formas en que esta celebración se lleva a cabo, que sería imposible enumerarlas aquí, existen rituales y eventos tan antiguos como el Día de Muertos, pero cada año surgen nuevas formas de celebrarlo, donde se expresa la creatividad de un pueblo orgulloso de sus raíces, permitiendo preservar las tradiciones y ritos que la UNESCO reconoce como patrimonio cultural Inmaterial de la Humanidad, como se declaró en 2008 a nuestro querido Día de Muertos."
+                  },
+                  {
+                    "type": "text",
+                    "content": "Desde Sinaloa hasta Yucatán, de Tamaulipas a Tabasco, todo México se transforma y expresa su identidad de forma asombrosa, es por ello que compartimos esta celebración con influencers invitados de diversos países de Latinoamérica; Isa Terrones (Perú), Christian Byfield (Colombia), Kattya Soto (Perú), Leonel Mijangos (Guatemala), Sergio Ríos (Perú), y Andrea Pedrero (México)."
+                  },
+                  {
+                    "type": "image",
+                    "urlImg": "DIA-DE-MUERTOS-INFLUENCER_05.jpeg"
+                  },
+                  
+                  {
+                    "type": "text",
+                    "content": "Los creadores de contenido visitaron destinos como Aguascalientes, Michoacán, Ciudad de México y Guanajuato, donde pudieron presenciar en vivo cómo México se llena de colores, aromas y sabores que estimulan todos nuestros sentidos. Pudieron compartir con sus miles de seguidores la energía y la belleza de nuestro país en el marco del Día de Muertos."
+                  },
+                  {
+                    "type": "text",
+                    "content": "Su travesía no hubiera sido posible sin el profesionalismo y la amabilidad de Trösten Transport, empresa de transportación que ofrece servicios para viajes, transporte de personal, transporte ejecutivo y corporativo, shuttle en aeropuerto, night ride, entre otros. Asimismo, cuentan con diversas unidades de hasta 21 pasajeros, mismas que ofrecen diversos beneficios de los cuales pudieron disfrutar nuestros invitados en los traslados requeridos durante esta experiencia de “Día de Muertos”."
+                  },
+                  {
+                    "type": "text",
+                    "content": "Este recorrido culminó de forma espectacular asistiendo al Gran Desfile de Día de Muertos, con sede en la Ciudad de México, donde se celebró en grande con más de 4,000 participantes que deleitaron a más 1 millón de asistentes con espectáculos artísticos, circenses y musicales. Ha sido un placer compartir con todos una fecha tan especial, que nos conmueve y alegra al mismo tiempo. La hospitalidad a la mexicana es algo que nos enorgullece y esperamos que turistas de todo el mundo, nos visiten en el Día de Muertos, porque nunca debemos olvidar a nuestros seres queridos que se adelantaron. Si los recordamos, siempre vivirán."
+                  }
+            ]
+        },
+        {
+            "id": "alexander-von-humboldt-y-acapulco",
+            "backButton": "Volver al blog",
+            "urlImg": "newBlog/alexander_von_humboldt.jpg",
+            "name": "Alexander Von Humboldt y Acapulco",
+            "categoriaSlug": "destinos",
+            "categoriaLabel": "Destinos",
+            "postReadmoreButton": "Leer más",
+            "post": [
+                {
+                    "type": "text",
+                    "content": "De Alexander Von Humboldt existen innumerables ensayos, artículos y libros donde se resalta una o varias de sus múltiples facetas como biólogo, humanista, geógrafo y astrónomo, sin embargo, poco se habla de su aportación como promotor turístico de México."
+                  },
+                {
+                    "type": "text",
+                    "content": "Motivado por sus tutores particulares, fue un gran aficionado por la naturaleza y los viajes."
+                  },
+                {
+                    "type": "text",
+                    "content": "Tras la muerte de su madre en 1797, renunció a su prometedora carrera de funcionario de gobierno y se dirigió a París, Francia, donde más tarde conocería al botánico Aimé Bonpland, con quien además de una amistad, también compartiría la inquietud de llevar a cabo sus viajes científicos."
+                  },
+                {
+                    "type": "text",
+                    "content": "El 5 de junio de 1799, después de obtener el salvoconducto para explorar las provincias americanas bajo dominio español del rey Carlos IV, se embarcaron con rumbo a Venezuela."
+                  },
+                {
+                    "type": "text",
+                    "content": "Tras un fascinante viaje por el continente americano el 23 de marzo de 1803 Humboldt desembarcó en Acapulco, procedente de Guayaquil y sorprendido por la belleza de la Bahía de Santa Lucía, se quitó sus botines para caminar sobre la arena de la paradisiaca playa."
+                  },
+                {
+                    "type": "text",
+                    "content": "Acapulco enamoró, enamora y seguirá enamorando a primera vista, y Von Humboldt no fue ajeno a su encanto y su “Ensayo Político Sobre el Reino de la Nueva España” es prueba inequívoca de ello."
+                  },
+                {
+                    "type": "text",
+                    "content": "En su ensayo, además de destacar la importancia que Acapulco tenía para el comercio de la época, se pueden encontrar los siguientes calificativos:"
+                  },
+                {
+                    "type": "text",
+                    "content": "“Uno de los más hermosos puertos conocidos del mundo”,"
+                  },
+                {
+                    "type": "text",
+                    "content": "“El más bello de todos los que hay en las costas del Océano Pacífico”,"
+                  },
+                {
+                    "type": "text",
+                    "content": "“Parece un estanque inmenso hecho por la mano del hombre”,"
+                  },
+                {
+                    "type": "text",
+                    "content": "“Una inmensa concha cortada entre peñascos”."
+                  },
+                {
+                    "type": "text",
+                    "content": "Aunado a lo anterior, y tras plasmar en sus escritos las bellezas de Acapulco, señaló los recintos de la Ciudad de México que más llaman la atención de los viajeros: la Catedral Metropolitana, la Casa de Moneda, la Escuela de Minería, entre otros."
+                  },
+                {
+                    "type": "text",
+                    "content": "La entonces Nueva España fue uno de los espectáculos más impresionantes para el viajero, explorador y pionero del turismo en México."
+                  },
+                {
+                    "type": "text",
+                    "content": "Gracias a este y otros escritos, la gente en Europa y otras partes del mundo conoció una cara diferente de nuestro país y los viajeros se interesaron en adentrarse más en lo que hoy es Guerrero, Morelos, Puebla, Hidalgo, Michoacán, Guanajuato, Querétaro, Estado de México y Veracruz."
+                  },
+                {
+                    "type": "text",
+                    "content": "Además, para dimensionar los aportes que sus trabajos le dieron a nuestro país, basta señalar que, en 1859, el presidente Benito Juárez, lo nombró “Benemérito de la Patria”."
+                  },
+                {
+                    "type": "text",
+                    "content": "Sin duda alguna Alexander Von Humboldt marcó un parteaguas para que el mundo conociera la belleza e importancia de México y sobre todo al majestuoso puerto de Acapulco."
+                  }
+            ]
+        },
+        {
+            "id": "vino-mexicano",
+            "backButton": "Volver al blog",
+            "urlImg": "newBlog/vino-mexicano.jpg",
+            "name": "Vino Mexicano",
+            "categoriaSlug": "experiencias",
+            "categoriaLabel": "Experiencias",
+            "postReadmoreButton": "Leer más",
+            "post": [
+                {
+                    "type": "text",
+                    "content": "Hace unos meses México recibió la visita de una de las personas más importantes y reconocidas de la industria del vino a nivel mundial, Jancis Robinson. Crítica, periodista y editora inglesa de importantes libros y publicaciones relacionadas al vino, consejera para la bodega de vinos de la Reina Isabel II de Inglaterra, columnista semanal del Financial Times, entre muchas otras cosas."
+                  },
+                {
+                    "type": "text",
+                    "content": "Jancis, de 73 años llegó a la Ciudad de México preguntándose qué era lo que hacía tan atractivo al vino mexicano. Cuál era la razón de que los vinos mexicanos, cuando empezaron a participar en los concursos más importantes del mundo, llegaron a arrebatar medallas de oro a los vinos de España, Italia y hasta Francia. De aproximadamente 5 años a la fecha en 2023, México ha sido reconocido por la elaboración de vinos de gran calidad, provocando que importantes personalidades hayan puesto los ojos en nuestro país."
+                  },
+                {
+                    "type": "text",
+                    "content": "La gran noche que pasaron Robinson y una minuciosa selección de 27 vinos mexicanos que representaban las mejores características de nuestra personalidad vinícola, celebrada en el majestuoso Wine Bar del Concurso Mundial de Bruselas que se encuentra en el corazón de la Ciudad de México, le disipó muchas de sus dudas. Carlos Borboa, director del Wine Bar, Manuel Negrete y Sandra Fernández, y sommeliers mexicanos, fueron los encargados de presentarle a Jancis cada uno de los 27 vinos, sus regiones y características."
+                  },
+                {
+                    "type": "text",
+                    "content": "Hasta hace poco, el enoturismo, es decir, el turismo que se realiza en zonas vinícolas no era muy conocido. Se trata de una actividad que permea no sólo a productores, sino a todos los trabajadores y las poblaciones alrededor, y que cada año recibe más visitantes de todo el mundo. Amantes del buen vino y el buen comer viajan kilómetros desde sus países de origen para disfrutar lo que nuestro México vinicultor ofrece. Porque con esta calidad de vinos sumada a nuestra espectacular gastronomía mexicana, ¿qué otra cosa nos podría faltar?"
+                  }
+            ]
+        }
+      ]
+}

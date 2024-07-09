@@ -1,0 +1,70 @@
+.blog-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+}
+
+
+.blog-banner img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+}
+
+.blog-banner-content {
+  color: #ffffff;
+  position: absolute;
+  width: 100%;
+}
+
+.blog-banner-content h1 {
+  font-size: var(--txt-title-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10%;
+}
+
+@media screen and (min-width: 744px) {
+  .blog-banner img {
+    aspect-ratio: 4/3;
+  }
+  .blog-banner-content h1 {
+    font-size: var(--txt-title-md);
+  }
+}
+
+@media screen and (min-width: 1353px) {
+  .blog-banner img {
+    aspect-ratio: 16/9;
+  }
+  .blog-banner-content h1 {
+    font-size: var(--txt-title-xl);
+  }
+}
+  
+
+.videos-title-title {
+	text-align: center;
+	font-size: var(--txt-title-sm);
+	font-family: 'Bebas Neue', sans-serif;
+  	letter-spacing: 1px;
+	color: var(--blue);
+	padding: 32px;
+}
+
+/* Daniel Rivera: Agregue estas lneas qe vienen de estilos del home paar ue compartan el mismo patron de diseño */
+.home-know-ctn-description {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+  }
+  
+  .home-know-description-title {
+	font-size: var(--txt-p-md);
+	text-align: center;
+  }

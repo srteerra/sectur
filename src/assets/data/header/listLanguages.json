@@ -1,0 +1,34 @@
+[
+	{ 
+		"value": "ES",
+		"label":"Español"
+	},
+	{ 
+		"value": "EN",
+		"label":"English"
+	},
+	{ 
+		"value": "FR",
+		"label":"Français"
+	},
+	{ 
+		"value": "DE",
+		"label":"Deutsch"
+	},
+	{ 
+		"value": "PT",
+		"label":"Português"
+	},
+	{ 
+		"value": "IT",
+		"label":"Italiano"
+	},
+	{ 
+		"value": "JP",
+		"label":"日本語"
+	},
+	{ 
+		"value": "CN",
+		"label":"中国人"
+	}
+]

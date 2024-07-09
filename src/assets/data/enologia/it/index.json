@@ -1,0 +1,65 @@
+{
+    "title": "Turismo del vino: regioni produttrici di vino in Messico",
+    "imgItem1":"enologia/eno/enoturismo1.jpg",
+    "imgItem2":"enologia/eno/enoturismo2.jpg",
+    "imgItem3":"enologia/eno/enoturismo3.jpg",
+    "imgItem4":"enologia/eno/enoturismo4.jpg",
+    "imgItem5":"enologia/eno/enologia5.jpg",
+    "imgTurismo": "enologia/eno/enoturismo6.jpg",
+    "subtitle": "Cos'è l'enoturismo?",
+    "paragraph": "Secondo l'Organizzazione Mondiale del Turismo",
+    "onulink": "(UNWTO)",
+    "onuafterlink": "“Il turismo del vino comprende visite alle cantine, degustazioni e altri eventi legati alla produzione del vino, nonché visite ai vigneti e ad altre attrazioni culturali e naturali di una regione vinicola”. cantine, degustazioni e altri eventi legati alla produzione del vino, nonché visite ai vigneti e ad altre attrazioni culturali e naturali legate al vino in una regione vinicola. attrazioni culturali e naturali legate al vino in una determinata regione",
+    "strongP": "Gli Stati che offrono percorsi sono:",
+    "quoteP": "",
+    "lista": [
+        "La Strada del Vino di Aguascalientes",
+        "La Strada del Vino di Baja California , che consiste in 4 percorsi, la Strada del Vino della Valle del Guadalupe, la Strada del Formaggio e del Vino, la Vecchia Strada del Vino e la Strada della Porta Nord.",
+        "Strada del Vino di Coahuila, divisa in due, la Strada del Vino e dei Dinos e la Strada del Deserto.",
+        "Strada del Vino di Guanajuato, Valle dell'Indipendenza.",
+        "Strada del Vino di Hidalgo , divisa in due: “Escapada al Camino Real entre Vino y Queso” (Fuga verso la Strada Reale tra Vino e Formaggio) e “Ruta Tolteca tra Vino e Formaggio”.",
+        "Strada dell'arte, del formaggio e del vino di Querétaro"
+      ],
+      "entidades": "16 Stati produttori di uva: Aguascalientes, Baja California, Baja California Sur, Coahuila, Chihuahua, Durango, Guanajuato, Hidalgo, Jalisco, Nayarit, Nuevo León, Puebla, Querétaro, San Luis Potosí, Sonora e Zacatecas.",
+    "info1": "16 Stati federali produttori di uva e vino",
+    "info2": "Esistono più di 12.000 marche di vini messicani",
+    "info3": "In Messico si producono 18 varietà di uve da vino",
+    "info4": "Ci sono 80 operatori turistici specializzati in itinerari enoturistici itinerari enoturistici in più di 10 stati del Messico",
+    "destinosTitle": "Destinazioni vinicole per godersi l'enoturismo",
+    "bannerEnologia": "enologia/eno/enoturismo7.jpg",
+    "titleProduccion": "Produzione dei vini messicani",
+    "descripcionClasificacion": "",
+    "produccionColumnas": [
+        {
+          "imagen": "enologia/uvas.svg",
+          "descripcion": "Il Messico ha 7.000 ettari di uva da vino "
+        },
+        {
+          "imagen": "enologia/barril.svg",
+          "descripcion": "195.000 ettolitri prodotti"
+        },
+        {
+          "imagen": "enologia/sacacorcho.svg",
+          "descripcion": "Il consumo pro capite è di 1,3 litri."
+        },
+        {
+          "imagen": "enologia/botellas.svg",
+          "descripcion": "7 bottiglie su 10 consumate sono di vino rosso "
+        }
+      ],
+      "tituloArticuloUno": "Enoturismo e regioni vinicole",
+      "Parrafo1Articulo1": "Grazie all'enoturismo si sperimenta e ci si relaziona con la cultura, la storia, le tradizioni e l'identità della destinazione visitata, soprattutto nelle regioni di produzione vinicola, per cui è fondamentale la promozione per far conoscere tutto ciò che l'enoturismo ha da offrire all'enoturista.",
+      "Parrafo2Articulo2": "L'enoturismo permette di conoscere meglio il processo di produzione del vino: vedere il campo, vedere la pianta, come si sviluppa l'uva, il processo di fermentazione, il processo di pressatura e tutto quanto fino al prodotto finale.",
+      "titulo2ArticuloDos": "Sapevi che ci sono tre musei dedicati alla vite e al vino in Messico?",
+      "Parrafo1Articulo2": "Baja California Museo de la Vid y el Vino, situato a Ensenada, offre al pubblico un Ensenada, offre al pubblico una storia, industria, identità e vino industria, l'identità e il vino, così come il suo rapporto con l'arte, nonché il suo rapporto con l'arte.Museo del Vino di Guanajuato. situato a Dolores, Hidalgo, Guanajuato; in questo luogo è possibile conoscere la storia del storia del vino e il processo di elaborazione dei vini offerti dai produttori della produttori della Valle de la Valle de la Independencia. Querétaro, il Museo d'Arte, Museo del Formaggio e del Vino, situato a Tequisquiapan, è una garanzia di cultura e sapori accompagnati con un buon bicchiere di vino.",
+      "Parrafo3Articulo2": "Sulle strade del turismo del vino del Messico, è possibile visitare e avere tutto, dalla sola degustazione di vino, al soggiorno e all'esperienza di un servizio eccezionale.",
+      "regiones": "enologia/eno/enoturismo8.jpg",
+      "marcas": "enologia/eno/enoturismo9.jpg",
+      "conocesCatalogo": "Conosci il Catalogo dei prodotti e degli itinerari enoturistici del Messico 2023?",
+      "imgDescarga": "enologia/img-descarga.png",
+      "downloadLink": "https://visitmexico.com/recursos/catalogo-de-productos-y-rutas-enoturisticas-2023.pdf",
+      "cintaRoja": "enologia/Fondorosa.webp",
+      "mapaMexico": "enologia/mapa.svg",
+      "enologiaDescarga": "Mostra di più"
+
+}

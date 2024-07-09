@@ -1,0 +1,2642 @@
+{
+	
+	"exploraTitle": "メキシコの素晴らしい目的地: あなたの旅が、ここから始まる",
+	"exploraParrafo": "目的地コーナーへようこそ。ここでメキシコの多様性と美しさを発見できる情報をご紹介します。カリブ海の壮大なビーチ、古代コロニアル都市、息をのむような景色、文化体験など、多種多様な経験がメキシコであなたを待っています。あなたの旅がここから始まります",
+
+	"sumergeteTitle": "メキシコの魅力を体験しよう",
+	"sumergeteParrafo": "メキシコの素晴らしい目的地を巡る旅に出かけましょう。チアパス州の壮大な滝からオアハカ州の活気溢れる市場まで、この国の美しい絶景、豊かな歴史、温かいおもてなしで、驚きと感動の旅となることでしょう。",
+
+	"encuentraTitle": "自分にぴったりの目的地を見つけよう",
+	"encuentraParrafo": "アドベンチャー・リラックス・文化・グルメ、あなたにぴったりの体験がメキシコで見つかることでしょう。目的地で検索し、あなたの興味や好みに合った観光地を見つけましょう。人気観光スポットから穴場まで、次回の旅行の参考になる情報をご紹介します。",
+
+	"planificaTitle": "次回のメキシコ旅行を計画しよう",
+	"planificaParrafo": "旅行ガイドブックを参考に、次回のメキシコ旅行を計画してみてください。目的地までの行き方、そこで何をするか、どこに泊まるかなど、この素晴らしい国での旅を最大限に楽しむための情報をご紹介します。",
+	
+	"titleState": "Descubre los 5 motivos  para visitar los Estados de México",
+	"urlVideoTop": "https://www.youtube.com/embed/MJSDN_mA4mA?autoplay=1&mute=1&loop=1&rel=0",
+	"title": "目的地一覧",
+	"textButton": "くわしく見る",
+	"states": [
+		{
+			"id": "Aguascalientes",
+			"dir": "/destino",
+			"urlImg": "TradicionHidrocalidaAguascalientes.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/g-nm1J-WXwU",
+			"gallery": [
+				{
+					"urlImg": "TradicionHidrocalidaAguascalientes.webp",
+					"name": "Aguascalientes"
+				},
+				{
+					"urlImg": "baileregionalAguascalientes.webp",
+					"name": "Aguascalientes"
+				},
+				{
+					"urlImg": "boca-de-tunel.jpg",
+					"name": "Aguascalientes"
+				},
+				{
+					"urlImg": "CatedralAguascalientes.webp",
+					"name": "Aguascalientes"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "アグアスカリエンテス州はメキシコ共和国の中心部にあります。「良い土地」、「澄んだ"
+				},
+				{
+					"text": "水」、「澄んだ空」、そして「良い人々」の場所として知られています。"
+				},
+				{
+					"text": "旅行リストに載せるべき 5 つの理由をご覧ください。"
+				}
+			],
+			"titleTop": "Aguascalientes",
+			"subtitleTop": "Aguascalientes",
+			"slider": [
+				{
+					"urlImg": "CristoRotoAguascalientes.webp",
+					"name": "アグアスカリエンテス"
+				},
+				{
+					"urlImg": "FeriadeSanMarcosAguascalientes.webp",
+					"name": "アグアスカリエンテス"
+				},
+				{
+					"urlImg": "ParroquiaJesúsNazarenoAguascalientes.webp",
+					"name": "アグアスカリエンテス"
+				},
+				{
+					"urlImg": "teatromorelosAguascalientes.webp",
+					"name": "アグアスカリエンテス"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://www.vivaaguascalientes.com/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "グアダルぺ、サンマルコス、エル・エンシノとラ・エスタシオンの地区ではアグアスカリエンテス市の昔の面影が残っています。"
+				},
+				{
+					"text": "100年以上の鉄道の伝統があります。"
+				},
+				{
+					"text": "セロ・デル・ムエルト丘（死者の丘）を覆う夕日が美しいです。"
+				},
+				{
+					"text": "直訳した州名（温かい水）の通り、温泉が湧きます。"
+				},
+				{
+					"text": "デシラード（ほぐし織）の工芸品があります。"
+				}
+			],
+			"titleBottom": "アグアスカリエンテス州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d95903.61871447819!2d-102.28402699650395!3d21.875496135659372!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ec143ae4d9fb%3A0x4016978679c5220!2sAguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1719427080244!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/38lcBnVKxudRWnxxJB1ByG?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/aguascalientes/indexweb.html"
+		},
+		{
+			"id": "BajaCalifornia",
+			"dir": "/destino",
+			"urlImg": "BajaCaliforniaValleGuadalupe_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/mWk-iBBym7E",
+			"gallery": [
+				{
+					"urlImg": "_BCN_valle_guadalupe_22.webp",
+					"name": "Baja California"
+				},
+				{
+					"urlImg": "BCN_ensenada_619.jpg",
+					"name": "Baja California"
+				},
+				{
+					"urlImg": "BCN_tijuana_259.jpg",
+					"name": "Baja California"
+				},
+				{
+					"urlImg": "BCN_tecate_189.jpg",
+					"name": "Baja California"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "コルテス海と太平洋に守られたバハ・カリフォルニア州は、特別な体験を提供します。その道沿いには、島々、ビーチ、砂漠、峡谷、山脈、死火山が彩りを添えています。"
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Baja California",
+			"subtitleTop": "Baja California",
+			"slider": [
+				{
+					"urlImg": "BCN_ensenada_733.jpg",
+					"name": "Baja California"
+				},
+				{
+					"urlImg": "BCN_puerto_nuevo_15.jpg",
+					"name": "Baja California"
+				},
+				{
+					"urlImg": "BCN_tijuana_1146.jpg",
+					"name": "Baja California"
+				},
+				{
+					"urlImg": "BCN_ensenada_135.jpg",
+					"name": "Baja California"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://bajacalifornia.travel/es/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "美しいビーチと、いつまでも記憶に残る、魔法のような夕日が見えます。"
+				},
+				{
+					"text": "新鮮な魚介類によって常に際立ってきたガストロのミーがあります。"
+				},
+				{
+					"text": "ティフアナならではの戦略的な立地と国際的な質の高いサービスにより理想のビジネスツーリズムとヘルスツーリズムを楽しめます。"
+				},
+				{
+					"text": "メキシコ最大の自治体であるエンセナーダは、コルテス海と太平洋に囲まれた港市です。その壮大な景色、陸上から海洋までの動植物を楽しめる、自然愛好家にとって欠かせない経験です。"
+				},
+				{
+					"text": "「太陽を掴めた街」として知られるメヒカリ市は、コロラド川のほとり、ラグナ・サラーダ湖の近くにあり、中華料理とステーキで有名です。"
+				}
+			],
+			"titleBottom": "バハ・カリフォルニア州を知りたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1901561.6189307112!2d-115.05429173522384!3d30.057405277635638!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d7700ca877ddd3%3A0xfca4fd9f0318de8e!2sBaja%20California!5e0!3m2!1ses-419!2smx!4v1719427252511!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/bajacalifornia/indexweb.html"
+		},
+ 		{
+			"id": "BajaCaliforniaSur",
+			"dir": "/destino",
+			"urlImg": "BajaCaliforniaSurLosCabos_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/vO_nZdwKXo0",
+			"gallery": [
+				{
+					"urlImg": "BCS_Los_cabos_59.jpg",
+					"name": "Baja California Sur"
+				},
+				{
+					"urlImg": "BCS_t_2024.jpg",
+					"name": "Baja California Sur"
+				},
+				{
+					"urlImg": "BCS_tiburonballena.jpg",
+					"name": "Baja California Sur"
+				},
+				{
+					"urlImg": "BCS_todos_santos_23.jpg",
+					"name": "Baja California Sur"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "バハ・カリフォルニア・スル州は、太平洋とコルテス海に囲まれた土地で、対照的な経験ができるところが主な魅力であり、温かい浜辺、河口、マングローブ、オアシス、プエブロ・マヒコ（魔法の街）、砂漠の植物、洞窟壁画などが楽しめます。"
+				},
+				{
+					"text": " "
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Baja California Sur",
+			"subtitleTop": "Baja California Sur",
+			"slider": [
+				{
+					"urlImg": "BCS_t_96.jpg",
+					"name": "Baja California Sur"
+				},
+				{
+					"urlImg": "BCS_los_cabos_2_31.jpg",
+					"name": "Baja California Sur"
+				},
+				{
+					"urlImg": "BCS_t_1220.jpg",
+					"name": "Baja California Sur"
+				},
+				{
+					"urlImg": "BCS_t_2956.jpg",
+					"name": "Baja California Sur"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://visitbajasur.travel/es/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "家族、恋人、友人と楽しめるユニークな風景、海と空が忘れられない場所です。"
+				},
+				{
+					"text": "そのガストロノミーにおいて、ロブスター、シタビラメ、帆立貝、海老などの魚介類の素晴らしい料理を味わえます。"
+				},
+				{
+					"text": "国際的な質の高いホテルや飲食店などのインフラが整っており、ビジネスツーリズムに理想的です。"
+				},
+				{
+					"text": "家族旅行、アドベンチャーツーリズム、ビジネスツーリズム、探し物、必要なものは全て揃っています。"
+				},
+				{
+					"text": "ロスカボス、ハリウッドスターでも訪れ続けている青い海のパラダイスです。高級ホテル、高級レストラン、みんながワクワクできるあらゆる遊びが揃う35キロ以上の観光回廊を楽しみましょう。"
+				}
+			],
+			"titleBottom": "バハ・カリフォルニア・スル州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2227273.8549668626!2d-112.36093302932555!3d25.698532095974436!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86afd339b5a21ec9%3A0x71dfb33aa9a75918!2sBaja%20California%20Sur!5e0!3m2!1ses-419!2smx!4v1719427365942!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/track/2Nl2AMyamANY7vFLsSxM5f?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/bajacaliforniasur/indexweb.html"
+		},
+ 		{
+			"id": "Campeche",
+			"dir": "/destino",
+			"urlImg": "CampecheCalakmul_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/E8piNxUKO-4",
+			"gallery": [
+				{
+					"urlImg": "CAM_champoton62.jpg",
+					"name": "Campeche"
+				},
+				{
+					"urlImg": "CAM_campeche140.jpg",
+					"name": "Campeche"
+				},
+				{
+					"urlImg": "CAM_campeche115.jpg",
+					"name": "Campeche"
+				},
+				{
+					"urlImg": "CAM_Edzna49.jpg",
+					"name": "Campeche"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "カンペチェ州はメキシコ南東部の貴重な宝物です。建物や歴史にある豊かな文化が、メキシコらしさを表します。"
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Campeche",
+			"subtitleTop": "Campeche",
+			"slider": [
+				{
+					"urlImg": "CAM_Dzibilnocac26.jpg",
+					"name": "Campeche"
+				},
+				{
+					"urlImg": "CAM_Edzna80.jpg",
+					"name": "Campeche"
+				},
+				{
+					"urlImg": "CAM_Hochob8.jpg",
+					"name": "Campeche"
+				},
+				{
+					"urlImg": "CAM_campeche256.jpg",
+					"name": "Campeche"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://campeche.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "個性的なビーチで家族と、恋人と、友達と、良い時間を過ごして、忘れられない夕日が見られます。"
+				},
+				{
+					"text": "そこには、ユネスコ複合世界遺産であるカラクムルの古代マヤ都市と熱帯保護林、メキシコの貴重な遺跡があります。"
+				},
+				{
+					"text": "州都サンフランシスコ・デ・カンペチェは、ユネスコより世界遺産として認められている城塞都市です。"
+				},
+				{
+					"text": "魚介類が豊富で、料理に良く使われます。パヌーチョ、エンパナーダ、タマレス、タコス、サメの肉を使った町名物のパンデカソンが代表的です。"
+				},
+				{
+					"text": "結婚式場をお探しの方、カンペチェ市で映画のような思い出に残る結婚式を挙げませんか？"
+				}
+			],
+			"titleBottom": "カンペチェ州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1142130.2332898707!2d-90.40927087905216!3d19.341471075847906!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f83396176b136d%3A0xe93d8e4c95f26244!2sSan%20Francisco%20de%20Campeche%2C%20Camp.!5e0!3m2!1ses-419!2smx!4v1719427535695!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/0OOS9Uh3QtT3UvvWtwdfe5?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/campeche/indexweb.html"
+		},
+ 		{
+			"id": "Chiapas",
+			"dir": "/destino",
+			"urlImg": "ChiapasPalenque.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/6NqOUbqmpJk",
+			"gallery": [
+				{
+					"urlImg": "CHIS_agua_azul_46.jpg",
+					"name": "Chiapas"
+				},
+				{
+					"urlImg": "CHIS_misol_ha_17.jpg",
+					"name": "Chiapas"
+				},
+				{
+					"urlImg": "CHIS_palenque_25.jpg",
+					"name": "Chiapas"
+				},
+				{
+					"urlImg": "CHIS_sancristobal_172.jpg",
+					"name": "Chiapas"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "それは感覚の土地です。コーヒーの深い香りを感じたり、アタウルフォのマンゴーの甘さを味わったり、ジャングルでコンゴウインコの群れを見たり、果てしない水の流れを聞いたり、果物の美味しさを感じたりします。伝統的な織物。"
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Chiapas",
+			"subtitleTop": "Chiapas",
+			"slider": [
+				{
+					"urlImg": "CHIS_cannondelsumidero_32.jpg",
+					"name": "Chiapas"
+				},
+				{
+					"urlImg": "CHIS_palenque_18.jpg",
+					"name": "Chiapas"
+				},
+				{
+					"urlImg": "CHIS_palenque_32.jpg",
+					"name": "Chiapas"
+				},
+				{
+					"urlImg": "CHIS_sancristobal_43.jpg",
+					"name": "Chiapas"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://visitchiapas.com/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "文化の多様性により、ツォツィル人、ゾケ人、チャムラ人、ツェルタル人、ラカンド人などの先住民族の発祥の地です。"
+				},
+				{
+					"text": "オアハカ州、ベラクルス州と並んで、国内で最も生物多様性が高い州の1つです。"
+				},
+				{
+					"text": "トゥストラ・グティエレスの語源は、ソケ語で村名だった「コヤトク」（兎の場所）にさかのぼります。その名を今度はアステカ族がナワトル語の「トチトラン」にと訳しました。"
+				},
+				{
+					"text": "サンクリストバル・デ・ラスカサスは美しいプエブロ・マヒコ（魔法の街）であり、温暖な気候と文化にあふれたカラフルな街です。"
+				},
+				{
+					"text": "コミタン・デ・ドミンゲスは古代先住民から受け継がれた村であり、プエブロ・マヒコとして登録されています。スペイン人の入植時期にドミニコ会員が設立しました。"
+				}
+			],
+			"titleBottom": "チアパス州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1950635.7535829134!2d-92.57380918142647!3d16.623645503915146!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x858d44b49757ce67%3A0xcf0033824619d615!2sChiapas!5e0!3m2!1ses-419!2smx!4v1719427605076!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/7b4AHQiaK6GrkzUlvehYPk?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/chiapas/indexweb.html"
+		},
+ 		{
+			"id": "Chihuahua",
+			"dir": "/destino",
+			"urlImg": "TarahumaraChihuahua.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/HdeZPVeLlD8",
+			"gallery": [
+				{
+					"urlImg": "CHIH_casasgrandes_paquime_873.jpg",
+					"name": "Chihuahua"
+				},
+				{
+					"urlImg": "CHIH_cusarare241.jpg",
+					"name": "Chihuahua"
+				},
+				{
+					"urlImg": "CHIH_parral_208.jpg",
+					"name": "Chihuahua"
+				},
+				{
+					"urlImg": "CHIH_sierra_158.jpg",
+					"name": "Chihuahua"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "北部にあるチワワ州は、メキシコ共和国最大の州であり、世界の国の面積と比較するとイギリスが入るくらいです。この巨大な土地に含まれる様々な生態機、ガストロノミーと文化は印象的です。"
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Chihuahua",
+			"subtitleTop": "Chihuahua",
+			"slider": [
+				{
+					"urlImg": "CHIH_casasgrandes_paquime_335.jpg",
+					"name": "Chihuahua"
+				},
+				{
+					"urlImg": "CHIH_casasgrandes_paquime_640.jpg",
+					"name": "Chihuahua" 
+				},
+				{
+					"urlImg": "CHIH_cusarare46.jpg",
+					"name": "Chihuahua"
+				},
+				{
+					"urlImg": "PalacioDeGobiernoChihuahua.webp",
+					"name": "Chihuahua"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "http://visitachihuahua.com/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "トンネルとメキシコで最も美しい山の風景を通過する列車、エル チェペのツアー。"
+				},
+				{
+					"text": "伝統的な料理には、赤唐辛子の乾燥肉添え、マチャカの卵添え、唐辛子のアサデロ添え、スパイシーな唐辛子の肉やチーズ添え、小麦粉のトルティーヤ、伝統的な炭火焼き肉やアメリカンスタイルの肉の切り身、そしておいしいディスコダなどがあります。"
+				},
+				{
+					"text": "バカヒパレとウエトサチの町では、コミュニティの人々と食事を準備して共有したり、トレイルを歩いたりする機会があります。"
+				},
+				{
+					"text": "クリール、この魔法の町は歴史と伝統に満ちた目的地です。 松や樫の木が生い茂る周囲は、冒険心を呼び覚まします。"
+				},
+				{
+					"text": "大きな家々が立ち並ぶチワワ州のこの魔法の町は、パキメ遺跡に近いことからその名前が付けられました。 1535年、アルヴァル・ヌニェス・カベサ・デ・バカは回想録の中で、北には「多くの人々と非常に大きな家が住む町」があったと記録しています。"
+				}
+			],
+			"titleBottom": "チワワ州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3433201.1983109605!2d-106.30173597557685!3d28.472126091964867!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8696752f8591a409%3A0x9b83e25340a77e07!2sChihuahua!5e0!3m2!1ses-419!2smx!4v1719427685213!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/4L5pHmiC38UtKVz6Eh3EUe?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/chihuahua/indexweb.html"
+		},
+ 		{
+			"id": "CiudadDeMexico",
+			"dir": "/destino",
+			"urlImg": "CiudadDeMexicoBellasArtes_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/dr5kM3qMYYM",
+			"gallery": [
+				{
+					"urlImg": "DF_bellas_artes_t_2.jpg",
+					"name": "Ciudad de México"
+				},
+				{
+					"urlImg": "DF_centro1_t_278.webp",
+					"name": "Ciudad de México"
+				},
+				{
+					"urlImg": "DF_estadio_CU_48.webp",
+					"name": "Ciudad de México"
+				},
+				{
+					"urlImg": "DF_unam_21.webp",
+					"name": "Ciudad de México"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "メキシコシティはアメリカの文化首都として知られており、世界で最も豊で魅力的な旅行先の1つです。歴史的遺産に多彩なガストロノミーのおかげで風味豊かな味わいが組み合わされており、郷土料理、伝統料理、そして多国籍フュージョン料理の愛好家に認められています。 "
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Ciudad De México",
+			"subtitleTop": "Ciudad De México",
+			"slider": [
+				{
+					"urlImg": "DF_xochimilco_t_12.webp",
+					"name": "Ciudad de México"
+				},
+				{
+					"urlImg": "CentroCDMX.webp",
+					"name": "Ciudad de México"
+				},
+				{
+					"urlImg": "DianaCazadoraCDMX.webp",
+					"name": "Ciudad de México"
+				},
+				{
+					"urlImg": "MuseoAntropologiaCDMX.webp",
+					"name": "Ciudad de México"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://mexicocity.cdmx.gob.mx/?lang=es"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "チャプルテペックの森の中には博物館が9館、噴水や記念碑が100基以上あり、子供用エリアなど、湖でボートを漕いだり、自然と共生したり散歩したりできるスペースが沢山あります。"
+				},
+				{
+					"text": "世界で最も博物館が多い5つの都市の1つです。"
+				},
+				{
+					"text": "F1グランプリなどの様々なフェスティバルや国際イベントの開催国です。"
+				},
+				{
+					"text": "大衆食から洗練された料理まで、幅広いガストロノミーが提供されます。"
+				},
+				{
+					"text": "ここは眠らない街です。あらゆる好みに合わせた魅力的で楽しいナイトライフスポットがたくさん見つかります。"
+				}
+			],
+			"titleBottom": "メキシコシティを訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d187053.09009723683!2d-99.15413050148062!3d19.36495066693412!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0026db097507%3A0x54061076265ee841!2sCiudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1719427761824!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/6wtdgqhgdHE1NSUOsaw9pr?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/cdmx/indexweb.html"
+		},
+ 		{		
+			"id": "Coahuila",
+			"dir": "/destino",
+			"urlImg": "CoahuilaParras.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/ijNmx4h1nu8",
+			"gallery": [
+				{
+					"urlImg": "COAH_2_saltillo_77.jpg",
+					"name": "Coahuila"
+				},
+				{
+					"urlImg": "COAH_2_torreon_51.jpg",
+					"name": "Coahuila"
+				},
+				{
+					"urlImg": "COAH_Petroglifos126.jpg",
+					"name": "Coahuila"
+				},
+				{
+					"urlImg": "COAH_Saltillo1204.webp",
+					"name": "Coahuila"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "コアウイラ州は、象徴的な都市、23件を超えるワイナリー、豊富な化石や恐竜の足跡、独特なガストロノミー、そして7つのプエブロ・マヒコ（魔法の街）などで強みを持っています。"
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Coahuila",
+			"subtitleTop": "Coahuila",
+			"slider": [
+				{
+					"urlImg": "COAH_2_torreon_170.webp",
+					"name": "Coahuila"
+				},
+				{
+					"urlImg": "COAH_Saltillo988.jpg",
+					"name": "Coahuila"
+				},
+				{
+					"urlImg": "COAH_Saltillo2534.webp",
+					"name": "Coahuila"
+				},
+				{
+					"urlImg": "COAH_Saltillo1737.jpg",
+					"name": "Coahuila"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://hazturismoencoahuila.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "驚くべき夢のような風景の中には、決して忘れられない自治体、都市、プエブロ・マヒコなどがあります。"
+				},
+				{
+					"text": "コアウイラ州の伝統的な料理芸術は、肉愛好家のための珍味です。特に小ヤギ肉、牛肉、仔牛肉の赤くてジューシーな高級ステーキが人気ですが、豚肉の美味しい「カルニタス」（角煮を裂いたもの）や「チチャロン」(油で揚げた豚の皮)も負けないくらいです。"
+				},
+				{
+					"text": "豊かな文化の中でも、コアウイラの民族であるマスコゴ族とキカプー族が際立っています。"
+				},
+				{
+					"text": "ワインルートは、2つのプエブロ・マヒコと整列されたような様々な自然の驚異を探検する貴重な機会です。言うまでもなく、地域で生産された最高のワインを味わうチャンスです。"
+				},
+				{
+					"text": "アルテアガというプエブロ・マヒコは、巨大なアルテアガ山脈にある主な観光スポットの1つです。この山脈の中にある森に囲まれた町は、「メキシコのスイス」と呼ばれています。"
+				}
+			],
+			"titleBottom": "コアウイラ州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2445680.64426617!2d-101.69806288246053!3d27.29514118550606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868872bda68e1e29%3A0x64009ad714cd7a39!2sCoahuila%20de%20Zaragoza!5e0!3m2!1ses-419!2smx!4v1719427838765!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/4s1i0CJ2n3C5LCtuvwmCEg?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/coahuila/indexweb.html"
+		},
+ 		{
+			"id": "Colima",
+			"dir": "/destino",
+			"urlImg": "ColimaManzanillo_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/XBor7DZahQA",
+			"gallery": [
+				{
+					"urlImg": "COL_colima_170.webp",
+					"name": "Colima"
+				},
+				{
+					"urlImg": "COL_colima_321.jpg",
+					"name": "Colima"
+				},
+				{
+					"urlImg": "COL_islanavidad_239.webp",
+					"name": "Colima"
+				},
+				{
+					"urlImg": "COL_manzanillo_57.jpg",
+					"name": "Colima"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "国の西部に位置するコリマ州では、海岸から山まで、伝統料理からイノベーティブ料理まで、様々な体験ができます。何もかもがここで見つかります。"
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Colima",
+			"subtitleTop": "Colima",
+			"slider": [
+				{
+					"urlImg": "COL_colima_111.jpg",
+					"name": "Colima"
+				},
+				{
+					"urlImg": "COL_islanavidad_40.webp",
+					"name": "Colima"
+				},
+				{
+					"urlImg": "LasHadasColima.webp",
+					"name": "Colima"
+				},
+				{
+					"urlImg": "ManzanilloColima.webp",
+					"name": "Colima"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://turismo.col.gob.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "山でもビーチでも、魔法のような夕日をお楽しみください。"
+				},
+				{
+					"text": "首都は、文化的アイデンティティが保護されている様々な建物が特徴的な美しい都市です。"
+				},
+				{
+					"text": "主に金目鯛を使った「ペスカド・ア・ラ・タジャ」のような海の風味を生かしたガストロノミーが楽しめます。この料理は、魚を丸ごと開いて野菜とバナナの葉で覆って提供されます。"
+				},
+				{
+					"text": "エル・レアルからパスクアレス・テコマンまでの観光回廊は、サーフィン大会で国際的に知られています。"
+				},
+				{
+					"text": "高さ 50 メートルを超える深い洞窟からなるサン・ガブリエル洞窟では、数千年にわたって自然が成し遂げた壮大な働きを鑑賞できます。"
+				}
+			],
+			"titleBottom": "コリマ州を知りたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d44427.374035116554!2d-103.7191780139906!3d19.24331792777389!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842545523455a217%3A0xb6b497fc5af555e6!2sColima%2C%20Col.!5e0!3m2!1ses-419!2smx!4v1719427903975!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/4zNvTHKW4UCpARzea4OaTb?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/colima/indexweb.html"
+		},
+ 		{
+			"id": "Durango",
+			"dir": "/destino",
+			"urlImg": "DurangoPaisaje.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/J_p7htCPmCE",
+			"gallery": [
+				{
+					"urlImg": "Dgo_Puente_de_ojuela204.webp",
+					"name": "Durango"
+				},
+				{
+					"urlImg": "DGO_trajes_tipicos_35.webp",
+					"name": "Durango"
+				},
+				{
+					"urlImg": "Dgo_Ciudad_Durango223.webp",
+					"name": "Durango"
+				},
+				{
+					"urlImg": "Dgo_Ciudad_Durango517.webp",
+					"name": "Durango"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "ドゥランゴは楽しく過ごすためや探検するのに、暮らすのに最適な州であり、メキシコで最も重要な森林保護区とみなされています。そのユニークな植民地時代の建築は、素晴らしい物語、伝説や文化だけでなく、映画の古い伝統の源でもあります。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Durango",
+			"subtitleTop": "Durango",
+			"slider": [
+				{
+					"urlImg": "DGO_Hda_la_joya_5.webp",
+					"name": "Durango"
+				},
+				{
+					"urlImg": "DGO_trajes_tipicos_20.webp",
+					"name": "Durango"
+				},
+				{
+					"urlImg": "BosquesDeMontesionDurango.webp",
+					"name": "Durango"
+				},
+				{
+					"urlImg": "TemplodelSagradoCorazónenDurango.webp",
+					"name": "Durango"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "http://visitdurango.mx/#!/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "ドゥランゴ州に最も深く根付いている伝統と習慣の中には、2月と3月の間に祝われる灰の水曜日の前日のカーニバルがあります。衣装、ダンス、パレードが楽しめます。"
+				},
+				{
+					"text": "驚異的なガストロノミーでは、カルディージョ(ビーフシチュー)、ヤギ肉のカルニタス（角煮を裂いたもの）、鍋バルバコア（肉の蒸し焼き）、赤唐辛子のタマレス、マゲイシロップをかけたトレハス（フレンチトースト）などが際立っています。"
+				},
+				{
+					"text": "マピミ町は、デゥランゴ最初のプエブロ・マヒコ（魔法の街）です。2010年からUNESCOの世界遺産に登録されている「カミノ・レアル・デ・ティエラ・アデントロ」(内陸部の王の道)の一部です。"
+				},
+				{
+					"text": "ノンブレ・デ・ディオス（神の名）は州内最古の町であり、以前はフランシスコ会の宣教地だった場所が、1563年にスペインの植民村として設立されました。"
+				},
+				{
+					"text": "ソナ・デル・シレンシオ（沈黙の地帯）は、謎と伝説に満ちた場所であり、無線信号が失われ、コンパスが機能しなくなる砂漠です。"
+				}
+			],
+			"titleBottom": "ドゥランゴ州を訪れたい5つの理由.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1464309.3235559212!2d-104.66962333647338!3d24.86257990093649!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bb7a518bcdf73%3A0xbfdd8ea63a6c4ad4!2sDurango%2C%20Dgo.!5e0!3m2!1ses-419!2smx!4v1719427973881!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/41U1BZKUs84ZFqyQXl70F3?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/durango/indexweb.html"
+		},
+		{
+			"id": "EstadoDeMexico",
+			"dir": "/destino",
+			"urlImg": "EstadoDeMexicoTeotihuacan_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/Pydx7Hk0rM0",
+			"gallery": [
+				{
+					"urlImg": "MEX_tepotzotlan_t_29.webp",
+					"name": "Estado de México"
+				},
+				{
+					"urlImg": "MEX_toluca_t_6.webp",
+					"name": "Estado de México"
+				},
+				{
+					"urlImg": "MEX_acolman_92.webp",
+					"name": "Estado de México"
+				},
+				{
+					"urlImg": "MEX_huexotla_t_10.webp",
+					"name": "Estado de México"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "国の中心部に位置するこの州には、10ヶ所のプエブロ・マヒコ（魔法の街）、23のプエブロ・コン・エンカント（魅力的な町）、４つのUNESCO世界遺産など、幅広い目的地や観光スポットがあります。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Estado De México",
+			"subtitleTop": "Estado De México",
+			"slider": [
+				{
+					"urlImg": "MEX_parapente_2_149.webp",
+					"name": "Estado de México"
+				},
+				{
+					"urlImg": "MEX_t2_santarosadelima_4.webp",
+					"name": "Estado de México"
+				},
+				{
+					"urlImg": "MEX_texcutzingo_t_87.webp",
+					"name": "Estado de México"
+				},
+				{
+					"urlImg": "ElOroPalaciomunicipalEstadodeMexico.webp",
+					"name": "Estado de México"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://experiencia.edomex.gob.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "豊かな文化であり、その文化と伝統をマサワ族、オトミ族、マトラシンカ族、トラウイカ族、ナワトル族から受け継いだ土地です。"
+				},
+				{
+					"text": "エスタド・デ・メヒコ州の代表的な料理には、ミシオテ（葉に包んでソースと蒸した肉料理）、トラコヨ（とうもろこしの生地のおやき）、きのこのケサディーヤ、タマレス、七面鳥のサルサベルデ添えかピピアン添えがあります。"
+				},
+				{
+					"text": "美しい風景、温暖な気候、そして先スペイン期の偉大な遺産に満ちた場所を知りたいですか？でしたらきっとマリナルコ町が好きになるでしょう。"
+				},
+				{
+					"text": "エスタド州の広くて美しいオープンスペースは、魅力＋キャンプを組み合わせたグランピングに最適です。"
+				},
+				{
+					"text": "ゲレーロ州は、民族的特殊性と比類のない美しさで知られる数多くの職人技のおかげで国際的な名声を獲得しました。"
+				}
+			],
+			"titleBottom": "エスタド・デ・メヒコ州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1155003.372991053!2d-99.49473349351047!3d19.208640372066316!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cd8992c0eb0a3b%3A0xc2fef9be9fc5a857!2sEstado%20de%20M%C3%A9xico!5e0!3m2!1ses-419!2smx!4v1719428052717!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/5n0LGp9pTfAZBmnJHnPbIm?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/edomex/indexweb.html"
+		},
+		{
+			"id": "Guanajuato",
+			"dir": "/destino",
+			"urlImg": "GuanajuatoSanMigueldeAllende_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/ndlCprpYW4E",
+			"gallery": [
+				{
+					"urlImg": "GTO_aereas_77.webp",
+					"name": "Guanajuato"
+				},
+				{
+					"urlImg": "GTO_artesanos_gto_1.webp",
+					"name": "Guanajuato"
+				},
+				{
+					"urlImg": "GTO_charreria_73.webp",
+					"name": "Guanajuato"
+				},
+				{
+					"urlImg": "GTO_guanajuato_753.webp",
+					"name": "Guanajuato"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "グアナファト州は、6つのプエブロ・マヒコ（魔法の街）、2つの遺産都市、5つの遺跡など、その魅力の多様性により、メキシコで最も重要な植民地時代の面影が残っている観光スポットです。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Guanajuato",
+			"subtitleTop": "Guanajuato",
+			"slider": [
+				{
+					"urlImg": "GTO_dolores_311.webp",
+					"name": "Guanajuato"
+				},
+				{
+					"urlImg": "GTO_guanajuato_845.webp",
+					"name": "Guanajuato"
+				},
+				{
+					"urlImg": "GTO_leon_t_75.webp",
+					"name": "Guanajuato"
+				},
+				{
+					"urlImg": "GTO_SMallende_213.webp",
+					"name": "Guanajuato"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://guanajuato.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "この州は芸術と文化の代名詞であり、権威あるグアナファト国際映画祭とセルバンティーノ国際芸術祭はここで再開されます。"
+				},
+				{
+					"text": "ガストロノミーは、それぞれの料理に独特の風味をもたらす、地域食材を使用したものです。"
+				},
+				{
+					"text": "州内最初のプエブロ・マヒコ、ドロレス・イダルゴは、メキシコの偉大な物語の原点です。ここで民族独立運動が始まり、メキシコ最大のポピュラー音楽の作曲家、ホセ・アルフレド・ヒメネスの誕生地です。"
+				},
+				{
+					"text": "銀の道を見つけて、古い鉱山を訪ねるところです。"
+				},
+				{
+					"text": "グアナファト州は、ビジネスとレジャーを組み合わせたいときの理想的な出張先であり、会議や学会を補完するエンターテイメントやリラクゼーションのオプションがあります。"
+				}
+			],
+			"titleBottom": "グアナファト州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1442000.7319539075!2d-100.04992398383493!3d17.38624713353374!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb6558f327203f%3A0x3137229b4277cb3a!2sGuerrero!5e0!3m2!1ses-419!2smx!4v1719428193850!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/06Z2ETaWFPID30HdiQrdKf?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/guanajuato/indexweb.html"
+		},
+		{
+			"id": "Guerrero",
+			"dir": "/destino",
+			"urlImg": "GuerreroAcapulco_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/Ien5ZsgDuVo",
+			"gallery": [
+				{
+					"urlImg": "GRO_acapulco_407.webp",
+					"name": "Guerrero"
+				},
+				{
+					"urlImg": "GRO_acapulco_665-Edit.webp",
+					"name": "Guerrero"
+				},
+				{
+					"urlImg": "GRO_acapulco_1926.webp",
+					"name": "Guerrero"
+				},
+				{
+					"urlImg": "GRO_barravieja_232.webp",
+					"name": "Guerrero"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "ゲレロ州はメキシコ南部に位置する州で、パラダイスみたいな海、雄大な山岳、夢のような風景など、素晴らしい観光スポットがあります。勇敢で美しい、驚くべき土地です。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Guerrero",
+			"subtitleTop": "Guerrero",
+			"slider": [
+				{
+					"urlImg": "GRO_cacahuamilpa_73.webp",
+					"name": "Guerrero"
+				},
+				{
+					"urlImg": "GRO_Ixtapa_189.webp",
+					"name": "Guerrero"
+				},
+				{
+					"urlImg": "HamacasGuerrero.webp",
+					"name": "Guerrero"
+				},
+				{
+					"urlImg": "TaxcoGuerrero.webp",
+					"name": "Guerrero"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://guanajuato.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "アカプルコは、代表的な海の観光スポットです。ここでは、ホテル客室が20,000室ほど揃っており、様々な料理や遊びが楽しめる、家族旅行に最適です。"
+				},
+				{
+					"text": "イスタパ＝シワタネホでは、美しい海とメキシコの雰囲気がたっぷりある伝統的な漁村に、自然と触れ合う多くのアクティビティが集まる大規模なリゾートエリアが加わった2つの好みが満たされます。"
+				},
+				{
+					"text": "タスコ・デ・アラルコンは、数十年にわたって生産や販売されてきた銀で有名な、煌びやかで美しいプエブロ・マヒコ（魔法の街）です。"
+				},
+				{
+					"text": "先スペイン期の料理を含むガストロノミーをお見逃しなく！モレ・ローホ、モレ・ベルデ、クレモーレ、ワシモーレ、トルティーヤ、メメラ、チャルパ、そして豪華な白のポソーレ、緑のポソーレを是非お試しください。"
+				},
+				{
+					"text": "ゲレロ州は、民族的特徴と比類のない美しさで知られる数多くの手工芸品のおかげで国際的に有名です。"
+				}
+			],
+			"titleBottom": "ゲレロ州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7788580.00646055!2d-100.095814!3d17.6019!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb6558f327203f%3A0x3137229b4277cb3a!2sGuerrero!5e0!3m2!1ses-419!2smx!4v1691341015830!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/443VuUimvOA29wpw99ZNrH?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/guanajuato/indexweb.html"
+		},
+		{
+			"id": "Hidalgo",
+			"dir": "/destino",
+			"urlImg": "HidalgoPrismasBasalticosBHuasca.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/TMOtW0JX9BI",
+			"gallery": [
+				{
+					"urlImg": "100_8665.jpg",
+					"name": "Hidalgo"
+				},
+				{
+					"urlImg": "HGO_t2_acaxochitlan_16.webp",
+					"name": "Hidalgo"
+				},
+				{
+					"urlImg": "HGO_metepec_56.webp",
+					"name": "Hidalgo"
+				},
+				{
+					"urlImg": "HGO_epazoyucan_10.webp",
+					"name": "Hidalgo"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "修道院、農場、鉱山、冒険、文化、伝統はイダルゴ州の観光遺産を構築し、息づく雰囲気はその土地に定住した古代文化の価値を伝えます。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Hidalgo",
+			"subtitleTop": "Hidalgo",
+			"slider": [
+				{
+					"urlImg": "HGO_hda_sandiego_tlayayote_26.webp",
+					"name": "Hidalgo"
+				},
+				{
+					"urlImg": "HGO_hda_stamaria_regla_5.webp",
+					"name": "Hidalgo"
+				},
+				{
+					"urlImg": "HGO_prismas_basalticos_10.webp",
+					"name": "Hidalgo"
+				},
+				{
+					"urlImg": "Hgo_tula_003.jpg",
+					"name": "Hidalgo"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://hidalgo.travel/wordpress/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "国内最高のバルバコアからエスカモーレ（蟻の卵）やチニクィレス（蛾の幼虫）まで、幅広く味わいがあるそのガストロノミーには驚くでしょう。"
+				},
+				{
+					"text": "神の飲み物を味わってください。プルケ酒は、マゲイの葉が原料である先スペイン期のアルコール飲料です。"
+				},
+				{
+					"text": "センポアラは、美しいプルケ農園「アシエンダ」で有名です。この自治体は、優れた典型的なガストロノミーのおかげでプエブロ・コン・サボール（味のある街）として称号が与えられた。"
+				},
+				{
+					"text": "メキシコ初の自然保護区であるミネラル・デル・チコは、現在アドベンチャーツーリズムのメッカとして知られています。"
+				},
+				{
+					"text": "イダルゴの豊さの中には、歴史的、文化的、建築的、そして自然的な環境があり、映画制作のロケ地として使用されてきました。"
+				}
+			],
+			"titleBottom": " イダルゴ州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d890110.7150919023!2d-99.0255117369974!3d20.403975862695187!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d10a0422ce2fe7%3A0x8152c5bf7940781b!2sHidalgo!5e0!3m2!1ses-419!2smx!4v1719428263504!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/64FkaFvKaaXdpoqJuHyK0q?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/hidalgo/indexweb.html"
+		},
+		{
+			"id": "Jalisco",
+			"dir": "/destino",
+			"urlImg": "JaliscoGuadalajara_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/hZ_i96ULO_Q",
+			"gallery": [
+				{
+					"urlImg": "JAL_barra_navidad_62.webp",
+					"name": "Jalisco"
+				},
+				{
+					"urlImg": "JAL_general_9943.webp",
+					"name": "Jalisco"
+				},
+				{
+					"urlImg": "JAL_tequila_express_257o.webp",
+					"name": "Jalisco"
+				},
+				{
+					"urlImg": "JAL_Tortugas_51.webp",
+					"name": "Jalisco"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "メキシコ西部に位置するハリスコ州は、マリアッチとテキーラという、世界に向けてメキシコを代表する二大特産品のある土地です。" 
+				},
+				{
+					"text": "１２５の各行政区は美しいハリスコというモザイクの、一つ一つの貴重なピースだと言えます。"
+				}
+			],
+			"titleTop": "Jalisco",
+			"subtitleTop": "Jalisco",
+			"slider": [
+				{
+					"urlImg": "JAL_agaves_884.webp",
+					"name": "Jalisco"
+				},
+				{
+					"urlImg": "JAL_general_10196.webp",
+					"name": "Jalisco"
+				},
+				{
+					"urlImg": "JAL_Hospicio_Cabanas_02.webp",
+					"name": "Jalisco"
+				},
+				{
+					"urlImg": "JAL_tamarindo_501.webp",
+					"name": "Jalisco"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://visitjalisco.com.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "州都グアダラハラは、余すところなく伝統とモダンが調和する街です。"
+				},
+				{
+					"text": "ハリスコの食べ物にきっと舌鼓を打つでしょう。数あるなかでもカルネ・エン・ス・フゴ、トルタ・アオガダ、バルバコア、グアダラハラ風ポソレが飛び抜けておいしいです。"
+				},
+				{
+					"text": "太陽と砂に加えてエコツアーが数えきれないほどありますが、その魅力にたまらず、どぶんとメキシコ随一の海へ飛び込んでしまうにちがいありません。"
+				},
+				{
+					"text": "プエルト・バジャルタには、シエラ・マドレ山脈に囲まれた浜辺があり、自然の魅力に触れることができます。"
+				},
+				{
+					"text": "ハリスコはテキーラの生まれた土地です。テキーラとはアガベの蒸留酒、地球上でもっともよく飲まれるお酒の一つで、メキシコの文化を象徴する飲み物です。"
+				}
+			],
+			"titleBottom": "ハリスコ州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1771171.1076756662!2d-103.73351472357837!3d20.119218558627924!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x841f40ebd4624e6f%3A0xa0feb0a35a1b4a53!2sJalisco!5e0!3m2!1ses-419!2smx!4v1719428338101!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/5ApmWMTZktBXbvPeD5UdXl?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/jalisco/indexweb.html"
+		},	
+		{
+			"id": "Michoacan",
+			"dir": "/destino",
+			"urlImg": "MichoacanIglesia.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/DJyrWAaUz18",
+			"gallery": [
+				{
+					"urlImg": "MICH_patzcuaro_320.webp",
+					"name": "Michoacán"
+				},
+				{
+					"urlImg": "MICH_cuitzeo_98.webp",
+					"name": "Michoacán"
+				},
+				{
+					"urlImg": "MICH_janitzio_38.webp",
+					"name": "Michoacán"
+				},
+				{
+					"urlImg": "MICH_nurio_57.webp",
+					"name": "Michoacán"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "ミチョアカン州はメキシコ中央西部に位置します。主要都市は、州都モレリアとパツクアロとウルアパンの三都市です。空港や陸上交通などの充実したインフラとツアー業者の気配りのおかげで、これら三都市はいずれも世界と繋がり、どこからでもアクセスが容易です。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Michoacán",
+			"subtitleTop": "Michoacán",
+			"slider": [
+				{
+					"urlImg": "MICH_patzcuaro_4.webp",
+					"name": "Michoacán"
+				},
+				{
+					"urlImg": "MICH_staclara_97.webp",
+					"name": "Michoacán"
+				},
+				{
+					"urlImg": "MICH_tzintzuntzan_94.webp",
+					"name": "Michoacán"
+				},
+				{
+					"urlImg": "MariposaMonarcaMichoacán.webp",
+					"name": "Michoacán"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://visitmichoacan.com.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "ミチョアカンの死者への儀式はあざやかで生き生きとしています。特に、パツクアロ、ツィンツンツァン、ハニツィオ、ハラクアロ、イワツィオとツルムタロの地区の儀式をご覧になってください。"
+				},
+				{
+					"text": "ミチョアカンは、湖や森林を含めた美しい自然を豊富にもつ州の一つです。例えば、モナルカ蝶自然保護区、パリクティン火山、エドゥアルド・ルイス国立公園、カメクアロ湖国立公園などです。"
+				},
+				{
+					"text": "ミチョアカンの食べ物は多彩でありつつ味わいがあります。なかでもコルンダやタマル・デ・セニサと呼ばれる食べ物があります。塩水湖の塩と豚のラードと酵母を混ぜたとうもろこしの生地でできていて、さらにそこへ灰が少々加えてあるのです。"
+				},
+				{
+					"text": "ミチョアカンにはモナルカ蝶を見ることのできる自然保護区が６つあります。この生き物を通して自然の素晴らしさに触れることができます。"
+				},
+				{
+					"text": "コスタ・シエラ海岸では多種のウミガメの産卵を見ることができますし、温泉・冷泉の保養地も数多くあります。"
+				}
+			],
+			"titleBottom": "ミチョアカン州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1351657.6348481572!2d-102.02412168714912!3d18.998491871099553!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842a5f3e1eb35cb7%3A0x3bc7650cf34be0d4!2sMichoac%C3%A1n!5e0!3m2!1ses-419!2smx!4v1719428406353!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/0zZZLpqldd6yqNdO51HwS1?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/michoacan/indexweb.html"
+		},	
+		{
+			"id": "Morelos",
+			"dir": "/destino",
+			"urlImg": "Moreloscolor.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/P5rp2HaIzdg",
+			"gallery": [
+				{
+					"urlImg": "MOR_chalcatzingo_t_49.webp",
+					"name": "Morelos"
+				},
+				{
+					"urlImg": "MOR_cocoyoc_133.webp",
+					"name": "Morelos"
+				},
+				{
+					"urlImg": "MOR_las_estacas_t_29.webp",
+					"name": "Morelos"
+				},
+				{
+					"urlImg": "MOR_tequesquitengo_t_24.webp",
+					"name": "Morelos"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "モレロス州は類をみないほど豊かな文化をもつ州で、メキシコの中央南部に位置します。モレロスの文化はいくつもの枝が連なってできています。その一つ一つに正真なる特色を見出すことができ、間違いなくさらなる好奇心をそそられるでしょう。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Morelos",
+			"subtitleTop": "Morelos",
+			"slider": [
+				{
+					"urlImg": "MOR_atlatlaucan_t_4.webp",
+					"name": "Morelos"
+				},
+				{
+					"urlImg": "MOR_axochiapan_t_329.webp",
+					"name": "Morelos"
+				},
+				{
+					"urlImg": "MOR_Hda_temixco_t_102.webp",
+					"name": "Morelos"
+				},
+				{
+					"urlImg": "MOR_totolapan_t_25.webp",
+					"name": "Morelos"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://visitmorelos.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "モレロスは伝統であり、今を生きる歴史です。ぜひアシエンダや博物館を通してその過去に触れ、エミリアーノ・サパタ将軍の土地を歩いてみてください。"
+				},
+				{
+					"text": "モレロスは珍しい食べ物と伝統があふれる場所です。きっと滞在中に新しい発見があります。かの有名なジェカピストラのセシーナから代表的なタコス・アコラサドスまで、この州でしか出会えない食べ物ばかりです。"
+				},
+				{
+					"text": "州都のクエルナバカは永遠なる春の街、自然と文化に満ち溢れた場所です。"
+				},
+				{
+					"text": "テポストランは、テポステコ山に見守られる村でプエブロ・マヒコ（魔法の街）に登録されています。神秘と手工芸と最良の気候と心休まる雰囲気を備えていますが、それ以上に、活気づいたエネルギーを感じることのできる土地です。"
+				},
+				{
+					"text": "トラヤカパンはプエブロ・マヒコに登録されていて、先スペイン期の街の様子を今にとどめている数少ない地域の一つです。"
+				}
+			],
+			"titleBottom": "モレロス州を訪れたい5つの理由:",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d325817.9889891549!2d-99.1241299302879!3d18.718454688398403!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cddfae25f6fe47%3A0x975f8225a169dd0f!2sMorelos!5e0!3m2!1ses-419!2smx!4v1719428477202!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/morelos/indexweb.html"
+		},
+		{
+			"id": "Nayarit",
+			"dir": "/destino",
+			"urlImg": "NayaritMarietas_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/H6pXmgUEZ6M?autoplay=1&mute=1&loop=1&rel=0",
+			"gallery": [
+				{
+					"urlImg": "DAN_0084_11zon.webp",
+					"name": "nayarit"
+				},
+				{
+					"urlImg": "02-Nuevo-Vallarta_11zon.jpg",
+					"name": "nayarit"
+				},
+				{
+					"urlImg": "03-Sayulita_11zon.jpg",
+					"name": "nayarit"
+				},
+				{
+					"urlImg": "DAN_0938_11zon.webp",
+					"name": "nayarit"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "ナヤリット州はメキシコ北西部に位置します。この魅惑的な地域は広大な多様性を抱えていて、湖と森林と海と、そして国内指折りの大きな山脈も見ることができます。"
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Nayarit",
+			"subtitleTop": "発見 Nayarit",
+			"slider": [
+				{
+					"urlImg": "05-San-Pancho_11zon.jpg",
+					"name": "nayarit"
+				},
+				{
+					"urlImg": "DAN_7610_11zon.webp",
+					"name": "nayarit"
+				},
+				{
+					"urlImg": "Isla-Coral-2_11zon.webp",
+					"name": "nayarit"
+				},
+				{
+					"urlImg": "DAN_0942-_1__11zon.webp",
+					"name": "nayarit"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://descubrevallenayarit.com/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "州のどこを訪れても五感を刺激する体験ができ、州の素晴らしさを味わえることでしょう。"
+				},
+				{
+					"text": "州都テピックは必須の目的地です。その名前はナワトル語で「頑丈な岩の場所」を指します。 "
+				},
+				{
+					"text": "ナヤリットの名物は海産物が主役です。サメや小ザメ、マダイ、海老、それから牡蠣が皿に並びます。一口いかがですか？"
+				},
+				{
+					"text": "コンポステラ村は州の南沿岸にあります。煙草の葉で作られる工芸品とサント・ドミンゴ・デ・アポストル教会で有名な場所です。プンタ・クストディア沿岸にも足を運んでください。"
+				},
+				{
+					"text": "プエブロ・マヒコ（魔法の街）であるハラ村はエル・セボルコ火山のふもとにあります。付近には谷があり、サイクリング、ハイキング、植物観察、それにキャンプを楽しむことができます。"
+				}
+			],
+			"titleBottom": "ナヤリット州を訪れたい5つの理由:.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1896187.0215287085!2d-106.5235616027901!3d21.838616787901028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8420a89ce63edb47%3A0xc2c8f5a28694d239!2sNayarit!5e0!3m2!1ses-419!2smx!4v1683578829322!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/4t6rePG9VrNLRrGhHO9ibz?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/nayarit/indexweb.html"
+		},
+		{
+			"id": "NuevoLeon",
+			"dir": "/destino",
+			"urlImg": "NuevoLeonMonterreyParqueFundidora_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/bfU0P-cc9dU",
+			"gallery": [
+				{
+					"urlImg": "NL_cercado_cola_de_caballo9.webp",
+					"name": "Nuevo León"
+				},
+				{
+					"urlImg": "NL_monterrey_2_103.webp",
+					"name": "Nuevo León"
+				},
+				{
+					"urlImg": "NL_monterrey_2_159.webp",
+					"name": "Nuevo León"
+				},
+				{
+					"urlImg": "NL_Monty_Fundidora33.webp",
+					"name": "Nuevo León"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "メキシコ北東部で出会うとびきりの場所。コロニアル様式の街角は、プエブロ・マヒコ（魔法の街）であるサンティアゴ、リナレス、ブスタマンテが際立っています。ヌエボ・レオン州はたくさんの顔を持つ比類なき場所で、冒険と商売とカルニータ・アサダの本場です。ようこそ！" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Nuevo León",
+			"subtitleTop": "発見 Nuevo León",
+			"slider": [
+				{
+					"urlImg": "MacroPlazaMonterreyNuevoLeon.webp",
+					"name": "Nuevo León"
+				},
+				{
+					"urlImg": "ObispadoMonterreyNuevoLeon.webp",
+					"name": "Nuevo León"
+				},
+				{
+					"urlImg": "StaCatarinaHuastecaNuevoLeon.webp",
+					"name": "Nuevo León"
+				},
+				{
+					"urlImg": "VillaSantiagoNuevoLeon.webp",
+					"name": "Nuevo León"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://nuevoleon.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "州都であるモンテレイはその首都圏がメキシコ第三の都市であり、目を見張る数々の建物と斬新な商業施設が街に彩りを与え、伝統ある食事はその独特の風味が魅力的です。"
+				},
+				{
+					"text": "肉こそがヌエボ・レオンの食べ物の主役です。良質な部位の肉のなかでも、子ヤギの肉はその首位に立ち、並外れた代表作です。 "
+				},
+				{
+					"text": "リナレスの街並みには平穏さが漂い、同時に堂々とした建築物が軒を連ねます。"
+				},
+				{
+					"text": "ブスタマンテは樹々に包まれた場所にあり、メスカル工場が村の顔、さらに奥へと進めば独特な建築様式を持つ古い家々を見物することができます。 "
+				},
+				{
+					"text": "サンティアゴはシエラ・マドレ山脈東部とセッロ・デ・ラ・シジャ山の間にひっそりとあるプエブロ・マヒコです。村の家々と通りの数々が大きな見どころです。"
+				}
+			],
+			"titleBottom": "ヌエボ・レオンを訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1723097.7913232057!2d-99.73841824799199!3d25.30509385050293!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86629584a2a5b05d%3A0x701df442c36cbbc6!2sNuevo%20Le%C3%B3n!5e0!3m2!1ses-419!2smx!4v1719429013221!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/75BAwr4oD63XJP93w3wq8m?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/nuevoleon/indexweb.html"
+		},     
+		{
+			"id": "Oaxaca",
+			"dir": "/destino",
+			"urlImg": "OaxacaOaxaca.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/hKeKplolfMs",
+			"gallery": [
+				{
+					"urlImg": "OAX_ciudad_328.webp",
+					"name": "Oaxaca"
+				},
+				{
+					"urlImg": "OAX_ciudad_662.webp",
+					"name": "Oaxaca"
+				},
+				{
+					"urlImg": "OAX_arrazolalebrijes_32.webp",
+					"name": "Oaxaca"
+				},
+				{
+					"urlImg": "OAX_bartolocoyotepec_25.webp",
+					"name": "Oaxaca"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "オアハカ州はメキシコの南に位置します。多様性があり、彩り豊かに光り輝き、文化と自然がいっぱいの場所、本物のジュエリーです。オアハカの、色とりどりで伝統に溢れた街並みを歩けば、その行く先々の街角で歴史と工芸と美味しい料理と味わいあるメスカルに出会えることでしょう。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Oaxaca",
+			"subtitleTop": "Oaxaca",
+			"slider": [
+				{
+					"urlImg": "CiudadDeOaxaca.webp",
+					"name": "Oaxaca"
+				},
+				{
+					"urlImg": "CostaOaxaca.webp",
+					"name": "Oaxaca"
+				},
+				{
+					"urlImg": "MitlaOaxaca.webp",
+					"name": "Oaxaca"
+				},
+				{
+					"urlImg": "MontealbanOaxaca.webp",
+					"name": "Oaxaca"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "http://www.oaxaca.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "州都オアハカ・デ・フアレスは世界遺産に登録され、その伝統的な輝きによって世界に二つとない場所となっています。"
+				},
+				{
+					"text": "オアハカの料理はメキシコを代表する屈指の品で、なおかつ品数が豊富です。伝統的な一品は、七種もあるモレ・オアハケーニョです。七種すべて味見してみませんか？"
+				},
+				{
+					"text": "ルタ・デル・メスカルの魅力あるコースを訪れてください。世界に名の知れたメスカルというかの美味しいお酒が手作りされる過程を知ることができるでしょう。"
+				},
+				{
+					"text": "ウアトゥルコへと足を運べば、三十六あるビーチで羽を伸ばすことができます。ときには素晴らしい風景を眺め、ときにはその水の流れに勢いある生命力を感じることでしょう。また、自然と戯れつつスポーツフィッシングを楽しむこともできます。"
+				},
+				{
+					"text": "もう一つの滞在先はプエルト・エスコンディード、太平洋側にあります。とんでもない波がうねる浜辺から自然プールと見紛うほど穏やかな浜辺まで、多様な浜辺はストレス解消にもってこいの場所です。夜明けを知らないパーティを楽しむこともできます。"
+				}
+			],
+			"titleBottom": "オアハカを訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1863233.7912851959!2d-96.48431496844273!3d16.77400262676734!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c72249df26d9b1%3A0xac88a77657dffc3b!2sOaxaca%20de%20Ju%C3%A1rez%2C%20Oax.!5e0!3m2!1ses-419!2smx!4v1719430292632!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/06kfpfp3bsE54c0r0GjoJv?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/oaxaca/indexweb.html"
+		},      
+		{
+			"id": "Puebla",
+			"dir": "/destino",
+			"urlImg": "PueblaChignahuapanFestivaldeLaVidaylaLuz.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/inxcwKHquVQ",
+			"gallery": [
+				{
+					"urlImg": "PUE_catedral_17.webp",
+					"name": "Puebla"
+				},
+				{
+					"urlImg": "PUE_cholula_39.webp",
+					"name": "Puebla"
+				},
+				{
+					"urlImg": "PUE_cuetzalan_145.webp",
+					"name": "Puebla"
+				},
+				{
+					"urlImg": "PUE_cuetzalan_843.webp",
+					"name": "Puebla"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "メキシコ中央東部、ポポカテペトルとイスタシワトルの二つの火山に見守られるようにプエブラ州はあります。10ヶ所のプエブロ・マヒコ（魔法の街）と、数々の滝や湖や国立公園や山道、それにテワカン−クイカトラン自然保護区にきっと胸が高まるはずです。 " 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Puebla",
+			"subtitleTop": "Puebla",
+			"slider": [
+				{
+					"urlImg": "PUE_catedral_17.webp",
+					"name": "Puebla"
+				},
+				{
+					"urlImg": "PUE_cholula_9.webp",
+					"name": "Puebla"
+				},
+				{
+					"urlImg": "PUE_yohualichan_2.webp",
+					"name": "Puebla"
+				},
+				{
+					"urlImg": "PUE_cuetzalan_163.webp",
+					"name": "Puebla"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://www.visitpuebla.mx/es/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "州都の歴史中心地区は、円蓋と塔と鐘とタラベラ焼きと煉瓦と白いモルタルでできた街です。1987年からユネスコの文化世界遺産に登録されています。"
+				},
+				{
+					"text": "プエブラの村々の工芸品は先住民の魔法の手で作られ、メキシコの評判を高めてきました。"
+				},
+				{
+					"text": "伝統と慣習は神秘ある遺産です。タラベラ焼きはプエブラの名を世界に広めた工芸品の一つですが、さらにはユネスコの無形文化遺産にも登録されています。"
+				},
+				{
+					"text": "プエブラの料理はメキシコ全土でも評判が高く、修道院の信心深いものたちの、その想像力豊かな手によって生み出されてきました。モレの誕生地であり、メキシコを象徴する一品です。"
+				},
+				{
+					"text": "アトリスコの魅力に触れてみてください。良質な気候と豊潤な自然、それに数多くのショッピングセンターやツアーアクティビティに身を任せてください。これらすべてが、アトリスコが世界有数の朗らかな気候をもつ地域であることを物語っています。"
+				}
+			],
+			"titleBottom": " プエブラ州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d121537.29823245337!2d-98.19337800357003!3d19.028306100953557!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0bd5ebc7a3b%3A0x48a6461de494ad95!2sHeroica%20Puebla%20de%20Zaragoza%2C%20Pue.!5e0!3m2!1ses-419!2smx!4v1719430423372!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/0Ahe1HuCdpwmXe2qFlt7xc?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/puebla/indexweb.html"
+		},            
+		{
+			"id": "Queretaro",
+			"dir": "/destino",
+			"urlImg": "QueratroVinosCavaFreixenet.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/tWnnCBwxQX4",
+			"gallery": [
+				{
+					"urlImg": "QRO_galindo_194.webp",
+					"name": "Querétaro"
+				},
+				{
+					"urlImg": "QRO_queretaro_1404.webp",
+					"name": "Querétaro"
+				},
+				{
+					"urlImg": "QRO_sierra_gorda_23.webp",
+					"name": "Querétaro"
+				},
+				{
+					"urlImg": "_3SUQF~F.webp",
+					"name": "Querétaro"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "ケレタロ州はメキシコの地形が生んだ宝、国内有数の多様な観光名所があり、メキシコの中心部へ旅を求める人のためにある場所です。モダニティと伝統、森林と美味なワイン、あらゆるものがここで見つかります。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Querétaro",
+			"subtitleTop": "Querétaro",
+			"slider": [
+				{
+					"urlImg": "QRO_acueducto_49.webp",
+					"name": "Querétaro"
+				},
+				{
+					"urlImg": "QRO_queretaro_345.webp",
+					"name": "Querétaro"
+				},
+				{
+					"urlImg": "QRO_queretaro_445.webp",
+					"name": "Querétaro"
+				},
+				{
+					"urlImg": "QRO_bernal_34.webp",
+					"name": "Querétaro"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://queretaro.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "ケレタロはメキシコのなかでもプエブロ・マヒコ（魔法の街）を数多く有する州のひとつです。"
+				},
+				{
+					"text": "州都が魅力的です。伝統とアヴァンギャルドが余すところなく調和し、公衆に開かれたアクティビティと文化にあふれています。"
+				},
+				{
+					"text": "ケレタロのガストロノミーは混交の産物です。そのなかには、バルバコア（仔羊肉の蒸し焼き）、ポジョ・エン・ウエルト（鶏肉の甘酸っぱいソース添え）、アカマヤス（川エビ）、カルニタス（角煮を裂いたもの）、ゴルディタス・デ・ミガハス（揚げた豚肉入りのとうもろこし生地のおやき）、タペアド（ヤギ肉の蒸し焼き）、アサド・デ・コルデロ（マゲイの葉に包まれた仔羊肉の蒸し焼き）、そしてワホロテス・フリートス（パン、エンチラーダ、パプリカの肉詰め、じゃがいもと野菜入りのプレート）が含まれます。"
+				},
+				{
+					"text": "スポーツ好きには、エクストレイル・メヒコがきっと気に入ってもらえます。世界中からやってくる走者が一堂に会すこの大会は、様々な生態系の間を駆け、自然を謳歌し、仲間をつくり、そして各々が自分の目標を乗り越える機会となっています。"
+				},
+				{
+					"text": "夢のような風景を前に、州都から南部へ数キロ離れたところに樹々が生い茂った場所が広がっていることが嘘のように感じられることでしょう。その風景こそ、ケレタロ南部が都会の日常を抜け出し、樹齢数百年の樹の影で一休みするのに理想的な場所と考えられる理由です。"
+				}
+			],
+			"titleBottom": " ケレタロ州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d101540.3348055543!2d-100.4317600786625!3d20.6091321884826!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d35b8fdc5b9255%3A0x97b094aa561b832f!2sSantiago%20de%20Quer%C3%A9taro%2C%20Qro.!5e0!3m2!1ses-419!2smx!4v1719430565998!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/track/5xQPBd7Gs4IIhUgqytSqvQ?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/queretaro/indexweb.html"
+		},   
+		{
+			"id": "QuintanaRoo",
+			"dir": "/destino",
+			"urlImg": "QuintanaRooTulum_11zon_(1).webp",
+			"urlVideoTop": "https://www.youtube.com/embed/jnbG-1MbFWg",
+			"gallery": [
+				{
+					"urlImg": "Qroo_ceiba_del_mar84.webp",
+					"name": "Quintana Roo"
+				},
+				{
+					"urlImg": "Qroo_Hotel_catalonia54-2.webp",
+					"name": "Quintana Roo"
+				},
+				{
+					"urlImg": "Qroo_Isla_mujeres44_2.webp",
+					"name": "Quintana Roo"
+				},
+				{
+					"urlImg": "Qroo_Isla_mujeres134-2.webp",
+					"name": "Quintana Roo"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "メキシコ南東部に位置する州、キンタナローは、世界に二つとない地域です。青い海、白浜、熱帯林、遺跡群、セノーテ、地下河川、島、湖、マヤの今に生きる歴史ある文化など、様々な見所と観光名所があります。" 
+				},
+				{
+					"text": "14ヶ所の観光名所は、ホルボッシュ島、ムヘーレス島、カンクン市、それからプエルト・モレーロス町、プラヤ・デル・カルメン市とトゥルム遺跡を含むリベラ・マヤ地区、コスメル島に生物園保護区の一部であるマヤ・カアン、そしてマアウアル、バカラルとチェトゥマルからなるグラン・コスタ・マヤ（大マヤ海岸）です。"
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Quintana Roo",
+			"subtitleTop": "Quintana Roo",
+			"slider": [
+				{
+					"urlImg": "Qroo_Isla_mujeres320_2.webp",
+					"name": "Quintana Roo"
+				},
+				{
+					"urlImg": "Qroo_Xcaret22_2.webp",
+					"name": "Quintana Roo"
+				},
+				{
+					"urlImg": "ChetumalQuintanaRoo.webp",
+					"name": "Quintana Roo"
+				},
+				{
+					"urlImg": "HolboxQuintanaRoo.webp",
+					"name": "Quintana Roo"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://www.caribemexicano.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "メキシコのカリブ海は冒険あふれる自然のパラダイス、日常を忘れて地域特有の動植物とたわむれることのできる場所です。"
+				},
+				{
+					"text": "キンタナローの南にはグラン・コスタ・マヤが広がっています。チェトゥマルとバカラルとマアウアルが連なる美しい沿岸地区です。豊潤な自然、湖からなる水路、波の穏やかな浜辺、歴史と文化、遺跡群、それに探検へと誘うこのうえない魅力が、この地区を隅から隅まで本物のパラダイスに仕上げています。"
+				},
+				{
+					"text": "独特な香りと味と食感を味わう食巡りをメキシコのカリブ海沿岸の先々で体験してください。海と大地の最上の産物が皿に並んでいます。"
+				},
+				{
+					"text": "カンクンは類まれな街です。娯楽と文化が余すところなく結びついた国際色豊かな大都会。遺跡群に高級ホテル街にモダニティと伝統。カンクンにないものがあるでしょうか？"
+				},
+				{
+					"text": "キンタナロー州全土のうち20パーセントが保護区になっています。自然保護地区、生物圏保護区、国立公園、動植物保護地域、動物多様性保護地区です。自然へと飛び出していかない理由なんてここにはないんです！"
+				}
+			],
+			"titleBottom": "キンタナロー州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1614898.970685485!2d-88.46059547601415!3d19.373527957670923!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4ffcf0eac32695%3A0xc4f0c52a484c8d9c!2sQuintana%20Roo!5e0!3m2!1ses-419!2smx!4v1719430628398!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/44rF34sJffr5UR42wlIj60?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/quintanaroo/indexweb.html"
+		},     
+		{
+			"id": "SanLuisPotosi",
+			"dir": "/destino",
+			"urlImg": "SanLuisPotosiXilitlaJardinEscultoricodeEdwardJamesSLP.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/1gEAijlXnjc",
+			"gallery": [
+				{
+					"urlImg": "SLP_xilitla_4.webp",
+					"name": "San Luis Potosí"
+				},
+				{
+					"urlImg": "SLP_huasteca_0448.webp",
+					"name": "San Luis Potosí"
+				},
+				{
+					"urlImg": "SLP_huasteca_0812.webp",
+					"name": "San Luis Potosí"
+				},
+				{
+					"urlImg": "SLP_matehuala_47.webp",
+					"name": "San Luis Potosí"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "メキシコ中央部に位置するサン・ルイス・ポトシ州は、対照的な四つの地域が合わさった場所です。不可思議な砂漠から目を疑うようなワステカ・ポトシーナまで数え切れないほどの観光名所に驚きを隠せないことでしょう。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "San Luis Potosí",
+			"subtitleTop": "San Luis Potosí",
+			"slider": [
+				{
+					"urlImg": "EscalerasCaracolSanLuisPotosi.webp",
+					"name": "San Luis Potosí"
+				},
+				{
+					"urlImg": "IglesiaSanLuisPotosi.webp",
+					"name": "San Luis Potosí"
+				},
+				{
+					"urlImg": "RealDeCatorceSanLuisPotosi.webp",
+					"name": "San Luis Potosí"
+				},
+				{
+					"urlImg": "TamtokSanLuisPotosi.webp",
+					"name": "San Luis Potosí"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://visitasanluispotosi.com/folleteria-digital/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "地上250メートルの高さで飛行サイクリングを、ブエブロ・マヒコ（魔法の街）である美しいヒリトゥラで楽しんでください。"
+				},
+				{
+					"text": "全長2.5キロのオガリオトンネル、それは忘れられない体験への入り口です。石畳と輝く鉱山のあるプエブロ・マヒコ、レアル・デ・カトルセへとトンネルは続くのです。"
+				},
+				{
+					"text": "シウダ・バジェスには、豊潤な植物群に加えて、滝へダイビングできるツアーアクテビティがあり、さらにはセルバ・テネック野生動物保護区を訪れたり、ハルディン・イダルゴ広場を散歩したり、リオ・バジェス川をいくトラヒネラ（小舟）に乗ったりと、いろいろなアクティビティがあります。"
+				},
+				{
+					"text": "ワステカ・ポトシーナにあるプエブロ・マヒコ、アキスモンでは、アドベンチャースポーツや野外活動を楽しむことができます。"
+				},
+				{
+					"text": "サン・ルイス・ポトシにあるいくつもの滝、それらはどれも異なる表情をもっていますが、そのなかにはタマソポの滝、エル・サルトの滝、ミナス・ビエハスの滝が含まれます。"
+				}
+			],
+			"titleBottom": "サン・ルイス・ポトシ州を訪れたい5つの理由.",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d104038.06658985488!2d-100.94015520651224!3d22.12569538311412!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842aa20005acfb79%3A0xed2ee29afe18257!2sSan%20Luis%20Potos%C3%AD%2C%20S.L.P.!5e0!3m2!1ses-419!2smx!4v1719430781960!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/64EZNP4722GBt03rGq2vJ8?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/sanluispotosi/indexweb.html"
+		},    
+		{
+			"id": "Sinaloa",
+			"dir": "/destino",
+			"urlImg": "SinaloaMazatlan_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/WJ1gGAmJYJ8",
+			"gallery": [
+				{
+					"urlImg": "SIN_El_fuerte_087.webp",
+					"name": "Sinaloa"
+				},
+				{
+					"urlImg": "SIN_quelite_249.webp",
+					"name": "Sinaloa"
+				},
+				{
+					"urlImg": "SIN_escuinapa_3.webp",
+					"name": "Sinaloa"
+				},
+				{
+					"urlImg": "SIN_ferri_03.webp",
+					"name": "Sinaloa"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "シナロア州はメキシコ北西部に位置し、650キロにも伸びる沿岸の持ち主です。太陽とビーチを前にこのうえない体験ができます。クリアカンには五感を刺激するようなものがたくさんあります。商店、文化、芸術、気晴らし、教育、それからもちろんパーティと娯楽です。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Sinaloa",
+			"subtitleTop": "Sinaloa",
+			"slider": [
+				{
+					"urlImg": "SIN_fuerte_chepe_9.webp",
+					"name": "Sinaloa"
+				},
+				{
+					"urlImg": "SIN_fuerte_hotel_1.webp",
+					"name": "Sinaloa"
+				},
+				{
+					"urlImg": "SIN_guasave_1.webp",
+					"name": "Sinaloa"
+				},
+				{
+					"urlImg": "SIN_mazatlan_44.webp",
+					"name": "Sinaloa"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://sinaloa.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "州の観光の中心はマサトランとクリアカンとロス・モチスです。"
+				},
+				{
+					"text": "州の美味しい料理は、おもに海鮮と肉製品がベースになっています。"
+				},
+				{
+					"text": "州には4つのプエブロ・マヒコ（魔法の街）があります。エル・ロサリオとコサラとモコリートとエル・フエルテです。それに加えて、国内でも他に例をみない観光列車が州の数地点を通ります。チェペ・エクスプレス、堂々とそびえるバランカ・デル・コブレ（銅峡谷）へと向かう列車です。"
+				},
+				{
+					"text": "マサトラン市はメキシコ太平洋沿岸の中でも最も歴史ある植民地時代の港ですが、同時に美しさをそなえた観光名所でもあります。"
+				},
+				{
+					"text": "州のプエブロ・マヒコが有する、石畳の小さな街道と楽園のような風景、そこには鉱山地区の歴史と熱帯気候、古い教会と幽霊伝説が溢れています。"
+				}
+			],
+			"titleBottom": "シナロア州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1699476.2316763!2d-107.40760204721771!3d24.441152412256226!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869f539428a74959%3A0x9c7bdf760dbe5fef!2sSinaloa!5e0!3m2!1ses-419!2smx!4v1719430833293!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/64EZNP4722GBt03rGq2vJ8?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/sinaloa/indexweb.html"
+		},   
+		{
+			"id": "Sonora",
+			"dir": "/destino",
+			"urlImg": "SonoraHermosillo_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/TrgJWj1OJ8s",
+			"gallery": [
+				{
+					"urlImg": "SON_alamos_635.webp",
+					"name": "Sonora"
+				},
+				{
+					"urlImg": "SON_san_carlos_483.webp",
+					"name": "Sonora"
+				},
+				{
+					"urlImg": "SON_san_carlos_489.webp",
+					"name": "Sonora"
+				},
+				{
+					"urlImg": "SON_caborca_10.jpg",
+					"name": "Sonora"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "ソノラ州はメキシコ北部に位置する大きな州で、かなり広い領土を占めています。その大きさは全国二番目で、青々とした山や農業地帯の広大な谷、目を見張るような砂漠、壮大なコルテス海を含む1200キロ以上にのぼる沿岸、それにアメリカ合衆国との行き来が盛んな国境を有しています。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Sonora",
+			"subtitleTop": "Sonora",
+			"slider": [
+				{
+					"urlImg": "SON_san_carlos_1037.webp",
+					"name": "Sonora"
+				},
+				{
+					"urlImg": "CerroDelaCampanaHermosilloSonora.webp",
+					"name": "Sonora"
+				},
+				{
+					"urlImg": "GranjaDePerlasMardeCortezSonora.webp",
+					"name": "Sonora"
+				},
+				{
+					"urlImg": "SanCarlosSonora.webp",
+					"name": "Sonora"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://visitsonora.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "サン・カルロスの展望台から、海洋を前に世界屈指の眺めを楽しむことができます。"
+				},
+				{
+					"text": "この州には、メキシコ随一の美しいビーチがあります。白浜と暖かく静かな波を有するバイア・キノです。"
+				},
+				{
+					"text": "コルテス海の沿岸に位置する、他に例をみない風景をもつサン・カルロス村は、山と浜辺に囲まれ、海と砂漠が一つに溶け込んでいるのです。"
+				},
+				{
+					"text": "エル・ピナカテ生物圏自然保護区、絨毯のように広がる砂漠と黒溶岩と赤溶岩の流れが形成した地区です。そしてアルタル大砂漠は高さ200メートルにのぼる砂丘を有しています。"
+				},
+				{
+					"text": "カボルカ岩面彫刻群、ラテンアメリカのなかでも先スペイン期の彫刻を最大数有する地区です。"
+				}
+			],
+			"titleBottom": "ソノラ州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3040652.2221317673!2d-111.61518155773457!3d29.205879128873615!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86982969e74dd20f%3A0xcd56ff1afcbbe374!2sSonora!5e0!3m2!1ses-419!2smx!4v1719430901729!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/4xRB7oBUzyZe7dIiNf6H58?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/sonora/indexweb.html"
+		},             
+		{
+			"id": "Tabasco",
+			"dir": "/destino",
+			"urlImg": "TabascoLaVenta_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/noJ6i36csXQ",
+			"gallery": [
+				{
+					"urlImg": "TAB_Artesanos1.webp",
+					"name": "Tabasco"
+				},
+				{
+					"urlImg": "TAB_cupilco7.webp",
+					"name": "Tabasco"
+				},
+				{
+					"urlImg": "TAB_Parque_la_venta47.webp",
+					"name": "Tabasco"
+				},
+				{
+					"urlImg": "TAB_Parque_la_venta115.webp",
+					"name": "Tabasco"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "メキシコ南東地方及びマヤ文明の世界、石油産業の中核、地方エンターテインメントの中心地、サービスそしてコミュニケーションの入り口となるロケーションです。メキシコ国土全体の53%の水域を保有しています。カカオと家畜の生産は全国一位、バナナの生産は2位を誇っています。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Tabasco",
+			"subtitleTop": "Tabasco",
+			"slider": [
+				{
+					"urlImg": "TAB_comalcalco45.webp",
+					"name": "Tabasco"
+				},
+				{
+					"urlImg": "TAB_Parque_la_venta42.webp",
+					"name": "Tabasco"
+				},
+				{
+					"urlImg": "TAB_Parque_la_venta64.webp",
+					"name": "Tabasco"
+				},
+				{
+					"urlImg": "TAB_Pomona22.webp",
+					"name": "Tabasco"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://visitetabasco.com/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "トロピカルで不遜な程に緑豊かな景色を横切る川や占領する広大な湖、多数の湿地帯と美しいビーチを楽しめます。"
+				},
+				{
+					"text": "味わい深いガストロノミー、そして何よりも先住民とスペインのルーツから由来する歴史と伝統があります。"
+				},
+				{
+					"text": "スポーツフィッシング、野鳥観察、エコツーリズム、アドベンチャーツーリズムやそのほかの活動のパラダイスです。"
+				},
+				{
+					"text": "ビジャ・エルモサの大ルートに沿った絶景の植生に川や湖、繁茂した自然界を経験できます。"
+				},
+				{
+					"text": "Biji Yokot’an(ビヒ・ヨコタン)大ルートの特徴的な陽気さ、民間伝承、カラフルな色、あらゆる風味を味わえます。"
+				}
+			],
+			"titleBottom": "タバスコ州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1242989.3983402003!2d-92.89240322004368!3d17.917655868838565!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edfb5f8f78cb4f%3A0xd426cb11d9866b44!2sTabasco!5e0!3m2!1ses-419!2smx!4v1719430964113!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/1e0PFxUw2WqvP9Jp3VF2a1?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/tabasco/indexweb.html"
+		},                
+		{
+			"id": "Tamaulipas",
+			"dir": "/destino",
+			"urlImg": "TamaulipasTampico_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/rw2bNrPK-IU",
+			"gallery": [
+				{
+					"urlImg": "TMPS_ciudad_victoria_013.webp",
+					"name": "Tamaulipas"
+				},
+				{
+					"urlImg": "TMPS_el_cielo_2_301.webp",
+					"name": "Tamaulipas"
+				},
+				{
+					"urlImg": "TMPS_tampico_2_62.webp",
+					"name": "Tamaulipas"
+				},
+				{
+					"urlImg": "TMPS_tampico_2_874.webp",
+					"name": "Tamaulipas"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "タマウリパス州はメキシコの北東に位置しており、400㎞以上に及ぶ沿岸部があり、それ以上の国境を有している。この地域ならではの、ジャガー、コンゴウインコ、ワニ、鹿といった自然の中で暮らす無数の野生動物や何千種類にも及ぶ野鳥がいます。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Tamaulipas",
+			"subtitleTop": "Tamaulipas",
+			"slider": [
+				{
+					"urlImg": "TMPS_tampico_2_874.webp",
+					"name": "Tamaulipas"
+				},
+				{
+					"urlImg": "EscolleraPlayaMiramarCiudadMaderoTamaulipas.webp",
+					"name": "Tamaulipas"
+				},
+				{
+					"urlImg": "GomezFariasElCieloTamaulipas.webp",
+					"name": "Tamaulipas"
+				},
+				{
+					"urlImg": "RioGuayalejoJaumaveTamaulipas.webp",
+					"name": "Tamaulipas"
+				}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "http://www.visittam.com/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "シウダービクトリアは美しい州都で文化に富み、体験したい活動がたくさんあります。"
+				},
+				{
+					"text": "クルマエビを始め、カニ、セビチェ、エンチラダ・トゥルテカ、地域のフルーツを使ったシャーベットなどタマウリパスの地域料理の風味に魅了されることでしょう。"
+				},
+				{
+					"text": "あなたとご家族のために充実したホテルゾーンを誇る5つのビーチスポットがあります。バグダッドビーチ、カルボネラビーチ、トルド岬、ラ・ペスカビーチ、そしてミラマールビーチです。"
+				},
+				{
+					"text": "18世紀にヌエボ・サンタンデールが創立され、プエブロ・マヒコに指定されているミエール村は、タマウリパス州の美しい村のひとつで、古風なコロニアル様式を残した村々を堪能することができます。"
+				},
+				{
+					"text": "シエラ・マドレ・オリエンタル山脈に位置するタマウリパス州南東部の町、トゥラ市はこの州の起源であり、トゥルテカの革製品と呼ばれるタマウリパス州の民族衣装発祥の地でもあります。"
+				}
+			],
+			"titleBottom": "タマウリパス州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1733121.7287759786!2d-98.8890195724153!3d24.59069570067921!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x867953aedb1e2459%3A0x33859f5a35e81925!2sTamaulipas!5e0!3m2!1ses-419!2smx!4v1719431026717!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/42i0q3sQUpBO2ObG2nxySB?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/tamaulipas/indexweb.html"
+		},            
+		{
+			"id": "Tlaxcala",
+			"dir": "/destino",
+			"urlImg": "TlaxcalaDanzantesCarnavalCatrines.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/hSYRsRpCsJE",
+			"gallery": [
+				{
+					"urlImg": "TLX_Hda_soltepec_441.webp",
+					"name": "Tlaxcala"
+				},
+				{
+					"urlImg": "TLX_xochitecatl_35.webp",
+					"name": "Tlaxcala"
+				},
+				{
+					"urlImg": "TLX_cacaxtla_7.webp",
+					"name": "Tlaxcala"
+				},
+				{
+					"urlImg": "TLX_cacaxtla_75.webp",
+					"name": "Tlaxcala"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "メキシコ・シティーからたったの120㎞東部へ行ったところに、メキシコの中央高原の一部であるトラスカラ州が位置しています。メキシコ全土でもっとも面積の小さい州ですが、トラスカラ州の歴史と伝統はメキシコでも屈指の偉大さです。トラスカラ州は確かに存在します。確かめに来てください！" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Tlaxcala",
+			"subtitleTop": "Tlaxcala",
+    "slider": [
+			{
+				"urlImg": "TLX_ciudada_tlaxcala_09.webp",
+				"name": "Tlaxcala"
+			},
+			{
+				"urlImg": "TLX_Hda_soltepec_6.webp",
+				"name": "Tlaxcala"
+			},
+			{
+				"urlImg": "TLX_mascaras_7.webp",
+				"name": "Tlaxcala"
+			},
+			{
+				"urlImg": "TLX_mural_22.webp",
+				"name": "Tlaxcala"
+			}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://www.tlaxcalasiexiste.com.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "トラスカラ州の歴史が描かれている壁画の虜になることでしょう。"
+				},
+				{
+					"text": "この地域のガストロノミーはトラスカラ州特有の伝統料理につながる食料遺産を守っています。"
+				},
+				{
+					"text": "憲法広場はメキシコで映画の黄金時代と呼ばれていた頃から現代まで、映画、ドキュメンタリー、短編映画などのシーンとなりました。"
+				},
+				{
+					"text": "内閣宮殿、旧インディオ王立礼拝堂、イダルゴやフアレスのアーチ、石の館などの主な建造物の背景には興味深い歴史があります。"
+				},
+				{
+					"text": "ウアマントラ祭は60年以上もの伝統があります。道という道が所狭しと敷き詰められた色とりどりのおがくずや花で飾られます。"
+				}
+			],
+			"titleBottom": "トラスカラ州を訪れたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d449333.865285791!2d-98.21947329786559!3d19.439361704237328!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfd93f1c006113%3A0x38bae25ad47cbde0!2sTlaxcala!5e0!3m2!1ses-419!2smx!4v1719431099589!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/3yZPrT3ZjCUPkbSBtJdsX1?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/tlaxcala/indexweb.html"
+		},             
+		{
+			"id": "Veracruz",
+			"dir": "/destino",
+			"urlImg": "VeracruzTajin.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/Yl62RTidqIg",
+			"gallery": [
+				{
+					"urlImg": "VER_costa_esmeralda342.webp",
+					"name": "Veracruz"
+				},
+				{
+					"urlImg": "VER_eyipantla7.webp",
+					"name": "Veracruz"
+				},
+				{
+					"urlImg": "VER_antigua1.webp",
+					"name": "Veracruz"
+				},
+				{
+					"urlImg": "VER_antigua21.webp",
+					"name": "Veracruz"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "メキシコ湾岸に沿った細長い州、ベラクルスは、多数のビーチはもちろんメキシコの最高峰、且つ死火山であるピコ・デ・オリサバ山を保有しています。国内でトップ3の文化と生物多様性の宝庫です。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Veracruz",
+			"subtitleTop": "Veracruz",
+    "slider": [
+			{
+				"urlImg": "VER_catemaco508.webp",
+				"name": "Veracruz"
+			},
+			{
+				"urlImg": "VER_coatepec10.webp",
+				"name": "Veracruz"
+			},
+			{
+				"urlImg": "VER_San_juan_de_ulua144.webp",
+				"name": "Veracruz"
+			},
+			{
+				"urlImg": "VER_veracruz305.webp",
+				"name": "Veracruz"
+			}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://veracruz.mx/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "メキシコ湾岸方面の州の中で最も美しく、温暖な州で心底魅了されることでしょう。"
+				},
+				{
+					"text": "メキシコの世界遺産に登録されている35箇所の内の2箇所を保有しており、古代遺跡のエル・タヒン、そしてトラコトラルパン市の建造物があります。"
+				},
+				{
+					"text": "時空を超えたコロニアル風な建造物や街並みは港や州都に色濃く残り、その文化や芸術が窺い知ることができます。"
+				},
+				{
+					"text": "ベラクルス州は陶器、かご細工品、織物の文化にとても秀でています。"
+				},
+				{
+					"text": "ビーチ、川、温泉井戸の数々が雄大な自然を織りなします。"
+				}
+			],
+			"titleBottom": "ベラクルス州に行きたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1178757.9531239334!2d-96.12456521249675!3d18.70330128695241!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c3414245ca78c5%3A0x18a4d642e936019b!2sVeracruz%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1719431165639!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/1xVFcq3EP54qT1OKuZ6pHa?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/veracruz/indexweb.html"
+		},            
+		{
+			"id": "Yucatan",
+			"dir": "/destino",
+			"urlImg": "YucatanCenoteMaya.jpg",
+			"urlVideoTop": "https://www.youtube.com/embed/vaE99ik2pQo",
+			"gallery": [
+				{
+					"urlImg": "YUC_Merida_132.webp",
+					"name": "Yucatán"
+				},
+				{
+					"urlImg": "YUC_Chichen_Itza33.webp",
+					"name": "Yucatán"
+				},
+				{
+					"urlImg": "YUC_Chichen_Itza62.webp",
+					"name": "Yucatán"
+				},
+				{
+					"urlImg": "YUC_Cusaman_Cenotes45.webp",
+					"name": "Yucatán"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "メキシコ湾を臨むビーチの数々、そしてマヤ遺跡がとても有名なメキシコ屈指のユカタン州。国土の南東に位置する半島で、歴史、文化、ロマン、ガストロノミー、ピーチなどを組み合わせることができ、その上、唯一マヤ文化のコミュニティを耽溺できる機会を与えてくれます。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Yucatán",
+			"subtitleTop": "Yucatán",
+    "slider": [
+			{
+				"urlImg": "YUC_Ek_balam60.webp",
+				"name": "Yucatán"
+			},
+			{
+				"urlImg": "YUC_Hacienda_Ochil139.webp",
+				"name": "Yucatán"
+			},
+			{
+				"urlImg": "YUC_kabah_34.webp",
+				"name": "Yucatán"
+			},
+			{
+				"urlImg": "YUC_Uxmal59.webp",
+				"name": "Yucatán"
+			}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://yucatan.travel/"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "州都のメリダ市は文化、歴史、娯楽、美味なガストロノミーが楽しめます。"
+				},
+				{
+					"text": "世界的に有名なコチニタ・ピビルなどといったユカタン地域のならではの風味と特徴的なガストロノミーがあります。"
+				},
+				{
+					"text": "忘れがたいマヤの考古遺跡を守るように広がる新緑のジャングルが壮観です。"
+				},
+				{
+					"text": "ユカタン州は生来ロマンチックな訪問地であり、白く肌理細やかな砂のビーチとエメラルドグリーンの遠浅が続く海などの特別なスポットを見つけることができます。"
+				},
+				{
+					"text": "熱帯林、自然の湧水、マングローブ林、ユカタン半島の景勝地のビーチ。"
+				}
+			],
+			"titleBottom": "ユカタン州に行きたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1361108.3320618586!2d-89.07638780679119!3d20.645282551147428!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f540ff8aad604ed%3A0xcccc217531083d0a!2zWXVjYXTDoW4!5e0!3m2!1ses-419!2smx!4v1719431227990!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/3qxRbcVFYfo0IHTiOzof1V?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/yucatan/indexweb.html"
+		},          
+		{
+			"id": "Zacatecas",
+			"dir": "/destino",
+			"urlImg": "Zacatecas_11zon.webp",
+			"urlVideoTop": "https://www.youtube.com/embed/L1iDO1jVeig",
+			"gallery": [
+				{
+					"urlImg": "ZAC_gral_432.webp",
+					"name": "Zacatecas"
+				},
+				{
+					"urlImg": "ZAC_gral_1871.webp",
+					"name": "Zacatecas"
+				},
+				{
+					"urlImg": "ZAC_gral_3667.webp",
+					"name": "Zacatecas"
+				},
+				{
+					"urlImg": "ZAC_ciudad_de_Zacatecas_2098.webp",
+					"name": "Zacatecas"
+				}
+			],
+			"descriptionTop": [
+				{
+					"text": "メキシコの中央値に位置しており、16世紀は銀の発掘が盛んだったとして知られています。地形は様々な標高に富んでおり、華やかな州です。鉱山の歴史を誇り、地中深くから評判の良いガストロノミーの影響まで楽しめます。" 
+				},
+				{
+					"text": ""
+				},
+				{
+					"text": ""
+				}
+			],
+			"titleTop": "Zacatecas",
+			"subtitleTop": "Zacatecas",
+    "slider": [
+			{
+				"urlImg": "ZAC_Fresnillo_1144.webp",
+				"name": "Zacatecas"
+			},
+			{
+				"urlImg": "ZAC_gral_1733.webp",
+				"name": "Zacatecas"
+			},
+			{
+				"urlImg": "ZAC_gral_3324.webp",
+				"name": "Zacatecas"
+			},
+			{
+				"urlImg": "ZAC_zacatecas_museo_mina_1705.webp",
+				"name": "Zacatecas"
+			}
+			],
+			"actions": {
+				"button": {
+					"text" : "もっと見る",
+					"dir": "https://www.zacatecastravel.com/index"
+				}
+			},
+			"descriptionBottom": [
+				{
+					"text": "魅力的で、カラフルで、気前の良さで知られている州のため、贅沢な体験から黙想的な体験まで味わえます。"
+				},
+				{
+					"text": "青空は、メキシコ全土で最も青い空として賞賛されています。"
+				},
+				{
+					"text": "モーレやサカテカス風エンチラダなどといった伝統料理の風味から香り豊かなガストロノミー。"
+				},
+				{
+					"text": "観光向けに設えられた旧銀山や銀糸品のショップの数々。"
+				},
+				{
+					"text": "サカテカス市は、全国でも一人当たりの博物館の数が最も多く、興味深い様々なオプションが見つかることでしょう。"
+				}
+			],
+			"titleBottom": "サカテカス州に行きたい5つの理由",
+			"urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1660271.223173344!2d-102.86001924531533!3d22.96416229681742!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8681d1a07ec9fe6f%3A0x1c1f2dfd5e256d98!2sZacatecas!5e0!3m2!1ses-419!2smx!4v1719431285841!5m2!1ses-419!2smx",
+			"urlSpotify": "https://open.spotify.com/embed/playlist/6XOFXXp91YSgCvCNawIfOw?utm_source=generator",
+			"urlVideoBottom": "https://www.mexico360.com.mx/zacatecas/indexweb.html"
+		}
+	]
+}

@@ -1,0 +1,84 @@
+[
+	{ "name": "トレン・マヤ",
+		"dir": "/tren-maya"
+	},
+	{ "name":"メキシコの州",
+		"dir": "/destinos"
+	},
+	{ "name":"Pueblos Mágicos プエブロ・マヒ",
+		"dir": "/pueblos-magicos"
+	},
+	{ "name": "国際イベント",
+		"dir": "/eventos-internacionales"
+	},
+	{ "name":"体験", 
+		"dir": "",
+		"menu": [
+			{
+				"name":"", 
+				"dir": "",
+				"image": "AguascalientesRutadelVino.webp",
+				"claseImage":"claseImage"
+			},
+			{
+				"name":"結婚式", 
+				"dir": "/experiencias/bodas",
+				"image": "Pareja-Queretaro-3.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"美食", 
+				"dir": "",
+				"image": "Dgo_Ciudad_Durango421.webp",
+				"claseImage":"header-submenu-link-img-primary",
+				"menu": [
+					{
+						"name":"メキシコの味", 
+						"dir": "/experiencias/rutas-gastronomicas"
+					},
+					{
+						"name":"ワインツーリズム", 
+						"dir": "/enoturismo"
+					}
+				]
+			},
+			{
+				"name":"海と太陽", 
+				"dir": "/experiencias/sol-y-playa",
+				"image": "Qroo_cancun_playa108.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"アドベンチャー", 
+				"dir": "/experiencias/aventura",
+				"image": "SIN_guanacoa_257.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"ウェルネスツーリズム", 
+				"dir": "/experiencias/bienestar",
+				"image": "MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"サステナブル・ツーリズム", 
+				"dir": "/experiencias/sostenible",
+				"image": "BCS_tiburonballena.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			}
+		]
+	},
+	{ "name":"Islas Marías", 
+		"dir": "/islas-marias"
+	},
+	{ "name":"ビジネストラベル（MICE）", 
+		"dir": "/mice"
+	},
+	
+	{ "name":"Barrios Mágicos", 
+		"dir": "/barrios-magicos"
+	},
+	{ "name":"世界遺産都市", 
+		"dir": "/ciudades-patrimonio"
+	}
+]

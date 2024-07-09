@@ -1,0 +1,66 @@
+{
+
+    "trenTitle1": "乘坐玛雅火车探索墨西哥东南部的魅力",
+    "trenP1": "欢迎来到墨西哥东南部的最终旅行体验：玛雅火车。与我们一起踏上一段难忘的旅程，穿越茂密的丛林、古老的玛雅废墟和令人印象深刻的加勒比海滩。玛雅火车将带您发现这个迷人地区隐藏的宝藏和丰富的文化。",
+
+    "trenTitle2": "探索墨西哥东南部的奇观",
+    "trenP2": "乘坐玛雅火车踏上穿越墨西哥东南部奇观的发现之旅。从恰帕斯的丛林到金塔纳罗的海滩，这次旅行将带你穿越壮观的风景和历史目的地，这将让你喘不过气来。",
+
+    "trenTitle3": "沉浸在玛雅文化中",
+    "trenP3": "发现丰富的故事和乘坐玛雅火车旅行时古代玛雅人迷人的文化。参观奇琴伊察、帕伦克和乌克马尔令人印象深刻的废墟，沉浸在这个仍然存在于墨西哥东南部中心的古老文明的神秘中。",
+
+    "trenTitle4": "在火车上体验墨西哥的热情好客",
+    "trenP4": "在玛雅火车上享受真正的墨西哥好客。凭借舒适的设施、美味的地区美食和卓越的服务，您的旅行将是一次独特而难忘的经历，使您能够与墨西哥的人民和文化联系起来。",
+
+    "title": "玛雅火车",
+    "subTitle":"玛雅火车",
+    "subTitle2":"玛雅火车",
+    "subTitle3":"玛雅火车",
+    "text":"这是一项新的铁路运输服务，连接恰帕斯、塔巴斯科和尤卡坦半岛的主要城市和旅游区。玛雅火车是一个将加强该地区领土秩序和促进该地区旅游业的项目。它将创造经济繁荣，增加尤卡坦半岛的连通性，使货物和乘客能够有效地移动。",
+    "imgUrl":"trenMaya/TulumQuintanaRoo.webp",
+    "urlVideo": "https://www.youtube.com/embed/r8EDwvRJXIE?autoplay=1&mute=1&loop=1&rel=0",
+    "subText": [
+       
+    ],
+    "gallery":[
+        {
+            "title":"",
+            "imgUrl":"trenMaya/BacalarQuintanaRoo.webp",
+            "clase":"imagen1"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/ChichenItzaYucatan.webp",
+            "clase":"imagen2"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/IzamalYucatanpan.webp",
+            "clase":"imagen3"
+        }
+    ],
+    "videos":[
+        {
+        "title":"Campeche",
+        "urlVideo":"https://www.youtube.com/embed/E8piNxUKO-4?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+        "title":"Tabasco",
+        "urlVideo":"https://www.youtube.com/embed/noJ6i36csXQ?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Chiapas",
+            "urlVideo":"https://www.youtube.com/embed/6NqOUbqmpJk?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Yucatán",
+            "urlVideo":"https://www.youtube.com/embed/aDjSaYjccbE?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Quintana Roo, Cancún",
+            "urlVideo":"https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=0&mute=0&loop=1&rel=0"
+        }
+
+    ]
+    
+}

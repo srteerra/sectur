@@ -1,0 +1,148 @@
+{
+    "title": "メキシコの世界遺産都市",
+    "barriosParrafo1": "ヘリテージシティは、その歴史、文化、自然により世界遺産を代表する世界中の場所、場所、地域、町、都市に授与されます。",
+    "barriosParrafo2": "",
+    "heroSlide": [
+        "ciudades-patrimonio/hero.jpg"
+    ],
+    "galeria": [
+        {
+            "imageSrc": "ciudades-patrimonio/galeria2.jpg",
+            "alt": "COCINA MEXICANA CON SENTIDO HUMANO",
+            "title": "人間性のあるメキシコの伝統料理",
+            "description": "メキシコ各都市の歴史地区では、記憶と伝統が永遠に体験の蓄積であり続け、食文化は、建築や日常空間とともに、メキシコの最も代表的な人間活動の一つであり続けていくことでしょう。"
+        },
+        {
+            "imageSrc": "ciudades-patrimonio/galeria1.jpg",
+            "alt": "CONSTRUYENDO UN PATRIMONIO CULINARIO",
+            "title": "食文化の遺産を築く",
+            "description": "記念碑や建築だけでなく、食でも遺産が築かれていきます。メキシコの伝統料理は、他から影響を受けながらも、聖なる3種の食材-トウモロコシ・唐辛子・豆-をメインに独自性を守り、多様性に満ちた素晴らしい料理です。"
+        },
+        {
+            "imageSrc": "ciudades-patrimonio/galeria3.jpg",
+            "alt": "TRADICIÓN MEXICANA SIEMPRE VIVA",
+            "title": "生き続けるメキシコの伝統",
+            "description": "メキシコとその世界遺産都市の偉大さを語る歴史と伝統が今も生き続けています。メキシコの世界遺産都市での料理体験を通して、文化の特徴や社会間の深い関係を理解することができます。"
+        }
+    ],
+    "imgTurismo": "ciudades-patrimonio/logo.jpg",
+    "subtitle": "メキシコの世界遺産都市",
+    "paragraph": "メキシコの世界遺産都市は、その傑出した文化的又は自然的重要性から、ユネスコ世界遺産委員会の審議によって登録が決定された都市のことです。メキシコは世界遺産リストに登録されている都市の数が最も多い4番目の国であり、10のユネスコ世界遺産宣言書によって11の都市が登録されています。",
+    "cintaRoja": "enologia/Fondorosa.webp",
+    "carousels": [
+        {
+            "title": "",
+            "nombreBarrio": "Campeche",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/campeche.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Ciudad de México",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/cdmx.png"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Durango",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/durango.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Guanajuato",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/guanajuato.jpg"
+            ]
+        },
+        
+        {
+            "title": "",
+            "nombreBarrio": "Morelia",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/morelia.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Oaxaca",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/oaxaca.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Puebla",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/puebla.png"
+            ]
+        },
+        
+        {
+            "title": "",
+            "nombreBarrio": "Querétaro",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/queretaro.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Juan del Río",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/san-juan.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Luis Potosí",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/san-luis.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Miguel de Allende",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/san-miguel.png"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Tlacotalpan",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/tlacotalpan.png"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Xochimilco",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/xochimilco.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Zacatecas",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/zacatecas.png"
+            ]
+        }
+    ]
+}

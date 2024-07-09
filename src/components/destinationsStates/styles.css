@@ -1,0 +1,338 @@
+.destinations-states-ctn {
+	box-sizing: border-box;
+	width: 100%;
+	height: 100%;
+	padding: 50px 32px 32px 32px;
+	background-image: url('../../assets/img/header/liston-azul.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 50px;
+	background-position: top;
+}
+
+.destinations-states-title {
+	font-size: var(--txt-title-sm);
+	color: var(--blue);
+	text-align: center;
+	margin: 64px 0 32px 0;
+}
+
+.destinations-states-ctn-gallery {
+	display: block;
+}
+
+.destinations-states-ctn-card {
+	box-sizing: border-box;
+	position: relative;
+	overflow: hidden;
+	border-radius: 6px;
+	margin-bottom: 32px;
+	display: flex;
+}
+
+.destinations-states-card-img {
+	width: 100%;
+	height: 100%;
+	aspect-ratio: 3/4;
+	object-fit: cover;
+	border-radius: 6px;
+}
+
+.destinations-states-ctn-card-hover {
+	display: none;
+}
+
+.destinations-states-ctn-card:hover .destinations-states-card-img {
+	transform: scale(1.2);
+  transition: 0.4s;
+}
+
+.destinations-states-ctn-card .destinations-states-ctn-card-hover {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.destinations-states-ctn-card:hover .destinations-states-ctn-card-hover {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.destinations-states-card-text {
+	font-size: var(--txt-h5-xl);
+	margin-left: 32px;
+	font-weight: 700;
+	font-family: 'Bebas Neue', sans-serif;
+  	letter-spacing: 2px;
+	color: #fff;
+	margin-top: 32px;
+}
+
+.destinations-states-card-link {
+	position: absolute;
+	border: 1px solid #fff;
+	height: 42px;
+	width: 120px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-decoration: none;
+	font-family: 'Bebas Neue', sans-serif;
+  	letter-spacing: 2px;
+	font-size: var(--txt-h5-xl);
+	color: #fff;
+	bottom: 24px;
+	left: calc(50% - 60px);
+}
+
+.destinations-states-card-text-hover {
+	display: none;
+}
+
+.destinations-states-ctn-card:hover .destinations-states-card-text-hover {
+	display: none;
+}
+
+@media screen and (min-width: 744px) {
+	.destinations-states-ctn {
+		box-sizing: border-box;
+		width: 100%;
+		height: 100%;
+		padding: 90px 32px 32px 32px;
+		background-image: url('../../assets/img/header/liston-azul.webp');
+		background-repeat: no-repeat;
+		background-size: 100% 90px;
+		background-position: top;
+	}
+	
+	.destinations-states-title {
+		font-size: var(--txt-title-md);
+		color: var(--blue);
+		text-align: center;
+		margin-bottom: 64px;
+	}
+	
+	.destinations-states-ctn-gallery {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 24px;
+	}
+	
+	.destinations-states-ctn-card {
+		flex: 1 0 30%;
+		box-sizing: border-box;
+		position: relative;
+		overflow: hidden;
+		border-radius: 5px;
+	}
+	
+	.destinations-states-card-img {
+		width: 100%;
+		height: 100%;
+		aspect-ratio: 3/4;
+		object-fit: cover;
+	}
+	
+	.destinations-states-ctn-card-hover {
+		display: none;
+	}
+	
+	.destinations-states-ctn-card:hover .destinations-states-card-img {
+		transform: scale(1.2);
+	  transition: 0.4s;
+	}
+
+	.destinations-states-ctn-card .destinations-states-ctn-card-hover {
+		display: none;
+	}
+	
+	.destinations-states-ctn-card:hover .destinations-states-ctn-card-hover {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		display: block;
+	}
+	
+	.destinations-states-card-text {
+		font-size: var(--txt-h5-xl);
+		margin-left: 32px;
+		font-weight: 700;
+		font-family: 'Bebas Neue', sans-serif;
+	  letter-spacing: 2px;
+		color: #fff;
+	}
+	
+	.destinations-states-card-link {
+		position: absolute;
+		border: 1px solid #fff;
+		height: 42px;
+		width: 120px;
+		text-align: center;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		text-decoration: none;
+		font-family: 'Bebas Neue', sans-serif;
+	  letter-spacing: 2px;
+		font-size: var(--txt-h5-xl);
+		color: #fff;
+		bottom: 24px;
+		left: calc(50% - 60px);
+	}
+	
+	.destinations-states-card-text-hover {
+		display: flex;
+		position: absolute;
+		bottom: 0;
+		left: 32px;
+		font-size: var(--txt-h5-xl);
+		font-weight: 700;
+		font-family: 'Bebas Neue', sans-serif;
+	  	letter-spacing: 2px;
+		color: #fff;
+		text-align: center;
+	}
+	
+	.destinations-states-ctn-card:hover .destinations-states-card-text-hover {
+		display: none;
+	}
+}
+
+@media screen and (min-width: 1353px) {
+	.destinations-states-ctn {
+		box-sizing: border-box;
+		width: 100%;
+		height: 100%;
+		padding: 180px 32px 32px 32px;
+		background-image: url('../../assets/img/header/liston-azul.webp');
+		background-repeat: no-repeat;
+		background-size: 100% auto;
+		background-position: top;
+	}
+	
+	.destinations-states-title {
+		font-size: var(--txt-title-xl);
+		color: var(--blue);
+		text-align: center;
+	}
+	
+	.destinations-states-ctn-gallery {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 24px;
+	}
+	
+	.destinations-states-ctn-card {
+		flex: 1 0 22%;
+		box-sizing: border-box;
+		position: relative;
+		overflow: hidden;
+		border-radius: 5px;
+	}
+	
+	.destinations-states-card-img {
+		width: 100%;
+		height: 100%;
+		aspect-ratio: 3/4;
+		object-fit: cover;
+	}
+	
+	.destinations-states-ctn-card-hover {
+		display: none;
+	}
+	
+	.destinations-states-ctn-card:hover .destinations-states-card-img {
+		transform: scale(1.2);
+	  transition: 0.4s;
+	}
+	
+	.destinations-states-ctn-card:hover .destinations-states-ctn-card-hover {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		display: block;
+	}
+	
+	.destinations-states-card-text {
+		font-size: var(--txt-h5-xl);
+		margin-left: 32px;
+		font-weight: 700;
+		font-family: 'Bebas Neue', sans-serif;
+	  letter-spacing: 2px;
+		color: #fff;
+	}
+	
+	.destinations-states-card-link {
+		position: absolute;
+		border: 1px solid #fff;
+		height: 42px;
+		width: 120px;
+		text-align: center;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		text-decoration: none;
+		font-family: 'Bebas Neue', sans-serif;
+	  letter-spacing: 2px;
+		font-size: var(--txt-h5-xl);
+		color: #fff;
+		bottom: 24px;
+		left: calc(50% - 60px);
+	}
+	
+	.destinations-states-card-text-hover {
+		position: absolute;
+		bottom: 0;
+		left: 32px;
+		font-size: var(--txt-h5-xl);
+		font-weight: 700;
+		font-family: 'Bebas Neue', sans-serif;
+	  letter-spacing: 2px;
+		color: #fff;
+	}
+	
+	.destinations-states-ctn-card:hover .destinations-states-card-text-hover {
+		display: none;
+	}
+}
+
+/* Danieel Rivera: Agreguee codig aqui */
+.home-know-ctn-title {
+	padding: 12px;
+  }
+  
+  .home-know-title {
+	font-size: 45px;
+	color: var(--purple);
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: 1px;
+	text-align: center;
+  }
+  
+  .home-know-ctn-description {
+	font-size: 24px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+  }
+  
+  .home-know-description-title {
+	font-size: 24px!important;
+	text-align: center;
+  }
+  
+  .home-know-description {
+	font-size: 24px;
+	color: var(--gray);
+  }

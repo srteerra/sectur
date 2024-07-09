@@ -1,0 +1,65 @@
+{
+    "title": "ワインツーリズム: メキシコのワイン生産地",
+    "imgItem1":"enologia/eno/enoturismo1.jpg",
+    "imgItem2":"enologia/eno/enoturismo2.jpg",
+    "imgItem3":"enologia/eno/enoturismo3.jpg",
+    "imgItem4":"enologia/eno/enoturismo4.jpg",
+    "imgItem5":"enologia/eno/enologia5.jpg",
+    "imgTurismo": "enologia/eno/enoturismo6.jpg",
+    "subtitle": "ワインツーリズムとは？",
+    "paragraph": "国連世界観光機関",
+    "onulink": "(UNWTO)",
+    "onuafterlink": "は、「ワインツーリズムには、ワイナリー訪問、ワインテイスティング、ワイン生産に関わるイベントの他、ブドウ畑訪問やその地域のワインに関連した文化的および自然の体験が含まれる」と定義しています。",
+    "strongP": "ワインルートが存在している州:",
+    "quoteP": "",
+    "lista": [
+        "アグアスカリエンテスのワインルート",
+        "バハ・カリフォルニアのワインルート4つ: バジェ・デ・グアダルーペのワインルート、ワインとチーズのルート、アンティグア・ワインルート、プエルタ・ノルテのワインルート",
+        "コアウイラのワインルート2つ: ビノス&ディノス・ワイナリーのワインルート、ルタ・デル・デシエルトのワインルート",
+        "グアナファト、メキシコ独立の発祥地のワインルート",
+        "イダルゴのワインルート2つ: エスカパダ・アル・カミノレアルのワインとチーズのルート、ルタ・トルテカのワインとチーズのルート",
+        "ケレタロのワイン・チーズ・アートのワインルート"
+      ],
+      "entidades": "ワインが生産されている州: アグアスカリエンテス、バハ・カリフォルニア、バハ・カリフォルニア・スル、コアウイラ、チワワ、デゥランゴ、グアナファト、イダルゴ、ハリスコ、ナヤリット、ヌエボ・レオン、プエブラ、ケレタロ、サン・ルイス・ポトシ、ソノラ、サカテカスス。ワインルートが存在している州: アグアスカリエンテス・バハ、コアウイラ、グアナファト、イダルゴ、ケレタロ。",
+    "info1": "ブドウ・ワインが生産されている州: 16州",
+    "info2": "メキシコのワインメーカー: 12,000社",
+    "info3": "メキシコ産ワイン用ブドウ品種：18品種",
+    "info4": "メキシコのワインルートの専門旅行会社：80 社(10州以上)",
+    "destinosTitle": "ワインツーリズムを満喫できる観光スポット",
+    "bannerEnologia": "enologia/eno/enoturismo7.jpg",
+    "titleProduccion": "メキシコワインの生産",
+    "descripcionClasificacion": "",
+    "produccionColumnas": [
+        {
+          "imagen": "enologia/uvas.svg",
+          "descripcion": "メキシコにあるワイン用ブドウ畑：7,000 ha "
+        },
+        {
+          "imagen": "enologia/barril.svg",
+          "descripcion": "生産量：195,000 hL"
+        },
+        {
+          "imagen": "enologia/sacacorcho.svg",
+          "descripcion": "一人当たりの消費量：11.3 L"
+        },
+        {
+          "imagen": "enologia/botellas.svg",
+          "descripcion": "消費されるボトル10本のうち7本は赤ワイン "
+        }
+      ],
+      "tituloArticuloUno": "ワインツーリズムとワイン産地",
+      "Parrafo1Articulo1": "ワイン生産地で、その地域の文化、歴史、伝統、アイデンティティを体験し、ワインとの深い関係が生まれます。",
+      "Parrafo2Articulo2": "ワインツーリズムを通して、ワイン造りをより深く理解することができます。畑や工場を訪問し、ブドウの発酵・圧搾工程をみて、ワインになるまでのプロセスを体験することができます。",
+      "titulo2ArticuloDos": "メキシコにブドウとワインの博物館が3つあることはご存知ですか？",
+      "Parrafo1Articulo2": "バハ・カリフォルニア エンセナダにある「ブドウとワイン博物館」 ここでは、ワインの歴史、ワイン産業、アイデンティティ、ワインそのものとアートとの関係について学ぶことができます。グアナファト ドロレス・イダルゴにある「ワイン博物館」ワインの歴史や「バジェ・デ・ラ・インデペンデンシア」の生産者が造っているワインの生産プロセスについて学ぶことができます。ケレタロ テキスキアパンにある「アート・チーズ・ワイン博物館」文化的な体験と美味しいワインと料理を楽しむことができます。",
+      "Parrafo3Articulo2": "メキシコのワインルートでは、ワインテイスティングだけのツアーから泊まれるツアーまでワインを堪能することができます。",
+      "regiones": "enologia/eno/enoturismo8.jpg",
+      "marcas": "enologia/eno/enoturismo9.jpg",
+      "conocesCatalogo": "「ワインルート＆プロダクト」カタログ(2023年版)",
+      "imgDescarga": "enologia/img-descarga.png",
+      "downloadLink": "https://visitmexico.com/recursos/catalogo-de-productos-y-rutas-enoturisticas-2023.pdf",
+      "cintaRoja": "enologia/Fondorosa.webp",
+      "mapaMexico": "enologia/mapa.svg",
+      "enologiaDescarga": "もっと見る"
+
+}

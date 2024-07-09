@@ -1,0 +1,165 @@
+{
+    "title": "Barrios Mágicos",
+    "imgLogo": "barrios/logo.jpg",
+    "barriosParrafo1": "Les Barrios Mágicos représentent des espaces où se combinent divers éléments qui les rendent uniques et inimitables, tels que leur histoire, leur culture, leur gastronomie, leurs produits et services, ainsi que la coexistence de la population locale avec les visiteurs. ",
+    "barriosParrafo2": "Les Barrios Mágicos sont des lieux où l'on peut découvrir l'esprit et l'essence d'une ville.",
+    "urlVideoTop": "https://www.youtube.com/embed/eb4XOJJLGL4?autoplay=1&mute=1&loop=1&rel=0",
+    "carousels": [
+        {
+            "title": "",
+            "nombreBarrio": "Apizaco, Tlaxcala",
+            "images": [
+                "barrios/BM-Apizaco-Tlaxcala/1.jpg",
+                "barrios/BM-Apizaco-Tlaxcala/2.jpg",
+                "barrios/BM-Apizaco-Tlaxcala/3.jpg",
+                "barrios/BM-Apizaco-Tlaxcala/4.jpg",
+                "barrios/BM-Apizaco-Tlaxcala/5.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Barrio Antiguo de Monterrey, Nuevo León",
+            "images": [
+                "barrios/2.jpg",
+                "barrios/BM-Barrio-Antiguo-de-Monterrey/3.jpg",
+                "barrios/BM-Barrio-Antiguo-de-Monterrey/4.jpg",
+                "barrios/BM-Barrio-Antiguo-de-Monterrey/5.jpg",
+                "barrios/BM-Barrio-Antiguo-de-Monterrey/6.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Centro Histórico de Chetumal, Quintana Roo",
+            "images": [
+                "barrios/BM-Chetumal/1.jpg",
+                "barrios/BM-Chetumal/2.jpg",
+                "barrios/BM-Chetumal/3.jpg",
+                "barrios/BM-Chetumal/4.jpg",
+                "barrios/BM-Chetumal/5.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Centro Histórico de Chihuahua",
+            "images": [
+                "barrios/BM-Chihuahua/1.jpg",
+                "barrios/BM-Chihuahua/2.jpg",
+                "barrios/BM-Chihuahua/3.jpg",
+                "barrios/BM-Chihuahua/4.jpg",
+                "barrios/BM-Chihuahua/5.jpg"
+            ]
+        },
+        
+        {
+            "title": "",
+            "nombreBarrio": "Jalatlaco, Oaxaca",
+            "images": [
+                "barrios/BM-Jalatlaco/1.jpg",
+                "barrios/BM-Jalatlaco/2.jpg",
+                "barrios/BM-Jalatlaco/3.jpg",
+                "barrios/BM-Jalatlaco/4.jpg",
+                "barrios/BM-Jalatlaco/5.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "La Chinesca, Baja California",
+            "images": [
+                "barrios/BM-Chinesca/1.jpg",
+                "barrios/BM-Chinesca/2.jpg",
+                "barrios/BM-Chinesca/3.jpg",
+                "barrios/BM-Chinesca/4.jpg",
+                "barrios/BM-Chinesca/5.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "La Ermita San Sebastian, Xcalachén Yucatán",
+            "images": [
+                "barrios/BM-La-Ermita-San-Sebastian-Xcalachen/1.jpg",
+                "barrios/BM-La-Ermita-San-Sebastian-Xcalachen/2.jpg",
+                "barrios/BM-La-Ermita-San-Sebastian-Xcalachen/3.jpg",
+                "barrios/BM-La-Ermita-San-Sebastian-Xcalachen/4.jpg",
+                "barrios/BM-La-Ermita-San-Sebastian-Xcalachen/5.jpg"
+            ]
+        },
+        
+        {
+            "title": "",
+            "nombreBarrio": "Ocosingo, Chiapas",
+            "images": [
+                "barrios/BM-Ocosingo-Chiapas/1.jpg",
+                "barrios/BM-Ocosingo-Chiapas/2.jpg",
+                "barrios/BM-Ocosingo-Chiapas/3.jpg",
+                "barrios/BM-Ocosingo-Chiapas/4.jpg",
+                "barrios/BM-Ocosingo-Chiapas/5.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Pedro, Michoacán",
+            "images": [
+                "barrios/BM-Michoacan/1.jpg",
+                "barrios/BM-Michoacan/2.jpg",
+                "barrios/BM-Michoacan/3.jpg",
+                "barrios/BM-Michoacan/4.jpg",
+                "barrios/BM-Michoacan/5.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Román, Campeche",
+            "images": [
+                "barrios/BM-Campeche/1.jpg",
+                "barrios/BM-Campeche/2.jpg",
+                "barrios/BM-Campeche/3.jpg",
+                "barrios/BM-Campeche/4.jpg",
+                "barrios/BM-Campeche/5.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Tlaxcala, San Luis Potosí",
+            "images": [
+                "barrios/BM-San-Luis/1.jpg",
+                "barrios/BM-San-Luis/2.jpg",
+                "barrios/BM-San-Luis/3.jpg",
+                "barrios/BM-San-Luis/4.jpg",
+                "barrios/BM-San-Luis/5.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Villa de Seris, Sonora",
+            "images": [
+                "barrios/BM-Sonora/1.jpg",
+                "barrios/BM-Sonora/2.jpg",
+                "barrios/BM-Sonora/3.jpg",
+                "barrios/BM-Sonora/4.jpg",
+                "barrios/BM-Sonora/5.jpg"
+            ]
+        },
+        
+        {
+            "title": "",
+            "nombreBarrio": "Xallitic, Veracruz",
+            "images": [
+                "barrios/BM-Veracruz/1.jpg",
+                "barrios/BM-Veracruz/2.jpg",
+                "barrios/BM-Veracruz/3.jpg",
+                "barrios/BM-Veracruz/4.jpg",
+                "barrios/BM-Veracruz/5.jpg"
+            ]
+        }
+    ],
+    "heroSlide": [
+        "barrios/heroslide_1.jpg",
+        "barrios/heroslide_2.jpg",
+        "barrios/heroslide_3.jpg",
+        "barrios/heroslide_4.jpg",
+        "barrios/heroslide_5.jpg",
+        "barrios/heroslide_6.jpg",
+        "barrios/heroslide_7.jpg",
+        "barrios/heroslide_8.jpg"
+      ]
+}

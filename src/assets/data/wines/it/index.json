@@ -1,0 +1,65 @@
+{
+    "id": "vinos",
+    "title": "VINO",
+    "subtitle": "Scopri i vini",
+    "gallerySlider": [
+        {
+            "urlImg": "BCN_valle_guadalupe_22.webp",
+            "name": "Bassa California, Valle di Guadalupe",
+            "dir": "https://www.ensenada.travel/la-ruta-del-vino/valle-de-guadalupe/"
+        },
+        {
+            "urlImg": "8_VINOS_DE_COAHUILA.webp",
+            "name": "Strada del vino, Coahuila",
+            "dir": "https://hazturismoencoahuila.mx/vinos-de-coahuila"
+        },
+        {
+            "urlImg": "uvasaguascalientes.webp",
+            "name": "Strada del vino di Aguascalientes",
+            "dir": "https://rutadelvino.aguascalientes.gob.mx/"
+        },
+        {
+            "urlImg": "Region_vinos_Cava_Freixenetqueretaro.webp",
+            "name": "Strada del Vino, Querétaro",
+            "dir": "https://queretaro.travel/tipo-de-destino/ruta-arte-queso-y-vino/"
+        }
+    ],
+    "urlImg": "uvabajacalifornia.webp",
+    "description": [
+        {
+            "text": "Il nostro Paese produce vini di altissima qualità, con grandi qualità organolettiche che fanno sì che chi li assaggia li apprezzi moltissimo. Inoltre, le degustazioni, gli abbinamenti e le visite ai vigneti permettono di assaggiarli in modo più sostanzioso, e diventano un'esperienza unica da condividere con la famiglia, il partner o gli amici."
+        },
+        {
+            "text": "Il Messico ha 10 itinerari conosciuti a livello internazionale, situati in 6 stati: Aguascalientes, Baja California, Coahuila, Guanajuato, Hidalgo e Queretaro. In ognuno di essi vi attende una formidabile esperienza gastronomica che ricorderete per sempre."
+        },
+        {
+            "text": "Il Ministero del Turismo ha collaborato con il Consiglio Messicano del Vino e le Segreterie Statali del Turismo per realizzare questo primo catalogo, che illustra i prodotti e gli itinerari enoturistici esistenti, in modo che i turisti e i visitatori locali, nazionali e internazionali, durante il loro soggiorno in queste destinazioni, possano conoscere i vigneti e le attività che esistono intorno ad essi."
+        }
+    ],
+    "cardsGallery": [
+    {
+      "title": "Feria de la Muñeca Artesanal en Amealco, Querétaro",
+      "date": "18 al 21 de noviembre, 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "De Mar a Mar, Baja California Sur",
+      "date": "1 al 3 de diciembre, 2023",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo se ilumina. Manzanillo, Colima",
+      "date": "31 de diciembre 2023 - 1 de enero 2024",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ]
+}

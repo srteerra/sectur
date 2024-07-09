@@ -1,0 +1,110 @@
+{
+    "title":"Tourisme de réunions, d'incitations, de congrès et d'expositions | MICE (TOURISME D’AFFAIRES)",
+    "urlVideoTop": "https://www.youtube.com/embed/x2bMr85mhEg?autoplay=1&mute=1&loop=1&rel=0",
+    "subtitle": "México comme acteur mondial",
+    "boldText": "Le Mexique est un pays hautement compétitif dans l'industrie du tourisme d'affaires à l'échelle mondiale,",
+    "paragraph": "grâce à son infrastructure étendue pour la tenue de congrès, de voyages de motivation, de conférences, de conventions, de réunions et d'expositions; en plus d'offrir un service de qualité et une chaleur humaine remarquable.",
+    "imageUrl": "mice/imgprotagonista.png",
+    "slides": [
+        "Le tourisme d'affaires a représenté 1,5% du PIB en 2022. Source : COMIR",
+        "En termes d'emploi, en 2022, cela a généré environ un million d'emplois directs et indirects, avec une forte participation des jeunes et des femmes.",
+        "Il y a eu un taux d'occupation hôtelier de 18,88% en nuitées dans le pays."
+    ],
+    "reunionesTitle":"Réunions au Mexique: perspective vers 2040",
+
+    "reunionesItem1Title":"Un Mexique sûr",
+    "reunionesItem1Parrafo1":"En raison de la croissance modérée de l'activité de voyage, le Mexique maintient sa sixième position dans le",
+    "reunionesBoldText": "classement 2023 du Tourisme de l'ONU",
+    "reunionesAfterBoldText": "en termes d'arrivée de voyageurs étrangers et neuvième en termes de capture de devises grâce au tourisme.",
+    "reunionesItem1Parrafo2":"À la clôture de 2022, un revenu de 27 429 milliards de dollars a été prévu grâce aux visiteurs internationaux, soit une augmentation de 11,6% par rapport à 2019; et l'investissement étranger direct dans le tourisme (IEDT) vers le Mexique s'est élevé à 3 147 milliards de dollars, de janvier à septembre 2022, dépassant l'IEDT enregistré pour l'ensemble de 2019, qui était de 1 095 milliards de dollars.",
+    "reunionesItem1Parrafo3":"Ces chiffres montrent que le Mexique est une destination avec de multiples avantages pour l'investissement, générant confiance et certitude juridique dans le tourisme de réunions.",
+
+    "imgItem1":"mice/reuniones1.png",
+    "reunionesItem2Title":"Un Mexique connecté",
+    "reunionesItem2Parrafo1":"Notre pays possède 780 511 kilomètres d'infrastructures routières et un réseau aéroportuaire de 78 aéroports, desservant 1 503 itinéraires origine-destination, dont 485 permettent la connectivité avec 44 nations du monde.",
+    "reunionesItem2Parrafo2":"De plus, l'aéroport de Chetumal, dans le Quintana Roo, a été agrandi et rénové ; les aéroports de Barrancas del Cobre à Creel, Chihuahua; de Tepic, Nayarit ; de Tamuín, San Luis Potosí ; de Puerto Escondido, Oaxaca, sont en cours de modernisation ; et la construction de l'aéroport de Tulum, dans le Quintana Roo, est en cours ; des aéroports qui auront un grand impact sur le tourisme régional.",
+
+    "imgItem2":"mice/reuniones2.png",
+    "reunionesItem3Title":"Un Mexique doté d'une infrastructure de classe mondiale pour le tourisme d'affaires",
+    "reunionesItem3Parrafo1":"Le Mexique dispose de 54 sites répartis sur son territoire, idéaux pour le tourisme d'affaires, offrant des installations adaptées pour organiser des événements de 100 à plus de 20 000 personnes, équipés de la technologie de pointe et bénéficiant de fournisseurs de premier plan.",
+    "reunionesItem3Parrafo2":"Il convient de mentionner que 27 villes mexicaines sont déjà équipées d'un bureau des congrès et des visiteurs pour promouvoir le tourisme d'affaires.",
+
+    "imgItem3":"mice/reuniones3.png",
+    "reunionesItem4Title":"Un Mexique avec des services touristiques intégrés et de haute qualité",
+    "reunionesItem4Parrafo1":"Le Mexique est un pays hautement compétitif dans le domaine du tourisme d'affaires car il offre une série d'incitations qui en font une destination offrant de vastes opportunités pour l'établissement de entreprises rentables et prospères.",
+    "reunionesItem4Parrafo2":"Le pays intègre de manière horizontale et verticale les services touristiques associés à l'industrie des réunions, avec des coûts compétitifs et une qualité élevée, en renforçant le capital humain, la chaîne de production du secteur, et des produits touristiques intégrés qui génèrent des synergies entre le tourisme d'affaires, le tourisme balnéaire et le tourisme culturel.",
+
+    "imgItem4":"mice/reuniones4.png",
+    "reunionesItem5Title":"Le Mexique comme acteur mondial",
+    "reunionesItem5Parrafo1":"Dans le domaine du tourisme d'affaires, le Mexique se classe au 23ème rang mondial et au 5ème rang sur le continent américain avec 197 congrès.",
+    "reunionesItem5Parrafo2":"Le succès de ce segment touristique est également lié à la richesse naturelle, culturelle et gastronomique du pays.",
+
+    "imgItem5":"mice/reuniones5.png",
+    "titleClasificacion": "Classification du tourisme d’ affaire",
+    "descripcionClasificacion": "",
+    "clasificacionColumnas": [
+        {
+          "imagen": "mice/convenciones_purple.svg",
+          "descripcion": "Congrès et réunions d'entreprise ou d'affaires"
+        },
+        {
+          "imagen": "mice/congresos_purple.svg",
+          "descripcion": "Congrès d'associations et d'industries diverses ainsi que de sociétés professionnelles et scientifiques"
+        },
+        {
+          "imagen": "mice/ferias_purple.svg",
+          "descripcion": "Salons et expositions commerciales"
+        },
+        {
+          "imagen": "mice/incentivos_purple.svg",
+          "descripcion": "Voyages de motivation"
+        },
+        {
+          "imagen": "mice/otras_reuniones_purple.svg",
+          "descripcion": "Autres réunions"
+        }
+      ],
+      "mexicoTitulo": "Destinations pour le tourisme d'affaires au Mexique",
+      "mexicoParrafoSuperior": "Le Mexique est stratégiquement situé pour mener des affaires, des réunions de tourisme et organiser d'importants congrès, expositions et salons en raison de sa position géographique par rapport aux États-Unis et à l'Amérique latine.",
+      "miceCallToAction": "Pour en savoir plus, visitez: ",
+      "mexicoParrafoInferior": "Le tourisme de réunions est particulièrement pertinent car il agit comme un déclencheur pour l’investissement, le développement des affaires et la croissance économique, et contribue à améliorer la réputation des villes hôtes.",
+      "collageColumnas": [
+        {
+          "imagen": "mice/collage/1.jpg",
+          "texto": "Complexe Showcenter, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/2.jpg",
+          "texto": "Centre de Congrès, Baja California"
+        },
+        {
+          "imagen": "mice/collage/3.jpg",
+          "texto": "Centre International de Congrès Yucatán"
+        },
+        {
+          "imagen": "mice/collage/10.jpg",
+          "texto": "Centre de Congrès, Zacatecas"
+        },
+        {
+          "imagen": "mice/collage/5.jpg",
+          "texto": "Cintermex, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/6.jpg",
+          "texto": "Auditorium Pabellón M, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/7.jpg",
+          "texto": "Poliforum, Guanajuato"
+        },
+        {
+          "imagen": "mice/collage/8.jpg",
+          "texto": "Centre de Congrès de Querétaro"
+        },
+        {
+          "imagen": "mice/collage/9.jpg",
+          "texto": "Foro Didi Pabellón M, Nuevo León"
+        }
+      ],
+      "mapaMexico": "mice/mapa.svg"
+}

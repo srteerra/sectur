@@ -1,0 +1,95 @@
+.container-enologia-turismo {
+  display: flex;
+  flex-direction: row; /* Cambiar la dirección de la flexión a fila */
+  align-items: flex-start; /* Alinear los elementos en la parte superior */
+  margin-bottom: 30px;
+  opacity: 0; /* Inicialmente invisible */
+  transition: opacity 0.5s ease; /* Transición suave para la propiedad de opacidad */
+}
+
+.container-enologia-turismo h1 {
+ 
+  font-size: 45px;
+  color: #73374b;
+}
+
+.container-enologia-turismo.reveal-scroll.visible {
+  opacity: 1; /* Hace que el contenedor sea visible cuando se aplica la clase .visible */
+}
+
+.enologia-left-column {
+  flex: 1; /* Hace que la columna ocupe el 50% del espacio disponible */
+  max-width: 50%; /* Establece el ancho máximo al 50% del contenedor */
+  padding-right: 20px; /* Agregar padding a la derecha */
+  padding-left: 20px; /* Agregar padding a la izquierda */
+}
+
+.enologia-right-column {
+  flex: 1; /* Hace que la columna ocupe el 50% del espacio disponible */
+  max-width: 50%; /* Establece el ancho máximo al 50% del contenedor */
+  padding-right: 20px; /* Agregar padding a la derecha */
+}
+
+/* Estilos para el título h2 */
+.enologia-subtitle {
+  margin-top: 0;
+  font-size: 28px;
+  margin-bottom: 10px; /* Espacio entre el título y el párrafo */
+}
+
+/* Estilos para el párrafo */
+.enologia-paragraph {
+  font-size: 20px;
+  line-height: 1.5; /* Espaciado entre líneas */
+  text-align: justify;
+}
+
+.enologia-paragraph a {
+  color: #73374b;
+}
+
+/* Estilos para el párrafo con negrita */
+.enologia-strong-p {
+  font-weight: bold; /* Hace que el texto esté en negrita */
+}
+
+.enologia-quote {
+  font-family: 'Roboto', sans-serif; /* Utiliza la fuente Roboto */
+  font-size: 20px; /* Tamaño de fuente */
+  font-style: italic; /* Estilo de fuente itálica */
+  text-align: left; /* Centrar el texto */
+  margin-top: 20px; /* Espacio superior */
+  margin-bottom: 20px; /* Espacio inferior */
+}
+
+.enologia-list {
+  font-size: 20px;
+}
+
+/* Estilos adicionales para ajustar el espacio alrededor del texto */
+.quote-container {
+  margin: auto; /* Centrar horizontalmente */
+  max-width: 600px; /* Ancho máximo del contenedor */
+}
+
+
+.lazy-loaded-image-enoturismo {
+  width: 100%;
+  height: 100%!important;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .container-enologia-turismo {
+      flex-direction: column; /* Cambiar la dirección de la flexión a columna en dispositivos móviles */
+      align-items: center; /* Alinear los elementos al centro horizontalmente */
+  }
+
+  .enologia-left-column,
+  .enologia-right-column {
+      max-width: 100%; /* Establecer el ancho máximo al 100% en dispositivos móviles */
+      padding-right: 20px; /* Eliminar el padding a la derecha en dispositivos móviles */
+      padding-left: 20px; /* Eliminar el padding a la izquierda en dispositivos móviles */
+  }
+}

@@ -1,0 +1,50 @@
+{
+    "id": "islas-marias",
+    "title": "Islas Marías",
+    "subtitle": "Découvrez les Îles Marías",
+    "urlVideoTop":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "urlVideo":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "Phare Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "Regardé Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "Islas Marías étaient, pendant plus de 100 ans, le siège de l'une des prisons les plus redoutées, qui est maintenant une nouvelle destination touristique où règne la liberté, la promotion de l'éducation environnementale, de la culture et des arts. La combinaison parfaite pour des vacances inoubliables."
+        },
+        {
+            "text": "Elles se trouvent dans l'État de Nayarit et sont composées des îles María Magdalena, María Cleofas, San Juanito et María Madre. L'importance de ces îles réside dans leur énorme biodiversité, car en l'an 2000, elles ont été déclarées Zone Naturelle Protégée, avec le statut de Réserve de la Biosphère. Elles sont reconnues par l'UNESCO pour leur flore et leur faune endémiques, allant des mangroves aux récifs coralliens, en passant par de nombreuses espèces animales, certaines d'entre elles étant en voie de disparition."
+        }
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "Carré Juarez",
+            "dir": "/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "Port Balleto",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "Station aéronavale Isla Maria Madre",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "Peinture murale de la ville principale",
+            "dir": "/"
+        }
+    ]
+}

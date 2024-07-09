@@ -1,0 +1,66 @@
+{
+
+    "trenTitle1": "トレン・マヤでメキシコ南東部の魅力を発見しよう",
+    "trenP1": "メキシコ南東部を巡る究極の体験、トレン・マヤ(マヤ鉄道)へようこそ。緑豊かなジャングル、古代マヤ遺跡、美しいカリブ海の壮大なビーチを巡り、記憶に残る旅。トレン・マヤに乗って、その魅力的な地域の隠された宝石と豊かな文化を発見できる旅へ出かけましょう。",
+
+    "trenTitle2": "メキシコ東南部の驚異を探索しよう",
+    "trenP2": "トレン・マヤでメキシコ南東部の驚異を巡る旅に出かけましょう。チアパスのジャングルからキンタナ・ローのビーチまで、息を呑むような景色や歴史を感じる場所へ連れて行ってくれます。",
+
+    "trenTitle3": "マヤ文明に触れる旅に出かけよう",
+    "trenP3": "トレン・マヤで移動しながら、古代マヤ文明の豊かな歴史と魅力的な文化を発見してみてください。チチェン・イッツァ、パレンケ、ウシュマルの壮大な遺跡を訪れ、メキシコ南東部に息づく古代文明の神秘に浸ってみてください。",
+
+    "trenTitle4": "トレン・マヤでメキシコのホスピタリティを体験しよう",
+    "trenP4": "トレン・マヤでメキシコのホスピタリティ「快適な環境、おいしいローカル料理、素晴らしいサービス」を体験してみてください。メキシコの人々や文化とつながるユニークで思い出に残る旅となることでしょう。",
+
+    "title": "マヤ観光鉄道",
+    "subTitle":"マヤ観光鉄道",
+    "subTitle2":"マヤ観光鉄道",
+    "subTitle3":"マヤ観光鉄道",
+    "text":"ユカタン半島の主要都市と観光地を結ぶ新しい高速鉄道です。マヤ観光鉄道は、この地域の領土秩序を強化し、観光産業を発展させる目的で作られたプロジェクトです。これにより経済的利益がもたらされ、ユカタン半島の接続性が向上し、貨物と乗客の効率的な移動が可能になります",
+    "imgUrl":"trenMaya/TulumQuintanaRoo.webp",
+    "urlVideo": "https://www.youtube.com/embed/r8EDwvRJXIE?autoplay=1&mute=1&loop=1&rel=0",
+    "subText": [
+       
+    ],
+    "gallery":[
+        {
+            "title":"",
+            "imgUrl":"trenMaya/BacalarQuintanaRoo.webp",
+            "clase":"imagen1"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/ChichenItzaYucatan.webp",
+            "clase":"imagen2"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/IzamalYucatanpan.webp",
+            "clase":"imagen3"
+        }
+    ],
+    "videos":[
+        {
+        "title":"Campeche",
+        "urlVideo":"https://www.youtube.com/embed/E8piNxUKO-4?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+        "title":"Tabasco",
+        "urlVideo":"https://www.youtube.com/embed/noJ6i36csXQ?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Chiapas",
+            "urlVideo":"https://www.youtube.com/embed/6NqOUbqmpJk?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Yucatán",
+            "urlVideo":"https://www.youtube.com/embed/aDjSaYjccbE?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Quintana Roo, Cancún",
+            "urlVideo":"https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=0&mute=0&loop=1&rel=0"
+        }
+
+    ]
+    
+}

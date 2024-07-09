@@ -1,0 +1,155 @@
+.home-suscribe-ctn {
+  width: 100%;
+  height: 500px;
+  box-sizing: border-box;
+  background-image: url('../../assets/img/header/Fondorosa.webp');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  padding-top: 60px;
+  justify-content: center;
+  align-items: center;
+  position:relative;
+}
+
+.home-suscribe-image {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 19/6;
+  object-fit: cover;
+}
+
+.home-suscribe-ctn-suscribe {
+  background-color: #1B4830;
+  opacity: 0.8;
+  position: absolute;
+  top: 70px;
+  padding: 20px;
+  border-radius: 10px;
+  left: 36%; 
+  width: 30%;
+  align-content: center;
+}
+
+.home-suscribe-suscribe-title {
+  font-size: var(--txt-h1-xl);
+  color: #fff;
+  text-align:center;
+  width: 80%;
+  margin:0px auto;
+}
+
+.home-suscribe-suscribe-description {
+  font-size: var(--txt-p-xl);
+  color: #fff;
+  text-align: justify;
+  width: 80%;
+  margin:0px auto;
+}
+
+.home-suscribe-ctn-form {
+  margin:0px auto;
+  align-content: center;
+  text-align: center;
+}
+
+.home-searcher-suscribe-input {
+  height: 32px;
+  width: 80%;
+  border-style: none;
+  border-radius: 10px;
+  padding: 6px 12px;
+  font-size: var(--txt-p-xl);
+  
+}
+
+.home-searcher-suscribe-button {
+  height: 44px;
+  width: 120px;
+  border-style: none;
+  border-radius: 10px;
+  padding: 6px 12px;
+  font-size: var(--txt-p-xl);
+  color: #fff;
+  background: var(--green);
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+
+
+/*====MODAL====*/
+.modalSubscribe{
+  transform: translate(-50, -50%);
+  background-color:#F5F0EF;
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 35%;
+  margin-right: 20%;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.modalSubscribe2{
+  position:relative;
+  background-color: #7d7d7d;
+  
+}
+.subscribe-modal-header{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #CECECE;
+}
+
+.subscribe-modal-title{
+  font-size: var(--txt-h5-xl);
+  font-weight: 700;
+  font-family: 'Bebas Neue', sans-serif;
+  color: #B21F67;
+  padding: 10px 25px;
+  margin: 10px 0;
+}
+
+.subscribe-modal-close{
+  font-size: 18px;
+  color: #bbb;
+  padding: 5px;
+  border-radius: 5px;
+  align-content: center;
+  vertical-align: center;
+  height: 3%;
+}
+
+.subscribe-modal-close:hover {
+  background: #bbb; 
+  color: #fff;
+}
+
+
+.subscribe-modal-body{
+  height: 200px;
+  justify-content: center;
+  text-align: center;
+}
+
+.subscribe-modal-text{
+  font-size: medium;
+  font-weight: 700;
+  color: #7d7d7d;
+  padding: 10px;
+  margin: 10px;
+  text-align: justify;
+}
+
+.spaceImageModal{
+  padding: 10px;
+  width: 80%;
+  width: auto;
+  position: relative;
+}
+
+.emailModal{
+  width: 30%;
+}

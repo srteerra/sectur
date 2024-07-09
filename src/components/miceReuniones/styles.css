@@ -1,0 +1,83 @@
+/* styles.css */
+
+/* Estilos para el contenedor principal */
+.mice-reuniones-container {
+    padding: 20px;
+}
+
+/* Estilos para el título h2 */
+.mice-reuniones-container h2 {
+    margin-bottom: 10px; /* Espacio entre el título y el párrafo */
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+    color: var(--purple);
+}
+
+.mice-reuniones-container h3 {
+    margin-top: 0;
+    font-size: 28px;
+}
+
+/* Estilos para el párrafo */
+.mice-reuniones-container .column p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+/* Estilos para las filas */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px -10px; /* Ajusta el margen según sea necesario */
+}
+
+/* Estilos para las columnas */
+.column {
+    flex: 1;
+    padding: 0 10px;
+}
+
+/* Estilos para las imágenes */
+.mice-reuniones-container .lazy-loaded-image-mice {
+    width: 500px; /* Anchura deseada */
+    height: 375px; /* Altura deseada */
+    border-radius: 10px; /* Borde redondeado */
+    object-fit: cover; /* Ajuste del objeto */
+}
+
+/* Media queries para laptops y pantallas grandes */
+@media screen and (min-width: 1024px) {
+    .mice-reuniones-container {
+        max-width: 960px; /* Ajusta el ancho máximo según sea necesario */
+        margin: 0 auto; /* Centra el contenedor en pantallas grandes */
+    }
+}
+
+/* Media queries para teléfonos móviles */
+@media screen and (max-width: 768px) {
+    
+    .mice-reuniones-container .row {
+        margin: 20px -20px; /* Ajusta el margen para dar espacio a las columnas */
+    }
+    
+    .mice-reuniones-container .column {
+        flex: 100%; /* Las columnas ocuparán todo el ancho en dispositivos móviles */
+        padding: 0 20px; /* Añade espacio a los lados de las columnas */
+    }
+
+    .mice-reuniones-container .lazy-loaded-image-mice {
+        width: 100%; /* Ancho completo dentro de la columna */
+        height: auto; /* Altura automática para mantener la proporción */
+        border-radius: 10px; /* Borde redondeado */
+        object-fit: cover; /* Ajuste del objeto */
+        margin-bottom: 20px; /* Espacio inferior entre imágenes */
+    }
+
+    .mice-reuniones-container h2,
+    .mice-reuniones-container p {
+        margin-bottom: 20px; /* Espacio inferior entre títulos y párrafos */
+    }
+}
+

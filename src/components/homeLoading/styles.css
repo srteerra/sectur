@@ -1,0 +1,23 @@
+.home-loading-ctn {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: 2s loading ease-out;
+    animation-delay: 1.5s;
+}
+
+.home-loading {
+    width: 70vw;
+}
+
+@keyframes loading {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}

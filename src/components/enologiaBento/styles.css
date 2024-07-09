@@ -1,0 +1,72 @@
+.container-bento {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 20px; /* Espacio entre las imágenes */
+    grid-auto-flow: row;
+    grid-template-areas:
+        "Imagen-1 Imagen-1 Imagen-2 Imagen-3 Imagen-3"
+        "Imagen-5 Imagen-5 Imagen-2 Imagen-4 Imagen-4";
+    margin: 30px 20px; /* Margen izquierdo y derecho del contenedor */
+}
+
+.Imagen-1 { grid-area: Imagen-1; }
+
+.Imagen-3 {
+    grid-area: Imagen-3;
+    height: 100%; /* Ocupa toda la altura */
+}
+
+.Imagen-2 { 
+    grid-area: Imagen-2;
+    height: 100%; /* Ocupa toda la altura */
+}
+
+.Imagen-4 {
+    grid-area: Imagen-4;
+    height: 100%; /* Ocupa toda la altura */
+}
+
+.Imagen-5 { grid-area: Imagen-5; }
+
+.container-bento .lazy-loaded-image-enoturismo {
+    width: 100%;
+    height: 100%!important;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.enologia-title {
+    text-align: center;
+	font-size: 45px;
+	font-family: 'Bebas Neue', sans-serif;
+  	letter-spacing: 1px;
+	color: #73374b;
+}
+
+@media screen and (max-width: 768px) {
+    .container-bento {
+        grid-template-columns: 1fr; /* Cambia a una sola columna en dispositivos móviles */
+        grid-template-areas:
+            "Imagen-1"
+            "Imagen-3"
+            "Imagen-2"
+            "Imagen-4"
+            "Imagen-5";
+        gap: 10px; /* Reducir espacio entre las imágenes en dispositivos móviles */
+        margin: 30px 10px; /* Reducir el margen en dispositivos móviles */
+    }
+}
+
+/* Estilos para las imágenes que se revelan al hacer scroll */
+.reveal-scroll, .initially-visible {
+    opacity: 0; /* Las imágenes son inicialmente invisibles */
+    transition: opacity 0.5s ease; /* Transición suave para la propiedad de opacidad */
+  }
+  
+  /* Estilos para las imágenes que se vuelven visibles al hacer scroll */
+  .reveal-scroll.visible, .initially-visible.visible {
+    opacity: 1; /* Las imágenes se vuelven visibles */
+  }
+  
+  

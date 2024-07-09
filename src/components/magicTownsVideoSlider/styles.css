@@ -1,0 +1,81 @@
+.magic-towns-video-slider-ctn {
+	padding: 114px 0 0 0;
+	background-image: url('../../assets/img/header/liston-azul.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 50px;
+	background-position: top;
+
+	box-sizing: border-box;
+	overflow: hidden;
+	max-width: 100%;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+	position: relative;
+}
+
+.magic-towns-video-slider-ctn-carousel {
+	height: 420px;
+	position: relative;
+	overflow: hidden;
+}
+
+.magic-towns-video-slider-ctn-carousel .css-1qzevvg {
+	position: absolute !important;
+    z-index: 2;
+    bottom: 37px;
+    left: calc(41.5vw - 20px);
+    color: #fff;
+    cursor: pointer;
+}
+
+.magic-towns-video-slider-ctn-carousel-item-video {
+	height: 100%;
+	width: 100%;
+}
+
+.magic-towns-video-slider-ctn-carousel-item {
+	border-radius: 12px;
+}
+
+.magic-towns-video-slider-description {
+	font-size: var(--txt-h5-xl);
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-family: 'Bebas Neue', sans-serif;
+  	letter-spacing: 2px;
+	margin-top: 12px;
+}
+
+@media screen and (min-width: 744px) {
+	.magic-towns-video-slider-ctn {
+		padding: 164px 0 32px 0;
+		background-size: 100% 90px;
+	}
+	
+	.magic-towns-video-slider-ctn-carousel {
+		height: 470px;
+	}
+	
+	.magic-towns-video-slider-ctn-carousel .css-1qzevvg {
+		left: calc(41.5vw - 10px);
+	}
+}
+
+@media screen and (min-width: 1353px) {
+	.magic-towns-video-slider-ctn {
+		padding: 194px 0 32px 0;
+		background-size: 100% 120px;
+	}
+	
+	.magic-towns-video-slider-ctn-carousel {
+		height: 870px;
+	}
+
+	.magic-towns-video-slider-ctn-carousel .css-1qzevvg {
+		left: calc(41.5vw - 30px);
+		padding: 0 40%;
+	}
+	
+}

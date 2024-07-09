@@ -1,0 +1,65 @@
+{
+    "title": "Weintourismus: Weinbaugebiete in Mexiko",
+    "imgItem1":"enologia/eno/enoturismo1.jpg",
+    "imgItem2":"enologia/eno/enoturismo2.jpg",
+    "imgItem3":"enologia/eno/enoturismo3.jpg",
+    "imgItem4":"enologia/eno/enoturismo4.jpg",
+    "imgItem5":"enologia/eno/enologia5.jpg",
+    "imgTurismo": "enologia/eno/enoturismo6.jpg",
+    "subtitle": "Was ist Weintourismus?",
+    "paragraph": "Nach Angaben der Welttourismusorganisation",
+    "onulink": "(UNWTO)",
+    "onuafterlink": "umfasst der Weintourismus „Besuche von Weinkellereien, Verkostungen und andere Veranstaltungen im Rahmen der Weinproduktion sowie Besuche von Weinbergen und anderen weinbezogenen kulturellen und natürlichen Attraktionen in einer bestimmten Region.",
+    "strongP": "Und die Bundesstaaten, die Routen anbieten, sind:",
+    "quoteP": "",
+    "lista": [
+        "Die Weinroute von Aguascalientes",
+        "Die Weinroute von Baja California, die aus 4 Routen besteht: die Valle de Guadalupe Weinroute, die Käse- und Weinroute, die Alte Weinroute und die Puerta Norte Route.",
+        "Die Weinroute von Coahuila, die in zwei Routen unterteilt ist: die Vinos y Dinos Weinroute und die Wüstenroute",
+        "Die Weinroute von Guanajuato, Valle de la Independencia.",
+        "Die Weinroute von Hidalgo, die in zwei Routen unterteilt ist: die “Escapada al Camino Real entre Vino y Queso” und die “Ruta Tolteca entre Vino y Queso”.",
+        "Die Kunst-, Käse- und Weinroute von Querétaro"
+      ],
+      "entidades": "16 traubenproduzierende Bundesstaaten: Aguascalientes, Baja California, Baja California Sur, Coahuila, Chihuahua, Durango, Guanajuato, Hidalgo, Jalisco, Nayarit, Nuevo León, Puebla, Querétaro, San Luis Potosí, Sonora und Zacatecas. Und die Bundesstaaten.",
+    "info1": "16 trauben- und weinproduzierende Bundesstaaten.",
+    "info2": "mehr als 12.000 mexikanische Weinmarken",
+    "info3": "In Mexiko werden 18 Keltertraubensorten angebaut",
+    "info4": "Es gibt 80 Reiseveranstalter, die sich in mehr als 10 mexikanischen Bundesstaaten auf weintouristische Routen spezialisieren.",
+    "destinosTitle": "Weinreiseziele zum Genießen des Weintourismus",
+    "bannerEnologia": "enologia/eno/enoturismo7.jpg",
+    "titleProduccion": "Herstellung von mexikanischen Weinen",
+    "descripcionClasificacion": "",
+    "produccionColumnas": [
+        {
+          "imagen": "enologia/uvas.svg",
+          "descripcion": "Mexiko verfügt über 7.000 Hektar Rebfläche "
+        },
+        {
+          "imagen": "enologia/barril.svg",
+          "descripcion": "195.000 Hektoliter werden produziert"
+        },
+        {
+          "imagen": "enologia/sacacorcho.svg",
+          "descripcion": "Der Pro-Kopf-Verbrauch liegt bei 1,3 Litern"
+        },
+        {
+          "imagen": "enologia/botellas.svg",
+          "descripcion": "7 von 10 konsumierten Flaschen sind Rotwein "
+        }
+      ],
+      "tituloArticuloUno": "Weintourismus und Weinanbaugebiete",
+      "Parrafo1Articulo1": "Dank des Weintourismus erlebt man die Kultur, die Geschichte, die Traditionen und die Identität des besuchten Ortes, vor allem in den weinproduzierenden Regionen, und findet einen Bezug zu ihnen. Daher ist die Promotion von grundlegender Bedeutung, um den Weintouristen alles, was der Weintourismus zu bieten hat, näher zu bringen.",
+      "Parrafo2Articulo2": "Der Weintourismus ermöglicht den Besuchern, den Prozess der Weinherstellung besser zu verstehen: das Feld, die Pflanze, die Reifung der Trauben, der Gärungsprozess, das Pressverfahren und alles bis hin zum endgültigen Produkt.",
+      "titulo2ArticuloDos": "Wussten Sie, dass es in Mexiko drei dem Wei und der Rebe gewidmete Museen gibt?",
+      "Parrafo1Articulo2": "Baja California: Das Reben- und Weinmuseum in Ensenada bietet dem Publikum eine Reise durch die Geschichte, die Industrie, die Identität und den Wein sowie dessen Beziehung zur Kunst. Guanajuato: Das Weinmuseum liegt in Dolores, Hidalgo, Guanajuato. Hier können Sie die Geschichte des Weins und den Herstellungsprozess der Weine kennenlernen, die von den Erzeugern des “Valle de la Independencia” angeboten werden. Querétaro: Das Kunst-, Käse- und Weinmuseum in Tequisquiapan ist ein wahrhaftiger Garant für Kultur und Geschmack, begleitet von einem guten Glas Wein.",
+      "Parrafo3Articulo2": "Auf den weintouristischen Routen Mexikos können Sie von einer Weinprobe bis hin zu einem Aufenthalt mit außergewöhnlichem Service genießen.",
+      "regiones": "enologia/eno/enoturismo8.jpg",
+      "marcas": "enologia/eno/enoturismo9.jpg",
+      "conocesCatalogo": "Kennen Sie den Katalog der weintouristischen Produkte und Routen Mexikos 2023?",
+      "imgDescarga": "enologia/img-descarga.png",
+      "downloadLink": "https://visitmexico.com/recursos/catalogo-de-productos-y-rutas-enoturisticas-2023.pdf",
+      "cintaRoja": "enologia/Fondorosa.webp",
+      "mapaMexico": "enologia/mapa.svg",
+      "enologiaDescarga": "Mehr anzeigen"
+
+}

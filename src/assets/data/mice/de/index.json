@@ -1,0 +1,104 @@
+{
+    "title":"Meetings, Anreiz- und Belohnungsreisen, Kongressen, Messen | MICE-Tourismus",
+    "urlVideoTop": "https://www.youtube.com/embed/x2bMr85mhEg?autoplay=1&mute=1&loop=1&rel=0",
+    "subtitle": "Mexiko als globaler Akteur",
+    "boldText": "Mexiko ist weltweit ein sehr wettbewerbsfähiges Land im Bereich des Tagungstourismus,",
+    "paragraph": "da es über eine umfangreiche Infrastruktur für die Durchführung von Kongressen, Anreiz- und Belohnungsreisen, Konferenzen, Tagungen, Meetings und Ausstellungen sowie über eine ausgezeichnete Qualität und Gastfreundschaft der Dienstleistungen verfügt.",
+    "imageUrl": "mice/imgprotagonista.png",
+    "slides": [
+        "Im Jahr 2022 entfielen auf den Tagungstourismus 1,5% des BIP. (Quelle: COMIR)",
+        "Im Jahr 2022 hat der Tagungstourismus rund 1 Million direkte und indirekte Arbeitsplätze geschaffen, wobei junge Menschen und Frauen die bedeutendsten Arbeitskräfte sind. (Quelle: COMIR)",
+        "Die Hotelbelegung lag bei 18,88% der Zimmernächte im Land."
+    ],
+    "reunionesTitle":"Besprechungen in Mexiko: Perspektive bis 2040",
+    "reunionesItem1Title":"Ein sicheres Mexiko",
+    "reunionesItem1Parrafo1":"Aufgrund des moderaten Wachstums der Reiseaktivität bleibt Mexiko auf dem sechsten Platz im",
+    "reunionesBoldText": "im Ranking 2023 des UNO-Tourismus",
+    "reunionesAfterBoldText": "bei der Ankunft ausländischer Reisender und neunter Platz in Bezug auf Deviseneinnahmen aus Tourismus.",
+    "reunionesItem1Parrafo2":"Für 2022 wurden Einnahmen von 27.429 Millionen Dollar durch internationale Besucher erwartet, das sind 11,6% mehr als 2019; und die ausländischen Direktinvestitionen (ADI) im Bereich Tourismus in Mexiko beliefen sich von Januar bis September 2022 auf 3.147 Millionen Dollar und übertrafen damit die ADI im Tourismus des gesamten Jahres 2019, die 1,95 Millionen Dollar betrugen.",
+    "reunionesItem1Parrafo3":"Diese Zahlen zeigen, dass Mexiko ein Reiseziel mit zahlreichen Vorteilen für Investitionen ist, was Vertrauen und Rechtssicherheit im Tagungstourismus schafft.",
+    "imgItem1":"mice/reuniones1.png",
+    "reunionesItem2Title":"Ein vernetztes Mexiko",
+    "reunionesItem2Parrafo1":"Unser Land verfügt über ein 780.511 km langes Straßennetz und ein Flughafennetz mit 78 Flughäfen, die 1.503 Start- und Zielrouten bedienen, von denen 485 eine Vernetzung mit 44 Ländern der Welt ermöglichen.",
+    "reunionesItem2Parrafo2":"Der Flughafen Chetumal in Quintana Roo wurde ebenfalls erweitert und umgestaltet. Es werden auch die Flughäfen Barrancas del Cobre in Creel (Chihuahua), Tepic (Nayarit), Tamuín (San Luis Potosí), Puerto Escondido (Oaxaca) derzeit modernisiert. Und der Flughafenterminal Tulum (Quintana Roo) wird gerade eingerichtet. Es sind Flughäfen, die einen großen Einfluss auf den regionalen Tourismus haben werden.",
+    "imgItem2":"mice/reuniones2.png",
+    "reunionesItem3Title":"Ein Mexiko mit Weltklasse-Infrastruktur für den Tagungstourismus",
+    "reunionesItem3Parrafo1":"Mexiko verfügt über 54 Veranstaltungsorte auf seinem gesamten Territorium, die sich ideal für den Tagungstourismus eignen. Sie bieten Einrichtungen, die sich für die Durchführung von Veranstaltungen mit 100 bis über 20.000 Personen eignen, und sind mit modernster Technik und erstklassigen Anbietern ausgestattet.",
+    "reunionesItem3Parrafo2":"Bemerkenswert ist, dass 27 mexikanische Städte bereits über ein Kongress- und Besucherbüro zur Förderung des Tagungstourismus verfügen.",
+    "imgItem3":"mice/reuniones3.png",
+    "reunionesItem4Title":"Ein Mexiko mit integrierten, qualitätsvollen Tourismusdienstleistungen",
+    "reunionesItem4Parrafo1":"Mexiko ist ein höchst wettbewerbsfähiges Land für den Tagungstourismus, da es eine Reihe von Fördermaßnahmen bietet, die es zu einem Reiseziel mit zahlreichen Möglichkeiten für die Gründung rentabler und erfolgreicher Unternehmen machen.",
+    "reunionesItem4Parrafo2":"Das Land integriert waagerecht und senkrecht die mit der Tagungsindustrie verbundenen touristischen Dienstleistungen, mit wettbewerbsfähigen Kosten und hoher Qualität, durch die Stärkung des Humankapitals, die produktive Verkettung des Sektors und umfassende touristische Produkte, die Synergien zwischen Tagungstourismus, Sonnen- und Strandtourismus und Kulturtourismus schaffen.",
+    "imgItem4":"mice/reuniones4.png",
+    "reunionesItem5Title":"Mexiko als globaler Akteur",
+    "reunionesItem5Parrafo1":"Im Bereich des Tagungstourismus liegt Mexiko mit 197 Kongressen weltweit auf Platz 23 und auf dem amerikanischen Kontinent auf Platz 5.",
+    "reunionesItem5Parrafo2":"Der Erfolg dieses Tourismussektors hängt auch mit dem natürlichen, kulturellen und kulinarischen Reichtum des Landes zusammen.",
+    "imgItem5":"mice/reuniones5.png",
+    "titleClasificacion": "Einteilung des Tagungstourismus",
+    "descripcionClasificacion": "",
+    "clasificacionColumnas": [
+        {
+          "imagen": "mice/convenciones_purple.svg",
+          "descripcion": "Tagungen und Firmen- oder Geschäftstreffen"
+        },
+        {
+          "imagen": "mice/congresos_purple.svg",
+          "descripcion": "Kongresse verschiedener Verbände und Industrien sowie professioneller und wissenschaftlicher Gesellschaften"
+        },
+        {
+          "imagen": "mice/ferias_purple.svg",
+          "descripcion": "Messen, Handelsmessen"
+        },
+        {
+          "imagen": "mice/incentivos_purple.svg",
+          "descripcion": "Anreiz- und Belohnungsreisen"
+        },
+        {
+          "imagen": "mice/otras_reuniones_purple.svg",
+          "descripcion": "Sonstige Sitzungen"
+        }
+      ],
+      "mexicoTitulo": "MICE-Reiseziele in Mexiko",
+      "mexicoParrafoSuperior": "Dank seiner geografischen Lage zwischen den USA und Lateinamerika ist Mexiko ein strategischer Standort für den Geschäftsverkehr, den Tagungstourismus und wichtige Kongresse, Ausstellungen und Messen.",
+      "miceCallToAction": "Um mehr zu erfahren, besuchen Sie: ",
+      "mexicoParrafoInferior": "Der Tagungstourismus ist von besonderer Bedeutung, da er als Auslöser für Investitionen, Unternehmensentwicklung und Wirtschaftswachstum fungiert und dazu beiträgt, den Ruf der Gastgeberstädte zu verbessern.",
+      "collageColumnas": [
+        {
+          "imagen": "mice/collage/1.jpg",
+          "texto": "Showcenter-Komplex, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/2.jpg",
+          "texto": "Baja California Center"
+        },
+        {
+          "imagen": "mice/collage/3.jpg",
+          "texto": "Internationales Kongresszentrum Yucatán"
+        },
+        {
+          "imagen": "mice/collage/10.jpg",
+          "texto": "Kongresszentrum Zacatecas"
+        },
+        {
+          "imagen": "mice/collage/5.jpg",
+          "texto": "Cintermex, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/6.jpg",
+          "texto": "Auditorium Pavillon M, Nuevo León"
+        },
+        {
+          "imagen": "mice/collage/7.jpg",
+          "texto": "Poliforum, Guanajuato"
+        },
+        {
+          "imagen": "mice/collage/8.jpg",
+          "texto": "Kongresszentrum Querétaro"
+        },
+        {
+          "imagen": "mice/collage/9.jpg",
+          "texto": "Foro Didi Pabellón M, Nuevo León"
+        }
+      ],
+      "mapaMexico": "mice/mapa.svg"
+}

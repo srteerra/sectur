@@ -1,0 +1,104 @@
+{
+    "title":"会议、奖励、大会和展览旅游|M.I.C.E",
+    "urlVideoTop": "https://www.youtube.com/embed/x2bMr85mhEg?autoplay=1&mute=1&loop=1&rel=0",
+    "subtitle": "墨西哥作为全球主角",
+    "boldText": "墨西哥是一个在会议旅游业方面具有全球竞争力的国家",
+    "paragraph": "因为它有广泛的基础设施来举办大会、奖励旅行、会议、大会、会议和展览；除了卓越的质量和热情的服务外。",
+    "imageUrl": "mice/imgprotagonista.png",
+    "slides": [
+        "2022年旅游业会议占国内生产总值的1.5%> 资料来源：COMIR",
+        "在劳动方面，2022年创造了约100万个直接和间接就业机会，其中青年和妇女的工作尤为突出。资料来源：COMIR",
+        "全国客房过夜入住率为18.88%"
+    ],
+    "reunionesTitle":"墨西哥会议：展望2040",
+    "reunionesItem1Title":"安全的墨西哥",
+    "reunionesItem1Parrafo1":"由于旅游活动表现出的适度增长，墨西哥在联合国旅游组织2023年排名中保持第六位，",
+    "reunionesBoldText": "联合国旅游组织2023年排名",
+    "reunionesAfterBoldText": "在外国游客到达方面位居第六，而在旅游外汇收入方面排名第九。",
+    "reunionesItem1Parrafo2":"在2022年底，预计国际游客的收入为270.29亿美元，比2019年增加11.6%；2022年1月至9月，对墨西哥的旅游外国直接投资为31.47亿美元，超过了2019年全年的95亿美元。",
+    "reunionesItem1Parrafo3":"这些数字表明，墨西哥是一个具有多种投资优势的目的地，在会议旅游业中产生了信心和法律确定性",
+    "imgItem1":"mice/reuniones1.png",
+    "reunionesItem2Title":"连接的墨西哥",
+    "reunionesItem2Parrafo1":"我国拥有780511公里的公路基础设施和78个机场的机场网络，运营着1503条往返航线，其中485条允许与世界44个国家连接。",
+    "reunionesItem2Parrafo2":"金塔纳罗奥的切图马尔机场也得到了扩建和改造；奇瓦瓦Creel的Barrancas del Cobre机场正在现代化；德特皮克，纳亚里特；来自塔穆因，圣路易斯·波托西；来自瓦哈卡州埃斯库迪多港；在金塔纳罗图卢姆建造使机场航站楼；将对区域旅游空间产生影响的机场。",
+    "imgItem2":"mice/reuniones2.png",
+    "reunionesItem3Title":"拥有世界级会议旅游基础设施的墨西哥",
+    "reunionesItem3Parrafo1":"墨西哥在其领土上有54个理想的会议旅游场所，除了配备最先进的技术和一流的设施外，还提供有利于举办100至2万多人活动的设施。",
+    "reunionesItem3Parrafo2":"值得一提的是，墨西哥27个城市已经有一个会议和游客办公室，以促进旅游业会议。",
+    "imgItem3":"mice/reuniones3.png",
+    "reunionesItem4Title":"拥有优质综合旅游服务的墨西哥",
+    "reunionesItem4Parrafo1":"墨西哥是一个会议旅游业竞争激烈的国家，因为它提供了一系列激励措施，使其成为一个有广泛机会建立盈利和成功企业的目的地。",
+    "reunionesItem4Parrafo2":"该国通过加强人力资本、该部门的生产链以及在会议旅游、阳光和海滩旅游以及文化旅游之间产生协同作用的综合旅游产品，以具有竞争力的成本和高质量，横向和纵向整合与会议业有关的旅游服务。",
+    "imgItem4":"mice/reuniones4.png",
+    "reunionesItem5Title":"墨西哥作为全球主角",
+    "reunionesItem5Parrafo1":"在会议旅游方面，墨西哥在全球排名第23位，在美洲大陆排名第5位，共举行了197次会议。",
+    "reunionesItem5Parrafo2":"这一旅游部门的成功也与该国的自然、文化和美食财富有关。",
+    "imgItem5":"mice/reuniones5.png",
+    "titleClasificacion": "会议旅游分类",
+    "descripcionClasificacion": "",
+    "clasificacionColumnas": [
+        {
+          "imagen": "mice/convenciones_purple.svg",
+          "descripcion": "公司或商业会议"
+        },
+        {
+          "imagen": "mice/congresos_purple.svg",
+          "descripcion": "各种协会和行业以及专业和科学协会的大会"
+        },
+        {
+          "imagen": "mice/ferias_purple.svg",
+          "descripcion": "贸易博览会和展览"
+        },
+        {
+          "imagen": "mice/incentivos_purple.svg",
+          "descripcion": "奖励旅行"
+        },
+        {
+          "imagen": "mice/otras_reuniones_purple.svg",
+          "descripcion": "其他会议"
+        }
+      ],
+      "mexicoTitulo": "墨西哥会议旅游目的地",
+      "mexicoParrafoSuperior": "由于其相对于美国和拉丁美洲的地理位置，墨西哥是开展商业、会议旅游和举办重要会议、展览和博览会的战略地点。",
+      "miceCallToAction": "了解更多，请访问：",
+      "mexicoParrafoInferior": "会议旅游业特别重要，因为它是投资、商业发展和经济增长的导火索，有助于提高总部城市的声誉。",
+      "collageColumnas": [
+        {
+          "imagen": "mice/collage/1.jpg",
+          "texto": "展览中心综合体，蒙特雷.新莱昂"
+        },
+        {
+          "imagen": "mice/collage/2.jpg",
+          "texto": "下加利福尼亚中心"
+        },
+        {
+          "imagen": "mice/collage/3.jpg",
+          "texto": "尤卡坦国际会议中心"
+        },
+        {
+          "imagen": "mice/collage/10.jpg",
+          "texto": "萨卡特卡斯会议宫"
+        },
+        {
+          "imagen": "mice/collage/5.jpg",
+          "texto": "Cintermex 蒙特雷，新莱昂"
+        },
+        {
+          "imagen": "mice/collage/6.jpg",
+          "texto": "蒙特里新莱昂M馆礼堂"
+        },
+        {
+          "imagen": "mice/collage/7.jpg",
+          "texto": "莱昂·瓜纳华托·论坛"
+        },
+        {
+          "imagen": "mice/collage/8.jpg",
+          "texto": "克雷塔罗会议中心"
+        },
+        {
+          "imagen": "mice/collage/9.jpg",
+          "texto": "新莱昂州帕贝隆M迪迪论坛"
+        }
+      ],
+      "mapaMexico": "mice/mapa.svg"
+}

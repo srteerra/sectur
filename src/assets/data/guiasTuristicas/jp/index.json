@@ -1,0 +1,561 @@
+{
+
+  "descubreTitle": "メキシコ旅行ガイドブック: 完璧な旅のパートナー",      
+  "descubreParrafo": "メキシコ旅行の計画を立て、旅を最大限に楽しむための情報を入手しましょう。コロニアルシティから楽園のようなビーチまで、この美しい国の魅力的なスポットや秘密スポットをご紹介します。",
+  "guiasTitle": "ガイドブック：メキシコでおすすめ観光スポット",
+  "guiasParrafo": "メキシコでおすすめ観光スポットのガイドブックで旅行の計画に必要な情報を入手しましょう。人気スポットから穴場旅行スポットまで、各目的地の詳細な情報、お役立ちアドバイス、地元の人のように旅行するためのヒントをご紹介します。",
+  "consejosTitle": "メキシコを地元の人のように旅する",
+  "consejosParrafo": "お役立ちアドバイスを参考に、地元の人のようにメキシコを旅してみてください。最高のストリートフードが食べれる場所から移動手段や方法まで、ガイドブックで、思い出となるユニークな旅にするための情報をご紹介します。",
+  "actividadesTitle": "メキシコのユニークなアクティビティと体験",
+  "actividadesParrafo": "テーマ別の観光ガイドブックで、メキシコでのユニークなアクティビティや体験を見つけてみてください。アドベンチャーツーリズムから人気スパでのリラックスまで、あなたにぴったりのアクティビティをご紹介します。",
+  
+  "urlImagenTop":"guiasTuristicas/guiasTuristicasBanner.webp",
+  "title":"ガイドブック",
+  "titleTop":"メキシコ観光ガイドブック",
+  "subTitle":"観光ガイドブックをダウンロードし、ぜひ次回の旅行の参考にしてください！",
+  "gallery":[
+    {
+      "title":"アカプルコリゾート地",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ACAPULCO-8.png",
+      "text":"アカプルコの気候、温暖な海、1年365日晴れ続ける、美しい浜辺に、比類のないほど美しい景色、忘れられない夕日、カジュアルな雰囲気、驚異的な観光インフラ、そして何よりも現地の人の温かいおもてなしのお陰で、アカプルコが世界の中でも大人気の観光先になる理由です。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ACAPULCO-8.png",
+          "link":"https://drive.google.com/uc?id=1pYTbxI3SzT424U54O7zeOuwsEXOKH9pc&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ACAPULCO-8.png",
+          "link":"https://drive.google.com/uc?id=12gpuWlS4vdf3hxxV4Wke8eeGfrkMSYxc&export=download"
+        }
+
+      ]
+    },
+
+    {
+      "title":"カンペチェ市",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CAMPECHE-8.png",
+      "text":"カンペチェ市は植民地時代に海賊から守るために建てられた側防塔、堡塁と城壁が保存されていることにより有名な要塞都市です。そのため、旧市街は世界遺産となっています。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CAMPECHE-8.png",
+          "link":"https://drive.google.com/uc?id=1ZVVQYSZ_Aap3LRLngxuNK8zI5lWVWvo9&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CAMPECHE-8.png",
+          "link":"https://drive.google.com/uc?id=1orolHDDjrxbeeXvB7MA6pYCPDZ8WDY6R&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"カンクンリゾート地",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+      "text":"カンクンは、ユカタン半島に位置するキンタナロー州の北部にあるメキシコカリブ海の真の宝石です。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+          "link":"https://drive.google.com/uc?id=13HenPrl-vnXfbJRPiHna909uzcDDZadN&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+          "link":"https://drive.google.com/uc?id=1dlg_K95TBHMvw1t6VW_veQehKOJUb13I&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+          "link":"https://drive.google.com/uc?id=1EjkvK1tL1fZ6CzjRqKuxUpWRW_1Fcu5b&export=download"
+        },
+        {
+          "title":"GEISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+          "link":"https://drive.google.com/uc?id=1P09KMbKSEq-IKU4pu8anZNEFHnODyY-N&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+          "link":"https://drive.google.com/uc?id=1OHNCdsARx8BhjGpITJBEdgOd22A4Mhc6&export=download"
+        },
+        {
+          "title":"GUÍA TURÍSTICA PORTUGUES",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CANCUN-8.png",
+          "link":"https://drive.google.com/uc?id=1oYpPt1Jlz3SAlkXezRW08ZhbbJPBDiLH&export=download"
+        }
+
+
+      ]
+    },
+    {
+      "title":"メキシコシティ",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CDMX-8.png" ,
+      "text":"メキシコシティは、メキシコ共和国の首都であり、国の金融、文化、政治の中心地となっています。世界で最も大きく、最も人口の多い都市の１つです。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CDMX-8.png" ,
+          "link":"https://drive.google.com/uc?id=1zKK_2D-E9fBqtHcsL3EX1nXEBgzpnTfD&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CDMX-8.png" ,
+          "link":"https://drive.google.com/uc?id=1YJc4Upv66bKhOfkTEdCnvBJwACxAQRSA&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CDMX-8.png" ,
+          "link":"https://drive.google.com/uc?id=1bJ4xXLS-5nFfB0-1gfIKov7oO2frTOXS&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CDMX-8.png" ,
+          "link":"https://drive.google.com/uc?id=1JqXdAIQEctJP6_q34gjPYfNHyqbJPvLi&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CDMX-8.png" ,
+          "link":"https://drive.google.com/uc?id=1rAQSVahMmKJCIRpY0cw_zV76bBdQE3Gj&export=download"
+        }
+
+      ]
+    },
+
+    {
+      "title":"チアパス州",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CHIAPAS-8.png" ,
+      "text":"チアパス州は、世界で最も生物多様性が高い地域の1つです。植生が多様な森林や熱帯雨林によるユニークな動植物はこの地域の大きな魅力です。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CHIAPAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1sQDKGszxR-0kbmKb04xkyxwwNuh9ZH_R&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CHIAPAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1iFGIVG9Yo53IZsBNkB3HLgh6qxEfpCR-&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CHIAPAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1bJ4xXLS-5nFfB0-1gfIKov7oO2frTOXS&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CHIAPAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1kQkyckk4kjPPKEtaRcLBYyIGZMig4QZC&export=download"
+        },
+        {
+          "title":"TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/CHIAPAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1d7gpcWY4Jxn88k-0E0tAMvYWQXtzxYAw&export=download"
+        }
+
+
+      ]
+    },
+    {
+      "title":"マヤ海岸",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/COSTA-MAYA-8.png" ,
+      "text":"マヤ海岸は、熱帯雨林、湿地、白い浜辺、サンゴ礁、多くの野生生物と素晴らしい遺跡で恵まれている地域です。先祖代々受け継がれてきた伝統が守られている村々が存在するので、オルタナティブツーリズムとマヤ文化を楽しむのに理想です。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/COSTA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1TGdaxbtRIVuFiXCPMt35ACjRIaBDrVx-&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/COSTA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1-zHwTYiSaLMJdT9J-fVLiMq0Imqdsb0X&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/COSTA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1zWb0d-WlM3nMEzRZpubq8sQeYFJO-4qn&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/COSTA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1TO_0fLy-hKECLSsOcUZF6LKpPOLMSBb6&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/COSTA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1C1bw04uWllnMqcXYAnpRdy6naPMY4Sz1&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"グアダラハラ市",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUADALAJARA-8.png" ,
+      "text":"「西部の真珠」と呼ばれるこの都市は、記念碑、公園と花、噴水と並木道のある街で、初めて訪問する人を何週間も楽しませる不思議な魅力を放つ活気のある街です。植民地時代のメキシコの豊な遺産がいたるところで見られ、街の象徴である壮大な大聖堂が際立っています。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUADALAJARA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1lA8Iv0BcEvdIhGe3AI_XBVnUpCnE2wRW&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUADALAJARA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1YwFJIMSfkIm1lcF-2jGOMNSNsw0xu1FS&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUADALAJARA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1i-85jmSdweywVD3uuSGBLEGaaCYqvYZp&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUADALAJARA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1i-85jmSdweywVD3uuSGBLEGaaCYqvYZp&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUADALAJARA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1mtnLi5avo19eDZ3VIlztogb2Gmrp8ccI&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"グアナファト市",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUANAJUATO-8.png" ,
+      "text":"グアナファトは、見事な歴史を持つ古代鉱山都市であり、ユネスコの世界遺産に登録されています。渓谷の中に位置し、その不規則な街の形は周囲の丘に沿っています。この街は、「エストゥディアンティーナ」（学生の楽隊）、広場、路地、地下トンネルや建築物が作り出す独特な雰囲気の中でボヘミアンなムードと知識人的なムードを結びつけ、訪問者たちに特別な魔法を体験させる魅力を持っています。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUANAJUATO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1CB3lh8nwj6xWHtGVotj080JJeA80bOSg&export=download"
+        },
+        {
+          "title":"RAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUANAJUATO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1xsFLkJ2P0u4Awcq8aieBaCnoqRpYdFEp&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUANAJUATO-8.png" ,
+          "link":"https://drive.google.com/uc?id=15D30kATMS7DCkPyVImrKEP-XcxwVleZm&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUANAJUATO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1bR-M6CiK345PV5JVIHGKOWx__U_5JLi4&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/GUANAJUATO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1ptx4uu6pSvJpFZLOal_I-WlrgJVQG8-U&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"コスメル島",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLA-COZUMEL-8.png" ,
+      "text":"メキシコらしい心と、カリブ海の魂を備えるコスメル島は、伝統、味と喜びが融合するパラダイスです。いつでもフレンドリーな笑顔での温かい歓迎があなたの訪問を忘れられないものにするでしょう。コスメル島の中心部にある未開の地の大部分は、島に古くから生きている小型の哺乳類と地域固有の鳥類の生息地である熱帯雨林と泥の深い潟で覆われています。コスメルの象徴であるチャンカナブ国立公園とプンタスール生態保護区も注目すべき観光スポットです。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLA-COZUMEL-8.png" ,
+          "link":"https://drive.google.com/uc?id=17FsLF5RrmiyVVJ7ix61KBKKyqMMbbNn6&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLA-COZUMEL-8.png" ,
+          "link":"https://drive.google.com/uc?id=1OwasOwli_wv7JkWa_jdrtGllw16ag8Te&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLA-COZUMEL-8.png" ,
+          "link":"https://drive.google.com/uc?id=1gNzHWvO021m2HQlQ7KyF3Vz0tfBDYpck&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLA-COZUMEL-8.png" ,
+          "link":"https://drive.google.com/uc?id=1-TuueGORbS1vMfaI1MNJcXciAlym1ALL&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLA-COZUMEL-8.png" ,
+          "link":"https://drive.google.com/uc?id=1fRQ0pNAduYwqgKu0bIk0-5u5u2X8CcLY&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"カリブ海の島々",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLAS-DEL-CARIBE-8.png" ,
+      "text":"カリブ海特有のきめ細かい白砂の浜辺は、穏やかな波の透き通っている遠浅の海と共に、ゆったりしてくつろぐのには理想的です。中心部には、ほとんどカラフルな木造住宅である典型的な島の建物と、この島の特徴的な様々な壁画を見ることができます。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLAS-DEL-CARIBE-8.png" ,
+          "link":"https://drive.google.com/uc?id=1e-1DUKN10nFd0-VhZIcvPJSt5FGqz4A8&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLAS-DEL-CARIBE-8.png" ,
+          "link":"https://drive.google.com/uc?id=10ueWPkYehR-X88pmBgQTOsbK6rTTQX-Z&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLAS-DEL-CARIBE-8.png" ,
+          "link":"https://drive.google.com/uc?id=1O8T5r2ajpSN1HHPdMt5nLVwqVvl7nDA4&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLAS-DEL-CARIBE-8.png" ,
+          "link":"https://drive.google.com/uc?id=1ONx0pV2ll6gqIPNHTG25Ntn4KmcrM22X&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ISLAS-DEL-CARIBE-8.png" ,
+          "link":"https://drive.google.com/uc?id=1AUV7iW3ue5HKSNT24D-1kZgzLsz_Ylno&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"イスタパ・シワタネホ",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/IXTAPA-ZIHUATANEJO-8.png" ,
+      "text":"わずか７キロメートルしか離れていないこの２つの場所は、冒険を求める者から太陽を浴びてくつろぎたい者まで、どの訪問者の好みも満たせる一対のパラダイスと言えます。この観光先には、美しい浜辺、あらゆる種類のウォータースポーツを楽しめる透き通った海、豪華なホテル、静かな湾、そして典型的なメキシコの町の味が揃っています。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/IXTAPA-ZIHUATANEJO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1wfZKnqiuIisL5jiquZ4VnJJtKTEGOqkU&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/IXTAPA-ZIHUATANEJO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1EqxuLwbr3ywl4UmioH2b06DpvxW1AiU_&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/IXTAPA-ZIHUATANEJO-8.png" ,
+          "link":"https://drive.google.com/uc?id=1dq45DlZCwWrvB-A0L_7h6kemB0kLfHrQ&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"ミチョアカン州",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/MICHOACAN-8.png" ,
+      "text":"ミチョアカンは、自然の美しさと文化遺産が豊かな独特な州です。現在、5ヶ所のプエブロ・マヒコ（魔法の街）とユネスコが認定する５件の世界遺産が登録されています。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/MICHOACAN-8.png" ,
+          "link":"https://drive.google.com/uc?id=1OsYY07BPwV3xCNblkKMmdkw8865qqljk&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/MICHOACAN-8.png" ,
+          "link":"https://drive.google.com/uc?id=1eb5mnO04Jw_0_xY8SVkjJHy-oXncNZn9&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/MICHOACAN-8.png" ,
+          "link":"https://drive.google.com/uc?id=1JlIw9vmP2vlisw0VuY70Il-63STRDXLE&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"オアハカ州",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/OAXACA-8.png" ,
+      "text":"オアハカには、標高3000メートルを超える山々、世界で最も深い複数の洞窟の一部、素朴な浜辺、隠れた熱帯雨林、昔ながらの文化や習慣を今でも守っている村々をかくまう渓谷が存在します。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/OAXACA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1OswDdxH7jAn4WQ3qoBOvdJoQGQ7EDgYz&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/OAXACA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1u1ib-4jr-1RmKKNHd6uDdRQAnup5AoBr&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/OAXACA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1SHnTnQd7aBdsnGFDnkyzAjWuQ65W4YFY&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/OAXACA-8.png" ,
+          "link":"https://drive.google.com/uc?id=175JGs0pgPOLhEaXeKvHOieMRzHg3z7C3&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/OAXACA-8.png" ,
+          "link":"https://drive.google.com/uc?id=19Y5d2CHn3ifcG_9R2xDXSnadGwJHUeKn&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"プエブラ州",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/PUEBLA-8.png" ,
+      "text":"プエブラは、メキシコの中心部、まさに歴史が起こったところに位置するこの州は、単なる場所というより主人公と言えます。なぜならば、先住民族の過去から、パラフォックス総督の遺産まで、メキシコ革命から、芸術と文化の現代的な表現まで、訪れたところだからです。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/PUEBLA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1qdtzChuodBsGzKCdxJcz084ngSHRscuw&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/PUEBLA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1OwlbgquQ2snbPqu0C2C-oOD1R-QIhmDg&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/PUEBLA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1CkbJvp9i9UEFMAoRnVaVovyVzeoSrQ59&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/PUEBLA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1eD7LheXU2-hoy9HrM27s7MK9ycejh5hm&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/PUEBLA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1-4B1kCztYT0C4PkVFpcMQDt_V8h_KCKO&export=download"
+        }
+
+
+      ]
+    },
+    {
+      "title":"リビエラマヤ海岸線地域",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-MAYA-8.png" ,
+      "text":"リビエラマヤには、白い砂、明るい緑みの青い海、遺跡、絵のように美しい町、ウォーターパーク、淡水湖、地下洞窟とセノーテを楽しめる海岸線地域で、素朴な丸太小屋から豪華な高級ホテルまで、様々な宿泊先のオプションがあります。ガストロノミーについては、マヤ族から受け継がれた郷土料理をはじめ、様々な風味を提供するリビエラマヤの個性豊かな料理は深く愛されています。さらに、ビーチ沿いにはバーやクラブがあり、ナイトライフも刺激的で国際的です。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1zpBd4FxzdLqzaeR2TCrZ6wirS9xP0eok&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1vjuw1-y4Y-dH3qBU3ZsALgpFcT5riLKy&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1JY91Fl9VtL-gmse5ri7IqsTVLctxINDv&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1BC_e6NRVSi8YQObZIBm7Gp6pMOhQKh2U&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-MAYA-8.png" ,
+          "link":"https://drive.google.com/uc?id=1BC_e6NRVSi8YQObZIBm7Gp6pMOhQKh2U&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"リビエラナヤリット海岸線地域",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-NAYARIT-8.png" ,
+      "text":"「ナヤリット」という名前はコラ語に由来し、「空と太陽にいる神の子」という意味です。ナヤリット州観光の目玉はリビエラ・ナヤリットと呼ばれる海岸です。その上、植民地時代の街、温泉スパ、遺跡、そして何よりも独特の豊かな文化と伝統に出会えることができます。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-NAYARIT-8.png" ,
+          "link":"https://drive.google.com/uc?id=15drnuE8zZpFLS8OzaChW2pm9V-xs5XUC&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/RIVIERA-NAYARIT-8.png" ,
+          "link":"https://drive.google.com/uc?id=18UtJqKoPaK5LNGnCwXr6yMxXMMBdOy32&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"ユカタン州",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/YUCATÁN-8.png" ,
+      "text":"過去が発掘されてしまう魔法の土地です。物語といつまでも続く不思議、フレンドリーな人々と伝統の土地ですが、同時に存在する近代性、産業と大規模な港とは対照的です。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/YUCATÁN-8.png" ,
+          "link":"https://drive.google.com/uc?id=18UtJqKoPaK5LNGnCwXr6yMxXMMBdOy32&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/YUCATÁN-8.png" ,
+          "link":"https://drive.google.com/uc?id=1hh7TS7AuyFY-6udUpK7JTtFlyS1WaFpX&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/YUCATÁN-8.png" ,
+          "link":"https://drive.google.com/uc?id=1jkkc3-noG2JHzrh72aSNOqEuAUgF-mE6&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/YUCATÁN-8.png" ,
+          "link":"https://drive.google.com/uc?id=1MSeIpfoRn9Z9hMpN8iRqua2XnqaiIfB-&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/YUCATÁN-8.png" ,
+          "link":"https://drive.google.com/uc?id=15jsQXFKPddlItOWoCcwfgAPhd1Q7GD7Z&export=download"
+        }
+
+      ]
+    },
+    {
+      "title":"サカテカス州",
+      "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ZACATECAS-8.png" ,
+      "text":"豊かな歴史を持つ場所で、植民地時代の遺産が、ピンク色の採石場が目立つ美しいバロック様式の建築物に反映されています。サカテカスは伝説と魔法に満ちた土地で、驚くべき真っ青な空に守られながら、素晴らしい美術館を探索したり、険しい地形がもたらす信じられないほどの自然の美しさの魅力を感じることができます。この観光先では、文化、伝統、ガストロのミー、冒険、ロマンス、祭り、彩り、色彩などを楽しめます。",
+      "guides":[
+        {
+          "title":"GUIA TURISTICA",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ZACATECAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1AmRlfsPYd1cOCcm5OXQVzAIZSWutJuGX&export=download"
+        },
+        {
+          "title":"TRAVEL GUIDE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ZACATECAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1jvj3zYaXlRKMhpZ_6kdsepe2-9sFcYpM&export=download"
+        },
+        {
+          "title":"GUIDE TURISTIQUE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ZACATECAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1j55UDP0eV9hIeApYbgyzZwKHR7JO0PUW&export=download"
+        },
+        {
+          "title":"REISEFÜHRER",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ZACATECAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=11UEeTvmYh0qulrynedHb_MfGnh_7SJDP&export=download"
+        },
+        {
+          "title":"GUIDA TURISTICHE",
+          "urlImg": "https://visitmexico.com/wp-content/uploads/2023/04/ZACATECAS-8.png" ,
+          "link":"https://drive.google.com/uc?id=1pUH6Efshnf_PgJmUolV97GVsb20z_BUu&export=download"
+        }
+
+      ]
+    }
+
+
+   
+  ]
+
+}

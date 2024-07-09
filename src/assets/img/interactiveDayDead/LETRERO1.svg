@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="LETRERO2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3079.98 903.74">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 94.13px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #1e3280;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 109.62px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(1067.45 822.98) rotate(-22.48) scale(.87 1)"><tspan x="0" y="0">D</tspan></text>
+  <text class="cls-2" transform="translate(1139.54 793.85) rotate(-19.56) scale(.87 1)"><tspan x="0" y="0">í</tspan></text>
+  <text class="cls-2" transform="translate(1165.78 784.21) rotate(-17.37) scale(.87 1)"><tspan x="0" y="0">a</tspan></text>
+  <text class="cls-2" transform="translate(1221.31 767.13) rotate(-15.28) scale(.87 1)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-2" transform="translate(1246.52 759.83) rotate(-13.02) scale(.87 1)"><tspan x="0" y="0">d</tspan></text>
+  <text class="cls-2" transform="translate(1309.81 745.24) rotate(-9.93) scale(.87 1)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-2" transform="translate(1368.37 735.29) rotate(-7.75) scale(.87 1)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-2" transform="translate(1394.62 731.7) rotate(-6.34) scale(.87 1)"><tspan x="0" y="0">l</tspan></text>
+  <text class="cls-2" transform="translate(1422.32 728.25) rotate(-3.98) scale(.87 1)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-2" transform="translate(1483.63 724.11) rotate(-.98) scale(.87 1)"><tspan x="0" y="0">s</tspan></text>
+  <text class="cls-2" transform="translate(1533.53 723.46) rotate(1.1) scale(.87 1)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-2" transform="translate(1559.65 723.16) rotate(3.78) scale(.87 1)"><tspan x="0" y="0">M</tspan></text>
+  <text class="cls-2" transform="translate(1649.18 729.42) rotate(7.63) scale(.87 1)"><tspan x="0" y="0">u</tspan></text>
+  <text class="cls-2" transform="translate(1713 738) rotate(10.96) scale(.87 1)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-2" transform="translate(1771.04 749.44) rotate(13.85) scale(.87 1)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(1811.48 759.41) rotate(16.47) scale(.87 1)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-2" transform="translate(1848.76 769.99) rotate(19.88) scale(.87 1)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-2" transform="translate(1906.04 790.78) rotate(24.49) scale(.87 1)"><tspan x="0" y="0">s</tspan></text>
+  <text class="cls-1" transform="translate(1950.58 811.37) rotate(29.19)"><tspan x="0" y="0"> </tspan></text>
+</svg>

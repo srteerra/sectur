@@ -1,0 +1,65 @@
+{
+    "title": "Œnotourisme : régions productrices de vin au Mexique",
+    "imgItem1":"enologia/eno/enoturismo1.jpg",
+    "imgItem2":"enologia/eno/enoturismo2.jpg",
+    "imgItem3":"enologia/eno/enoturismo3.jpg",
+    "imgItem4":"enologia/eno/enoturismo4.jpg",
+    "imgItem5":"enologia/eno/enologia5.jpg",
+    "imgTurismo": "enologia/eno/enoturismo6.jpg",
+    "subtitle": "Qu'est-ce que l'œnotourisme ?",
+    "paragraph": "Selon l'Organisation mondiale du tourisme",
+    "onulink": "(OMT)",
+    "onuafterlink": "“Le tourisme viticole comprend des visites de caves, des dégustations et d'autres événements liés à la production de vin, ainsi que des visites de vignobles et d'autres attractions culturelles et naturelles liées au vin dans une région donnée.”",
+    "strongP": "Les États qui proposent des routes sont :",
+    "quoteP": "",
+    "lista": [
+        "La Route des vins d'Aguascalientes",
+        "La Route des vins de Basse-Californie, qui comprend 4 itinéraires : la Route des vins de la Vallée de Guadalupe, la Route du Fromage et du Vin, l'Ancienne Route des Vins et la Route Porte Nord.",
+        "La Route des vins de Coahuila, divisée en 2 : la Route des Vins et des Dinosaures et la Route du Désert.",
+        "La Route des vins de Guanajuato, Vallée de l'Indépendance",
+        "La Route des vins de Hidalgo, divisée en 2 : “Évasion sur le Chemin Royal entre Vin et Fromage” et “Route Toltec entre Vin et Fromage”.",
+        "Route de l'art, du fromage et du vin de Querétaro"
+      ],
+      "entidades": "16 entités productrices de raisin : Aguascalientes, Basse-Californie, Basse-Californie du Sud, Coahuila, Chihuahua, Durango, Guanajuato, Hidalgo, Jalisco, Nayarit, Nuevo León, Puebla, Querétaro, San Luis Potosí, Sonora et Zacatecas.",
+    "info1": "16 entités fédérales productrices de raisins et de vin.",
+    "info2": "Il existe plus de 12 000 marques de vins mexicains.",
+    "info3": "Au Mexique, 18 variétés de raisins destinées à la production de vin sont cultivées.",
+    "info4": "Il existe 80 opérateurs touristiques spécialisés dans les routes œnotouristiques dans plus de 10 états du Mexique.",
+    "destinosTitle": "Destinations viticoles pour profiter de l'œnotourisme",
+    "bannerEnologia": "enologia/eno/enoturismo7.jpg",
+    "titleProduccion": "Production de vins mexicains",
+    "descripcionClasificacion": "",
+    "produccionColumnas": [
+        {
+          "imagen": "enologia/uvas.svg",
+          "descripcion": "Le Mexique compte 7 000 hectares de vignes pour la production de vin"
+        },
+        {
+          "imagen": "enologia/barril.svg",
+          "descripcion": "La production est de 195 000 hectolitres"
+        },
+        {
+          "imagen": "enologia/sacacorcho.svg",
+          "descripcion": "La consommation par habitant est de 1,3 litre"
+        },
+        {
+          "imagen": "enologia/botellas.svg",
+          "descripcion": "Il est estimé que 7 bouteilles sur 10 consommées sont du vin rouge"
+        }
+      ],
+      "tituloArticuloUno": "Œnotourisme et régions viticoles",
+      "Parrafo1Articulo1": "Grâce à l'œnotourisme, on expérimente et on se lie à la culture, à l'histoire, aux traditions et à l'identité de la destination visitée, surtout dans les régions viticoles, ce qui rend la promotion essentielle pour faire connaître tout ce qu'offre au touriste œnophile.",
+      "Parrafo2Articulo2": "L'œnotourisme permet aux gens de mieux comprendre le processus de fabrication du vin ; voir le vignoble, voir la vigne, comment le raisin se développe, le processus de fermentation, de pressage, et tout cela jusqu'à obtenir un produit final.",
+      "titulo2ArticuloDos": "Saviez-vous qu'il existe trois musées dédiés à la vigne et au vin au Mexique ?",
+      "Parrafo1Articulo2": "Á Baja California se trouve le Musée de la Vigne et du Vin, situé à Ensenada, qui offre au public un voyage à travers l'histoire, l'industrie, l'identité et le vin, ainsi que sa relation avec l'art. À Guanajuato, le Musée du Vin est situé à Dolores, Hidalgo, Guanajuato; dans cet endroit, vous pourrez découvrir l'histoire du vin et le processus de fabrication des vins proposés par les producteurs de la Vallée de l'Indépendance. À Querétaro, le Musée de l'Art, du Fromage et du Vin, situé à Tequisquiapan, garantit culture et saveurs accompagnées d'un bon verre de vin.",
+      "Parrafo3Articulo2": "Sur les routes œnotouristiques du Mexique, vous pouvez visiter et avoir depuis une simple dégustation de vins jusqu'à séjourner et profiter de l'expérience d'un service exceptionnel.",
+      "regiones": "enologia/eno/enoturismo8.jpg",
+      "marcas": "enologia/eno/enoturismo9.jpg",
+      "conocesCatalogo": "Connaissez-vous le Catalogue des produits et des routes œnotouristiques du Mexique pour l'année 2023 ?",
+      "imgDescarga": "enologia/img-descarga.png",
+      "downloadLink": "https://visitmexico.com/recursos/catalogo-de-productos-y-rutas-enoturisticas-2023.pdf",
+      "cintaRoja": "enologia/Fondorosa.webp",
+      "mapaMexico": "enologia/mapa.svg",
+      "enologiaDescarga": "Voir plus"
+
+}

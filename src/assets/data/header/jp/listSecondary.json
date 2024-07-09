@@ -1,0 +1,20 @@
+[
+	{ "name": "カレンダー",
+		"dir": "/calendario"
+	},
+	{ "name":"動画",
+		"dir": "/videos"
+	},
+	{ "name":"ダウンロード", 
+		"dir": "https://visitmexico.com/descargas/"
+	},
+	{ "name":"ブログ", 
+		"dir": "/blog"
+	},
+	{ "name":"旅行ガイドブック", 
+		"dir": "/guias-turisticas"
+	},
+	{ "name":"地図", 
+		"dir": "/mapa-pueblos-magicos"
+	}
+]

@@ -1,0 +1,30 @@
+.mapa-mexico-enologia {
+  display: block;
+  margin: 20px auto; /* Agrega espacio superior e inferior de 20px y centra horizontalmente */
+  width: 80%; /* El ancho del contenedor ocupará el 80% del contenedor padre */
+  max-width: 80%; /* Para asegurar que no exceda el tamaño máximo del contenedor padre */
+  text-align: center;
+    
+  }
+  .parrafo-centrado {
+    text-align: center;
+  }
+
+  .contenido-superior {
+  margin: 30px auto;
+  padding: 10px;
+  position: relative;
+  }
+
+  .enologia-header-title {
+	font-size: 45px;
+	color: #73374b;
+	font-family: "Bebas Neue", sans-serif;
+	letter-spacing: 1px;
+	text-align: center;
+	margin: 0;
+}
+
+#puebla:hover,#bc_norte:hover,#bc_sur:hover,#sonora:hover,#chihuahua:hover,#coahuila:hover,#durango:hover,#nuevoleon:hover,#zacatecas:hover,#sanluis:hover,#aguascalientes:hover,#nayarit:hover,#jalisco:hover,#guanajuato:hover,#queretaro:hover,#hidalgo:hover {
+  filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.8)); /* Agrega un efecto de sombra al elemento */
+}

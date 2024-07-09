@@ -1,0 +1,292 @@
+{
+
+  "blogT1": "ビジットメキシコのブログへようこそ：メキシコ旅行のインスピレーションに！",
+  "blogP1": "ブログを通してメキシコという魅力的な世界を知ることができます。ここで面白いストーリーや旅行のお役立ちアドバイスとユニークな体験などの情報をご紹介します。観光の最新トレンドから観光客の旅行記まで、このブログはメキシコの美しさと多様性を探求するための究極のガイドです。",
+
+  "blogT2": "Descubre los Destinos Más Increíbles de México",
+  "blogP2": "Explora nuestros artículos sobre los destinos más increíbles de México, desde las playas de arena blanca hasta las antiguas ruinas mayas. Encuentra inspiración para tu próximo viaje y descubre los secretos mejor guardados de cada región, todo ello con consejos útiles y recomendaciones de expertos.",
+
+  "blogT3": "Aventúrate en Experiencias Únicas",
+  "blogP3": "Sumérgete en experiencias únicas a través de nuestras historias de viaje. Desde la exploración de la selva hasta la inmersión en la cultura local, descubre las aventuras que te esperan en México y prepárate para vivir momentos inolvidables que solo este país puede ofrecer.",
+
+  "blogT4": "旅行のヒントとアドバイス",
+  "blogP4": "次回のメキシコ旅行を計画するためのヒントやお役立ち情報をご紹介します。冒険に出かける前の準備から絶品ローカルグルメをどこで食べれるかまで、このブログでメキシコでの時間を最大限に楽しむために知っておくべきことをご紹介します。",
+
+  "urlImagenTop": "blog/cover_blog.jpg",
+  "title": "ブログ",
+  "titleTop": "PROXIMOS EVENTOS",
+  "subTitle": "Descubre los eventos que no te puedes perder.",
+  "posts": [
+    {
+      "id": "esferas",
+      "urlImg": "blog/manoEsferas.png",
+      "name": "クリスマスボール、メキシコのクリスマスを彩るガラスの芸術",
+      "text": "世界でもユニークなメキシコのクリスマスは伝統が根付いており、年々吹き込みガラスの 技術で熟練の職人の魔法のような手で作り出され、賞賛を浴びる美しいクリスマスボール によってこの時期の行事を彩っています。",
+      "urlPost": "/blog/post/esferas",
+      "post": [
+        {
+          "type": "text",
+          "content": "世界でもユニークなメキシコのクリスマスは伝統が根付いており、年々吹き込みガラスの技術で熟練の職人の魔法のような手で作り出され、賞賛を浴びる美しいクリスマスボールによってこの時期の行事を彩っています。"
+        },
+        {
+          "type": "text",
+          "content": "ミチョアカン州のトラルプハウア村とプエブラ州のチグナワパン村はプエブロ・マヒコ（魔法の街）として指定されており、これらの伝統的な製品を国内外からの観光客が何千人と訪れて購入する代表的な2つの村であると同時に、観光地の見所や地域のガストロノミーを欧化できます。"
+        },
+        {
+          "type": "image",
+          "urlImg": "EsferasVidrioSoplado.webp"
+        },
+        {
+          "type": "text",
+          "content": "メキシコのクリスマスを美しく飾るクリスマスボールの伝統は、17世紀この国に導入されてから、世代から世代へと受け継がれています。記録によると2000年以上も前から、中国で作られていたそうです。"
+        },
+        {
+          "type": "text",
+          "content": "その技術はヨーロッパへと伝わり、そしてメキシコのコミュニティは植民地時代に取り入れ、結果として素晴らしい融合を経て、現代へと続いています。"
+        },
+        {
+          "type": "title",
+          "content": "トラルプハウア村とクリスマスボール祭り"
+        },
+        {
+          "type": "text",
+          "content": "この民芸品の伝統と生産はとても重要で、トラルプハウア村の最も重要な5つの祭りのひとつにクリスマスボール祭りがあり、来訪者たちが豊富な色彩、形やサイズなどを見る機会をつくるために、10月から12月にかけて開催されます。"
+        },
+        {
+          "type": "text",
+          "content": "そうすることで、各家庭がメキシコのクリスマスの最も代表的な要素を得ることができるわけです。トラルプハウア村はメキシコシティーから高速で約3時間の場所、モレリア市やトルーカ市からは1.5時間の場所にあります。ミチョアカン州から北東へ、マラバティオ市、コンテペック市、センギオ市、メキシコ州に囲まれています。"
+        },
+        {
+          "type": "text",
+          "content": "革命軍のイグナシオ・ロペス＝ラヨンの生誕地であり、公式名称はトラルプハウア・デ・ラヨンと命名されており、バルコニーが張り出した屋敷などの植民地時代の建造物が特徴的で、鉱業も盛んでした。"
+        },
+        {
+          "type": "text",
+          "content": "クリスマスボールを買いにこのプエブロ・マヒコを訪問した暁には、博物館となっているラヨン兄弟の生家、聖母カルメン教会、ドス・エストレヤス鉱山などの名所をぜひ訪れてみてください。"
+        },
+        {
+          "type": "image",
+          "urlImg": "EsferasChignahuapan.webp"
+        },
+        {
+          "type": "text",
+          "content": "しかし、トラルプハウア村近郊は特に美しい自然にも恵まれています。まさにこの近郊にはモナルカ蝶(オオカバマダラ蝶)の生息地保護区があり、11月から2月にかけてカナダからこの村の近郊にあるようなミチョアカンの森まで何千匹という大型の蝶が渡ってきます。"
+        },
+        {
+          "type": "text",
+          "content": "トラルプハウア村の数々の魅力は、2005年6月27日にプエブロ・マヒコに指定されたことで認識度が上がりました。"
+        },
+        {
+          "type": "image",
+          "urlImg": "EsferaArtesanal.webp"
+        },
+        {
+          "type": "title",
+          "content": "チグナワパン村とクリスマスボールワークショップ"
+        },
+        {
+          "type": "text",
+          "content": "プエブラ州にあるプエブロ・マヒコでは、200以上のクリスマスボール工房やワークショップの存在がが登録されており、メキシコのクリスマスを彩る芸術品が年間10数百万個もの生産が行われています。"
+        },
+        {
+          "type": "text",
+          "content": "メキシコシティから2.5時間、パチューカ市から1.5時間、プエブラ市からは2時間10分のところに位置するチグナワパン村という美しい村は、二つの山の尾根の谷間になっており、特殊な気候を持ち、特に寒気が強いです。"
+        },
+        {
+          "type": "text",
+          "content": "イスラーム芸術という特徴的な流派の芸術は19世紀末のスペインで生まれ、その影響が色濃く残るあずまやが、まず最初に来訪者たちが見に行くべき名所で、観光客たちのマスト写真撮影場所となっています。"
+        },
+        {
+          "type": "text",
+          "content": "また、無原罪聖母聖堂やアルマス広場なども有名ですが、このプエブロ・マヒコの最もたる魅力は自然です。エル・カホンやケツァルパンの滝、湖や温泉などが来訪者たちからの人気を得ています。"
+        },
+        {
+          "type": "text",
+          "content": "この通り、トラルプハウア村とチグナワパン村が、次のクリスマスシーズンのためのクリスマスボールをゲットするベストオプションであるだけでなく、メキシコの素晴らしいプエブロ・マヒコを訪問する絶好の機会となります。"
+        }
+      ]
+    },
+    {
+      "id": "cozumel",
+      "urlImg": "blog/titulo-cozumel.jpg",
+      "name": "コスメル島で行うべきアクティビティ10選",
+      "text": "コスメル島というメキシコの中で最も貴重なパラダイスとなる島がカリブ海にあり、マヤ 文化の遺産と、国際空港やホテルゾーン、大型客船が停泊できる港など観光を受け入れる ための近代的なインフラと、豊富な自然が、完璧な調和を織りなしています。 燕の島という異名を持つキンタナ・ロー州、コスメル島は、世界で2番に大きいサンゴ礁 があり、豊富な海上の動植物を観察するのに適しています。",
+      "urlPost": "/blog/post/cozumel",
+      "post": [
+        {
+          "type": "text",
+          "content": "コスメル島というメキシコの中で最も貴重なパラダイスとなる島がカリブ海にあり、マヤ文化の遺産と、国際空港やホテルゾーン、大型客船が停泊できる港など観光を受け入れるための近代的なインフラと、豊富な自然が、完璧な調和を織りなしています。"
+        },
+        {
+          "type": "text",
+          "content": "燕の島という異名を持つキンタナ・ロー州、コスメル島は、世界で2番に大きいサンゴ礁があり、豊富な海上の動植物を観察するのに適しています。"
+        },
+        {
+          "type": "text",
+          "content": "カリブ海のターコイズブルーに囲まれ、空路や回路でやってくる来訪者たちを大いに喜ばせるための責任ある観光業の運用と保護の推進をしており、この土地の半分以上が自然保護地区に指定されています。"
+        },
+        {
+          "type": "text",
+          "content": "コスメル島を訪れるためによく使われる手段は、プラヤ・デル・カルメンからフェリーで行く方法で、島内で実施できる多様なアクティビティがあるので、最大限に楽しむためには何日間か滞在することを大いにお勧めします。"
+        },
+        {
+          "type": "title",
+          "content": "コスメル島でやるべきアクティビティ"
+        },
+        {
+          "type": "image",
+          "urlImg": "CozumelBicicleta.webp"
+        },
+        {
+          "type": "subtitle",
+          "content": "1. コスメル島の中央区、サン・ミゲルと港の訪問"
+        },
+        {
+          "type": "text",
+          "content": "この島の主要な玄関口となる港と中央区のサン・ミゲルを訪れることがまずは一番のお勧めどころで、市庁舎、歴史や文化の拠点、レストラン、民芸品売り場やお土産物屋さんなどがあります。その上、色彩豊かで画趣に富んだ近代的な壁画があり、絶好の写真スポットとなっています。"
+        },
+        {
+          "type": "subtitle",
+          "content": "2. ダイビングとシュノーケリング"
+        },
+        {
+          "type": "text",
+          "content": "地形に恵まれたコスメル島の素晴らしい自然を満喫するには、ダイビングが最適です。エキスパート向けも初心者向けも、島のあらゆる場所でサービス提供がされており、この活動を学ぶことができます。また、シュノーケリングだけの場合でも、このカリブ海の底に隠された自然界の宝と遭遇するのに十分といえます。"
+        },
+        {
+          "type": "subtitle",
+          "content": "3. プンタ・スールの観光"
+        },
+        {
+          "type": "text",
+          "content": "名前の通りコスメル島の最南端に位置するプンタ・スールは広大なエコパークとなっており、植物、マングローブ林、サンゴ礁が広がっていて、印象的な灯台とマヤの歴史の歩みや、メキシコカリブ海地域の船乗りやその文化の名残などが窺い知れる航海学の博物館があります。"
+        },
+        {
+          "type": "subtitle",
+          "content": "4. サン・ヘルバシオ遺跡の観光"
+        },
+        {
+          "type": "text",
+          "content": "マヤ族にとってイシェルとは豊穣、出産、治療、芸術の女神のことで、このコスメル島の遺跡はその女神にささげられたものです。この地域はその女神信仰を祀っていた名残が散見でき、以前はすべての女性が一度はこの離島を訪問しないといけないことになっていました。"
+        },
+        {
+          "type": "subtitle",
+          "content": "5. マヤ族の聖なる渡航の観賞"
+        },
+        {
+          "type": "text",
+          "content": "イシェル女神について前述しましたが、コスメル島の最も重要な行事、マヤ族の聖なる渡航、についても語るべきでしょう。現代のカヌー乗りが豊穣の祈りと収穫の感謝を示すことを目的とした女神を崇める奇祭で、本国のプラヤ・デル・カルメンからその渡航が再現されています。"
+        },
+        {
+          "type": "image",
+          "urlImg": "CozumelBuzo.webp"
+        },
+        {
+          "type": "subtitle",
+          "content": "6. チャンカナブ国立公園を堪能"
+        },
+        {
+          "type": "text",
+          "content": "チャンカナブ公園には歴史、自然、楽しさが一ヵ所に詰まっています。国立公園と指定されたこの場所はシュノーケリングやダイビング、イルカと泳いだり、ビーチクラブでリラックスしたりすることができるだけでなく、博物館もあるため、あらゆる目的で来る来訪者たちの最適の観光地といえます。"
+        },
+        {
+          "type": "subtitle",
+          "content": "7. エル・セドラル村で休養"
+        },
+        {
+          "type": "text",
+          "content": "平穏とリラックスを求める人にとって、コスメル島のエル・セドラル村は島内でも理想の場所といえます。この小さな村は、マヤ文明が栄えた時代から今日までの歴史の証人としての特殊な魅力があります。またこの観光地の2番目に重要な祭り、十字架称賛祝日のエル・セドラル祭を主催しています。"
+        },
+        {
+          "type": "subtitle",
+          "content": "8. 水中のアクティビティ"
+        },
+        {
+          "type": "text",
+          "content": "コスメル島ではダイビングやシュノーケリングが主流の水中アクティビティではあるものの、ビーチの楽しみ方はさらに多様なものがあります。沿岸部沿いには、信頼のおけるエキスパートの付き添いで体験できるパドルボード、ジェットスキー、カヤックなどのオプションがあります。"
+        },
+        {
+          "type": "image",
+          "urlImg": "Cozumel1.webp"
+        },
+        {
+          "type": "subtitle",
+          "content": "9. パシオン島への観光"
+        },
+        {
+          "type": "text",
+          "content": "コスメル島を北上するとパシオン島という離島があり、たったの1㎞しかないにもかかわらず、マングローブ、サンゴ礁、ジャングルなどがあり、平穏でリラックスができるビーチを楽しむツアーからアドレナリンが必要なアクティビティまで、いろいろ謳歌できます。その上、この美しい特徴がら、結婚式の会場としても人気を博しています。"
+        },
+        {
+          "type": "subtitle",
+          "content": "10. エル・シエロ"
+        },
+        {
+          "type": "text",
+          "content": "コスメル島の南には、カリブ海の特徴である白い砂浜が海底に見え、まるで海中の空のよう。この名前の由来は広範囲に何百というヒトデが生息していて、海の中の空にしか見えないということで命名されました。コスメル島に来た際には、観光客たちにぜひとも忘れずに訪れてもらいたい場所で、理想はダイビングやシュノーケリングでこの魅力的な地を訪れることです。"
+        } 
+      ]
+    },
+    {
+      "id": "dia-de-muertos",
+      "urlImg": "blog/DIA-DE-MUERTOS-INFLUENCER_05.webp",
+      "name": "Una celebración y experiencia de México para el mundo",
+      "text": "El Día de Muertos terminó, pero aún se puede apreciar el olor del cempasúchil y del incienso impregnados en todas partes, aun podemos respirar el olor del pan de muerto habitando cada espacio común, de la misma forma en que la memoria de nuestros difuntos se impregna dentro de nosotros. Recordarlos y honrar su memoria es un ritual importante para nuestra identidad y enriquece nuestra visión del mundo, pues en México entendemos la muerte como una parte más de la vida, pero jamás su final.",
+      "urlPost": "/blog/post/dia-de-muertos",
+      "post": [
+        {
+          "type": "text",
+          "content": "El Día de Muertos terminó, pero aún se puede apreciar el olor del cempasúchil y del incienso impregnados en todas partes, aun podemos respirar el olor del pan de muerto habitando cada espacio común, de la misma forma en que la memoria de nuestros difuntos se impregna dentro de nosotros. Recordarlos y honrar su memoria es un ritual importante para nuestra identidad y enriquece nuestra visión del mundo, pues en México entendemos la muerte como una parte más de la vida, pero jamás su final."
+        },
+        {
+          "type": "text",
+          "content": "También entendemos que vivir en sinónimo de alegría y por ello recibimos con ofrendas a nuestros difuntos, pero también a los vivos, amigos, seres queridos y hasta extraños son bienvenidos en nuestras casas para celebrar que estamos con vida y que compartir es la forma más sensata y cálida de vivir."
+        },
+        {
+          "type": "text",
+          "content": "Son tantas las formas en que esta celebración se lleva a cabo, que sería imposible enumerarlas aquí, existen rituales y eventos tan antiguos como el Día de Muertos, pero cada año surgen nuevas formas de celebrarlo, donde se expresa la creatividad de un pueblo orgulloso de sus raíces, permitiendo preservar las tradiciones y ritos que la UNESCO reconoce como patrimonio cultural Inmaterial de la Humanidad, como se declaró en 2008 a nuestro querido Día de Muertos."
+        },
+        {
+          "type": "text",
+          "content": "Desde Sinaloa hasta Yucatán, de Tamaulipas a Tabasco, todo México se transforma y expresa su identidad de forma asombrosa, es por ello que compartimos esta celebración con influencers invitados de diversos países de Latinoamérica; Isa Terrones (Perú), Christian Byfield (Colombia), Kattya Soto (Perú), Leonel Mijangos (Guatemala), Sergio Ríos (Perú), y Andrea Pedrero (México)."
+        },
+        {
+          "type": "image",
+          "urlImg": "DIA-DE-MUERTOS-INFLUENCER_05.webp"
+        },
+        {
+          "type": "text",
+          "content": "Isa Terrones"
+        },
+        {
+          "type": "image",
+          "urlImg": "DIA-DE-MUERTOS-INFLUENCER_07.webp"
+        },
+        {
+          "type": "text",
+          "content": "Nelo Mijangos"
+        },
+        {
+          "type": "image",
+          "urlImg": "DIA-DE-MUERTOS-INFLUENCER_09.webp"
+        },
+        {
+          "type": "text",
+          "content": "Kattya Viajera"
+        },
+        {
+          "type": "text",
+          "content": "Los creadores de contenido visitaron destinos como Aguascalientes, Michoacán, Ciudad de México y Guanajuato, donde pudieron presenciar en vivo cómo México se llena de colores, aromas y sabores que estimulan todos nuestros sentidos. Pudieron compartir con sus miles de seguidores la energía y la belleza de nuestro país en el marco del Día de Muertos."
+        },
+        {
+          "type": "text",
+          "content": "Su travesía no hubiera sido posible sin el profesionalismo y la amabilidad de Trösten Transport, empresa de transportación que ofrece servicios para viajes, transporte de personal, transporte ejecutivo y corporativo, shuttle en aeropuerto, night ride, entre otros. Asimismo, cuentan con diversas unidades de hasta 21 pasajeros, mismas que ofrecen diversos beneficios de los cuales pudieron disfrutar nuestros invitados en los traslados requeridos durante esta experiencia de “Día de Muertos”."
+        },
+        {
+          "type": "text",
+          "content": "Este recorrido culminó de forma espectacular asistiendo al Gran Desfile de Día de Muertos, con sede en la Ciudad de México, donde se celebró en grande con más de 4,000 participantes que deleitaron a más 1 millón de asistentes con espectáculos artísticos, circenses y musicales. Ha sido un placer compartir con todos una fecha tan especial, que nos conmueve y alegra al mismo tiempo. La hospitalidad a la mexicana es algo que nos enorgullece y esperamos que turistas de todo el mundo, nos visiten en el Día de Muertos, porque nunca debemos olvidar a nuestros seres queridos que se adelantaron. Si los recordamos, siempre vivirán."
+        }
+      ]
+    }
+  ]
+}

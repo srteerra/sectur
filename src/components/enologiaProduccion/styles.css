@@ -1,0 +1,40 @@
+.containerProduccion {
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 20px;
+    position: relative; /* Establece el contexto de posición para el elemento hijo */
+    text-align: center;
+}
+
+.containerProduccion h1 {
+    font-size: 45px;
+    color: #73374b;
+}
+
+.titleProduccion {
+    text-align: center;
+}
+
+.rowProduccion {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Centra horizontalmente las columnas */
+}
+
+.containerProduccion .column {
+    flex: 1;
+    padding: 10px;
+    text-align: center; /* Alinea el texto al centro horizontalmente */
+}
+
+.column img.icon-img {
+    width: 80px; /* Tamaño deseado para los iconos */
+    height: auto; /* Ajusta la altura automáticamente */
+    margin-bottom: 10px; /* Espacio entre el icono y el texto */
+    
+}
+
+.containerProduccion .column p {
+    font-size: 20px;
+    text-align: center; /* Alinea el texto al centro horizontalmente */
+}

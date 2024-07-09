@@ -1,0 +1,104 @@
+{
+    "title":"ミーティングツーリズム",
+    "urlVideoTop": "https://www.youtube.com/embed/x2bMr85mhEg?autoplay=1&mute=1&loop=1&rel=0",
+    "subtitle": "メキシコは世界の主役",
+    "boldText": "",
+    "paragraph": "メキシコは、高品質のサービス提供に加えて、会議・インセンティブ旅行・国際会議・展示会などを開催できる優れたインフラを備えており、ミーティングツーリズムにおいて世界的に競争力の高い国です。",
+    "imageUrl": "mice/imgprotagonista.png",
+    "slides": [
+        "2022 年のミーティングツーリズムがGDPの1.5%だった 出典: COMIR",
+        "2022 年に約 100 万人の直接的および間接的な雇用が創出した（若者・女性が目立つ）出典: COMIR",
+        "メキシコ国内のホテルの客室稼働率は18.88%だった"
+    ],
+    "reunionesTitle":"メキシコでのミーティングツーリズム：2040年に向けた将来展望",
+    "reunionesItem1Title":"安全なメキシコ",
+    "reunionesItem1Parrafo1":"旅行活動の穏やかな成長を示していることから、メキシコは",
+    "reunionesBoldText": "国連観光2023年のランキングで6位を維持しています。",
+    "reunionesAfterBoldText": "外国からの観光客の到着数では6位、観光による外貨収入では9位となっています。",
+    "reunionesItem1Parrafo2":"2022年末のメキシコの国際観光収入は274億2,900万ドルとなり、2019年と比較して11.6％の増加でした。また、メキシコの海外直接投資（FDI）は、2022年1月から9月までで31億4,700万ドルに達し、2019年全体のFDIの10億9,500万ドルを上回った。",
+    "reunionesItem1Parrafo3":"これらの数字は、メキシコが投資面で多くのメリットを有する国であり、観光客に信頼感と法的確実性をもたらしていることを示しています。",
+    "imgItem1":"mice/reuniones1.png",
+    "reunionesItem2Title":"メキシコのインフラ",
+    "reunionesItem2Parrafo1":"メキシコは、 780,511 ㎞の道路インフラ、78空港のネットワーク、1,503 路線（そのうち 485 路線は他国とつながっている）のインフラを持っています。",
+    "reunionesItem2Parrafo2":"地域の観光に大きな効果をもたらす空港の拡張・改築なども進められています。キンタナロー州のチェトゥマル空港の拡張・改築、チワワ州クリールのバランカス・デル・コブレ空港、ナヤリット州のテピク空港、サン・ルイス・ポトシ州のタムイン空港、オアハカ州のプエルト・エスコンディド空港の改築、キンタナロー州のトゥルム空港ターミナルの建設など。",
+    "imgItem2":"mice/reuniones2.png",
+    "reunionesItem3Title":"ミーティングツーリズムの世界トップクラスのインフラを持つメキシコ",
+    "reunionesItem3Parrafo1":"メキシコには、高い技術と一流のサプライヤーが備えられ、100 人から 2 万人以上のイベントを開催できる、ミーティングツーリズムに最適な会場54 か所あります。",
+    "reunionesItem3Parrafo2":"ミーティングツーリズムを促進するコンベンション・オフィスが、メキシコの 27 都市に設置されています。",
+    "imgItem3":"mice/reuniones3.png",
+    "reunionesItem4Title":"高品質の観光サービスを提供するメキシコ",
+    "reunionesItem4Parrafo1":"メキシコは、成功するビジネスの機会が豊富な目的地として位置付けられる一連の奨励措置があることから、ミーティングツーリズムにおいて競争力が高い国です。.",
+    "reunionesItem4Parrafo2":"メキシコは、ミーティングツーリズムに関係するヒューマン・キャピタルやサプライチェーンの強化と、ビーチリゾート観光・文化観光とつながる旅行商品の強化を通して、ミーティングツーリズムに関連する観光サービスを水平的および垂直的に統合し、競争力のあるコスト・品質を実現しています。",
+    "imgItem4":"mice/reuniones4.png",
+    "reunionesItem5Title":"メキシコは世界の主役",
+    "reunionesItem5Parrafo1":"メキシコは、197 会議の開催で、ミーティングツーリズムにおいて、世界 23 位、アメリカ大陸5 位にランクされています。",
+    "reunionesItem5Parrafo2":"観光分野での成功は、メキシコの「豊な自然・文化・美食」が関係しています。",
+    "imgItem5":"mice/reuniones5.png",
+    "titleClasificacion": "会議観光の分類",
+    "descripcionClasificacion": "",
+    "clasificacionColumnas": [
+        {
+          "imagen": "mice/convenciones_purple.svg",
+          "descripcion": "企業会議・研修"
+        },
+        {
+          "imagen": "mice/congresos_purple.svg",
+          "descripcion": "政府主催会議・学術会議・業界会議"
+        },
+        {
+          "imagen": "mice/ferias_purple.svg",
+          "descripcion": "展示会・イベント"
+        },
+        {
+          "imagen": "mice/incentivos_purple.svg",
+          "descripcion": "報奨・研修旅行"
+        },
+        {
+          "imagen": "mice/otras_reuniones_purple.svg",
+          "descripcion": "その他のイベント"
+        }
+      ],
+      "mexicoTitulo": "ミーティングツーリズムに最適な目的地",
+      "mexicoParrafoSuperior": "米国、ラテンアメリカの恵まれたロケーションにあるメキシコは、観光やビジネス、会議・展示会の開催では戦略的な場所となっています。",
+      "miceCallToAction": "詳しくは、こちらをご覧ください: ",
+      "mexicoParrafoInferior": "ミーティングツーリズムは、投資・ビジネス開発・経済成長・開催都市の評判向上では特に重要です。",
+      "collageColumnas": [
+        {
+          "imagen": "mice/collage/1.jpg",
+          "texto": "ショーセンター・コンプレックス（モンテレイ、ヌエボ・レオン"
+        },
+        {
+          "imagen": "mice/collage/2.jpg",
+          "texto": "バハ・カリフォルニア・センター"
+        },
+        {
+          "imagen": "mice/collage/3.jpg",
+          "texto": "ユカタン国際コンベンションセンター"
+        },
+        {
+          "imagen": "mice/collage/10.jpg",
+          "texto": "サカテカスコンベンションセンタ"
+        },
+        {
+          "imagen": "mice/collage/5.jpg",
+          "texto": "シンターメックス（モンテレイ、ヌエボ・レオン）"
+        },
+        {
+          "imagen": "mice/collage/6.jpg",
+          "texto": "パビリオンM・オーディトリアム（モンテレイ、ヌエボ・レオン）"
+        },
+        {
+          "imagen": "mice/collage/7.jpg",
+          "texto": "ポリフォルム（レオン、グアナフアト"
+        },
+        {
+          "imagen": "mice/collage/8.jpg",
+          "texto": "ケレタロ・コンベンションセンター"
+        },
+        {
+          "imagen": "mice/collage/9.jpg",
+          "texto": "フォーロ・ディディ・パベリオンM、モンテレイ、ヌエボ・レオン"
+        }
+      ],
+      "mapaMexico": "mice/mapa.svg"
+}

@@ -1,0 +1,148 @@
+{
+    "title": "Welterbestädte in Mexiko",
+    "barriosParrafo1": "Mit der Auszeichnung „Kulturerbestadt“ werden Orte, Orte, Gebiete und Städte auf der Welt ausgezeichnet, die aufgrund ihrer Geschichte, Kultur und Natürlichkeit zum Weltkulturerbe gehören.",
+    "barriosParrafo2": "",
+    "heroSlide": [
+        "ciudades-patrimonio/hero.jpg"
+    ],
+    "galeria": [
+        {
+            "imageSrc": "ciudades-patrimonio/galeria2.jpg",
+            "alt": "MEXIKANISCHE KÜCHE MIT MENSCHLICHEM EINDRUCK",
+            "title": "MEXIKANISCHE KÜCHE MIT MENSCHLICHEM EINDRUCK",
+            "description": "In den historischen Stadtvierteln unseres Landes bleiben das Gedächtnis und unsere Traditionen ein unendlicher Erfahrungsschatz. Und zusammen mit der Architektur und den Alltagsräumen wird das Kochen immer eine der repräsentativsten menschlichen Aktivitäten unseres Landes bleiben."
+        },
+        {
+            "imageSrc": "ciudades-patrimonio/galeria1.jpg",
+            "alt": "AUFBAU EINES KULINARISCHEN ERBES",
+            "title": "AUFBAU EINES KULINARISCHEN ERBES",
+            "description": "Das Kulturgut entsteht unter anderem durch Denkmäler, aber auch durch die Küche: Die mexikanische Küche hatte schon immer eine große Fähigkeit, Einflüsse aufzunehmen, was auf ihre Einzigartigkeit und Mischkultur zurückzuführen ist, da der Anbau von Mais, unzähligen Chilisorten und Bohnen schon immer vorherrschend war."
+        },
+        {
+            "imageSrc": "ciudades-patrimonio/galeria3.jpg",
+            "alt": "MEXIKANISCHE TRADITION IMMER LEBENDIG",
+            "title": "MEXIKANISCHE TRADITION IMMER LEBENDIG",
+            "description": "Die Größe Mexikos und seiner Welterbestätten liegt darin, dass seine Vergangenheit und seine Traditionen immer lebendig bleiben. Die kulinarischen Erlebnisse der mexikanischen Welterbestädte ermöglichen es uns, die kulturellen Besonderheiten und Einzigartigkeiten, aber auch die engen Beziehungen zwischen den Gesellschaften zu beleuchten."
+        }
+    ],
+    "imgTurismo": "ciudades-patrimonio/logo.jpg",
+    "subtitle": "Mexikanische Welterbestädte",
+    "paragraph": "Die mexikanischen Städte, die als Welterbe gelten, sind Orte, die die von der UNESCO festgelegten Anforderungen erfüllen und vom Komitee aufgrund ihrer besonderen kulturellen oder natürlichen Wichtigkeit für das Programm nominiert wurden. Mit 11 Städten in 10 von der UNESCO erstellten Deklarationen steht Mexiko an vierter Stelle der Länder mit den meisten Städten, die in die Liste des Welterbes aufgenommen wurden.",
+    "cintaRoja": "enologia/Fondorosa.webp",
+    "carousels": [
+        {
+            "title": "",
+            "nombreBarrio": "Campeche",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/campeche.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Ciudad de México",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/cdmx.png"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Durango",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/durango.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Guanajuato",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/guanajuato.jpg"
+            ]
+        },
+        
+        {
+            "title": "",
+            "nombreBarrio": "Morelia",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/morelia.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Oaxaca",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/oaxaca.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Puebla",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/puebla.png"
+            ]
+        },
+        
+        {
+            "title": "",
+            "nombreBarrio": "Querétaro",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/queretaro.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Juan del Río",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/san-juan.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Luis Potosí",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/san-luis.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Miguel de Allende",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/san-miguel.png"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Tlacotalpan",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/tlacotalpan.png"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Xochimilco",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/xochimilco.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Zacatecas",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/zacatecas.png"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+.videos-title-ctn {
+	box-sizing: border-box;
+	padding: 50px 0 0 0;
+	background-image: url('../../assets/img/header/liston-azul.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 50px;
+	background-position: top;
+}
+
+.videos-title-title {
+	text-align: center;
+	font-size: var(--txt-title-sm);
+	font-family: 'Bebas Neue', sans-serif;
+  	letter-spacing: 1px;
+	color: var(--blue);
+	padding: 32px;
+}
+
+.videos-title-ctn-videos {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 32px;
+	padding: 32px;
+	box-sizing: border-box;
+}
+
+.videos-title-ctn-video {
+	flex: 1 0 100%;
+	height: 100%;
+	width: 100%;
+	aspect-ratio: 4/3;
+}
+
+.videos-title-video {
+	border-radius: 12px;
+}
+
+.videos-title-video-description {
+	text-align: center;
+	font-size: var(--txt-h5-sm);
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+@media screen and (min-width: 744px) {
+	.videos-title-ctn {
+		padding: 90px 0 0 0;
+		background-size: 100% 90px;
+	}
+	
+	.videos-title-title {
+		font-size: var(--txt-title-md);
+	}
+	
+	
+	.videos-title-video {
+		border-radius: 12px;
+	}
+
+	.videos-title-ctn-video {
+		flex: 1 0 40%;
+	}
+	
+	.videos-title-video-description {
+		font-size: var(--txt-h5-md);
+	}
+}
+
+@media screen and (min-width: 1353px) {
+	.videos-title-ctn {
+		padding: 120px 0 0 0;
+		background-size: 100% 120px;
+	}
+	
+	.videos-title-title {
+		font-size: var(--txt-title-xl);
+	}
+	
+	
+	.videos-title-video {
+		border-radius: 12px;
+	}
+
+	.videos-title-video-description {
+		font-size: var(--txt-h5-xl);
+	}
+}
+
+/* Daniel Rivera: Agregue estas lneas qe vienen de estilos del home paar ue compartan el mismo patron de diseño */
+.home-know-ctn-description {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+  }
+  
+  .home-know-description-title {
+	font-size: var(--txt-p-md);
+	text-align: center;
+  }

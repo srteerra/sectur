@@ -1,0 +1,65 @@
+{
+    "title": "Enotourism: wine producing regions in Mexico",
+    "imgItem1":"enologia/eno/enoturismo1.jpg",
+    "imgItem2":"enologia/eno/enoturismo2.jpg",
+    "imgItem3":"enologia/eno/enoturismo3.jpg",
+    "imgItem4":"enologia/eno/enoturismo4.jpg",
+    "imgItem5":"enologia/eno/enologia5.jpg",
+    "imgTurismo": "enologia/eno/enoturismo6.jpg",
+    "subtitle": "What is enotourism?",
+    "paragraph": "According to the World Tourism Organization",
+    "onulink": "(UNWTO)",
+    "onuafterlink": "“Enotourism, vinitourism or wine tourism includes winery visits, tastings and other events related to wine production, as well as visits to vineyards and other wine-related cultural and natural attractions in a given region.”",
+    "strongP": "And the states that offer routes are:",
+    "quoteP": "",
+    "lista": [
+        "The Aguascalientes Wine Route.",
+        "The Baja California Wine Route which consists of 4, the Guadalupe Valley Wine Route, Cheese and Wine Route, Old Wine Route and Puerta Norte Route.",
+        "Coahuila Wine Route, which is divided into 2, The Wine and Dinos Route and Desert Route.",
+        "The Guanajuato Wine Route, Valle de la Independencia.",
+        "Hidalgo Wine Route, which is divided into 2, “Getaway to the Camino Real between Wine and Cheese” and “Toltec Route between Wine and Cheese”.",
+        "Art, cheese and wine route of Querétaro."
+      ],
+      "entidades": "16 grape-producing states: Aguascalientes, Baja California, Baja California Sur, Coahuila, Chihuahua, Durango, Guanajuato, Hidalgo, Jalisco, Nayarit, Nuevo Leon, Puebla, Queretaro, San Luis Potosi, Sonora and Zacatecas.",
+    "info1": "16 states producing grape and wine",
+    "info2": "There are over 12 thousand brands of Mexican wine",
+    "info3": "Mexico produces 18 varieties of grapes for wine",
+    "info4": "There are 80 touristic operators specialized in wine tourism in over 10 states in Mexico",
+    "destinosTitle": "Viticultural destinations to enjoy wine tourism",
+    "bannerEnologia": "enologia/eno/enoturismo7.jpg",
+    "titleProduccion": "Production of Mexican wine",
+    "descripcionClasificacion": "",
+    "produccionColumnas": [
+        {
+          "imagen": "enologia/uvas.svg",
+          "descripcion": "Mexico has over 7,000 hectares used for wine grape production"
+        },
+        {
+          "imagen": "enologia/barril.svg",
+          "descripcion": "There is a production of over 195,000 hectoliters"
+        },
+        {
+          "imagen": "enologia/sacacorcho.svg",
+          "descripcion": "Consumption per capita is about 1.3 liters"
+        },
+        {
+          "imagen": "enologia/botellas.svg",
+          "descripcion": "7 out of every 10 bottles consumed are red wine"
+        }
+      ],
+      "tituloArticuloUno": "Enotourism and Wine Regions: Unlocking Cultural Experiences",
+      "Parrafo1Articulo1": "Enotourism offers a unique opportunity to immerse oneself in the culture, history, traditions, and identity of the destination visited, particularly in regions renowned for wine production. Effective promotion is essential to showcase the myriad offerings of wine tourism.",
+      "Parrafo2Articulo2": "Enotourism provides a firsthand insight into the winemaking process, allowing visitors to witness the fields, observe the vines' growth, understand the fermentation process, witness pressing, and follow every step until the final product is obtained.",
+      "titulo2ArticuloDos": "Did you know there are three museums dedicated to vines and wine in Mexico?",
+      "Parrafo1Articulo2": "Baja california: The “Vine and wine” museum in Ensenada offers a tour on the history, the industry, the identity and the wine, as well as its connection to art. Guanajuato “Wine museum” in Dolores, Hidalgo, Guanajuato. At this venue, you have the opportunity to discover the history of wine and gain insights into the winemaking process employed by the producers of the Valle de la Independencia. Querétaro, The Museum of Art, Cheese and Wine, located in Tequisquiapan, is a guarantee of culture and flavors accompanied by a good glass of wine.",
+      "Parrafo3Articulo2": "Along Mexico's wine tourism routes, visitors have the option to enjoy a range of experiences, from simple wine tastings to indulging in luxurious accommodations and exceptional service.",
+      "regiones": "enologia/eno/enoturismo8.jpg",
+      "marcas": "enologia/eno/enoturismo9.jpg",
+      "conocesCatalogo": "Do you know the Catalog of wine tourism products and routes of Mexico 2023?",
+      "imgDescarga": "enologia/img-descarga.png",
+      "downloadLink": "https://visitmexico.com/recursos/catalogo-de-productos-y-rutas-enoturisticas-2023.pdf",
+      "cintaRoja": "enologia/Fondorosa.webp",
+      "mapaMexico": "enologia/mapa.svg",
+      "enologiaDescarga": "See more"
+
+}

@@ -1,0 +1,66 @@
+{
+    "title": "葡萄酒旅游：墨西哥的葡萄酒产区",
+    "imgItem1":"enologia/eno/enoturismo1.jpg",
+    "imgItem2":"enologia/eno/enoturismo2.jpg",
+    "imgItem3":"enologia/eno/enoturismo3.jpg",
+    "imgItem4":"enologia/eno/enoturismo4.jpg",
+    "imgItem5":"enologia/eno/enologia5.jpg",
+    "imgTurismo": "enologia/eno/enoturismo6.jpg",
+    "subtitle": "什么是葡萄酒旅游？",
+    "paragraph": "根据世界旅游组织",
+    "onulink": "（UNWTO）)",
+    "onuafterlink": "“葡萄酒旅游包括参观酒庄、品尝和其他与葡萄酒生产有关的活动，以及参观特定地区的葡萄园和其他 与葡萄酒有关的文化和自然景点。”",
+
+    "strongP": "提供路线的州是：",
+    "quoteP": "",
+    "lista": [
+        "阿瓜斯卡连特斯州葡萄酒之路",
+        "南下加利福尼亚葡萄酒之路其中包括4条，瓜达卢佩山谷葡萄酒之路，奶酪和葡萄酒之路，古老的葡萄酒之路和北门之路。",
+        "科阿韦拉州葡萄酒之路，分为2条，葡萄酒和恐龙之路和沙漠之路。",
+        "独立谷- 瓜纳华托州葡萄酒之路",
+        "伊达尔戈州葡萄酒之路，分为2条，“葡萄酒和奶酪之间的皇家之路”和“葡萄酒和奶酪之间的托尔特克之路”。",
+        "奶酪和葡萄酒艺术之路的克雷塔罗州"
+      ],
+      "entidades": "16个葡萄生产实体： 阿瓜斯卡连特斯、下加利福尼亚州、南下加利福尼亚州、科阿韦拉、奇瓦瓦、杜兰戈、瓜纳华托、伊达尔戈、哈利斯科、纳亚里特、新莱昂、普埃布拉、克雷塔罗、圣路易斯·波托西、索诺拉和萨卡特卡斯。提供路线的州是阿瓜斯卡连特斯、巴哈、科阿韦拉、瓜纳华托、伊达尔戈和 克雷塔罗。",
+    "info1": "16个联邦实体 葡萄和葡萄酒生产商。",
+    "info2": "有12000多个墨西哥葡萄酒品牌",
+    "info3": "墨西哥生产18种葡萄酒葡萄",
+    "info4": "墨西哥10多个州有80家旅游运营商专门从事生态旅游路线。",
+    "destinosTitle": "葡萄酒目的地享受葡萄酒旅游",
+    "bannerEnologia": "enologia/eno/enoturismo7.jpg",
+    "titleProduccion": "墨西哥葡萄酒生产",
+    "descripcionClasificacion": "",
+    "produccionColumnas": [
+        {
+          "imagen": "enologia/uvas.svg",
+          "descripcion": "墨西哥有7000公顷的葡萄酒葡萄"
+        },
+        {
+          "imagen": "enologia/barril.svg",
+          "descripcion": "墨西哥生产195000公顷"
+        },
+        {
+          "imagen": "enologia/sacacorcho.svg",
+          "descripcion": "人均消费量为1.3升"
+        },
+        {
+          "imagen": "enologia/botellas.svg",
+          "descripcion": "每10瓶消费中就有7瓶是红酒"
+        }
+      ],
+      "tituloArticuloUno": "葡萄酒旅游和葡萄酒产区",
+      "Parrafo1Articulo1": "由于葡萄酒旅游的影响,人们体验并与所访问目的地的文化、历史、传统和身份有关，尤其是在有葡萄酒生产的地区，因此推广葡萄酒对于宣传葡萄酒游客所提供的一切至关重要。葡萄酒旅游使人们能够更好地了解葡萄酒的酿造过程；看看田野，看看植物，葡萄是如何发育的，发酵，压榨的过程，以及所有这些，直到达到最终产品。",
+      "Parrafo2Articulo2": "",
+      "titulo2ArticuloDos": "你知道墨西哥有三个专门研究葡萄和葡萄酒的博物馆吗？",
+      "Parrafo1Articulo2": "下加利福尼亚“葡萄和葡萄酒博物馆”，位于恩塞纳达，为公众提供历史之旅工业、身份与葡萄酒，以及它与艺术的关系 瓜纳华托“葡萄酒博物馆” 位于伊达尔戈的多洛雷斯，瓜纳华托；在这个地方，你可以了解由葡萄酒和由“山谷独立”的生产者。克雷塔罗，艺术博物馆，奶酪和葡萄酒，位于特基斯基亚潘，它是文化和风味的保证一杯好酒。",
+      "Parrafo3Articulo2": "在墨西哥的生态旅游路线上，您可以参观和品尝葡萄酒，甚至住宿并享受卓越服务的体验。",
+      "regiones": "enologia/eno/enoturismo8.jpg",
+      "marcas": "enologia/eno/enoturismo9.jpg",
+      "conocesCatalogo": "你知道2023年墨西哥生态旅游产品和路线目录吗？",
+      "imgDescarga": "enologia/img-descarga.png",
+      "downloadLink": "https://visitmexico.com/recursos/catalogo-de-productos-y-rutas-enoturisticas-2023.pdf",
+      "cintaRoja": "enologia/Fondorosa.webp",
+      "mapaMexico": "enologia/mapa.svg",
+      "enologiaDescarga": "查看更多"
+
+}

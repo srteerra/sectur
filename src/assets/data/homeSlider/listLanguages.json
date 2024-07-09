@@ -1,0 +1,26 @@
+[
+	{ "name":"Español", 
+		"value": "ES"
+	},
+	{ "name":"Inglés", 
+		"value": "EN"
+	},
+	{ "name":"Francés", 
+		"value": "FR"
+	},
+	{ "name":"Alemán", 
+		"value": "DE"
+	},
+	{ "name":"Portugués", 
+		"value": "PT"
+	},
+	{ "name":"Italiano", 
+		"value": "IT"
+	},
+	{ "name":"Japonés", 
+		"value": "JP"
+	},
+	{ "name":"Chino", 
+		"value": "CN"
+	}
+]

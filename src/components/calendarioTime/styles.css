@@ -1,0 +1,629 @@
+.state-video-top-ctn {
+  min-height: 280px;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+/* styles.css */
+
+.fc-event {
+  white-space: normal !important; /* Asegura que el texto se ajuste al contenedor */
+  height: auto !important; /* Permite que la altura se ajuste automáticamente */
+  overflow: visible !important; /* Asegura que todo el texto sea visible */
+}
+
+.fc-event-title {
+  white-space: normal !important; /* Asegura que el texto se ajuste al contenedor */
+}
+
+.calendar-known-title {
+  font-size: var(--txt-title-sm);
+  color: var(--purple);
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+  text-align: center;
+  margin: 64px 0 32px 0;
+}
+
+.contenedor-flexbox {
+  display: block;
+  align-items: center;
+  padding: 0 32px 32px;
+  margin-bottom: 10px;
+}
+
+.firtscontainer {
+  width: 100%;
+  max-height: 20%;
+  padding: 5px 20px;
+  align-content: center;
+  visibility: hidden !important;
+}
+
+.firtscontainer2 {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border-style: solid;
+  border-radius: 10px;
+  align-content: center;
+  margin-left: 10px;
+  border-color: #8A8A8A;
+  aspect-ratio: 4/3 ;
+}
+.firtscontainer2:hover{
+  opacity: 0.9;
+  transition: 0.4s;
+}
+
+.secondcontainer {
+  width: 100%;
+  padding: 5px;
+  align-content: center;
+}
+
+.calendar-detail-title {
+  font-size: 32px;
+  color: var(--purple);
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.calendar-detail {
+  color: #7D7D7D;
+  text-align:justify;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1px;
+}
+
+.calendarButton{
+ float: right;
+ border: none;
+ padding: 5px;
+ color: #bbb;
+ font-size: 18px;
+ font-weight: bold;
+ border-radius: 5px;
+}
+
+.calendarButton:hover {
+  background: #bbb; 
+  color: #fff;
+}
+
+.detailDateImage{
+  width: 100%;
+  overflow: hidden;
+  margin:0px auto;
+}
+
+.detailDateImage img{
+  width: 100%;
+  height:  300px;
+  padding-bottom: 12px;
+  
+}
+
+@supports(object-fit: cover){
+    .box img{
+      height: 100%;
+      object-fit: cover;
+      object-position: center center;
+    }
+}
+
+.calendario2-hr{
+  width: 100%;
+  background: #eee;
+}
+
+
+.linkEvent{
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.fc td {
+  border: 1px solid var(--gray);
+}
+.fc th {
+  background: var(--purple);
+  color: #fff;
+}
+
+.fc th { 
+  text-transform: capitalize;
+  font-weight: 400;
+}
+
+.fc-view-container {
+  border-radius: 10px;
+  overflow:hidden;
+}
+
+.fc-head-container {
+  background-color: var(--blue);
+  color: white;
+}
+
+.fc-body {
+  background-color: #fff;
+}
+
+.fc td, .fc th {
+  border: 1px solid #e2e2e2;
+  font-size: var(--txt-p-xl);
+}
+
+.fc td {
+  cursor: pointer;
+}
+
+.fc-event {
+  border-radius: 10px;
+  padding: 10px;
+  margin: 0px;
+}
+
+@media screen and (min-width: 744px) {
+  .state-video-top-ctn {
+    min-height: 280px;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+  }
+  
+  .calendar-known-title {
+    font-size: var(--txt-title-md);
+    color: var(--purple);
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 64px 0 32px 0;
+  }
+  
+  .contenedor-flexbox {
+    display: block;
+    align-items: center;
+    padding: 0 32px 32px;
+    margin-bottom: 10px;
+  }
+  
+  .firtscontainer {
+    width: 100%;
+    max-height: 20%;
+    padding: 5px 20px;
+    align-content: center;
+    visibility: hidden !important;
+  }
+  
+  .firtscontainer2 {
+    width: 100%;
+    height: 400px;
+    padding: 0;
+    border-style: solid;
+    border-radius: 10px;
+    align-content: center;
+    margin-left: 10px;
+    border-color: #8A8A8A;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+  }
+  .firtscontainer2:hover{
+    opacity: 0.9;
+    transition: 0.4s;
+  }
+  
+  .secondcontainer {
+    width: 100%;
+    padding: 5px;
+    align-content: center;
+  }
+  
+  .calendar-detail-title {
+    font-size: 32px;
+    color: var(--purple);
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  
+  .calendar-detail {
+    color: #7D7D7D;
+    text-align:justify;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 1px;
+  }
+  
+  .calendarButton{
+   float: right;
+   border: none;
+   padding: 5px;
+   color: #bbb;
+   font-size: 18px;
+   font-weight: bold;
+   border-radius: 5px;
+  }
+  
+  .calendarButton:hover {
+    background: #bbb; 
+    color: #fff;
+  }
+  
+ 
+  
+  @supports(object-fit: cover){
+      .box img{
+        height: 100%;
+        object-fit: cover;
+        object-position: center center;
+      }
+  }
+  
+  .calendario2-hr{
+    width: 100%;
+    background: #eee;
+  }
+  
+  
+  .linkEvent{
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .fc td {
+    border: 1px solid var(--gray);
+  }
+  .fc th {
+    background: var(--purple);
+    color: #fff;
+  }
+  
+  .fc th { 
+    text-transform: capitalize;
+    font-weight: 400;
+  }
+  
+  .fc-view-container {
+    border-radius: 10px;
+    overflow:hidden;
+  }
+  
+  .fc-head-container {
+    background-color: var(--blue);
+    color: white;
+  }
+  
+  .fc-body {
+    background-color: #fff;
+  }
+  
+  .fc td, .fc th {
+    border: 1px solid #e2e2e2;
+    font-size: var(--txt-p-xl);
+  }
+  
+  .fc td {
+    cursor: pointer;
+  }
+  
+  .fc-event {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0px;
+  }
+  /*.state-video-top-ctn {
+    min-height: 280px;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+  }
+  
+  @media (min-width: 744px) {
+    .state-video-top-ctn {
+      padding-top: 0;
+    }
+  }
+  
+  .contenedor-flexbox {
+    display: flex;
+    align-items: center;
+    padding-bottom: 200px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .firtscontainer {
+    width: 50%;
+    max-height: 20%;
+    padding: 5px 20px;
+    align-content: center;
+    visibility: hidden !important;
+  }
+  
+  .firtscontainer2 {
+    width: 50%;
+    height: 10%;
+    padding: 5px 20px;
+    border-style: solid;
+    border-radius: 10px;
+    align-content: center;
+    margin-left: 10px;
+    border-color: #8A8A8A;
+    max-height: 450px;
+  }
+  .firtscontainer2:hover{
+    opacity: 0.9;
+    transition: 0.4s;
+  }
+  
+  .secondcontainer {
+    width: 50%;
+    padding: 5px;
+    align-content: center;
+  }
+  
+  .calendar-detail-title {
+    font-size: 32px;
+    color: var(--purple);
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  
+  .calendar-detail {
+    color: #7D7D7D;
+    text-align:justify;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 1px;
+  }
+  
+  
+  .calendarButton{
+   float: right;
+   border: none;
+   padding: 5px;
+   color: #bbb;
+   font-size: 18px;
+   font-weight: bold;
+   border-radius: 5px;
+  }
+  
+  .calendarButton:hover {
+    background: #bbb; 
+    color: #fff;
+  }
+  
+  .detailDateImage{
+    width: 100%;
+    overflow: hidden;
+    margin:0px auto;
+  }
+  
+  .detailDateImage img{
+    width: 100%;
+    height:  300px;
+    padding-bottom: 12px;
+    
+  }
+  @supports(object-fit: cover){
+      .box img{
+        height: 100%;
+        object-fit: cover;
+        object-position: center center;
+      }
+  }
+  
+  .calendario2-hr{
+    width: 50%;
+    background: #eee;
+  }
+  
+  
+  .linkEvent{
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .fc td {
+    border: 1px solid var(--gray);
+  }
+  .fc th {
+    background: var(--purple);
+    color: #fff;
+  }
+  
+  .fc th { 
+    text-transform: capitalize;
+    font-weight: 400;
+  }
+  
+  .fc-view-container {
+    border-radius: 10px;
+    overflow:hidden;
+  }
+  
+  .fc-head-container {
+    background-color: var(--blue);
+    color: white;
+  }
+  
+  .fc-body {
+    background-color: #fff;
+  }
+  
+  .fc td, .fc th {
+    border: 1px solid #e2e2e2;
+    font-size: var(--txt-p-xl);
+  }
+  
+  .fc td {
+    cursor: pointer;
+  }
+  
+  .fc-event {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0px;
+  }*/
+}
+
+@media screen and (min-width: 1353px) {
+  .state-video-top-ctn {
+    min-height: 280px;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+  }
+  
+  @media (min-width: 744px) {
+    .state-video-top-ctn {
+      padding-top: 0;
+    }
+  }
+  
+  .contenedor-flexbox {
+    display: flex;
+    align-items: center;
+    padding-bottom: 200px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .firtscontainer {
+    width: 100%;
+    max-height: 20%;
+    padding: 5px 20px;
+    align-content: center;
+    visibility: hidden !important;
+  }
+  
+  .firtscontainer2 {
+    width: 100%;
+    height: 10%;
+    padding: 5px 20px;
+    border-style: solid;
+    border-radius: 10px;
+    align-content: center;
+    margin-left: 10px;
+    border-color: #8A8A8A;
+    max-height: 450px;
+  }
+  .firtscontainer2:hover{
+    opacity: 0.9;
+    transition: 0.4s;
+  }
+  
+  .secondcontainer {
+    width: 100%;
+    padding: 5px;
+    align-content: center;
+  }
+  
+  .calendar-detail-title {
+    font-size: 32px;
+    color: var(--purple);
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  
+  .calendar-detail {
+    color: #7D7D7D;
+    text-align:justify;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 1px;
+  }
+  
+  
+  .calendarButton{
+   float: right;
+   border: none;
+   padding: 5px;
+   color: #bbb;
+   font-size: 18px;
+   font-weight: bold;
+   border-radius: 5px;
+  }
+  
+  .calendarButton:hover {
+    background: #bbb; 
+    color: #fff;
+  }
+  
+  .detailDateImage{
+    width: 100%;
+    overflow: hidden;
+    margin:0px auto;
+  }
+  
+  .detailDateImage img{
+    width: 100%;
+    height:  300px;
+    padding-bottom: 12px;
+    
+  }
+  @supports(object-fit: cover){
+      .box img{
+        height: 100%;
+        object-fit: cover;
+        object-position: center center;
+      }
+  }
+  
+  .calendario2-hr{
+    width: 100%;
+    background: #eee;
+  }
+  
+  
+  .linkEvent{
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .fc td {
+    border: 1px solid var(--gray);
+  }
+  .fc th {
+    background: var(--purple);
+    color: #fff;
+  }
+  
+  .fc th { 
+    text-transform: capitalize;
+    font-weight: 400;
+  }
+  
+  .fc-view-container {
+    border-radius: 10px;
+    overflow:hidden;
+  }
+  
+  .fc-head-container {
+    background-color: var(--blue);
+    color: white;
+  }
+  
+  .fc-body {
+    background-color: #fff;
+  }
+  
+  .fc td, .fc th {
+    border: 1px solid #e2e2e2;
+    font-size: var(--txt-p-xl);
+  }
+  
+  .fc td {
+    cursor: pointer;
+  }
+  
+  .fc-event {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0px;
+  }
+}

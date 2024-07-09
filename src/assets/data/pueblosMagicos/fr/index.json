@@ -1,0 +1,3124 @@
+{
+ "marcadores": [
+    {
+      "longitude": -102.71861111111,
+      "latitude": 21.846944444444,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Calvillo",
+      "estado": "Aguascalientes",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -102.08888888889,
+      "latitude": 22.239722222222,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Real de Asientos",
+      "estado": "Aguascalientes",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -102.41666667,
+      "latitude": 22.15,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "San José de Gracia",
+      "estado": "Aguascalientes",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -116.62666666667,
+      "latitude": 32.572777777778,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Tecate",
+      "estado": "Baja California",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -111.34888,
+      "latitude": 26.01217,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Loreto",
+      "estado": "Baja California Sur",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -111.34888,
+      "latitude": 26.01217,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Todos Santos",
+      "estado": "Baja California Sur",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -91.483456388889,
+      "latitude": 18.783020833333,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Isla Aguada",
+      "estado": "Campeche",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -92.090833333333,
+      "latitude": 18.254444444444,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Palizada",
+      "estado": "Campeche",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -92.966666666667,
+      "latitude": 16.6,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Chiapa de Corzo",
+      "estado": "Chiapas",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -92.134166666667,
+      "latitude": 16.251111111111,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Comitán",
+      "estado": "Chiapas",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -91.982222222222,
+      "latitude": 17.509166666667,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Palenque",
+      "estado": "Chiapas",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -92.637563888889,
+      "latitude": 16.737022222222,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "San Cristobal",
+      "estado": "Chiapas",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -107.73944444444,
+      "latitude": 27.026666666667,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Batopilas",
+      "estado": "Chihuahua",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -107.91166,
+      "latitude": 30.41552,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Casas Grandes",
+      "estado": "Chihuahua",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -107.635,
+      "latitude": 27.753055555556,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Creel",
+      "estado": "Chihuahua",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -100.84666666667,
+      "latitude": 25.445277777778,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Arteaga",
+      "estado": "Coahuila",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -100.66388888889,
+      "latitude": 26.840277777778,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Candela",
+      "estado": "Coahuila",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -102.06722222222,
+      "latitude": 26.986944444444,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Cuatro Ciénegas",
+      "estado": "Coahuila",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -100.37872555556,
+      "latitude": 28.308418333333,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Guerrero",
+      "estado": "Coahuila",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -101.5161500,
+      "latitude": 27.8793300,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Melchor Muzquiz",
+      "estado": "Coahuila",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -102.18361111111,
+      "latitude": 25.436944444444,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Parras de la Fuente",
+      "estado": "Coahuila",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -102.80638888889,
+      "latitude": 25.343611111111,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Viesca",
+      "estado": "Coahuila",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -103.75880111111,
+      "latitude": 19.323198611111,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Comala",
+      "estado": "Colima",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -103.84777778,
+      "latitude": 25.83305556,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Mapimí",
+      "estado": "Durango",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -104.24342322325,
+      "latitude": 23.846794737562,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Nombre de Dios",
+      "estado": "Durango",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -99.833333333333,
+      "latitude": 20.1,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Aculco",
+      "estado": "Estado de México",
+      "category": "pueblos-magicos"
+    },
+    {
+      "longitude": -100.13138888889,
+      "latitude": 18.8436900,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "Ixtapan de la Sal",
+      "estado": "Estado de México",
+      "category": "pueblos-magicos"
+    },
+    {
+        "longitude": -99.515747,
+        "latitude": 18.959723,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Malinalco",
+        "estado": "Estado de México",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.6131,
+        "latitude": 19.2569,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Metepec",
+        "estado": "Estado de México",
+        "category": "pueblos-magicos"
+      },      
+    {
+      "longitude": -99.6767100,
+      "latitude": 19.800833333333,
+      "pin": "pueblos-magicos/logo_pin.svg",
+      "alt": "El Oro",
+      "estado": "Estado de México",
+      "category": "pueblos-magicos"
+    },
+    {
+        "longitude": -98.8506,
+        "latitude": 19.6858,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "San Juan Teotihuacán",
+        "estado": "Estado de México",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.2231,
+        "latitude": 19.7187,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tepotzotlán",
+        "estado": "Estado de México",
+        "category": "pueblos-magicos"
+      },    
+      {
+        "longitude": -100.1433,
+        "latitude": 19.1946,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Valle de Bravo",
+        "estado": "Estado de México",
+        "category": "pueblos-magicos"
+      },  
+      {
+        "longitude": -99.4794,
+        "latitude": 19.8917,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Villa del Carbón",
+        "estado": "Estado de México",
+        "category": "pueblos-magicos"
+      },     
+      {
+        "longitude": -99.6886,
+        "latitude": 18.8956,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tonatico",
+        "estado": "Estado de México",
+        "category": "pueblos-magicos"
+      },      
+      {
+        "longitude": -100.9375,
+        "latitude": 21.1567,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Dolores Hidalgo",
+        "estado": "Guanajuato",
+        "category": "pueblos-magicos"
+      },    
+      {
+        "longitude": -100.724556,
+        "latitude": 20.947361,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Jalpa de Cánovas",
+        "estado": "Guanajuato",
+        "category": "pueblos-magicos"
+      },  
+      {
+        "longitude": -100.910909,
+        "latitude": 21.015804,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Mineral de Pozos",
+        "estado": "Guanajuato",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -100.885953,
+        "latitude": 20.204831,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Salvatierra",
+        "estado": "Guanajuato",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -100.766838,
+        "latitude": 20.708597,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Comonfort",
+        "estado": "Guanajuato",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -101.096201,
+        "latitude": 20.207152,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Yuriria",
+        "estado": "Guanajuato",
+        "category": "pueblos-magicos"
+      },      
+      {
+        "longitude": -99.627556,
+        "latitude": 18.556701,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Taxco",
+        "estado": "Guerrero",
+        "category": "pueblos-magicos"
+      },        
+      {
+        "longitude": -98.674444,
+        "latitude": 20.194167,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Huasca de Ocampo",
+        "estado": "Hidalgo",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -98.663611,
+        "latitude": 20.254444,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Mineral del Chico",
+        "estado": "Hidalgo",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -98.745556,
+        "latitude": 20.138056,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Real del Monte",
+        "estado": "Hidalgo",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.776667,
+        "latitude": 20.484722,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tecozautla",
+        "estado": "Hidalgo",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.660833,
+        "latitude": 20.466944,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Huichapan",
+        "estado": "Hidalgo",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.368056,
+        "latitude": 20.756389,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Zimapán",
+        "estado": "Hidalgo",
+        "category": "pueblos-magicos"
+      },     
+      {
+        "longitude": -98.6475,
+        "latitude": 20.000833,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Zempoala",
+        "estado": "Hidalgo",
+        "category": "pueblos-magicos"
+      },    
+      {
+        "longitude": -101.9186,
+        "latitude": 21.3578,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Lagos de Moreno",
+        "estado": "Jalisco",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -103.0295,
+        "latitude": 19.9216,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Mazamitla",
+        "estado": "Jalisco",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -104.7749,
+        "latitude": 20.7215,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "San Sebastián del Oeste",
+        "estado": "Jalisco",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -103.7549,
+        "latitude": 19.9468,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tapalpa",
+        "estado": "Jalisco",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -103.6921,
+        "latitude": 20.8868,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tequila",
+        "estado": "Jalisco",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -104.7968,
+        "latitude": 20.4877,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Mascota",
+        "estado": "Jalisco",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -105.2559,
+        "latitude": 20.3758,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Talpa de Allende",
+        "estado": "Jalisco",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -103.3088,
+        "latitude": 20.6414,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tlaquepaque",
+        "estado": "Jalisco",
+        "category": "pueblos-magicos"
+      },  
+      {
+        "longitude": -103.2565,
+        "latitude": 20.2975,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Ajijic",
+        "estado": "Jalisco",
+        "category": "pueblos-magicos"
+      },      
+      {
+        "longitude": -100.2181,
+        "latitude": 19.5364,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Angangueo",
+        "estado": "Michoacán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -101.1825,
+        "latitude": 19.9631,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Cuitzeo",
+        "estado": "Michoacán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -101.6064,
+        "latitude": 19.5164,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Pátzcuaro",
+        "estado": "Michoacán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -101.5866,
+        "latitude": 19.6886,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Santa Clara del Cobre",
+        "estado": "Michoacán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -101.475,
+        "latitude": 19.207,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tacámbaro",
+        "estado": "Michoacán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.7844,
+        "latitude": 19.8231,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tlalpujahua",
+        "estado": "Michoacán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -101.2094,
+        "latitude": 19.6153,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tzintzuntzan",
+        "estado": "Michoacán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -102.7281,
+        "latitude": 19.9825,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Jiquilpan",
+        "estado": "Michoacán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -102.1319,
+        "latitude": 19.5967,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Paracho de Verduzco",
+        "estado": "Michoacán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.0992,
+        "latitude": 18.9805,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tepoztlán",
+        "estado": "Morelos",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -98.9778,
+        "latitude": 18.9686,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tlayacapan",
+        "estado": "Morelos",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -104.8759,
+        "latitude": 21.1933,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Jala",
+        "estado": "Nayarit",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -105.4403,
+        "latitude": 20.8681,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Sayulita",
+        "estado": "Nayarit",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -105.2339,
+        "latitude": 21.0135,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Compostela",
+        "estado": "Nayarit",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -105.4267,
+        "latitude": 21.6894,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Mexcaltitán",
+        "estado": "Nayarit",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -100.3925,
+        "latitude": 25.1897,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Santiago",
+        "estado": "Nuevo León",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -100.4358,
+        "latitude": 24.7336,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Bustamante",
+        "estado": "Nuevo León",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -100.2581,
+        "latitude": 24.8598,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Linares",
+        "estado": "Nuevo León",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -96.5933,
+        "latitude": 17.0883,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Capulálpam de Méndez",
+        "estado": "Oaxaca",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -96.8227,
+        "latitude": 18.1331,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Huautla de Jiménez",
+        "estado": "Oaxaca",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -96.3506,
+        "latitude": 16.9179,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "San Pablo Villa de Mitla",
+        "estado": "Oaxaca",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -96.4372,
+        "latitude": 15.7269,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Juquila",
+        "estado": "Oaxaca",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -96.5547,
+        "latitude": 15.6678,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Mazunte",
+        "estado": "Oaxaca",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -97.4833,
+        "latitude": 17.5167,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Teposcolula",
+        "estado": "Oaxaca",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -98.436,
+        "latitude": 18.902,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Atlixco",
+        "estado": "Puebla",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -97.492,
+        "latitude": 20.047,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Cuetzalan del Progreso",
+        "estado": "Puebla",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -98.064,
+        "latitude": 19.846,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Chignahuapan",
+        "estado": "Puebla",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -98.104,
+        "latitude": 20.251,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Huauchinango",
+        "estado": "Puebla",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -98.184,
+        "latitude": 20.257,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Pahuatlán",
+        "estado": "Puebla",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -97.974,
+        "latitude": 20.3,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Xicotepec de Juárez",
+        "estado": "Puebla",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -97.995,
+        "latitude": 20.057,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Zacatlán",
+        "estado": "Puebla",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -98.302,
+        "latitude": 19.055,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Cholula",
+        "estado": "Puebla",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -97.554,
+        "latitude": 19.817,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tlatlauquitepec",
+        "estado": "Puebla",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -97.818,
+        "latitude": 19.819,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tetela de Ocampo",
+        "estado": "Puebla",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.757,
+        "latitude": 20.748,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Bernal",
+        "estado": "Querétaro",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.598,
+        "latitude": 20.874,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Cadereyta de Montes",
+        "estado": "Querétaro",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.517,
+        "latitude": 21.235,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Jalpan de Serra",
+        "estado": "Querétaro",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.946,
+        "latitude": 20.516,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tequisquiapan",
+        "estado": "Querétaro",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -100.155,
+        "latitude": 20.219,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Amealco",
+        "estado": "Querétaro",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.982,
+        "latitude": 21.255,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "San Joaquín",
+        "estado": "Querétaro",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -88.303,
+        "latitude": 18.681,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Bacalar",
+        "estado": "Quintana Roo",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -86.736,
+        "latitude": 21.231,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Isla Mujeres",
+        "estado": "Quintana Roo",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -87.466,
+        "latitude": 20.214,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tulum",
+        "estado": "Quintana Roo",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.138611111111,
+        "latitude": 21.614444444444,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Aquismón",
+        "estado": "San Luis Potosí",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -100.56472222222,
+        "latitude": 23.675,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Real de Catorce",
+        "estado": "San Luis Potosí",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.0075,
+        "latitude": 21.386944444444,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Xilitla",
+        "estado": "San Luis Potosí",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -100.6,
+        "latitude": 21.983333333333,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Santa María del Río",
+        "estado": "San Luis Potosí",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -108.61944444444,
+        "latitude": 26.416666666667,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "El Fuerte",
+        "estado": "Sinaloa",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -106.69083333333,
+        "latitude": 24.4125,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Cosalá",
+        "estado": "Sinaloa",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -105.69083333333,
+        "latitude": 22.75,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "El Rosario",
+        "estado": "Sinaloa",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -107.91611111111,
+        "latitude": 25.480277777778,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Mocorito",
+        "estado": "Sinaloa",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -108.93166666667,
+        "latitude": 27.026666666667,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Álamos",
+        "estado": "Sonora",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -110.89194444444,
+        "latitude": 30.618888888889,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Magdalena de Kino",
+        "estado": "Sonora",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -92.650277777778,
+        "latitude": 17.399166666667,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tapijulapa",
+        "estado": "Tabasco",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.05,
+        "latitude": 26.433333333333,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Mier",
+        "estado": "Tamaulipas",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -99.15,
+        "latitude": 23.016666666667,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Tula",
+        "estado": "Tamaulipas",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -89.016666666667,
+        "latitude": 20.933333333333,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Izamal",
+        "estado": "Yucatán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -88.2,
+        "latitude": 20.683333333333,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Valladolid",
+        "estado": "Yucatán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -89.433333333333,
+        "latitude": 20.55,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Maní",
+        "estado": "Yucatán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -90.55,
+        "latitude": 21.15,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Sisal",
+        "estado": "Yucatán",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -103.337,
+        "latitude": 22.6489,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Jerez de García Salinas",
+        "estado": "Zacatecas",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -102.7999,
+        "latitude": 21.5162,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Nochistlán de Mejía",
+        "estado": "Zacatecas",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -101.4444,
+        "latitude": 22.3333,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Pinos",
+        "estado": "Zacatecas",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -103.6425,
+        "latitude": 23.6342,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Sombrerete",
+        "estado": "Zacatecas",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -103.6667,
+        "latitude": 21.55,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Teúl de González Ortega",
+        "estado": "Zacatecas",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -102.6814,
+        "latitude": 22.7708,
+        "pin": "pueblos-magicos/logo_pin.svg",
+        "alt": "Guadalupe",
+        "estado": "Zacatecas",
+        "category": "pueblos-magicos"
+      },
+      {
+        "longitude": -100.3881,
+        "latitude": 20.5881,
+        "pin": "pueblos-magicos/logo_ciudades_pin.svg",
+        "alt": "Querétaro",
+        "estado": "Querétaro",
+        "category": "ciudades-patrimonio"
+      },
+      {
+        "longitude": -98.2037,
+        "latitude": 19.0414,
+        "pin": "pueblos-magicos/logo_ciudades_pin.svg",
+        "alt": "Puebla",
+        "estado": "Puebla",
+        "category": "ciudades-patrimonio"
+      },
+      {
+        "longitude": -102.5764,
+        "latitude": 22.7709,
+        "pin": "pueblos-magicos/logo_ciudades_pin.svg",
+        "alt": "Zacatecas",
+        "estado": "Zacatecas",
+        "category": "ciudades-patrimonio"
+      },
+      {
+        "longitude": -95.6684,
+        "latitude": 18.6155,
+        "pin": "pueblos-magicos/logo_ciudades_pin.svg",
+        "alt": "Tlacotalpan",
+        "estado": "Veracruz",
+        "category": "ciudades-patrimonio"
+      },
+      {
+        "longitude": -101.1775,
+        "latitude": 19.7059,
+        "pin": "pueblos-magicos/logo_ciudades_pin.svg",
+        "alt": "Morelia",
+        "estado": "Michoacán",
+        "category": "ciudades-patrimonio"
+      },
+      {
+        "longitude": -100.7459,
+        "latitude": 20.9141,
+        "pin": "pueblos-magicos/logo_ciudades_pin.svg",
+        "alt": "San Miguel de Allende",
+        "estado": "Guanajuato",
+        "category": "ciudades-patrimonio"
+      },
+      {
+        "longitude": -101.2552,
+        "latitude": 21.0181,
+        "pin": "pueblos-magicos/logo_ciudades_pin.svg",
+        "alt": "Guanajuato",
+        "estado": "Guanajuato",
+        "category": "ciudades-patrimonio"
+      },
+      {
+        "longitude": -96.7265,
+        "latitude": 17.0732,
+        "pin": "pueblos-magicos/logo_ciudades_pin.svg",
+        "alt": "Oaxaca",
+        "estado": "Oaxaca",
+        "category": "ciudades-patrimonio"
+      },
+      
+      {
+        "longitude": -99.1332,
+        "latitude": 19.4326,
+        "pin": "pueblos-magicos/logo_ciudades_pin.svg",
+        "alt": "CDMX",
+        "estado": "Ciudad de México",
+        "category": "ciudades-patrimonio"
+      },
+      {
+        "longitude": -90.5290,
+        "latitude": 19.8484,
+        "pin": "pueblos-magicos/logo_ciudades_pin.svg",
+        "alt": "Campeche",
+        "estado": "Campeche",
+        "category": "ciudades-patrimonio"
+        },
+        {
+          "longitude": -99.1332,
+          "latitude": 19.4326,
+          "pin": "pueblos-magicos/logo_ciudades_pin.svg",
+          "alt": "Ciudad de México",
+          "estado": "Ciudad de México",
+          "category": "ciudades-patrimonio"
+          },
+ 
+{
+  "longitude": -108.9658,
+  "latitude": 25.7933,
+  "pin": "pueblos-magicos/tren.png",
+  "alt": "Los Mochis",
+  "estado": "Sinaloa"
+},
+{
+  "longitude": -107.6344,
+  "latitude": 27.7579,
+  "pin": "pueblos-magicos/tren.png",
+  "alt": "Creel",
+  "estado": "Chihuahua",
+  "category": "ferrocarril-chepe"
+},
+{
+  "longitude": -106.0691,
+  "latitude": 28.6329,
+  "pin": "pueblos-magicos/tren.png",
+  "alt": "Chihuahua",
+  "estado": "Chihuahua",
+  "category": "ferrocarril-chepe"
+},
+{
+  "longitude": -99.8915,
+  "latitude": 16.8531,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Acapulco",
+  "estado": "Guerrero",
+  "category": "playas"
+},
+{
+  "longitude": -106.4286,
+  "latitude": 23.232,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Mazatlán",
+  "estado": "Sinaloa",
+  "category": "playas"
+},
+{
+  "longitude": -105.2519,
+  "latitude": 20.6534,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Vallarta",
+  "estado": "Nayarit",
+  "category": "playas"
+},
+{
+  "longitude": -97.0691,
+  "latitude": 15.8715,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Puerto Escondido",
+  "estado": "Oaxaca",
+  "category": "playas"
+},
+{
+  "longitude": -96.1342,
+  "latitude": 15.7269,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Huatulco",
+  "estado": "Oaxaca",
+  "category": "playas"
+},
+{
+  "longitude": -109.9617,
+  "latitude": 22.8905,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "San José del Cabo",
+  "estado": "Baja California Sur",
+  "category": "playas"
+},
+{
+  "longitude": -110.2308,
+  "latitude": 23.4474,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Todos Santos",
+  "estado": "Baja California Sur",
+  "category": "playas"
+},
+{
+  "longitude": -116.9019,
+  "latitude": 30.4755,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Bahía de San Quintín",
+  "estado": "Baja California Sur",
+  "category": "playas"
+},
+{
+  "longitude": -105.2305,
+  "latitude": 20.6534,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Puerto Vallarta",
+  "estado": "Jalisco",
+  "category": "playas"
+},
+{
+  "longitude": -86.8515,
+  "latitude": 21.1619,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Cancún",
+  "estado": "Quintana Roo",
+  "category": "playas"
+},
+{
+  "longitude": -96.3914,
+  "latitude": 15.6576,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Mazunte",
+  "estado": "Oaxaca",
+  "category": "playas"
+},
+{
+  "longitude": -105.4707,
+  "latitude": 20.7587,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Escondida",
+  "estado": "Nayarit",
+  "category": "playas"
+},
+{
+  "longitude": -87.3809,
+  "latitude": 21.5002,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Punta Mosquito/Holbox",
+  "estado": "Quintana Roo",
+  "category": "playas"
+},
+{
+  "longitude": -87.0631,
+  "latitude": 20.6275,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "category": "playas"
+},
+{
+  "longitude": -87.4661,
+  "latitude": 20.2119,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Tulum",
+  "estado": "Quintana Roo",
+  "category": "playas"
+},
+{
+  "longitude": -86.7732,
+  "latitude": 21.2314,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Isla Mujeres",
+  "estado": "Quintana Roo",
+  "category": "playas"
+},
+{
+  "longitude": -110.2675,
+  "latitude": 23.4287,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Balandra",
+  "estado": "Baja California Sur",
+  "category": "playas"
+},
+{
+  "longitude": -109.9073,
+  "latitude": 22.8909,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Cabo San Lucas",
+  "estado": "Baja California Sur",
+  "category": "playas"
+},
+{
+  "longitude": -110.3133,
+  "latitude": 24.6012,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Espíritu Santo",
+  "estado": "Baja California Sur",
+  "category": "playas"
+},
+{
+  "longitude": -105.2305,
+  "latitude": 20.6534,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Sayulita",
+  "estado": "Nayarit",
+  "category": "playas"
+},
+{
+  "longitude": -101.6771,
+  "latitude": 20.5881,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Ixtapa - Zihuatanejo",
+  "estado": "Guerrero",
+  "category": "playas"
+},
+{
+  "longitude": -89.2903,
+  "latitude": 20.8557,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Celestún",
+  "estado": "Yucatán",
+  "category": "playas"
+},
+{
+  "longitude": -104.3234,
+  "latitude": 19.0473,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Manzanillo",
+  "estado": "Colima",
+  "category": "playas"
+},
+{
+  "longitude": -110.322,
+  "latitude": 24.2198,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Loreto",
+  "estado": "Baja California Sur",
+  "category": "playas"
+},
+{
+  "longitude": -110.3177,
+  "latitude": 24.1426,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "La Paz",
+  "estado": "Baja California Sur",
+  "category": "playas"
+},
+{
+  "longitude": -87.621,
+  "latitude": 20.5567,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Riviera Maya",
+  "estado": "Quintana Roo",
+  "category": "playas"
+},
+{
+  "longitude": -96.1352,
+  "latitude": 19.1817,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Veracruz",
+  "estado": "Veracruz",
+  "category": "playas"
+},
+{
+  "longitude": -92.6691,
+  "latitude": 18.2574,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playas de Centla",
+  "estado": "Tabasco",
+  "category": "playas"
+},
+{
+  "longitude": -92.4729,
+  "latitude": 18.3247,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Bruja",
+  "estado": "Tabasco",
+  "category": "playas"
+},
+{
+  "longitude": -92.9167,
+  "latitude": 18.2477,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Pkaya Limón",
+  "estado": "Tabasco",
+  "category": "playas"
+},
+{
+  "longitude": -92.7876,
+  "latitude": 18.2293,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Paraíso",
+  "estado": "Tabasco",
+  "category": "playas"
+},
+{
+  "longitude": -93.2263,
+  "latitude": 18.1113,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Sánchez Magallanes",
+  "estado": "Tabasco",
+  "category": "playas"
+},
+{
+  "longitude": -92.8316,
+  "latitude": 18.0139,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Tupilco",
+  "estado": "Tabasco",
+  "category": "playas"
+},
+{
+  "longitude": -92.7401,
+  "latitude": 17.8865,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Puerto Ceiba",
+  "estado": "Tabasco",
+  "category": "playas"
+},
+{
+  "longitude": -93.0271,
+  "latitude": 17.9864,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Azul",
+  "estado": "Tabasco",
+  "category": "playas"
+},
+{
+  "longitude": -92.6663,
+  "latitude": 18.0197,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Miramar",
+  "estado": "Tabasco",
+  "category": "playas"
+},
+{
+  "longitude": -97.2136,
+  "latitude": 21.2656,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Tamiahua",
+  "estado": "Veracruz",
+  "category": "playas"
+},
+{
+  "longitude": -97.4159,
+  "latitude": 21.2505,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Chaparrales",
+  "estado": "Veracruz",
+  "category": "playas"
+},
+{
+  "longitude": -96.2521,
+  "latitude": 19.6757,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa del Norte y Galindo",
+  "estado": "Veracruz",
+  "category": "playas"
+},
+{
+  "longitude": -96.4249,
+  "latitude": 19.4971,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Tecolutla",
+  "estado": "Veracruz",
+  "category": "playas"
+},
+{
+  "longitude": -96.5031,
+  "latitude": 19.3929,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Santander",
+  "estado": "Veracruz",
+  "category": "playas"
+},
+{
+  "longitude": -96.2554,
+  "latitude": 19.4975,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Las Higueras",
+  "estado": "Veracruz",
+  "category": "playas"
+},
+{
+  "longitude": -96.2714,
+  "latitude": 19.3923,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Chachalacas",
+  "estado": "Veracruz",
+  "category": "playas"
+},
+{
+  "longitude": -96.1077,
+  "latitude": 19.088,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Boca del Río",
+  "estado": "Veracruz",
+  "category": "playas"
+},
+{
+  "longitude": -95.7687,
+  "latitude": 18.7738,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Puerto de Alvarado",
+  "estado": "Veracruz",
+  "category": "playas"
+},
+{
+  "longitude": -94.4064,
+  "latitude": 18.1536,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Escondida",
+  "estado": "Veracruz",
+  "category": "playas"
+},
+{
+  "longitude": -94.406,
+  "latitude": 18.1346,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Coatzacoalcos",
+  "estado": "Veracruz",
+  "category": "playas"
+},
+{
+  "longitude": -109.0286,
+  "latitude": 25.7963,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Topolobampo",
+  "estado": "Sinaloa",
+  "category": "playas"
+},
+{
+  "longitude": -107.2572,
+  "latitude": 24.7669,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "La Gloria",
+  "estado": "Sinaloa",
+  "category": "playas"
+},
+{
+  "longitude": -107.8169,
+  "latitude": 25.9777,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Colorada",
+  "estado": "Sinaloa",
+  "category": "playas"
+},
+{
+  "longitude": -106.8558,
+  "latitude": 23.9408,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Ponce",
+  "estado": "Sinaloa",
+  "category": "playas"
+},
+{
+  "longitude": -105.7229,
+  "latitude": 22.6607,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playas de Teacapán",
+  "estado": "Sinaloa",
+  "category": "playas"
+},
+{
+  "longitude": -111.2161,
+  "latitude": 30.7601,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa El Requesón",
+  "estado": "Baja California Sur",
+  "category": "playas"
+},
+{
+  "longitude": -110.7657,
+  "latitude": 30.9936,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "El Himalaya",
+  "estado": "Sonora",
+  "category": "playas"
+},
+{
+  "longitude": -110.585,
+  "latitude": 24.9398,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Bahía Santa María",
+  "estado": "Sinaloa",
+  "category": "playas"
+},
+{
+  "longitude": -105.3917,
+  "latitude": 20.6446,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Majahuitas",
+  "estado": "Jalisco",
+  "category": "playas"
+},
+{
+  "longitude": -105.2096,
+  "latitude": 20.9916,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Punta Monterrey",
+  "estado": "Nayarit",
+  "category": "playas"
+},
+{
+  "longitude": -105.2195,
+  "latitude": 20.9613,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Litibú",
+  "estado": "Nayarit",
+  "category": "playas"
+},
+{
+  "longitude": -100.1329,
+  "latitude": 17.7826,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Piedra de Tlacoyunque",
+  "estado": "Guerrero",
+  "category": "playas"
+},
+{
+  "longitude": -96.373,
+  "latitude": 15.725,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Bahía Cacaluta",
+  "estado": "Oaxaca",
+  "category": "playas"
+},
+{
+  "longitude": -92.266672,
+  "latitude": 14.666672,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "El Madresal",
+  "estado": "Chiapas",
+  "category": "playas"
+},
+{
+  "longitude": -90.7842,
+  "latitude": 19.6366,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Isla Arena",
+  "estado": "Campeche",
+  "category": "playas"
+},
+{
+  "longitude": -87.2632,
+  "latitude": 20.3252,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Caleta Tankah",
+  "estado": "Quintana Roo",
+  "category": "playas"
+},
+{
+  "longitude": -87.3704,
+  "latitude": 20.3876,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Playa Xpu-ha",
+  "estado": "Quintana Roo",
+  "category": "playas"
+},
+{
+  "longitude": -90.443,
+  "latitude": 21.1602,
+  "pin": "pueblos-magicos/palmera.png",
+  "alt": "Sisal",
+  "estado": "Yucatán",
+  "category": "playas"
+},
+{
+  "longitude": -88.5678,
+  "latitude": 20.6831,
+  "pin": "pueblos-magicos/piramide-maya.png",
+  "alt": "Templo de Kukulcán",
+  "estado": "Yucatán",
+  "category": "sitios-arqueologicos"
+},
+{
+  "longitude": -98.8459,
+  "latitude": 19.6927,
+  "pin": "pueblos-magicos/piramide-maya.png",
+  "alt": "Teotihuacán",
+  "estado": "Estado de México",
+  "category": "sitios-arqueologicos"
+},
+{
+  "longitude": -89.6208,
+  "latitude": 20.3597,
+  "pin": "pueblos-magicos/piramide-maya.png",
+  "alt": "Pirámide del Adivino, Uxmal",
+  "estado": "Yucatán",
+  "category": "sitios-arqueologicos"
+},
+{
+  "longitude": -99.2496,
+  "latitude": 18.9261,
+  "pin": "pueblos-magicos/piramide-maya.png",
+  "alt": "Pirámide del Adivino",
+  "estado": "Morelos",
+  "category": "sitios-arqueologicos"
+},
+{
+  "longitude": -87.7286,
+  "latitude": 20.4856,
+  "pin": "pueblos-magicos/piramide-maya.png",
+  "alt": "Pirámide de Nohoch Mul, Cobá",
+  "estado": "Yucatán",
+  "category": "sitios-arqueologicos"
+},
+{
+  "longitude": -96.7616,
+  "latitude": 17.0431,
+  "pin": "pueblos-magicos/piramide-maya.png",
+  "alt": "Pirámides de Monte Albán",
+  "estado": "Oaxaca",
+  "category": "sitios-arqueologicos"
+},
+{
+  "longitude": -92.2554,
+  "latitude": 17.4874,
+  "pin": "pueblos-magicos/piramide-maya.png",
+  "alt": "Templo de las Inscripciones, Palenque",
+  "estado": "Chiapas",
+  "category": "sitios-arqueologicos"
+},
+{
+  "longitude": -89.8471,
+  "latitude": 18.1096,
+  "pin": "pueblos-magicos/piramide-maya.png",
+  "alt": "Pirámide de Calakmul",
+  "estado": "Campeche, Guatemala",
+  "category": "sitios-arqueologicos"
+},
+{
+  "longitude": -97.3505,
+  "latitude": 20.4669,
+  "pin": "pueblos-magicos/piramide-maya.png",
+  "alt": "Pirámide de los Nichos, El Tajín",
+  "estado": "Veracruz",
+  "category": "sitios-arqueologicos"
+},
+{
+  "longitude": -98.3032,
+  "latitude": 19.0644,
+  "pin": "pueblos-magicos/piramide-maya.png",
+  "alt": "Gran Pirámide de Cholula",
+  "estado": "Puebla",
+  "category": "sitios-arqueologicos"
+},
+{
+  "longitude": -92.6259,
+  "latitude": 16.9005,
+  "pin": "pueblos-magicos/piramide-maya.png",
+  "alt": "Pirámide de Toniná",
+  "estado": "Puebla",
+  "category": "sitios-arqueologicos"
+},
+{
+  "longitude": -116.9710,
+  "latitude": 32.5411,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Tijuana",
+  "estado": "Baja California",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -115.2415,
+  "latitude": 32.6281,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional General Rodolfo Sánchez Taboada",
+  "estado": "Baja California",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -111.3475,
+  "latitude": 25.9868,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Loreto",
+  "estado": "Baja California Sur",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -110.3670,
+  "latitude": 24.1165,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Manuel Márquez de León",
+  "estado": "Baja California Sur",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -109.9212,
+  "latitude": 22.9475,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Los Cabos",
+  "estado": "Baja California Sur",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -113.5317,
+  "latitude": 31.3516,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Mar de Cortés",
+  "estado": "Sonora",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -110.9338,
+  "latitude": 31.3086,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional General Ignacio Pesqueira García",
+  "estado": "Sonora",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -111.0476,
+  "latitude": 29.0954,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Hermosillo",
+  "estado": "Sonora",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -110.8611,
+  "latitude": 27.9709,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional General José María Yáñez",
+  "estado": "Sonora",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -108.9876,
+  "latitude": 25.6853,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Federal del Valle del Fuerte",
+  "estado": "Sinaloa",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -107.4747,
+  "latitude": 24.7645,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Federal de Culiacán",
+  "estado": "Sinaloa",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -106.2661,
+  "latitude": 23.1611,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Mazatlán",
+  "estado": "Sinaloa",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -106.4389,
+  "latitude": 31.6315,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Abraham González",
+  "estado": "Chihuahua",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -101.9089,
+  "latitude": 29.3233,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Piedras Negras",
+  "estado": "Coahuila",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -102.3103,
+  "latitude": 25.5499,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Francisco Sarabia",
+  "estado": "Coahuila",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -101.0226,
+  "latitude": 25.5688,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Plan de Guadalupe",
+  "estado": "Coahuila",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -100.9790,
+  "latitude": 25.5495,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Saltillo",
+  "estado": "Coahuila",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -100.1057,
+  "latitude": 25.7784,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional General Mariano Escobedo",
+  "estado": "Nuevo León",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -99.5164,
+  "latitude": 27.4364,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Quetzalcóatl",
+  "estado": "Tamaulipas",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -98.2366,
+  "latitude": 26.0089,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional General Lucio Blanco",
+  "estado": "Tamaulipas",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -97.5250,
+  "latitude": 25.8732,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional General Servando Canales",
+  "estado": "Tamaulipas",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -97.0864,
+  "latitude": 25.7691,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional General Francisco Javier Mina",
+  "estado": "Tamaulipas",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -97.4455,
+  "latitude": 22.0457,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Nacional de Tampico",
+  "estado": "Tamaulipas",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -98.6479,
+  "latitude": 21.7476,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Nacional de Tamuín",
+  "estado": "Tamaulipas",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -102.5753,
+  "latitude": 22.7709,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional General Leobardo C. Ruiz",
+  "estado": "Zacatecas",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -104.8535,
+  "latitude": 21.4966,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Amado Nervo",
+  "estado": "Nayarit",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -105.2479,
+  "latitude": 20.6801,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Lic. Gustavo Díaz Ordaz",
+  "estado": "Jalisco",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -103.3020,
+  "latitude": 20.5210,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Guadalajara",
+  "estado": "Jalisco",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -104.3188,
+  "latitude": 19.1434,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Manzanillo",
+  "estado": "Colima",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -103.6154,
+  "latitude": 19.2773,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Colima",
+  "estado": "Colima",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -102.2955,
+  "latitude": 21.7024,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Aguascalientes",
+  "estado": "Aguascalientes",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -100.9756,
+  "latitude": 22.1401,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Ponciano Arriaga",
+  "estado": "San Luis Potosí",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -101.4809,
+  "latitude": 20.9935,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional del Bajío",
+  "estado": "Guanajuato",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -101.0253,
+  "latitude": 19.8497,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional General Francisco J. Mujica",
+  "estado": "Michoacán",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -101.4788,
+  "latitude": 17.6045,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Ixtapa-Zihuatanejo",
+  "estado": "Guerrero",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -99.7678,
+  "latitude": 16.7612,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Acapulco",
+  "estado": "Guerrero",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -99.5001,
+  "latitude": 17.5564,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Chilpancingo",
+  "estado": "Guerrero",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -100.4578,
+  "latitude": 20.6170,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Querétaro",
+  "estado": "Querétaro",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -99.5690,
+  "latitude": 19.3376,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Toluca",
+  "estado": "Estado de México",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -97.3847,
+  "latitude": 18.4431,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Tehuacán",
+  "estado": "Puebla",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -98.3715,
+  "latitude": 19.1580,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Puebla",
+  "estado": "Puebla",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -99.0720,
+  "latitude": 19.4360,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Benito Juárez",
+  "estado": "CDMX",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -99.2376,
+  "latitude": 18.9242,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Cuernavaca",
+  "estado": "Morelos",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -97.0855,
+  "latitude": 20.5419,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de El Tajín",
+  "estado": "Veracruz",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -96.7414,
+  "latitude": 19.5020,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Xalapa",
+  "estado": "Veracruz",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -96.1856,
+  "latitude": 19.1420,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Veracruz",
+  "estado": "Veracruz",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -96.7297,
+  "latitude": 17.0001,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Oaxaca",
+  "estado": "Oaxaca",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -96.2590,
+  "latitude": 15.7754,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Bahías de Huatulco",
+  "estado": "Oaxaca",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -97.0876,
+  "latitude": 15.8747,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Puerto Escondido",
+  "estado": "Oaxaca",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -93.1112,
+  "latitude": 16.7412,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Ángel Albino Corzo",
+  "estado": "Chiapas",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -92.7129,
+  "latitude": 16.7370,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de San Cristóbal de las Casas",
+  "estado": "Chiapas",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -92.2352,
+  "latitude": 14.7943,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Tapachula",
+  "estado": "Chiapas",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -92.9303,
+  "latitude": 17.9970,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Villahermosa",
+  "estado": "Tabasco",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -91.8233,
+  "latitude": 18.6496,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Ciudad del Carmen",
+  "estado": "Campeche",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -90.5353,
+  "latitude": 19.8347,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Campeche",
+  "estado": "Campeche",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -89.6572,
+  "latitude": 20.9320,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional Manuel Crescencio Rejón",
+  "estado": "Yucatán",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -86.8769,
+  "latitude": 21.1619,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Cancún",
+  "estado": "Quintana Roo",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -86.9334,
+  "latitude": 20.5110,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Cozumel",
+  "estado": "Quintana Roo",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -88.3050,
+  "latitude": 18.5115,
+  "pin": "pueblos-magicos/aeropuerto.svg",
+  "alt": "Aeropuerto Internacional de Chetumal",
+  "estado": "Quintana Roo",
+  "category": "aeropuerto"
+},
+{
+  "longitude": -89.8306,
+  "latitude": 18.1508,
+  "pin": "pueblos-magicos/maya.svg",
+  "alt": "Calakmul",
+  "estado": "Campeche",
+  "category": "ruta-mundo-maya"
+},
+{
+  "longitude": -88.7628,
+  "latitude": 20.6829,
+  "pin": "pueblos-magicos/maya.svg",
+  "alt": "Chichén Itzá",
+  "estado": "Yucatán",
+  "category": "ruta-mundo-maya"
+},
+{
+  "longitude": -87.4682,
+  "latitude": 20.2119,
+  "pin": "pueblos-magicos/maya.svg",
+  "alt": "Tulum",
+  "estado": "Quintana Roo",
+  "category": "ruta-mundo-maya"
+},
+{
+  "longitude": -93.1975,
+  "latitude": 18.2554,
+  "pin": "pueblos-magicos/maya.svg",
+  "alt": "Comalcalco",
+  "estado": "Tabasco",
+  "category": "ruta-mundo-maya"
+},
+{
+  "longitude": -91.9845,
+  "latitude": 17.5333,
+  "pin": "pueblos-magicos/maya.svg",
+  "alt": "Palenque",
+  "estado": "Chiapas",
+  "category": "ruta-mundo-maya"
+},
+{
+  "longitude": -106.5583,
+  "latitude": 21.5606,
+  "pin": "pueblos-magicos/islas.svg",
+  "alt": "Islas Marías",
+  "estado": "Nayarit",
+  "category": "islas-marias"
+},
+{
+  "longitude": -102.2946,
+  "latitude": 21.8823,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Camino Real de Tierra Adentro",
+  "estado": "Aguascalientes",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -114.5,
+  "latitude": 27.5,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Santuario de ballenas de El Vizcaíno",
+  "estado": "Baja California Sur",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -112.9167,
+  "latitude": 27.5,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Pinturas rupestres de la Sierra de San Francisco",
+  "estado": "Baja California Sur",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -112.9167,
+  "latitude": 27.5,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Islas y Áreas protegidas del Golfo de California",
+  "estado": "Baja California Sur",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -114.4167,
+  "latitude": 29.7500,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Islas y Áreas protegidas del Golfo de California",
+  "estado": "Baja California Norte",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -112.7167,
+  "latitude": 18.7500,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Archipiélago de Revillagigedo",
+  "estado": "Baja California Sur",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -90.5361,
+  "latitude": 19.8436,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Ciudad histórica fortificada de Campeche",
+  "estado": "Campeche",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -89.8435,
+  "latitude": 18.1084,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Antigua Ciudad Maya y bosques tropicales protegidos de Calakmul",
+  "estado": "Campeche",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -92.0455,
+  "latitude": 17.4856,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Ciudad prehispánica y Parque Nacional de Palenque",
+  "estado": "Chiapas",
+  "category": "sitios-patrimonio"
+},{
+  "longitude": -107.9155,
+  "latitude": 30.3668,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Zona arqueológica de Paquimé",
+  "estado": "Chihuahua",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -105.2167,
+  "latitude": 28.3833,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Camino Real de Tierra Adentro",
+  "estado": "Chihuahua",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -99.1332,
+  "latitude": 19.4326,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Centro Histórico de México",
+  "estado": "Ciudad de México",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -99.1332,
+  "latitude": 19.2577,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Xochimilco",
+  "estado": "Ciudad de México",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -99.1977,
+  "latitude": 19.4153,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Casa-Taller de Luis Barragán",
+  "estado": "Ciudad de México",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -99.1867,
+  "latitude": 19.3270,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Campus Central de la Ciudad Universitaria de la Universidad Autónoma de México",
+  "estado": "Ciudad de México",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -112.7167,
+  "latitude": 18.7500,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Archipiélago de Revillagigedo",
+  "estado": "Colima",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -104.6677,
+  "latitude": 24.0277,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Camino Real de Tierra Adentro",
+  "estado": "Durango",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -98.8387,
+  "latitude": 19.6927,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Ciudad Prehispánica de Teotihuacán",
+  "estado": "Estado de México",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -99.8776,
+  "latitude": 19.4074,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Camino Real de Tierra Adentro",
+  "estado": "Estado de México",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -98.9519,
+  "latitude": 19.8967,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Sistema hidráulico del acueducto del Padre Tembleque",
+  "estado": "Estado de México",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -101.2523,
+  "latitude": 21.019,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Ciudad Histórica de Guanajuato",
+  "estado": "Guanajuato",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -101.2586,
+  "latitude": 21.0196,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Minas adyacentes",
+  "estado": "Guanajuato",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -100.7442,
+  "latitude": 20.9144,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Villa Protectora de San Miguel el Grande y Santuario de Jesús Nazareno de Atotonilco",
+  "estado": "Guanajuato",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -100.8124,
+  "latitude": 21.018,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Camino Real de Tierra Adentro",
+  "estado": "Guanajuato",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -99.3424,
+  "latitude": 20.1582,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Camino Real de Tierra Adentro",
+  "estado": "Hidalgo",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -98.8426,
+  "latitude": 19.8817,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Sistema hidráulico del acueducto del Padre Tembleque",
+  "estado": "Hidalgo",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -103.3465,
+  "latitude": 20.6753,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Hospicio Cabañas de Guadalajara",
+  "estado": "Jalisco",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -103.8331,
+  "latitude": 20.8836,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Paisaje de agaves y antiguas instalaciones industriales de Tequila",
+  "estado": "Jalisco",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -103.7397,
+  "latitude": 20.9144,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Camino Real de Tierra Adentro",
+  "estado": "Jalisco",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -100.2229,
+  "latitude": 19.5843,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Reserva de biósfera de la mariposa monarca",
+  "estado": "Michoacán",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -101.1912,
+  "latitude": 19.7027,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Centro histórico de Morelia",
+  "estado": "Michoacán",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -99.2993,
+  "latitude": 18.8322,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Zona de monumentos arqueológicos de Xochicalco",
+  "estado": "Morelos",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -96.7216,
+  "latitude": 17.0636,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Centro histórico de Oaxaca",
+  "estado": "Oaxaca",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -96.7647,
+  "latitude": 17.0469,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Zona arqueológica de Monte Albán",
+  "estado": "Oaxaca",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -96.3625,
+  "latitude": 16.9675,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Cuevas prehistóricas de Yagul y Mitla",
+  "estado": "Oaxaca",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -97.5608,
+  "latitude": 17.5328,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Valle de Tehuacán - Cuicatlán - Hábitat originario de Mesoamérica",
+  "estado": "Oaxaca",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -98.2063,
+  "latitude": 19.0436,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Centro histórico de Puebla",
+  "estado": "Puebla",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -98.6241,
+  "latitude": 19.0037,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Primeros monasterios del siglo XVI en las laderas del Popocatépetl",
+  "estado": "Puebla",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -97.8278,
+  "latitude": 18.5622,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Valle de Tehuacán - Cuicatlán - Hábitat originario de Mesoamérica",
+  "estado": "Puebla",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -100.3953,
+  "latitude": 20.5911,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Zona de Monumentos Históricos de Querétaro",
+  "estado": "Querétaro",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -99.7635,
+  "latitude": 21.0726,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Misiones Franciscanas de la Sierra Gorda de Querétaro",
+  "estado": "Querétaro",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -100.3883,
+  "latitude": 20.5911,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Camino Real de Tierra Adentro en Querétaro",
+  "estado": "Querétaro",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -87.7586,
+  "latitude": 19.3662,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Sian Ka'an",
+  "estado": "Quintana Roo",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -100.9855,
+  "latitude": 22.1565,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Camino Real de Tierra Adentro en San Luis Potosí",
+  "estado": "San Luis Potosí",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -113.5673,
+  "latitude": 31.7244,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Reserva de Biosfera El Pinacate y Gran Desierto de Altar",
+  "estado": "Sonora",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -97.3811,
+  "latitude": 20.4622,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Ciudad Prehispánica de El Tajín",
+  "estado": "Veracruz",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -95.6664,
+  "latitude": 18.6151,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Zona de Monumentos Históricos de Tlacotalpán",
+  "estado": "Veracruz",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -88.5686,
+  "latitude": 20.6831,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Ciudad Prehispánica de Chichén-Itzá",
+  "estado": "Yucatán",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -89.6223,
+  "latitude": 20.3606,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Ciudad Prehispánica de Uxmal",
+  "estado": "Yucatán",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -102.5561,
+  "latitude": 22.7709,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Centro Histórico de Zacatecas",
+  "estado": "Zacatecas",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -102.5809,
+  "latitude": 23.2433,
+  "pin": "pueblos-magicos/sitios.svg",
+  "alt": "Camino Real de Tierra Adentro",
+  "estado": "Zacatecas",
+  "category": "sitios-patrimonio"
+},
+{
+  "longitude": -90.3998,
+  "latitude": 18.6149,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Escárcega",
+  "estado": "Campeche",
+  "category": "tren-maya"
+},
+{
+  "longitude": -90.0616,
+  "latitude": 18.7071,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Candelaria",
+  "estado": "Campeche",
+  "category": "tren-maya"
+},
+{
+  "longitude": -89.2171,
+  "latitude": 18.5363,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Carrillo Puerto",
+  "estado": "Campeche",
+  "category": "tren-maya"
+},
+{
+  "longitude": -90.5132,
+  "latitude": 19.1459,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Edzná",
+  "estado": "Campeche",
+  "category": "tren-maya"
+},
+{
+  "longitude": -90.5389,
+  "latitude": 19.8301,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "San Francisco de Campeche",
+  "estado": "Campeche",
+  "category": "tren-maya"
+},
+{
+  "longitude": -90.1834,
+  "latitude": 20.1557,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Tenabo",
+  "estado": "Campeche",
+  "category": "tren-maya"
+},{
+  "longitude": -90.1145,
+  "latitude": 20.2043,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Hecelchakán",
+  "estado": "Campeche",
+  "category": "tren-maya"
+},{
+  "longitude": -90.0234,
+  "latitude": 20.3923,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Calkiní",
+  "estado": "Campeche",
+  "category": "tren-maya"
+},
+{
+  "longitude": -89.9932,
+  "latitude": 20.5196,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Conhuas",
+  "estado": "Campeche",
+  "category": "tren-maya"
+},
+{
+  "longitude": -89.9608,
+  "latitude": 20.6339,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Centenario",
+  "estado": "Campeche",
+  "category": "tren-maya"
+},
+{
+  "longitude": -92.6389,
+  "latitude": 16.7370,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "San Cristóbal de las Casas",
+  "estado": "Chiapas",
+  "category": "tren-maya"
+},
+{
+  "longitude": -93.0226,
+  "latitude": 17.0162,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Copainalá",
+  "estado": "Chiapas",
+  "category": "tren-maya"
+},
+{
+  "longitude": -93.4183,
+  "latitude": 16.7742,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Ocozocoautla de Espinos",
+  "estado": "Chiapas",
+  "category": "tren-maya"
+},
+{
+  "longitude": -86.8742,
+  "latitude": 21.0376,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Cancún Aeropuerto",
+  "estado": "Quintana Roo",
+  "category": "tren-maya"
+},
+{
+  "longitude": -86.8530,
+  "latitude": 20.8499,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Puerto Morelos",
+  "estado": "Quintana Roo",
+  "category": "tren-maya"
+},
+{
+  "longitude": -87.0728,
+  "latitude": 20.6296,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "category": "tren-maya"
+},
+{
+  "longitude": -87.4662,
+  "latitude": 20.2114,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Tulum",
+  "estado": "Quintana Roo",
+  "category": "tren-maya"
+},
+{
+  "longitude": -87.5217,
+  "latitude": 20.2176,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Tulum Aeropuerto",
+  "estado": "Quintana Roo",
+  "category": "tren-maya"
+},
+{
+  "longitude": -87.6252,
+  "latitude": 20.5867,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Xcaret",
+  "estado": "Quintana Roo",
+  "category": "tren-maya"
+},
+{
+  "longitude": -87.2711,
+  "latitude": 20.5003,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Puerto Aventuras",
+  "estado": "Quintana Roo",
+  "category": "tren-maya"
+},
+{
+  "longitude": -87.3036,
+  "latitude": 20.3965,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Akumal",
+  "estado": "Quintana Roo",
+  "category": "tren-maya"
+},
+{
+  "longitude": -88.1854,
+  "latitude": 18.6816,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Bacalar",
+  "estado": "Quintana Roo",
+  "category": "tren-maya"
+},
+{
+  "longitude": -88.3034,
+  "latitude": 18.5095,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Chetumal",
+  "estado": "Quintana Roo",
+  "category": "tren-maya"
+},
+{
+  "longitude": -88.1832,
+  "latitude": 18.4748,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Limones",
+  "estado": "Quintana Roo",
+  "category": "tren-maya"
+},
+{
+  "longitude": -88.3035,
+  "latitude": 18.5134,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Othon P. Blanco",
+  "estado": "Quintana Roo",
+  "category": "tren-maya"
+},
+{
+  "longitude": -91.6622,
+  "latitude": 18.5145,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Frontera",
+  "estado": "Tabasco",
+  "category": "tren-maya"
+},
+{
+  "longitude": -92.9475,
+  "latitude": 17.5104,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Teapa",
+  "estado": "Tabasco",
+  "category": "tren-maya"
+},
+{
+  "longitude": -89.6612,
+  "latitude": 20.9384,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Mérida Aeropuerto",
+  "estado": "Yucatán",
+  "category": "tren-maya"
+},
+{
+  "longitude": -88.9711,
+  "latitude": 20.8758,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Teya",
+  "estado": "Yucatán",
+  "category": "tren-maya"
+},
+{
+  "longitude": -89.0088,
+  "latitude": 20.9363,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Izamal",
+  "estado": "Yucatán",
+  "category": "tren-maya"
+},
+{
+  "longitude": -89.5959,
+  "latitude": 20.4408,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Maxcanú",
+  "estado": "Yucatán",
+  "category": "tren-maya"
+},
+{
+  "longitude": -89.4317,
+  "latitude": 20.9466,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Tixkokob",
+  "estado": "Yucatán",
+  "category": "tren-maya"
+},
+{
+  "longitude": -88.7556,
+  "latitude": 20.6832,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Chichén Itzá",
+  "estado": "Yucatán",
+  "category": "tren-maya"
+},
+{
+  "longitude": -88.2041,
+  "latitude": 20.6792,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Valladolid",
+  "estado": "Yucatán",
+  "category": "tren-maya"
+},
+{
+  "longitude": -88.5334,
+  "latitude": 20.4864,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Nuevo Xcán",
+  "estado": "Yucatán",
+  "category": "tren-maya"
+},
+{
+  "longitude": -87.9153,
+  "latitude": 20.6628,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Xibalbá",
+  "estado": "Yucatán",
+  "category": "tren-maya"
+},
+{
+  "longitude": -88.7787,
+  "latitude": 21.1095,
+  "pin": "pueblos-magicos/tren-maya.svg",
+  "alt": "Leona Vicario",
+  "estado": "Yucatán",
+  "category": "tren-maya"
+},
+{
+  "longitude": -115.493585,
+  "latitude": 32.6628422,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "La Chinesca",
+  "estado": "Baja California"
+},
+{
+  "longitude": -106.0816,
+  "latitude": 28.6353,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "Centro Histórico",
+  "estado": "Chihuahua",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -99.1282,
+  "latitude": 19.2592,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "El Barrio de Xochimilco",
+  "estado": "Ciudad de México",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -99.2985,
+  "latitude": 17.4763,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "El Santuario en Tixtla",
+  "estado": "Guerrero",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -98.6949,
+  "latitude": 20.0916,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "El Arbolito",
+  "estado": "Hidalgo",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -102.0619,
+  "latitude": 19.4185,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "Barrio de San Pedro",
+  "estado": "Michoacán",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -100.3138,
+  "latitude": 25.6714,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "Barrio Antiguo",
+  "estado": "Nuevo León",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -96.9197,
+  "latitude": 17.0647,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "Barrio de Jalatlaco",
+  "estado": "Oaxaca",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -88.1870,
+  "latitude": 18.5037,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "Centro Histórico de Chetumal",
+  "estado": "Quintana Roo",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -100.9885,
+  "latitude": 22.1514,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "El Barrio de Tlaxcala",
+  "estado": "San Luis Potosí",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -110.9233,
+  "latitude": 29.0828,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "Villa de Seris",
+  "estado": "Sonora",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -92.2467,
+  "latitude": 17.9928,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "Zona Luz",
+  "estado": "Tabasco",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -98.122,
+  "latitude": 19.4197,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "Apizaco",
+  "estado": "Tlaxcala",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -96.9851,
+  "latitude": 19.4665,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "Xallitic",
+  "estado": "Veracruz",
+  "category": "barrios-magicos"
+},
+{
+  "longitude": -89.6381,
+  "latitude": 20.9676,
+  "pin": "pueblos-magicos/barrios.svg",
+  "alt": "Ermita de Santa Isabel, Xcalachén y San Sebastián",
+  "estado": "Mérida",
+  "category": "barrios-magicos"
+}
+
+
+
+  
+
+],
+"downloadLink": "https://visitmexico.com/recursos/mapa_actualizado_es.pdf",
+"mapaDescarga": "Téléchargez ici",
+"staticItems": [
+  {
+    "nombreItem": "Pueblos Mágicos",
+    "acotacionImg": "logo_pin.svg",
+    "filterKey": "pueblos-magicos"
+  },
+  {
+    "nombreItem": "Villes Patrimoniales",
+    "acotacionImg": "logo_ciudades_pin.svg",
+    "filterKey": "ciudades-patrimonio"
+  },
+  {
+    "nombreItem": "Route du Monde Maya ",
+    "acotacionImg": "maya.svg",
+    "filterKey": "ruta-mundo-maya"
+  },
+  {
+    "nombreItem": "Barrios Mágicos",
+    "acotacionImg": "barrios.svg",
+    "filterKey": "barrios-magicos"
+  },
+  {
+    "nombreItem": "Sities archéologiques",
+    "acotacionImg": "piramide-maya.png",
+    "filterKey": "sitios-arqueologicos"
+  },
+  {
+    "nombreItem": "Chemin de fer El Chepe",
+    "acotacionImg": "tren.png",
+    "filterKey": "ferrocarril-chepe"
+  },
+  {
+    "nombreItem": "Aérport",
+    "acotacionImg": "aeropuerto.svg",
+    "filterKey": "aeropuerto"
+  },
+  {
+    "nombreItem": "Des palges",
+    "acotacionImg": "palmera.png",
+    "filterKey": "playas"
+  },
+  
+  {
+    "nombreItem": "îles Marias",
+    "acotacionImg": "islas.svg",
+    "filterKey": "islas-marias"
+  },
+  {
+    "nombreItem": "Sites du patrimoine",
+    "acotacionImg": "sitios.svg",
+    "filterKey": "sitios-patrimonio"
+  },
+  {
+    "nombreItem": "Train Maya",
+    "acotacionImg": "tren-maya.svg",
+    "filterKey": "tren-maya"
+  }
+]
+ }
+
+  

@@ -1,0 +1,663 @@
+.interactive-day-dead-ctn {
+	box-sizing: border-box;
+	height: 100%;
+	width: 100%;
+	background: var(--pink);
+	padding: 32px;
+	background-image: url('../../assets/img/header/Fondorosa.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 160px;
+	padding: 160px 0 32px 0;
+}
+
+.interactive-day-dead-title {
+	font-size: var(--txt-title-xl);
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+	background: var(--pink);
+	padding: 32px;
+	margin: 0;
+	color: var(--white);
+	text-align: center;
+}
+
+.interactive-day-dead-indications {
+	font-size: 16px;
+	margin-top: 32px;
+	text-align: center;
+}
+
+.interactive-day-dead-ctn-content {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+.interactive-day-dead-ctn-offering {
+	height: 430px;
+	width: 1280px;
+	position: relative;
+}
+
+.interactive-day-dead-ctn-back-img {
+	height: 100%;
+	width: 100%;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.interactive-day-dead-back-img {
+	/*height: 559px;*/
+	height: 430px;
+	width: 1280px;
+	object-fit: cover;
+	aspect-ratio: auto;
+}
+ 
+/* grid */
+.interactive-day-dead-ctn-principal {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	display: grid;
+	grid-template-areas: 
+	"confettileft .     .     .       .       .     .    .      .        .            confettiright"
+	".            .     .     tequila jarrito .   craneo .      retrato  velasright   ."
+	"flowersLeft  glass copal tequila velas   pan craneo comida panright flowersright calaveraright";
+	top: 0;
+	left: 0;
+}
+
+/* confetti left */
+.interactive-day-dead-ctn-confetti-left-img {
+    grid-area: confettileft;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+    z-index: 1;
+    height: 140px;
+    min-width: 253px;
+}
+
+.interactive-day-dead-ctn-confetti-left-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-confetti-left-img:hover .interactive-day-dead-ctn-tooltip-confetti-left-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-confetti-left-img {
+    display: none;
+}
+
+.interactive-day-dead-confetti-left-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* flowers left*/
+.interactive-day-dead-ctn-flowers-left-img {
+    grid-area: flowersLeft;
+    position: absolute;
+    top: -60%;
+    left: 10%;
+    cursor: pointer;
+    z-index: 1;
+    height: 120px;
+    width: 160px;
+}
+
+.interactive-day-dead-ctn-flowers-left-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-flowers-left-img:hover .interactive-day-dead-ctn-tooltip-flowers-left-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-flowers-left-img {
+    display: none;
+}
+
+.interactive-day-dead-flowers-left-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* glass */
+.interactive-day-dead-ctn-glass-left-img {
+    grid-area: glass;
+    position: absolute;
+    top: -40%;
+    left: 0;
+    cursor: pointer;
+    z-index: 1;
+    height: 100px;
+    width: 70px;
+}
+
+.interactive-day-dead-ctn-glass-left-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-glass-left-img:hover .interactive-day-dead-ctn-tooltip-glass-left-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-glass-left-img {
+    display: none;
+}
+
+.interactive-day-dead-glass-left-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* copal */
+.interactive-day-dead-ctn-copal-left-img {
+    grid-area: copal;
+    position: absolute;
+    top: -95%;
+    left: -60%;
+    cursor: pointer;
+    z-index: 1;
+    height: 170px;
+    width: 100px;
+}
+
+.interactive-day-dead-ctn-copal-left-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-copal-left-img:hover .interactive-day-dead-ctn-tooltip-copal-left-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-copal-left-img {
+    display: none;
+}
+
+.interactive-day-dead-copal-left-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* tequila */
+.interactive-day-dead-ctn-tequila-left-img {
+    grid-area: tequila;
+    position: absolute;
+    top: -14%;
+    left: -115%;
+    cursor: pointer;
+    z-index: 0;
+    height: 220px;
+    width: 140px;
+}
+
+.interactive-day-dead-ctn-tequila-left-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-tequila-left-img:hover .interactive-day-dead-ctn-tooltip-tequila-left-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-tequila-left-img {
+    display: none;
+}
+
+.interactive-day-dead-tequila-left-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* jarrito */
+.interactive-day-dead-ctn-jarrito-left-img {
+    grid-area: jarrito;
+    position: absolute;
+    top: -15%;
+    left: -140%;
+    cursor: pointer;
+    z-index: 1;
+    height: 120px;
+    width: 90px;
+}
+
+.interactive-day-dead-ctn-jarrito-left-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-jarrito-left-img:hover .interactive-day-dead-ctn-tooltip-jarrito-left-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-jarrito-left-img {
+    display: none;
+}
+
+.interactive-day-dead-jarrito-left-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* velas */
+.interactive-day-dead-ctn-velas-left-img {
+    grid-area: velas;
+    position: absolute;
+    top: -100%;
+    left: -90%;
+    cursor: pointer;
+    z-index: 1;
+    height: 180px;
+    width: 120px;
+}
+
+.interactive-day-dead-ctn-velas-left-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-velas-left-img:hover .interactive-day-dead-ctn-tooltip-velas-left-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-velas-left-img {
+    display: none;
+}
+
+.interactive-day-dead-velas-left-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* pan */
+.interactive-day-dead-ctn-pan-left-img {
+    grid-area: pan;
+    position: absolute;
+    top: -40%;
+    left: -120%;
+    cursor: pointer;
+    z-index: 1;
+    height: 120px;
+    width: 100px;
+}
+
+.interactive-day-dead-ctn-pan-left-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-pan-left-img:hover .interactive-day-dead-ctn-tooltip-pan-left-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-pan-left-img {
+    display: none;
+}
+
+.interactive-day-dead-pan-left-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* craneo */
+.interactive-day-dead-ctn-craneo-center-img {
+    grid-area: craneo;
+    position: absolute;
+    top: -40%;
+    left: -180%;
+    cursor: pointer;
+    z-index: 1;
+    height: 300px;
+    width: 280px;
+}
+
+.interactive-day-dead-ctn-craneo-center-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-craneo-center-img:hover .interactive-day-dead-ctn-tooltip-craneo-center-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-craneo-center-img {
+    display: none;
+}
+
+.interactive-day-dead-craneo-center-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* comida */
+.interactive-day-dead-ctn-comida-right-img {
+    grid-area: comida;
+    position: absolute;
+    top: -80%;
+    left: -80%;
+    cursor: pointer;
+    z-index: 1;
+    height: 200px;
+    width: 240px;
+}
+
+.interactive-day-dead-ctn-comida-right-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-comida-right-img:hover .interactive-day-dead-ctn-tooltip-comida-right-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-comida-right-img {
+    display: none;
+}
+
+.interactive-day-dead-comida-right-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* retrato */
+.interactive-day-dead-ctn-retrato-right-img {
+    grid-area: retrato;
+    position: absolute;
+    top: -90%;
+    left: -100%;
+    cursor: pointer;
+    z-index: 1;
+    height: 220px;
+    width: 170px;
+}
+
+.interactive-day-dead-ctn-retrato-right-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-retrato-right-img:hover .interactive-day-dead-ctn-tooltip-retrato-right-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-retrato-right-img {
+    display: none;
+}
+
+.interactive-day-dead-retrato-right-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* pan */
+.interactive-day-dead-ctn-pan-right-img {
+    grid-area: panright;
+    position: absolute;
+    top: -80%;
+    left: -20%;
+    cursor: pointer;
+    z-index: 1;
+    height: 160px;
+    width: 120px;
+}
+
+.interactive-day-dead-ctn-pan-right-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-pan-right-img:hover .interactive-day-dead-ctn-tooltip-pan-right-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-pan-right-img {
+    display: none;
+}
+
+.interactive-day-dead-pan-right-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* velas */
+.interactive-day-dead-ctn-velas-right-img {
+    grid-area: velasright;
+    position: absolute;
+    top: -70%;
+    left: -50%;
+    cursor: pointer;
+    z-index: 1;
+    height: 220px;
+    width: 180px;
+}
+
+.interactive-day-dead-ctn-velas-right-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-velas-right-img:hover .interactive-day-dead-ctn-tooltip-velas-right-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-velas-right-img {
+    display: none;
+}
+
+.interactive-day-dead-velas-right-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* flowers */
+.interactive-day-dead-ctn-flowers-right-img {
+    grid-area: flowersright;
+    position: absolute;
+    top: -50%;
+    left: -30%;
+    cursor: pointer;
+    z-index: 1;
+    height: 160px;
+    width: 120px;
+}
+
+.interactive-day-dead-ctn-flowers-right-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-flowers-right-img:hover .interactive-day-dead-ctn-tooltip-flowers-right-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-flowers-right-img {
+    display: none;
+}
+
+.interactive-day-dead-flowers-right-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* calavera */
+.interactive-day-dead-ctn-calavera-right-img {
+    grid-area: calaveraright;
+    position: absolute;
+    top: -90%;
+    right: 10%;
+    cursor: pointer;
+    z-index: 0;
+    height: 260px;
+    width: 180px;
+}
+
+.interactive-day-dead-ctn-calavera-right-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-calavera-right-img:hover .interactive-day-dead-ctn-tooltip-calavera-right-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-calavera-right-img {
+    display: none;
+}
+
+.interactive-day-dead-calavera-right-img {
+    height: 100%;
+    width: 100%;
+}
+
+/* confetti tight*/
+.interactive-day-dead-ctn-confetti-right-img {
+    grid-area: confettiright;
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+    z-index: 1;
+    height: 140px;
+    min-width: 253px;
+}
+
+.interactive-day-dead-ctn-confetti-right-img:hover {
+    z-index: 9;
+}
+
+.interactive-day-dead-ctn-confetti-right-img:hover .interactive-day-dead-ctn-tooltip-confetti-right-img {
+    max-height: 100%;
+    width: 220px;
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    background: var(--white);
+    border-radius: 9px;
+    padding: 9px;
+    display: flex;
+}
+
+.interactive-day-dead-ctn-tooltip-confetti-right-img {
+    display: none;
+}
+
+.interactive-day-dead-confetti-right-img {
+    height: 100%;
+    width: 100%;
+}

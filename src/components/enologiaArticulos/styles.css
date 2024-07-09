@@ -1,0 +1,48 @@
+.container-enologia-articulos {
+    padding: 20px;
+  }
+  
+  .enologia-articulos-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px; /* Espacio entre filas */
+  }
+  
+  .enologia-articulos-row .enologia-articulos-left-column,
+  .enologia-articulos-row .enologia-articulos-right-column {
+    flex: 1;
+    padding: 0 10px; /* Espacio alrededor de las columnas */
+  }
+  
+  .enologia-articulos-subtitle {
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 10px; /* Espacio entre el título y el párrafo */
+  }
+  
+  .enologia-articulos-paragraph {
+    font-size: 20px;
+    line-height: 1.5; /* Espaciado entre líneas */
+    text-align: justify; /* Texto justificado */
+  }
+  
+  .lazy-loaded-image-articulos-eno {
+    width: 100%;
+    height: auto;
+    border-radius: 10px; /* Bordes redondeados */
+    object-fit: cover; /* Ajuste de la imagen */
+  }
+
+  
+  
+  @media screen and (max-width: 768px) {
+    .enologia-articulos-row .enologia-articulos-left-column,
+    .enologia-articulos-row .enologia-articulos-right-column {
+      flex: 100%; /* Ocupa todo el ancho en dispositivos móviles */
+    }
+
+    
+    
+    
+  }
+  

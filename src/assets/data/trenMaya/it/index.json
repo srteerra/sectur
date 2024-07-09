@@ -1,0 +1,66 @@
+{
+
+    "trenTitle1": "Scopri l'incanto del Messico sudorientale con il Treno Maya",
+    "trenP1": "Benvenuti all'ultima esperienza di viaggio nel Messico sudorientale: il Treno Maya. Unisciti a noi in un viaggio indimenticabile attraverso una giungla lussureggiante, antiche rovine Maya e splendide spiagge caraibiche. Il Treno dei Maya ti porterà a scoprire i tesori nascosti e la ricca cultura di questa affascinante regione.",
+
+    "trenTitle2": "Esplorate le meraviglie del Messico sudorientale",
+    "trenP2": "Intraprendi un viaggio alla scoperta delle meraviglie del Messico sud-orientale con il Treno Maya. Dalle giungle del Chiapas alle spiagge del Quintana Roo, questo viaggio ti porterà attraverso paesaggi spettacolari e destinazioni storiche mozzafiato.",
+
+    "trenTitle3": "Immergeti nella cultura Maya",
+    "trenP3": "Scopri la ricca storia e l'affascinante cultura degli antichi Maya viaggiando sul Treno dei Maya. Visita le imponenti rovine di Chichen Itza, Palenque e Uxmal e immergeti nel misticismo di questa antica civiltà che vive nel cuore del Messico sud-orientale.",
+
+    "trenTitle4": "Scopri l'ospitalità messicana a bordo del treno",
+    "trenP4": "Goditi dell'autentica ospitalità messicana a bordo del Tren Maya. Con strutture confortevoli, deliziosi piatti regionali e un servizio eccezionale, il tuo viaggio sarà un'esperienza unica e memorabile che ti permetterà di entrare in contatto con la gente e la cultura del Messico.",
+
+    "title": "TRENO MAYA",
+    "subTitle":"TRENO MAYA",
+    "subTitle2":"IMMAGINI",
+    "subTitle3":"VIDEO",
+    "text":"Si tratta di un nuovo servizio di trasporto ferroviario che collega le principali città e aree turistiche del Chiapas, del Tabasco e della penisola dello Yucatan. Il Treno Maya è un progetto che rafforzerà l'organizzazione territoriale della regione e darà impulso all'industria turistica della regione. Genererà ricadute economiche e aumenterà la connettività nella penisola dello Yucatan, consentendo a merci e passeggeri di spostarsi in modo efficiente.",
+    "imgUrl":"trenMaya/TulumQuintanaRoo.webp",
+    "urlVideo": "https://www.youtube.com/embed/r8EDwvRJXIE?autoplay=1&mute=1&loop=1&rel=0",
+    "subText": [
+       
+    ],
+    "gallery":[
+        {
+            "title":"",
+            "imgUrl":"trenMaya/BacalarQuintanaRoo.webp",
+            "clase":"imagen1"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/ChichenItzaYucatan.webp",
+            "clase":"imagen2"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/IzamalYucatanpan.webp",
+            "clase":"imagen3"
+        }
+    ],
+    "videos":[
+        {
+        "title":"Campeche",
+        "urlVideo":"https://www.youtube.com/embed/E8piNxUKO-4?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+        "title":"Tabasco",
+        "urlVideo":"https://www.youtube.com/embed/noJ6i36csXQ?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Chiapas",
+            "urlVideo":"https://www.youtube.com/embed/6NqOUbqmpJk?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Yucatán",
+            "urlVideo":"https://www.youtube.com/embed/aDjSaYjccbE?autoplay=0&mute=0&loop=1&rel=0"
+        },
+        {
+            "title":"Quintana Roo, Cancún",
+            "urlVideo":"https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=0&mute=0&loop=1&rel=0"
+        }
+
+    ]
+    
+}

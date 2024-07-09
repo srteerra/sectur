@@ -1,0 +1,70 @@
+.collage-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25%, 1fr));
+  gap: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.collage-container .column {
+  position: relative;
+  overflow: hidden;
+}
+
+.collage-container .image-container {
+  position: relative;
+  border-radius: 10px;
+  aspect-ratio: 4/3;
+  overflow: hidden;
+}
+
+.collage-container .collage-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.collage-container .column:hover .collage-image {
+  transform: scale(1.05);
+}
+
+.image-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0) 100%);
+  padding: 20px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  border-radius: 10px; /* Añadir borde redondeado para que coincida con la imagen */
+  display: flex; /* Hacer que el contenedor sea un contenedor flex para centrar el texto */
+  justify-content: center; /* Centrar horizontalmente el texto */
+  align-items: flex-end; /* Alinear el texto al final (parte inferior) del contenedor */
+}
+
+.image-text {
+  color: #fff;
+  margin: 0;
+  text-align: center; /* Centrar el texto horizontalmente */
+  text-transform: uppercase;
+  font-family: Roboto;
+}
+
+.column:hover .image-overlay {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .collage-container {
+    grid-template-columns: 1fr;
+  }
+
+  .collage-container .collage-image {
+    width: 100%; /* Ajustar el ancho de la imagen al 100% */
+    height: auto; /* Hacer que la altura de la imagen se ajuste automáticamente */
+    border-radius: 10px;
+  }
+}

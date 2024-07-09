@@ -1,0 +1,177 @@
+.home-the-most-viewed-ctn {
+  background: whitesmoke;
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.home-the-most-viewed-title {
+  font-size: var(--txt-title-sm);
+  text-align: center;
+  margin: 0  0 32px 0;
+  color: var(--purple);
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+}
+
+.home-the-most-viewed-ctn-sections {
+  display: block;
+  padding: 24px 32px;
+  height: 100%;
+}
+
+.home-the-most-viewed-ctn-sections-card-0,
+.home-the-most-viewed-ctn-sections-card-1,
+.home-the-most-viewed-ctn-sections-card-2,
+.home-the-most-viewed-ctn-sections-card-3,
+.home-the-most-viewed-ctn-sections-card-4 {
+  box-sizing: border-box;
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+  height: 187px;
+  margin-bottom: 32px;
+}
+
+.home-the-most-viewed-ctn-sections-card-0:hover .home-the-most-viewed-sections-card-img,
+.home-the-most-viewed-ctn-sections-card-1:hover .home-the-most-viewed-sections-card-img,
+.home-the-most-viewed-ctn-sections-card-2:hover .home-the-most-viewed-sections-card-img,
+.home-the-most-viewed-ctn-sections-card-3:hover .home-the-most-viewed-sections-card-img,
+.home-the-most-viewed-ctn-sections-card-4:hover .home-the-most-viewed-sections-card-img {
+  transform: scale(1.2);
+  transition: 0.4s;
+}
+
+.home-the-most-viewed-sections-card-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.home-the-most-viewed-ctn-sections-card-hover {
+  display: none;
+}
+
+.home-the-most-viewed-sections-card-hover-title {
+  color: #fff;
+  font-weight: 700;
+  font-size: var(--txt-h2-xl);
+  text-align: center;
+}
+
+.home-the-most-viewed-ctn-sections-card-0 .home-the-most-viewed-ctn-sections-card-hover,
+.home-the-most-viewed-ctn-sections-card-1 .home-the-most-viewed-ctn-sections-card-hover,
+.home-the-most-viewed-ctn-sections-card-2 .home-the-most-viewed-ctn-sections-card-hover,
+.home-the-most-viewed-ctn-sections-card-3 .home-the-most-viewed-ctn-sections-card-hover,
+.home-the-most-viewed-ctn-sections-card-4 .home-the-most-viewed-ctn-sections-card-hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, .3);
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-the-most-viewed-ctn-sections-card-0:hover .home-the-most-viewed-ctn-sections-card-hover,
+.home-the-most-viewed-ctn-sections-card-1:hover .home-the-most-viewed-ctn-sections-card-hover,
+.home-the-most-viewed-ctn-sections-card-2:hover .home-the-most-viewed-ctn-sections-card-hover,
+.home-the-most-viewed-ctn-sections-card-3:hover .home-the-most-viewed-ctn-sections-card-hover,
+.home-the-most-viewed-ctn-sections-card-4:hover .home-the-most-viewed-ctn-sections-card-hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, .5);
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (min-width: 744px) {  
+  .home-the-most-viewed-title {
+    font-size: var(--txt-title-md);
+  }
+  
+  .home-the-most-viewed-ctn-sections {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: 
+      "a a b c"
+      "a a d e";
+    gap: 20px;
+    padding: 120px 32px 0 32px;
+    background-image: url('../../assets/img/header/liston-azul.webp');
+    background-repeat: no-repeat;
+    background-size: 100% 80px;
+    background-position: top;
+    height: 400px;
+  }
+  
+  .home-the-most-viewed-ctn-sections-card-0 {
+    grid-area: a;
+  }
+  
+  .home-the-most-viewed-ctn-sections-card-1{
+    grid-area: b;
+  }
+  
+  .home-the-most-viewed-ctn-sections-card-2{
+    grid-area: c;
+  }
+  
+  .home-the-most-viewed-ctn-sections-card-3{
+    grid-area: d;
+  }
+  
+  .home-the-most-viewed-ctn-sections-card-4 {
+    grid-area: e;
+  }
+  
+  .home-the-most-viewed-ctn-sections-card-0,
+  .home-the-most-viewed-ctn-sections-card-1,
+  .home-the-most-viewed-ctn-sections-card-2,
+  .home-the-most-viewed-ctn-sections-card-3,
+  .home-the-most-viewed-ctn-sections-card-4 {
+    box-sizing: border-box;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    height: auto;
+  }
+  
+  .home-the-most-viewed-ctn-sections-card-0:hover .home-the-most-viewed-sections-card-img,
+  .home-the-most-viewed-ctn-sections-card-1:hover .home-the-most-viewed-sections-card-img,
+  .home-the-most-viewed-ctn-sections-card-2:hover .home-the-most-viewed-sections-card-img,
+  .home-the-most-viewed-ctn-sections-card-3:hover .home-the-most-viewed-sections-card-img,
+  .home-the-most-viewed-ctn-sections-card-4:hover .home-the-most-viewed-sections-card-img {
+    transform: scale(1.2);
+    transition: 0.4s;
+  }
+
+  .home-the-most-viewed-ctn-sections-card-0 .home-the-most-viewed-ctn-sections-card-hover,
+  .home-the-most-viewed-ctn-sections-card-1 .home-the-most-viewed-ctn-sections-card-hover,
+  .home-the-most-viewed-ctn-sections-card-2 .home-the-most-viewed-ctn-sections-card-hover,
+  .home-the-most-viewed-ctn-sections-card-3 .home-the-most-viewed-ctn-sections-card-hover,
+  .home-the-most-viewed-ctn-sections-card-4 .home-the-most-viewed-ctn-sections-card-hover {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1353px) {  
+  .home-the-most-viewed-title {
+    font-size: var(--txt-title-xl);
+  }
+  
+  .home-the-most-viewed-ctn-sections {
+    padding: 200px 32px 0 32px;
+    background-size: 100% 120px;
+    height: 600px;
+  }
+}

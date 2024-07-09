@@ -1,0 +1,84 @@
+[
+	{ "name":"玛雅火车",
+		"dir": "/tren-maya"
+	},
+	{ "name":"目的地",
+		"dir": "/destinos"
+	},
+	{ "name": "Pueblos Mágicos 神奇小城",
+		"dir": "/pueblos-magicos"
+	},
+	{ "name": "国际活动",
+		"dir": "/eventos-internacionales"
+	},
+	{ "name":  "经验",
+		"dir": "",
+		"menu": [
+			{
+				"name":"", 
+				"dir": "",
+				"image": "AguascalientesRutadelVino.webp",
+				"claseImage":"claseImage"
+			},
+			{
+				"name":"婚禮", 
+				"dir": "/experiencias/bodas",
+				"image": "Pareja-Queretaro-3.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"美食", 
+				"dir": "",
+				"image": "Dgo_Ciudad_Durango421.webp",
+				"claseImage":"header-submenu-link-img-primary",
+				"menu": [
+					{
+						"name":"墨西哥风味", 
+						"dir": "/experiencias/rutas-gastronomicas"
+					},
+					{
+						"name":"葡萄酒旅游", 
+						"dir": "/enoturismo"
+					}
+				]
+			},
+			{
+				"name":"阳光与海滩", 
+				"dir": "/experiencias/sol-y-playa",
+				"image": "Qroo_cancun_playa108.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"冒险", 
+				"dir": "/experiencias/aventura",
+				"image": "SIN_guanacoa_257.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"福利", 
+				"dir": "/experiencias/bienestar",
+				"image": "MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"可持续", 
+				"dir": "/experiencias/sostenible",
+				"image": "BCS_tiburonballena.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			}
+		]
+	},
+	{ "name":"Islas Marías", 
+		"dir": "/islas-marias"
+	},
+	{ "name":"会议、奖励、大会和展览旅游", 
+		"dir": "/mice"
+	},
+	
+	{ "name":"Barrios Mágicos 神奇街区", 
+		"dir": "/barrios-magicos"
+	},
+	{ "name":"遗产城市", 
+		"dir": "/ciudades-patrimonio"
+	}
+]

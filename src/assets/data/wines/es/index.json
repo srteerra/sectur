@@ -1,0 +1,65 @@
+{
+    "id": "vinos",
+    "title": "Vinos",
+    "subtitle": "Descubre Vinos",
+    "gallerySlider": [
+        {
+            "urlImg": "BCN_valle_guadalupe_22.webp",
+            "name": "Baja California, Valle de Guadalupe ",
+            "dir": "https://www.ensenada.travel/la-ruta-del-vino/valle-de-guadalupe/"
+        },
+        {
+            "urlImg": "8_VINOS_DE_COAHUILA.webp",
+            "name": "Ruta del Vino, Coahuila",
+            "dir": "https://hazturismoencoahuila.mx/vinos-de-coahuila"
+        },
+        {
+            "urlImg": "uvasaguascalientes.webp",
+            "name": "Ruta del Vino Aguascalientes",
+            "dir": "https://rutadelvino.aguascalientes.gob.mx/"
+        },
+        {
+            "urlImg": "Region_vinos_Cava_Freixenetqueretaro.webp",
+            "name": "Ruta del Vino, Querétaro",
+            "dir": "https://queretaro.travel/tipo-de-destino/ruta-arte-queso-y-vino/"
+        }
+    ],
+    "urlImg": "uvabajacalifornia.webp",
+    "description": [
+        {
+            "text": "Nuestro país produce vinos de altísima calidad, con grandes cualidades organolépticas que hacen que quien los degusta, los disfrute mucho. Además, las catas, los maridajes y los recorridos por los viñedos permiten degustarlos de forma más sustancial, y se vuelven una experiencia única que compartir con la familia, pareja o amistades."
+        },
+        {
+            "text": "México cuenta con 10 rutas conocidas internacionalmente, ubicadas en 6 estados: Aguascalientes, Baja California, Coahuila, Guanajuato, Hidalgo y Querétaro. En cada uno de ellos te espera una experiencia gastronómica formidable que recordarás por siempre."
+        },
+        {
+            "text": "La Secretaría de Turismo colaboró en conjunto con el Consejo Mexicano Vitivinícola y las Secretarías de Turismo Estatales, para construir este primer catálogo, mostrando los productos y rutas enoturísticas existentes para que los turistas y visitantes locales, nacionales e internacionales, durante su estancia en estos destinos, conozcan los viñedos y actividades que existen alrededor de estos."
+        }
+    ],
+    "cardsGallery": [
+    {
+      "title": "Feria de la Muñeca Artesanal en Amealco, Querétaro",
+      "date": "18 al 21 de noviembre, 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "De Mar a Mar, Baja California Sur",
+      "date": "1 al 3 de diciembre, 2023",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo se ilumina. Manzanillo, Colima",
+      "date": "31 de diciembre 2023 - 1 de enero 2024",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "墨西哥的遗产城市",
+    "barriosParrafo1": "遺產城市被授予世界上因其歷史、文化和自然而代表世界遺產的地點、地點、地區、城鎮和城市。",
+    "barriosParrafo2": "",
+    "heroSlide": [
+        "ciudades-patrimonio/hero.jpg"
+    ],
+    "galeria": [
+        {
+            "imageSrc": "ciudades-patrimonio/galeria2.jpg",
+            "alt": "COCINA MEXICANA CON SENTIDO HUMANO",
+            "title": "具有人文意义的墨西哥美食",
+            "description": "在我国的历史中心，记忆和传统仍然是将继续是一个永无止境的体验仓库。随着建筑和日常空间的发展，烹饪将永远是我国最具代表性的人类活动之一。"
+        },
+        {
+            "imageSrc": "ciudades-patrimonio/galeria1.jpg",
+            "alt": "CONSTRUYENDO UN PATRIMONIO CULINARIO",
+            "title": "建造烹饪遗产",
+            "description": "除其他许多方面外，遗产是从纪念碑，也从其厨房建造的：墨西哥美食一直具有很强的吸收影响的能力，这是其独特性和混合性的结果，因为玉米、无数种辣椒和豆类的种植一直占主导地位。"
+        },
+        {
+            "imageSrc": "ciudades-patrimonio/galeria3.jpg",
+            "alt": "TRADICIÓN MEXICANA SIEMPRE VIVA",
+            "title": "墨西哥传统永远活着",
+            "description": "墨西哥作为世界遗产地的伟大之处在于，它的过去和传统永远活着。墨西哥世界遗产城市的烹饪经验使我们能够阐明文化特征和独特性，以及社会之间的密切关系。"
+        }
+    ],
+    "imgTurismo": "ciudades-patrimonio/logo.jpg",
+    "subtitle": "墨西哥世界遗产城市",
+    "paragraph": "墨西哥被认为是世界遗产的城市是符合联合国教科文组织规定的必要要求的地方，由于其特殊的文化或自然重要性，他们已被委员会提名参加该方案。墨西哥是世界遗产名录上城市数量第四大的国家，联合国教科文组织在10份声明中有11个城市",
+    "cintaRoja": "enologia/Fondorosa.webp",
+    "carousels": [
+        {
+            "title": "",
+            "nombreBarrio": "Campeche",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/campeche.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Ciudad de México",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/cdmx.png"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Durango",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/durango.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Guanajuato",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/guanajuato.jpg"
+            ]
+        },
+        
+        {
+            "title": "",
+            "nombreBarrio": "Morelia",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/morelia.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Oaxaca",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/oaxaca.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Puebla",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/puebla.png"
+            ]
+        },
+        
+        {
+            "title": "",
+            "nombreBarrio": "Querétaro",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/queretaro.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Juan del Río",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/san-juan.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Luis Potosí",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/san-luis.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Miguel de Allende",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/san-miguel.png"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Tlacotalpan",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/tlacotalpan.png"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Xochimilco",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/xochimilco.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Zacatecas",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/zacatecas.png"
+            ]
+        }
+    ]
+}

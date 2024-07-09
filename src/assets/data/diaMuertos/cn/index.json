@@ -1,0 +1,125 @@
+{
+  
+  
+  "urlImagenTop":"diaMuertos/Diademuertosbanner.webp",
+  "title":"亡靈節",
+  "titleTop":"亡靈節",
+  "text":"這是全世界最著名的墨西哥傳統。它起源於前西班牙裔，每年 11 月 1 日和 2 日慶祝，在這兩天，人們通過祭祀和不同的活動來紀念已故的祖先和親人。亡靈節因其充滿色彩、風味、香氣、象徵意義和靈性的傳統而廣受歡迎。 2008年，聯合國教科文組織宣布這一節日為人類非物質文化遺產。在這些日子裡，整個墨西哥都在慶祝死亡，將其視為生命本身的又一個階段，但永遠不會結束。",
+  "offering": {
+    "title": "Conoce las ofrendas en México",
+    "confetti": "Papel picado: Este elemento aporta color y alegría a la ofrenda. Representa el aire, así como la unión entre vida y muerte.",
+    "flowers": "Flores: Decoran y aromatizan el altar. La flor de cempasúchil simboliza el sol y se hacen senderos con ella para que las almas encuentren su camino a la ofrenda.",
+    "water": "Agua: Ayuda a calmar la sed de las almas después de su largo recorrido.",
+    "copal": "Copal e Incienso:  Se utilizan para limpiar el lugar de los malos espíritus para que el alma pueda entrar a su casa sin ningún peligro.",
+    "tequila": "Tequila: U otra bebida que el ser querido disfrutaba en vida para que celebre su regreso al hogar.",
+    "jug": "Jarrito de barro: O cualquier recipiente donde ponerle a las almas un café, atole o alguna bebida que fuera de su agrado.",
+    "candles": "Velas y veladoras: Representa el ascenso del espíritu, las flamas guían a los muertos para que encuentren el camino a su antiguo hogar.",
+    "bread": "Pan de Muerto: Representa la generosidad y el afecto hacia los seres querido, su forma recuerda los huesos de los difuntos.",
+    "skull": "Calaveritas: Hechas de azúcar o chocolate, simbolizan la muerte en la tradición de las culturas mesoamericanas.",
+    "food": "Comida: Tamales, frutas, dulces y platillos favoritos de los difuntos, para que se deleiten en su regreso a casa.",
+    "portrait": "Retrato: La fotografía de los seres queridos a quienes está dedicada la ofrenda. Incluso se colocan artículos personales en ella.",
+    "description": "Posiciona el mouse sobre los elementos en la ofrenda*"
+  },
+  "map": {
+    "title": "Explora el día de muertos en México",
+    "markers": [
+      {
+        "position": [19.2264291,-98.9589501],
+        "icon": "skull1",
+        "description": [
+          {
+            "text": "San Andrés Mixquic, CDMX."
+          },
+          {
+            "text": "Su célebre \"Alumbrada\", donde los cirios del panteón serán la única iluminación en una velada inolvidable."
+          }
+        ]
+      },
+      {
+        "position": [19.5740593,-101.6543269],
+        "icon": "skull2",
+        "description": [
+          {
+            "text": "Janitzio, Michoacán."
+          },
+          {
+            "text": "Donde presenciarás el inolvidable desfile de canoas con redes de mariposa."
+          }
+        ]
+      },
+      {
+        "position": [21.8838183,-102.3012288],
+        "icon": "skull3",
+        "description": [
+          {
+            "text": "Aguascalientes."
+          },
+          {
+            "text": "Cuna de José Guadalupe Posadas, creador de la catrina, una de las protagonistas de esta celebridad"
+          }
+        ]
+      },
+      {
+        "position": [19.4272232,-99.1673301],
+        "icon": "skull4",
+        "description": [
+          {
+            "text": "Ciudad de México."
+          },
+          {
+            "text": "Con su sorprendente y divertido desfile de catrinas."
+          }
+        ]
+      },
+      {
+        "position": [19.9323332,-97.9600866],
+        "icon": "skull5",
+        "description": [
+          {
+            "text": "Zacatlán, Puebla."
+          },
+          {
+            "text": "La Feria de los muertos."
+          }
+        ]
+      },
+      {
+        "position": [19.1820985,-100.1283831],
+        "icon": "skull6",
+        "description": [
+          {
+            "text": "Valle de Bravo, Estado de México."
+          },
+          {
+            "text": "El Festival Colima, Colima. La Feria de todos los santos."
+          }
+        ]
+      },
+      {
+        "position": [19.2356338,-103.682380],
+        "icon": "skull7",
+        "description": [
+          {
+            "text": "Colima, Colima."
+          },
+          {
+            "text": "La Feria de todos los santos."
+          }
+        ]
+      },
+      {
+        "position": [20.1361135,-90.1955652],
+        "icon": "skull2",
+        "description": [
+          {
+            "text": "Pomuch, Campeche."
+          },
+          {
+            "text": "Día de Muertos, en el Hanal Pixán \"comida de las ánimas\", exhuman y limpian los huesos de sus ancestros."
+          }
+        ]
+      }
+    ]
+  }
+}
+

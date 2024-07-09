@@ -1,0 +1,345 @@
+.home-slider-ctn {
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	position: relative;
+	overflow: hidden;
+}
+
+.carousel-caption-center{
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: 1px;
+	font-size: var(--txt-h5-xl) !important;
+	letter-spacing: 3px;
+	bottom: 80px !important;
+	left: 0 !important;
+	top: auto;
+	right: auto;
+	text-align: center;
+	width: 100%;
+}
+
+
+
+.home-slider-ctn-headband {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: var(--yellow);
+}
+
+.home-slider-headband-text {
+	font-size: var(--txt-h5-xl);
+}
+
+.parent {
+  width: 100vw;
+  height: 70vh;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto auto;
+  overflow: hidden;
+  position: relative;
+  /*border-radius: 16px;*/
+  /*-webkit-box-shadow: 0 0 88px 5px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0 0 88px 5px rgba(0, 0, 0, 0.75);
+  box-shadow: 0 0 88px 5px rgba(0, 0, 0, 0.75);*/
+}
+ svg {
+	 position: absolute;
+	 z-index: 1;
+	 width: 100vw;
+	 height: 70vh;
+}
+.slider-btn-slide {
+	 position: absolute;
+	 z-index: 50;
+	 width: 40px;
+	 overflow: hidden;
+	 height: 40px;
+	 border: none;
+	 border-radius: 50%;
+	 background: #fff;
+	 cursor: pointer;
+	 -webkit-box-shadow: 0 0 88px 5px rgba(0, 0, 0, 0.75);
+	 -moz-box-shadow: 0 0 88px 5px rgba(0, 0, 0, 0.75);
+	 box-shadow: 0 0 88px 5px rgba(0, 0, 0, 0.75);
+}
+
+.slider-btn-slide:focus {
+	outline-width: 0;
+}
+
+circle {
+	 stroke: #fff;
+	 fill: none;
+	 transition: 0.3s;
+}
+ #svg1 circle {
+	 transition-timing-function: linear;
+}
+ #svg2 circle {
+	 transition-timing-function: linear;
+}
+ #Capa_1 {
+	 position: absolute;
+	 width: 16px;
+	 height: 16px;
+	 transform: translate(-7px, -8px);
+}
+ #Capa_2 {
+	 position: absolute;
+	 width: 16px;
+	 height: 16px;
+	 transform: translate(-9px, -8px);
+}
+ .right {
+	 margin-left: 55vw;
+	 margin-top: 60vh;
+	 border: 1px solid #849494;
+	 background-color: var(--blue);
+	 transition: 0.5s;
+}
+ .right:hover {
+	 background-color: #fff;
+}
+ .left {
+	 margin-left: 45vw;
+	 margin-top: 60vh;
+	 border: 1px solid #849494;
+	 background-color: var(--blue);
+	 transition: 0.5s;
+}
+ .left:hover {
+	 background-color: #fff;
+}
+ .circle1 {
+	 transition-delay: 0.05s;
+}
+ .circle2 {
+	 transition-delay: 0.1s;
+}
+ .circle3 {
+	 transition-delay: 0.15s;
+}
+ .circle4 {
+	 transition-delay: 0.2s;
+}
+ .circle5 {
+	 transition-delay: 0.25s;
+}
+ .circle6 {
+	 transition-delay: 0.3s;
+}
+ .circle7 {
+	 transition-delay: 0.35s;
+}
+ .circle8 {
+	 transition-delay: 0.4s;
+}
+ .circle9 {
+	 transition-delay: 0.45s;
+}
+ .circle10 {
+	 transition-delay: 0.05s;
+}
+ .circle11 {
+	 transition-delay: 0.1s;
+}
+ .circle12 {
+	 transition-delay: 0.15s;
+}
+ .circle13 {
+	 transition-delay: 0.2s;
+}
+ .circle14 {
+	 transition-delay: 0.25s;
+}
+ .circle15 {
+	 transition-delay: 0.3s;
+}
+ .circle16 {
+	 transition-delay: 0.35s;
+}
+ .circle17 {
+	 transition-delay: 0.4s;
+}
+ .circle18 {
+	 transition-delay: 0.45s;
+}
+ .slide1 {
+	 background-image: url('../../assets/img/header/NUEVOSNOMBRAMIENTOSPUEBLOSMAGICOS.webp');
+  position: relative;
+}
+ .slide2 {
+	 background-image: url('../../assets/img/header/destinodelmescdmx.webp');
+}
+ .slide3 {
+	 background-image: url('../../assets/img/header/mexicoatravesdelosanos.webp');
+}
+ .slide4 {
+	 background-image: url('../../assets/img/header/WhatsApp-Image-2023-07-27-at-1.06.03-AM.webp');
+}
+ .slider {
+	 position: absolute;
+	 width: 400%;
+	 height: 100%;
+	 background: #000;
+	 display: inline-flex;
+	 overflow: hidden;
+}
+ .slide1, .slide2, .slide3, .slide4 {
+	 position: absolute;
+	 background-position: center;
+	 background-size: cover;
+	 color: #fff;
+	 padding-top: 60px;
+	 font-weight: 800;
+	 font-family: 'Heebo', sans-serif;
+	 text-align: center;
+	 width: 25%;
+	 height: 100%;
+	 z-index: 10;
+	 transition: 1.4s;
+}
+ .tran {
+	 transform: scale(1.3);
+}
+ .up1 {
+	 z-index: 20;
+}
+ .up2 {
+	 z-index: 40;
+}
+ .steap {
+	 stroke-width: 0;
+}
+ .streak {
+	 stroke-width: 82px;
+}
+
+.slide-text-p1 {
+  font-size: var(--txt-h1-xl);
+  font-weight: 400;
+}
+
+.slide-text-p2 {
+  font-size: var(--txt-h1-xl);
+}
+
+.slide-text-p3 {
+  font-size: var(--txt-p-xl);
+  font-weight: 400;
+}
+
+.slider-ctn-btn-video {
+  display: flex;
+  align-items: center;
+  z-index: 2;
+  position: absolute;
+  bottom: 32px;
+  left: 0;
+  right: auto;
+  justify-content: center;
+  width: 100%;
+}
+
+.slider-btn-video {
+  position: absolute;
+  width: 40%;
+  height: 40px;
+  border: none;
+  background: var(--green);
+  border-radius: 6px;
+  cursor: pointer;
+  color: #fff;
+  font-size: var(--txt-h5-sm);
+  text-align: center;
+}
+/* @media (max-width: 700px) {
+	 .parent {
+		 margin-left: 1%;
+	}
+}*/
+
+@media screen and (min-width: 744px) {
+	.carousel-caption-center{
+		font-family: 'Bebas Neue', sans-serif;
+		letter-spacing: 1px;
+		font-size: 42px !important;
+		letter-spacing: 3px;
+		bottom: 300px !important;
+		left: 32px !important;
+		top: auto;
+		right: auto;
+		text-align: left;
+		width: 100%;
+	}
+	
+	.slider-ctn-btn-video {
+	  display: flex;
+	  align-items: center;
+	  z-index: 90;
+	  position: absolute;
+	  bottom: 62px;
+	  left: 32px;
+	  width: auto;
+	  justify-content: initial;
+	}
+	
+	.slider-btn-video {
+	  position: absolute;
+	  width: 120px;
+	  height: 50px;
+	  border: none;
+	  background: var(--green);
+	  border-radius: 10px;
+	  cursor: pointer;
+	  color: #fff;
+	  font-size: var(--txt-p-xl);
+	}
+}
+
+@media screen and (min-width: 1353px) {
+	.home-slider-ctn {
+		height: 100vh;
+	}
+
+	.carousel-caption-center{
+		font-family: 'Bebas Neue', sans-serif;
+		letter-spacing: 1px;
+		font-size: 62px !important;
+		letter-spacing: 3px;
+		bottom: 0 !important;
+		left: 64px !important;
+		top: 300px;
+		right: auto;
+		text-align: left;
+		width: 100%;
+	}
+	
+	.slider-ctn-btn-video {
+	  display: flex;
+	  align-items: center;
+	  z-index: 90;
+	  position: absolute;
+	  bottom: 132px;
+	  left: 62px;
+	  width: auto;
+	  justify-content: initial;
+	}
+	
+	.slider-btn-video {
+	  position: absolute;
+	  width: 140px;
+	  height: 60px;
+	  border: none;
+	  background: var(--green);
+	  border-radius: 10px;
+	  cursor: pointer;
+	  color: #fff;
+	  font-size: var(--txt-h5-xl);
+	}
+}

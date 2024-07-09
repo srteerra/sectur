@@ -1,0 +1,136 @@
+{
+  "title":"Internationale Veranstaltungen",
+  "urlVideoTop": "https://www.youtube.com/embed/qIJdvtKZVKw?autoplay=1&mute=1&loop=1&rel=0",
+  "iframe": "https://www.youtube.com/embed/RXACLEyAfNc?si=KgHsyDbmDN-WsbRks",
+  "texto": "Mexiko ist die Heimat zahlreicher internationaler Sport- und Kulturveranstaltungen sowie von Geschäfts- und Unterhaltungsveranstaltungen. Die Durchführung dieser internationalen Veranstaltungen stärkt neben der Förderung des Tourismus und der Wirtschaft in unserem Land auch die Rolle Mexikos in der internationalen Gemeinschaft. Zu den wichtigsten internationalen Veranstaltungen in Mexiko zählen unter anderem die Formel 1 (F1), das Internationale Cervantino-Festival, die Internationale Buchmesse in Guadalajara (FIL), der G20-Gipfel und der World Tourism Leaders Summit.",
+  "cardsGallery": [
+    {
+      "title": "Feria de la Muñeca Artesanal en Amealco, Querétaro",
+      "date": "18 al 21 de noviembre, 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "De Mar a Mar, Baja California Sur",
+      "date": "1 al 3 de diciembre, 2023",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo se ilumina. Manzanillo, Colima",
+      "date": "31 de diciembre 2023 - 1 de enero 2024",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ],
+  "videos": [
+    {
+      "index":0,
+      "titleSlider": "RENNVERANSTALTUNGEN",
+      "slider": [
+        {
+          "urlVideo": "https://www.youtube.com/embed/K9fg2OzuZmE?si=mpC5HW_jE05Ny3ex?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "CARRERA PANAMERICANA - GUARDIA NACIONAL"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/RXACLEyAfNc?si=DtofJU53ghXtvdDT?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "NASCAR CDMX 2022"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/emUewiiGpEQ?si=NcdwApXhSxmCd2La?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "NASCAR PARADE CDMX 2022"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/r5KmfxJ3c-A?si=wZTsft24hFi6F1V6?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "RED BULL MÉXICO"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/_rsLbGJhfpA?si=0TGPD5wZMBGIE1ko?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "CARRERA PARAMERICANA"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/0ASmAK_nlbI?si=xUcicV_JjKWAhYj1?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "NASCAR CHIHUAHUA"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/3aWXq--qkj4?si=NE8uePcIz5xUlt_P?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "NASCAR PUEBLA"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/58NLg4MrtmI?si=xkZSuv9yrLO8td5u?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "NASCAR QUERÉTARO"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/4sfzGDgvqL8?si=oSOz9a32qlmFM5ke?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "NASCAR SAN LUIS POTOSÍ"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/o8hVGZCzP14?si=pCzGZv6JLShz6mF2?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "NASCAR TUXTLA"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/PjES4Ea4iyA?si=gts4u4H7LiUFxGlQ?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "NASCAR MONTERREY"
+        }
+      ]
+    },
+    {
+      "index":1,
+      "titleSlider": "EXTREMSPORTVERANSTALTUNGEN",
+      "slider": [
+        {
+          "urlVideo": "https://www.youtube.com/embed/UOxYkRdwOV4?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "MEXCATITLÁN"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/JjmMbMoNRHs?si=bcPhiMSXuSTYbfqj?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "NAYARIT SAN BLAS"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/EQifLPRsgNM?si=IWGMZDsVzNKxB_rf?si=NcdwApXhSxmCd2La?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "NAYARIT"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/MrA0LviUgYI?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "DESIERTO SONORA"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/Zk7zvIKzicw?si=wUkEYDplAA0av_Vt?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "DE MAR A MAR"
+        }
+      ]
+    },
+    {
+      "index":2,
+      "titleSlider": "WRESTLINGVERANSTALTUNGEN",
+      "slider": [
+        {
+          "urlVideo": "https://www.youtube.com/embed/DIHqEK_Zzdc?si=g8gMyGQDDESIBFks?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "DESENMASCARANDO LA LUCHA LIBRE - CAP. 1 - EL LUCHADOR"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/2CslnBcdv74?si=0LC_RMWy6ZjWxdoX?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "DESENMASCARANDO LA LUCHA LIBRE - CAP. 2 - LA MÁSCARA"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/VHxp6ZXy6DI?si=WEf0sVmLqP_F7vp3?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "DESENMASCARANDO LA LUCHA LIBRE - CAP. 3 - RUDOS Y TÉCNICOS"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/yiPD2_KaQV0?si=HfHw1hUnZXC5jhGW?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "DESENMASCARANDO LA LUCHA LIBRE - CAP. 4 - EL PÚBLICO Y LAS ARENAS"
+        },
+        {
+          "urlVideo": "https://www.youtube.com/embed/Dt58kLKEEBc?si=z4leGVTBz1VJdI2G?autoplay=0&mute=0&loop=1&rel=0",
+          "description": "DESENMASCARANDO LA LUCHA LIBRE - CAP. 5 - DIVERSIDAD"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1058 @@
+{
+
+  "calTitle1": "メキシコの観光カレンダー: メキシコ旅行におすすめの時期",
+        "calP1": "メキシコの観光カレンダーでメキシコの主要な行事を見て、プチ両行やバケーションの計画を立てましょう。連休シーズンやフェスティバルから文化イベント、ホエールウォッチングシーズンまで、メキシコでの時間を最大限に活用するために知っておくべきことをご紹介します。",
+
+        "calTitle2": "メキシコの連休シーズン・祝祭日",
+        "calP2": "連休シーズンや祝祭日の情報を参考に、週末のプチ旅行やバケーションの計画を立てましょう。独立記念日、死者の日、セマナサンタ（イースター・ホリデー）などのシーズンに合わせメキシコの大人気スポットを旅行してはいかがでしょうか。",
+
+        "calTitle3": "フェスティバル・文化イベント",
+        "calP3": "1年を通して行われる多彩なフェスティバルや文化イベントでメキシコの豊かな文化を体験してみてください。アグアスカリエンテスのサンマルコス・フェアやグアナフアト州のセルバンティーノ国際芸術祭など、メキシコの文化・芸術の多様性を満喫できるイベントの一覧をご紹介します。",
+
+        "calTitle4": "ホエールウォッチングシーズン・その他の自然体験",
+        "calP4": "自然を愛する人にとってユニークな目的地、メキシコでのホエールウォッチングやその他の自然体験を発見してみてください。太平洋岸で雄大なクジラを観察したり、ハリスコ州でアガベ畑の美しい風景に魅了されたり、ミチョアカン州でモナルカ蝶の光景を観賞したりと、独特な体験を楽しんではいかがでしょうか。",
+
+        "calTitle5": "メキシコ観光カレンダーを参考に旅行を計画しましょう",
+        "calP5": "メキシコ観光カレンダーで、祝祭日や見逃せないイベントの情報を見て、旅行の計画を立てましょう。主要な行事の時期を参考にホテルやアクティビティを事前に予約し、活気でカラフルなこの国での一生忘れられない旅にしましょう",
+
+  
+  "urlImagenTop":"header/CALENDARIO.webp",
+  "title":"カレンダー",
+  "titleTop":"今後のイベント",
+  "subTitle":"見逃せないイベント",
+  "events":[
+    {
+      "title": "サンタ ロザリア財団創立記念日",
+      "date": "2024年7月1日",
+      "text": "サンタ ロザリア財団創立記念日は、美しい自然環境に位置するこのコミュニティの歴史的および文化的な起源を祝います。このイベントでは、住民や訪問者が伝統的なパレード、地域料理の展示、地元バンドによるライブ音楽、民俗舞踊のパフォーマンスなどを楽しむことができます。サンタ ロザリアの独特のアイデンティティを反映した、色彩豊かで伝統的な祝典です。",
+      "start": "2024-07-01",
+      "end": "2024-07-01",
+      "urlImg": "calendario/evento_bg.jpg"
+    },        
+          {
+            "title": "Expoferia Calakmul",
+            "date": "1 de Mayo",
+            "text": "La Expoferia Calakmul se lleva a cabo en Xpujil, Calakmul durante el mes de mayo. Este evento incluye eventos religiosos, juegos mecánicos, exposiciones, carreras de caballos, palenque y bailes populares.",
+            "start": "2024-05-01",
+            "end": "2024-05-31",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Expoferia Escárcega",
+            "date": "1 de Mayo",
+            "text": "La Expoferia Escárcega se lleva a cabo en Escárcega durante el mes de mayo. Este evento incluye eventos religiosos, juegos mecánicos, exposición ganadera y bailes populares.",
+            "start": "2024-05-01",
+            "end": "2024-05-31",
+            "urlImg": "calendario/evento_bg.jpg"
+          },    
+          {
+            "title": "Festival Cultural de Mayo",
+            "date": "7 al 24 de mayo",
+            "text": "El Festival Cultural de Mayo es un evento artístico, cultural y multidisciplinario que se desarrolla principalmente en la ciudad de Guadalajara y otros municipios del Estado de Jalisco.",
+            "start": "2024-05-07",
+            "end": "2024-05-24",
+            "urlImg": "calendario/evento_bg.jpg"
+          },    
+          {
+            "title": "Dos Mares 500 2024 - viernes, mayo 10, 2024, La Paz",
+            "date": "viernes, mayo 10, 2024",
+            "text": "Una de las carreras de off-road más emblemáticas de Baja California Sur.",
+            "start": "2024-05-10",
+            "end": "2024-05-10",
+            "urlImg": "calendario/evento_bg.jpg"
+          },   
+          {
+            "title": "Feria Nacional del Queso y el Vino Tequisquiapan",
+            "date": "10 al 26 de mayo (fines de semana), 2024",
+            "text": "Evento creado para honrar los atributos y cualidades de dos productos que por muchos años, han venido acompañados de la mano –el queso y el vino- , permitiendo así, un enlace con la música y la cultura, capaces de alegrar y satisfacer nuestros cinco sentidos y ser un gran atractivo turístico. Tres fines de semana (Entre mayo y junio de cada año) en los que puedes acercarte a descubrir el interesante mundo del vino y del queso artesanal, es, verdaderamente una gran experiencia.",
+            "start": "2024-05-10",
+            "end": "2024-05-26",
+            "urlImg": "calendario/evento_bg.jpg"
+          },       
+          {
+            "title": "Día de la Virgen de la Misericordia",
+            "date": "12 de mayo, 2024",
+            "text": "Celebración de la fiesta patronal en honor a la Virgen de la Misericordia. Se rinde culto en la Basílica de la Misericordia, un edificio de piedra labrada de estilo gótico románico, reconocido por su gran belleza.",
+            "start": "2024-05-12",
+            "end": "2024-05-12",
+            "urlImg": "calendario/evento_bg.jpg"
+          },    
+          {
+            "title": "La Pasión Por El Sabor - viernes, mayo 31, 2024, La Paz",
+            "date": "viernes, mayo 31, 2024",
+            "text": "El evento gastronómico más esperado en la ciudad.",
+            "start": "2024-05-31",
+            "end": "2024-05-31",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+ 
+           
+              
+          {
+            "title": "498 Aniversario de la Fundación de Tlaxcala",
+            "date": "3 de octubre de 2024",
+            "text": "Celebración del aniversario de la fundación de Tlaxcala, reflejando las acciones emprendidas por el gobierno municipal para resaltar la riqueza cultural y tradicional de la región. Durante 5 días, los asistentes podrán disfrutar de una amplia variedad de actividades artísticas que abarcan desde la literatura taurina hasta exposiciones de artes, y la entrega de la presea de la ciudad de Tlaxcala a los artesanos locales, entre otros emocionantes eventos.",
+            "start": "2024-10-03",
+            "end": "2024-10-03",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Fiesta de San Miguel Arcángel",
+            "date": "29 de septiembre 2024",
+            "text": "Celebración en el santuario de San Miguel del Milagro, en Nativitas, Tlaxcala. Este santuario representa uno de los sitios religiosos más importantes de la región. Millones de peregrinos llegan el día de la fiesta el 29 de septiembre, movidos por la fe y devoción hacia San Miguel Arcángel.",
+            "start": "2024-09-29",
+            "end": "2024-09-29",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Feria Calpulalpan en honor a San Antonio de Padua",
+            "date": "13 de junio, 2024",
+            "text": "Celebración de la feria en honor a San Antonio de Padua en Calpulalpan, Tlaxcala. Las festividades incluyen danzas y música tradicional típica relacionada con festividades religiosas y paganas. La especialidad artesanal en el municipio es la elaboración de instrumentos musicales de cuerda como guitarras, vihuelas, requintos y violines.",
+            "start": "2024-06-13",
+            "end": "2024-06-13",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+            
+          {
+            "title": "158 Aniversario de la Fundación de Apizaco",
+            "date": "23 de febrero, 2024",
+            "text": "Celebración del 158 aniversario de la fundación de Apizaco con conciertos, eventos deportivos, culturales y taurinos. La presencia policial junto con la civilidad de los asistentes garantizó un desarrollo ordenado y pacífico del evento.",
+            "start": "2024-02-23",
+            "end": "2024-02-23",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Virgen de Ocotlán",
+            "date": "10 de febrero, 2024",
+            "text": "Conmemoración de la aparición de la Virgen María en El Pocito de Agua Santa, que dio origen a la devoción a la Virgen de Ocotlán. La Basílica en su honor alista una serie de festejos alusivos a este hecho, representando un testimonio importante de la fe tlaxcalteca.",
+            "start": "2024-02-10",
+            "end": "2024-02-10",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Xantolo Vive",
+            "date": "2 de noviembre, 2024",
+            "text": "Xantolo Vive es una festividad del Día de Muertos que celebra simbolismos y creencias arraigadas de la región.",
+            "start": "2024-11-02",
+            "end": "2024-11-02",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Feria Tamaulipas",
+            "date": "21 de octubre, 2024",
+            "text": "La Feria Tamaulipas tiene como objetivo implementar espacios para artesanos y promotores turísticos del Estado de Tamaulipas.",
+            "start": "2024-10-21",
+            "end": "2024-10-21",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival del Agave",
+            "date": "31 de agosto",
+            "location": "Jiménez",
+            "text": "El Festival del Agave tiene como objetivo potenciar el patrimonio natural, cultural e inmaterial de la región del altiplano tamaulipeco.",
+            "start": "2024-08-31",
+            "end": "2024-08-31",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "星祭り",
+            "date": "2024年7月13日",
+            "location": "ゴメス・ファリアス",
+            "text": "星祭りはタマウリパスの高原地域の自然、文化、非物質遺産を活性化することを目的としています。",
+            "start": "2024-07-13",
+            "end": "2024-07-13",
+            "urlImg": "calendario/evento_bg.jpg"
+          },                
+          {
+            "title": "Festival del Desierto",
+            "date": "8 de junio",
+            "location": "Tampico",
+            "text": "El Festival del Desierto tiene como objetivo potenciar el patrimonio natural, cultural e inmaterial de la región del altiplano tamaulipeco.",
+            "start": "2024-06-08",
+            "end": "2024-06-08",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Congreso Universal de Salud",
+            "date": "20 de abril",
+            "location": "Ciudad Victoria",
+            "text": "El Congreso Universal de Salud tiene como objetivo promover la sabiduría ancestral de las comunidades indígenas en el ámbito turístico, destacando la importancia de la conexión entre mente, cuerpo y espíritu para alcanzar una verdadera plenitud.",
+            "start": "2024-04-20",
+            "end": "2024-04-20",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Concurso de Fotografía y Video",
+            "date": "6 de febrero al 6 de abril",
+            "location": "Ciudad Victoria",
+            "text": "El Concurso de Fotografía y Video tiene como objetivo invitar a la comunidad a capturar la esencia tamaulipeca y promover su belleza a nivel nacional e internacional.",
+            "start": "2024-02-06",
+            "end": "2024-04-06",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival Regional del Queso Tacuichamona",
+            "date": "4 de junio de 2024",
+            "location": "Culiacán",
+            "text": "El Festival Regional del Queso Tacuichamona tiene como objetivo promover los espacios turísticos de Culiacán, generar derrama económica y dar a conocer la gastronomía local. Participan alrededor de 30 expositores locales, productores de diversos tipos de queso y sus derivados, como el queso oreado, queso fresco, queso de rancho, panela, mantequillas, entre otros.",
+            "start": "2024-06-04",
+            "end": "2024-06-04",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Carnaval Altata",
+            "date": "16 y 17 de marzo de 2024",
+            "location": "Navolato",
+            "text": "El Carnaval Altata es un evento realizado en coordinación con la Secretaría de Turismo y la Promotora Turística. Cuenta con el respaldo logístico de dichas entidades. El presupuesto para el evento proviene del gobierno estatal y municipal.",
+            "start": "2024-03-16",
+            "end": "2024-03-17",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival del Globo",
+            "date": "30 de abril de 2024",
+            "location": "Narnia, Culiacán",
+            "text": "Son 20 globos en los que todas las personas tendrán la oportunidad de subirse al globo aerostático que estará anclado. La experiencia durará entre 5 y 7 minutos y será totalmente gratis. Los globos se elevan aproximadamente 25 metros del suelo hasta la canastilla, con una altura total de alrededor de 45 metros. Los globos aerostáticos están certificados, la empresa está certificada y los pilotos cumplen con los requisitos para llevar a cabo este festival, asegurando la integridad de las personas que van a subir.",
+            "start": "2024-04-30",
+            "end": "2024-04-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival del Queso Artesanal y Ancestral en Sanalona",
+            "date": "10 de febrero de 2024",
+            "text": "El festival no solo es una oportunidad para disfrutar de exquisitos quesos elaborados artesanalmente, sino que también busca fomentar el sano esparcimiento social y la convivencia familiar. Uno de los principales objetivos de este evento es impulsar el turismo en la zona rural de Culiacán, fortaleciendo así la identidad de nuestras comunidades.",
+            "start": "2024-02-10",
+            "end": "2024-02-10",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Road Race CAIN",
+            "date": "15 al 17 de noviembre de 2024",
+            "text": "La Carrera Cain Road Race México se ha convertido en un referente que atrae la atención de competidores y aficionados de todo el mundo. Este evento contribuye significativamente al desarrollo turístico y económico de Concordia.",
+            "start": "2024-11-15",
+            "end": "2024-11-17",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Eclipse total solar",
+            "date": "8 de abril de 2024",
+            "text": "El eclipse total solar del 8 de abril de 2024 será visible en Concordia. La duración total del eclipse será de 4 minutos y 20 segundos, lo que lo convierte en uno de los más largos en todo el continente. Considerando las etapas parcial y total, la duración total del eclipse será de aproximadamente 2 horas y 41 minutos.",
+            "start": "2024-04-08",
+            "end": "2024-04-08",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Día de Muertos",
+            "date": "1 de noviembre de 2024",
+            "text": "El Día de Muertos en Guasave es parte de la celebración compartida por los municipios en Sinaloa. Durante esta festividad, se llevan a cabo concursos y representaciones en las escuelas de todos los niveles, atrayendo a multitudes para rendir homenaje a los seres queridos fallecidos.",
+            "start": "2024-11-01",
+            "end": "2024-11-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Expo Gastronómica",
+            "date": "3 de noviembre de 2024",
+            "text": "La Expo Gastronómica en Guasave ofrece a los asistentes la oportunidad de degustar la diversa gastronomía de la región. El evento contará con la participación de 40 expositores listos para compartir sus creaciones culinarias. Además, se llevará a cabo un reconocimiento especial a 5 restaurantes por su larga trayectoria y por ser íconos de la gastronomía local de Guasave.",
+            "start": "2024-11-03",
+            "end": "2024-11-03",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Feria del Taco",
+            "date": "1 de junio de 2024",
+            "text": "La Feria del Taco es un evento en el que se reúnen alrededor de 40 expositores que ofrecen diferentes tipos de tacos. Además de disfrutar de una variedad de tacos, los asistentes también pueden explorar un área de bazar donde encontrarán productos locales para apoyar al comercio.",
+            "start": "2024-06-01",
+            "end": "2024-06-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Calaca Fest",
+            "date": "3 y 4 de noviembre, 2024",
+            "text": "El Calaca Fest presenta una serie de actividades culturales en El Fuerte, incluyendo la proyección de un documental de actividad paranormal en el Museo El Fuerte-Mirador, Concurso de Altares, Concurso de Catrinas y Catrines, Concurso de Catrinas Estructurales y Callejoneada de las Ánimas por los principales andadores turísticos. También participan instituciones educativas en el Desfile de las Ánimas, seguido de un evento cultural con presentaciones artísticas de danza y teatro.",
+            "start": "2024-11-03",
+            "end": "2024-11-04",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "San Juan Bautista de Carapoa",
+            "date": "21 al 27 de junio",
+            "text": "Las fiestas tradicionales de San Juan Bautista de Carapoa se llevan a cabo cada mes de junio y son realizadas por la comunidad yoreme de El Fuerte. Durante la celebración, se realizan cantos, danzas, oraciones y se ejecuta una procesión hacia la ribera del río Fuerte para el 'baño al santo patrono'.",
+            "start": "2024-06-21",
+            "end": "2024-06-27",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Semana Santa",
+            "date": "24 al 30 de marzo de 2024",
+            "text": "Semana Santa se celebra en Sinaloa mediante una mezcla de lo religioso impuesto por los conquistadores y las costumbres ancestrales de la región. Durante esta festividad, se realizan danzas y representaciones particulares, como los Judas o Fariseos que bailan al ritmo de tambores e instrumentos de viento, recordando la muerte y resurrección de Cristo. Los participantes llevan un colorido vestuario, mascaras que asemejan demonios y otros personajes, así como cabezas de venado disecadas en sus cabezas y sonajas de color rojo vivo como instrumento.",
+            "start": "2024-03-24",
+            "end": "2024-03-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Carnaval Internacional",
+            "date": "8 al 13 de febrero de 2024",
+            "location": "Mazatlán, Sinaloa",
+            "text": "El Carnaval Internacional es un evento cultural que se realiza en Mazatlán, Sinaloa, durante los seis días anteriores al miércoles de ceniza, abarcando los meses de febrero y marzo. Con más de un siglo de historia, el carnaval mazatleco tiene características propias que lo diferencian, brindándole una identidad única que moldea la cultura de quienes participan en él.",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival de la Alegría",
+            "date": "12 al 21 de diciembre, 2024",
+            "text": "El Festival de la Alegría tiene como objetivo proporcionar condiciones de convivencia y alegría entre toda la comunidad queretana. También busca fortalecer valores fundamentales como la familia, la paz, el respeto, la unión, la convivencia y la hermandad entre la comunidad.",
+            "start": "2024-12-12",
+            "end": "2024-12-21",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Feria Internacional Ganadera",
+            "date": "22 al 15 de diciembre, 2024",
+            "text": "En el 2015 se celebró la 80va exposición ganadera en el estado, exposición que ha sido punta de lanza en materia del desarrollo y crecimiento del sector agropecuario en la región y en el país. Esta exposición se ha caracterizado por ser pionera en ganado lechero especializado y se convirtió en una muestra internacional a partir de 1958.",
+            "start": "2024-12-22",
+            "end": "2024-12-15",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival de los Muertos",
+            "date": "28 de octubre al 2 de noviembre, 2024",
+            "text": "Durante estos cinco días, Cadereyta se vuelca en una gran fiesta de culto a los muertos. Empezamos el 28 con la inauguración de un tapete monumental de más de 300 metros cuadrados en la calle Hidalgo. Este tapete está formado y armado por gente de la misma comunidad y estudiantes, mostrando motivos de la cultura de Cadereyta, como los cinturones piteados y otras artesanías locales.",
+            "start": "2024-10-28",
+            "end": "2024-11-02",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "DOQUMENTA节",
+            "date": "2 al 10 de agosto, 2024",
+            "text": "El Festival de Cine Internacional de Cine y Narrativas de No Ficción Doqumenta es un encuentro de cine documental llevado a cabo de manera anual en diferentes sedes del estado de Querétaro, México. Su programa de proyección y actividades se realiza mediante una convocatoria abierta previa y cuenta con un catálogo de películas nacionales e internacionales.",
+            "start": "2024-08-02",
+            "end": "2024-08-10",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "フェスティバルECHO（アニバーサリーQro.）",
+            "date": "2024年7月20日から28日",
+            "text": "クエレタロのベストを引き出すことを目指し、芸術、文学、音楽、演劇、サーカス、ダンス、映画、拡張現実、仮想現実、展示会、ストリートアートを展示し、市のアイデンティティを祝い、都市の創設を記念し、クエレタロを一流の文化首都と観光地として確立する。",
+            "start": "2024-07-20",
+            "end": "2024-07-28",
+            "urlImg": "calendario/evento_bg.jpg"
+          },               
+          {
+            "title": "Ibérica Contemporánea",
+            "date": "7 al 13 de julio, 2024",
+            "text": "Ibérica es una fiesta artística y cultural que en cada una de sus expresiones desata emociones de adrenalina, intensidad, energía, pasión, pertenencia y deleite que, a su vez, enamoran, envuelven y elevan a sentir en cada momento la EXPERIENCIA IBÉRICA. Ofrece una amplia variedad de experiencias para los amantes, profesionales, estudiantes y espectadores de este arte en aulas, escenarios y calles de la ciudad de Querétaro.",
+            "start": "2024-07-07",
+            "end": "2024-07-13",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Feria de San Juan del Río",
+            "date": "14 al 30 de junio, 2024",
+            "text": "Durante el mes de junio, los pobladores se preparan para celebrar a San Juan Bautista, y lo hacen en grande. Se abre el teatro y los palenques para las típicas peleas de gallos; las corridas de toros no se hacen faltar. Charreadas, juegos mecánicos; verbenas populares, bailes y actividades religiosas están a pie de cañón. El programa artístico siempre es muy extenso y cuenta con la participación de grandes artistas y bandas. Gala se hace de actividades artísticas y culturales, así como deportivas.",
+            "start": "2024-06-14",
+            "end": "2024-06-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+            
+          {
+            "title": "Feria de Amealco",
+            "date": "26 de abril al 5 de mayo, 2024",
+            "text": "Este evento anual celebra el aniversario de la fundación de la ciudad, destacándose como una de las festividades más importantes de la región y presentando grandes artistas en su teatro del pueblo. Durante dicho evento, los asistentes tendrán la oportunidad de disfrutar de una variedad de actividades. La ceremonia de apertura contará con la coronación de la Reina de las Fiestas en el teatro del pueblo, seguida por exposiciones comerciales, artesanales y ganaderas.",
+            "start": "2024-04-26",
+            "end": "2024-05-05",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "La Queretanada",
+            "date": "28 y 29 de abril, 2024",
+            "text": "Un festival que reúne lo mejor de Querétaro en un solo lugar, en un ambiente 100% familiar para que disfruten chicos y grandes.",
+            "start": "2024-04-28",
+            "end": "2024-04-29",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Fiesta Regional Serrana Jalpan",
+            "date": "14 al 21 de abril, 2024",
+            "text": "La feria se realiza para conmemorar el aniversario de la fundación de Jalpan como Misión Franciscana, realizada el día 21 de abril de 1744. Dicha feria se organiza con eventos artísticos, culturales y deportivos entre los que destaca el torneo anual de pesca deportiva. Esta feria es en la actualidad la celebración más importante y concurrida de la región serrana y dura alrededor de una semana.",
+            "start": "2024-04-14",
+            "end": "2024-04-21",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Concurso Nacional Huapango San Joaquín",
+            "date": "4 al 7 de abril, 2024",
+            "text": "El Concurso Nacional de Huapango Huasteco sigue acrecentando su calidad y capacidad de convocatoria al registrar la participación de más de 500 parejas en sus últimas ediciones, alcanzando la cifra de más de 10,000 parejas inscritas a lo largo de la vida del concurso. Se ha implementado la entrega de la estatuilla “Luna de Fuego”, obra del Maestro Braulio Segura Chávez.",
+            "start": "2024-04-04",
+            "end": "2024-04-07",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Bubble Fest Freixenet",
+            "date": "2 y 3 de marzo, 2024",
+            "text": "Descubre más de 100 etiquetas de vino espumoso de México y el mundo en la Zona de Burbujas, y celebra con la mejor música de DJs y Bandas completamente en vivo. El Festival del Vino Espumoso es una experiencia que no puedes dejar pasar en la vida. Este evento tiene la finalidad de dar a conocer al país como un lugar para experimentar de primera mano el enoturismo, gozando de una larga tradición, inundada de alegría, música electrónica y buena comida entre otras cosas.",
+            "start": "2024-03-02",
+            "end": "2024-03-03",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Feria del Toro",
+            "date": "1, 2, 3, 8, 9 y 10 de marzo, 2024",
+            "text": "Los turistas, además de disfrutar de la fiesta brava, podrán conocer los atractivos que ofrece el Pueblo Mágico a los visitantes, sus tradiciones, gastronomía y diversas actividades culturales y artísticas.",
+            "start": "2024-03-01",
+            "end": "2024-03-10",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival de la Lengua, Arte y Cultura Otomí - 19 febrero al 1 marzo, 2024, Querétaro",
+            "date": "19 febrero al 1 marzo, 2024",
+            "text": "El objetivo de este evento es visibilizar, valorar, dignificar, fortalecer y revitalizar la lengua, arte, cultura, cosmovisión, historia y memoria biocultural del pueblo otomí, especialmente de Querétaro, así como de todos los pueblos originarios de México y América; además, crear un diálogo intercultural entre indígenas y no indígenas que abone a la construcción de una sociedad intercultural, respetuosa, incluyente e igualitaria.",
+            "start": "2024-02-19",
+            "end": "2024-03-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Feria Carne y Vino Ezequiel M. - 12 al 21 enero, 2024, Querétaro",
+            "date": "12 al 21 enero, 2024",
+            "text": "El aroma de la carne a la parrilla y el sabor de los exquisitos vinos se mezclarán una vez más en Ezequiel Montes, Querétaro, para dar vida a una celebración inolvidable, esta festividad promete deleitar a todos los sentidos con una experiencia única.",
+            "start": "2024-01-12",
+            "end": "2024-01-21",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Fiesta Santo Niño de la Mezclita - viernes, enero 05, 2024, Jalpan de Serra",
+            "date": "viernes, enero 05, 2024",
+            "text": "Es la fiesta religiosa más importante del municipio y está dedicada al Santo Niño de la Mezclita; llamado así porque fue encontrado en la comunidad de ese nombre.",
+            "start": "2024-01-05",
+            "end": "2024-01-05",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Navidalia",
+            "date": "Todo el mes de diciembre",
+            "text": "A través de una propuesta moderna, multidisciplinaria y sensorial, este parque temático busca crear una forma diferente de celebrar la Navidad. El Parque Ávila Camacho, en Guadalajara, será la sede de Navidalia. Del 13 al 25 de diciembre podrás disfrutar de las tradicionales posadas mexicanas y descubrir cómo se celebran las fiestas decembrinas en Europa y Medio Oriente. Cuatro áreas festivas integran el parque: Posada Mexicana, Mundo Europeo, Mundo de Medio Oriente y Mundo Nórdico. En ellas el visitante podrá echar a volar su imaginación entre luces y escenarios mágicos.",
+            "start": "2024-12-01",
+            "end": "2024-12-31",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Calaverandia",
+            "date": "Todo el mes de noviembre",
+            "text": "En la hermosa Guadalajara se encuentra el único parque temático de Día de Muertos y promete hacerte vivir la magia de esta tradición en carne propia, donde recorrerás El Más Allá y El Más Acá a través de una experiencia inmersiva. Rodeado de los ricos olores de la ofrenda y los colores del papel picado, el Día de Muertos se va a convertir en toda una aventura entre la vida y la muerte, donde cualquier parecido con la fantasía... ¡es una realidad! Para ir más allá de tu imaginación el parque cuenta con: Alma Espectáculo Multimedia 4D, el Cementerio Tecnolite, El Gran Altar, el Omiltlán, Tümü, Inframundo, El Pueblito, Limbo, Juegos Interactivos, Gigantismo y muchas atracciones más.",
+            "start": "2024-11-01",
+            "end": "2024-11-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Fiestas de Octubre",
+            "date": "Todo el mes de octubre",
+            "text": "Son las clásicas fiestas patronales, aunque duran todo un mes en el que se presentan diferentes expresiones artísticas, desde conciertos de artistas de renombre nacional e internacional, hasta obras de teatro, muestras de danza, e incluso box. Hay además un desfile con carros alegóricos, exhibiciones de pintura, ballet, talleres y el tradicional palenque. Cuenta con juegos mecánicos, antojitos mexicanos, así como venta de productos artesanales.",
+            "start": "2024-10-01",
+            "end": "2024-10-31",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival Internacional de Cine de Guadalajara",
+            "date": "07-15 de junio",
+            "text": "Es el festival más sólido de Latinoamérica con una oferta para la Industria Cinematográfica que le ha permitido posicionarse en el ámbito nacional e internacional. Es un foro para la formación, instrucción e intercambio creativo entre los profesionales, críticos de la cinematografía internacional y estudiantes de Iberoamérica.",
+            "start": "2024-06-07",
+            "end": "2024-06-15",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Feria Nacional del Tequila",
+            "date": "Noviembre",
+            "text": "La Feria Nacional del Tequila (FENATEQ) es un evento anual que se lleva a cabo en el Pueblo Mágico de Tequila, Jalisco, México. Ofrece una amplia variedad de actividades y eventos para toda la familia y todos los gustos. Los asistentes podrán disfrutar de espectáculos en vivo, concursos, jaripeos y mucho más.",
+            "start": "2024-11-01",
+            "end": "2024-11-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Día del Festival de la Raicilla",
+            "date": "Último sábado de noviembre",
+            "text": "Una experiencia única donde se fusionarán la cultura, la música, la gastronomía y las tradiciones de la región en torno al emblemático destilado con denominación de origen. El festival cuenta con una amplia variedad de actividades para todos los gustos, donde los asistentes podrán participar en catas, mixología y degustaciones de Raicilla, descubriendo los sabores y matices característicos de nuestra tradicional bebida.",
+            "start": "2024-11-30",
+            "end": "2024-11-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Vallarta Gastronómica",
+            "date": "11 al 18 de octubre 2024",
+            "text": "Una constelación de los chefs y mixólogos más innovadores en México, Latinoamérica y Europa, Estrellas Michelin, 50 Best y Top Chef se dan cita en Nayarit Vallarta Gastronómica. Cada año su programa de eventos presenta exclusivas cenas en escenarios paradisíacos en toda la bahía, catas de vinos por los mejores sommeliers, degustaciones y talleres gourmet para profesionales y público en general.",
+            "start": "2024-10-11",
+            "end": "2024-10-18",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival de Día de Muertos en Puerto Vallarta",
+            "date": "01 y 02 de noviembre",
+            "text": "El Festival de Día de Muertos en Puerto Vallarta ha adquirido especial relevancia durante los últimos años. En 2022, en el marco de estos festejos, Puerto Vallarta consiguió la distinción de “La Calavera Catrina Más Alta del Mundo” del Guinness World Records. La catrina monumental de 23 metros de alto se convirtió en la pieza artística central de una celebración que incluyó la colocación de altares de muertos, más de 80 “calaveritas de azúcar” gigantes y decoradas en diversos motivos en todo el Malecón de Puerto Vallarta y un completo programa de actividades culturales.",
+            "start": "2024-11-01",
+            "end": "2024-11-02",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival de Muertos",
+            "date": "01 al 03 de noviembre",
+            "text": "Los altares de muertos del 2 de noviembre se levantan en San Pedro Tlaquepaque desde tiempos de la Colonia. Hasta 1992 se hicieron en casas de Sanpetrinos. Actualmente también se elaboran en espacios públicos. La costumbre de este día es visitar las tumbas de los familiares difuntos en el cementerio y asistir a la Iglesia más cercana. En el Centro Cultural Refugio y en la plaza principal de Santa Anita, familias, asociaciones civiles, instituciones escolares y culturales realizan una muestra de estas ofrendas dedicadas a alguna persona del lugar o a algún personaje destacado a nivel nacional. Verbenas y un desfile de catrinas llenan la noche del Día de Muertos.",
+            "start": "2024-11-01",
+            "end": "2024-11-03",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival de la Gordita Colotlense",
+            "date": "16 de septiembre",
+            "text": "El municipio de Colotlán, ubicado en la Zona Norte de Jalisco, es conocido por sus hermosos trabajos de talabartería y piteado de fajos. Aunado a esto, su Festival Gastronómico ha cobrado relevancia por la participación de más de 125 familias que compiten por el primer lugar del concurso de la mejor gordita rellena con sus guisos tradicionales. Además, participan grupos artísticos de danza y música, y se ofrecen recorridos turísticos gratuitos por el municipio.",
+            "start": "2024-09-16",
+            "end": "2024-09-16",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival del Venado",
+            "date": "Todo el mes de Junio",
+            "text": "Festival que busca resaltar la riqueza natural y cultural de la región por medio de intervenciones artísticas en el espacio público. Se trata de una experiencia donde el público podrá tomarse fotos con una serie de venados intervenidos e instalados a lo largo del municipio, además de otras actividades culturales y gastronómicas.",
+            "start": "2024-06-01",
+            "end": "2024-06-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "国際マリアッチとチャリーリアの集会",
+            "date": "Mes de agosto",
+            "text": "Es un encuentro que presenta eventos de gran envergadura, como las Galas del Mariachi en el Teatro Degollado, Verbenas populares en la Zona metropolitana de Guadalajara, Encuentro nacional de mariachis tradicionales, Gala pública en Plaza de la Liberación, audiciones en centros comerciales, clubs deportivos y restaurantes. También incluye el certamen Embajadora del mariachi, el Campeonato Nacional Charro y extensiones a municipios.",
+            "start": "2024-08-01",
+            "end": "2024-08-31",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "ラゴス・デ・モレノ年次祭典",
+            "date": "2024年7月26日から8月の第1日曜日まで",
+            "text": "「市の祭り」とも呼ばれるこの祭典では、宗教的な祝祭とチャリアーダ（メキシコの伝統的な馬術）、プロレス興行と文学ワークショップ、パレードと遊園地、そしてポピュラーな祭りやコンサートとスポーツ競技が融合します。家族で安全で親しみやすい雰囲気の中で楽しめます。この機会に、エンチラーダ・ミネーラ、モレ・デ・オジャ、ポソーレ、カルニタス、タコス・ドラード、ゴルディータス、クエソ・デ・トゥナ、そしてミルク・スウィーツなど、典型的な食文化もお楽しみください。",
+            "start": "2024-07-26",
+            "end": "2024-08-04",
+            "urlImg": "calendario/evento_bg.jpg"
+          },                
+          {
+            "title": "Tendido de Cristos en San Martín Hidalgo",
+            "date": "20 al 30 de marzo",
+            "text": "El tendido de Cristos es una tradición que nació hace más de 400 años en Jalisco. Consiste en tender imágenes de Cristo en altares dentro de los hogares de familias de San Martín de Hidalgo, que son propietarias de los Cristos y que fungen como portadores de esta manifestación.",
+            "start": "2024-03-20",
+            "end": "2024-03-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+                
+          {
+            "title": "Talent Land",
+            "date": "1 al 4 de abril",
+            "text": "Talent Land es el evento de innovación que da cita al talento que está dando el máximo para encontrar las soluciones correctas a los problemas actuales. Talent Land 2024 estará dedicado al desarrollo del talento, brindando a los participantes la oportunidad de encontrarse con expertos de diversas disciplinas que compartirán su experiencia y conocimientos.",
+            "start": "2024-04-01",
+            "end": "2024-04-04",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Feria Internacional del Libro (FIL)",
+            "date": "30 de noviembre al 8 de diciembre",
+            "text": "La Feria Internacional del Libro de Guadalajara es la reunión editorial más importante de Iberoamérica y un extraordinario festival cultural. Sin descuidar su vocación como un encuentro de negocios, la FIL fue concebida como un festival cultural en el que la literatura es la columna vertebral, con un programa en el que participan autores de todos los continentes y diferentes lenguas, así como un espacio para la discusión académica de los grandes temas que cruzan nuestra actualidad.",
+            "start": "2024-11-30",
+            "end": "2024-12-08",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival Internacional de Cine en Guadalajara",
+            "date": "7 al 15 de junio",
+            "text": "Es el festival más sólido de Latinoamérica con una oferta para la Industria Cinematográfica que le ha permitido posicionarse en el ámbito nacional e internacional. Es un foro para la formación, instrucción e intercambio creativo entre los profesionales, críticos de la cinematografía internacional y estudiantes de Iberoamérica.",
+            "start": "2024-06-07",
+            "end": "2024-06-15",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival Internacional de Cine en Tequila",
+            "date": "24 al 25 de abril",
+            "text": "Es la fiesta que mantiene vivo el lazo entre la bebida de origen y el arte, realizando una mágica experiencia del cine entre los agaves.",
+            "start": "2024-04-24",
+            "end": "2024-04-25",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "VINART Ajijic",
+            "date": "26 al 28 de abril",
+            "text": "Es un festival que celebra la pasión, el sabor y la tradición vinícola que crece día a día en nuestro país y ahora florece en la Ribera del Lago de Chapala. Vinart Ajijic es una celebración de la cultura del vino, donde expertos y aficionados se reúnen para compartir experiencias y aprender de los mejores productores de México y el mundo. Aquí encontrarás talleres, catas, maridajes y actividades para todos los gustos.",
+            "start": "2024-04-26",
+            "end": "2024-04-28",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Tequila Fest",
+            "date": "8 al 10 de marzo",
+            "text": "El ¨Origen Tequila Fest¨ reunirá las mejores marcas de Tequilas de la región alteña. En este evento se impartirán catas, capacitaciones para agaveros, circuitos de mixología, degustaciones por parte de las casas tequileras. También se dará a conocer la amplia gama turística de la región. Como parte de las actividades artísticas, contarán con espectáculos ecuestres y de charrería, y presentaciones de grupos consolidados como Molotov, Banda Recoditos, Mario Bautista, La Vida mía, entre muchos más.",
+            "start": "2024-03-08",
+            "end": "2024-03-10",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Manzanillo se ilumina",
+            "date": "31 de diciembre",
+            "text": "Espectáculo de luces, color y entretenimiento que se posiciona como una alternativa para despedir el año.",
+            "start": "2024-12-31",
+            "end": "2024-12-31",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Rally NACAM",
+            "date": "22 y 23 de noviembre 2024",
+            "text": "Competencia de automovilismo deportivo con desafíos asombrosos y velocidades extremas para los pilotos. Además de la carrera, habrá música, exhibición de autos y sorpresas.",
+            "start": "2024-11-22",
+            "end": "2024-11-23",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Impulso Pesca Deportiva",
+            "date": "2 y 3 de noviembre 2024",
+            "text": "Torneo internacional de pesca deportiva con el objetivo de revitalizar este importante mercado en el Pacífico mexicano.",
+            "start": "2024-11-02",
+            "end": "2024-11-03",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "美食节",
+            "date": "agosto 2024",
+            "text": "Concurso para presumir y promover la gastronomía local, vinculando a productores con la sociedad. Los participantes podrán elaborar platillos o postres.",
+            "start": "2024-08-01",
+            "end": "2024-08-31",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Ruta Extrema del Mar a la Montaña",
+            "date": "20 y 21 de junio 2024",
+            "text": "Torneo de ciclismo de todo terreno 'BMT' que atraviesa diversos senderos desde la costa hasta la zona norte de Colima, coordinado con una empresa dedicada al ciclismo.",
+            "start": "2024-06-20",
+            "end": "2024-06-21",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival Costero del Papalote",
+            "date": "14 y 15 de junio 2024",
+            "text": "La plazoleta de los arcos en Miramar se llenará de papalotes gigantes, algunos de ellos iluminados, que volarán en el cielo costero.",
+            "start": "2024-06-14",
+            "end": "2024-06-15",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Aguas abiertas Manzanillo",
+            "date": "27 y 28 de abril 2024",
+            "text": "Evento que reúne a nadadores para competir en diversas distancias, desde 250 metros hasta 5 kilómetros 200 metros para los competidores de 15 años en adelante.",
+            "start": "2024-04-27",
+            "end": "2024-04-28",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Tlalchihi Project",
+            "date": "2 y 3 de marzo 2024",
+            "text": "Generar 10 nuevos perros para ubicarlos en restaurantes de las brisas.",
+            "start": "2024-03-02",
+            "end": "2024-03-03",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Feria de la Inmaculada Concepción - Champotón",
+            "date": "1 al 8 de diciembre",
+            "text": "Eventos religiosos, juegos mecánicos, exposición ganadera y bailes populares.",
+            "start": "2024-12-01",
+            "end": "2024-12-08",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival de Día de Muertos Pomuch",
+            "date": "31 de octubre",
+            "text": "Exposición de altares, gastronomía, conferencias, mercados al aire libre y actividades culturales, en torno a la celebración del Día de Muertos. Pomuch aún conserva la antigua costumbre maya de limpieza de los santos restos de sus difuntos.",
+            "start": "2024-10-31",
+            "end": "2024-10-31",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Hanal Pixán – Celebración de Día de Muertos",
+            "date": "30 de octubre",
+            "text": "Hanal Pixán – Celebración de Día de Muertos con Concurso Monumental de altares.",
+            "start": "2024-10-30",
+            "end": "2024-10-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Fundación de Campeche y Feria de San Francisco",
+            "date": "1° al 11 de octubre",
+            "text": "La Fundación de Campeche y Feria de San Francisco se celebra del 1° al 11 de octubre en San Francisco de Campeche, Campeche. Este evento incluye eventos religiosos y culturales, exposiciones y juegos mecánicos.",
+            "start": "2024-10-01",
+            "end": "2024-10-11",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Feria de San Román",
+            "date": "14 al 30 de septiembre",
+            "text": "La Feria de San Román se lleva a cabo en San Francisco de Campeche, Campeche, del 14 al 30 de septiembre. Este evento religioso inicia con la bajada del santo patrono, seguido de juegos mecánicos y exposiciones artesanales y comerciales.",
+            "start": "2024-09-14",
+            "end": "2024-09-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Feria en honor de San Joaquín",
+            "date": "15 al 30 de agosto",
+            "text": "La Feria en honor de San Joaquín se lleva a cabo en Palizada, Campeche, durante la segunda mitad de agosto. Incluye eventos religiosos, exposiciones agrícolas y ganaderas, así como bailes populares.",
+            "start": "2024-08-15",
+            "end": "2024-08-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "ジャズフェスティバル",
+            "date": "7月",
+            "text": "ジャズフェスティバルは7月に開催され、国際的、国内的、地域的に有名なアーティストによる野外および屋内でのコンサートが含まれています。",
+            "start": "2024-07-01",
+            "end": "2024-07-31",
+            "urlImg": "calendario/evento_bg.jpg"
+          },              
+          {
+            "title": "聖母マリアのカルメンの祭り",
+            "date": "7月15日から7月30日",
+            "text": "聖母マリアのカルメンの祭りは7月15日から30日まで、宗教的な行事、乗り物、家畜展示、コンサート、民俗舞踏を含む様々なイベントで祝われます。",
+            "start": "2024-07-15",
+            "end": "2024-07-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },            
+               
+          {
+            "title": "Fiesta del Mar",
+            "date": "Semana Santa",
+            "text": "La Fiesta del Mar se celebra durante la temporada de Semana Santa en Ciudad del Carmen. Durante este evento, podrás disfrutar de conciertos, juegos mecánicos, actividades deportivas y exposiciones.",
+            "start": "2024-04-13",
+            "end": "2024-04-21",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Fiesta de la Candelaria",
+            "date": "febrero",
+            "text": "La Fiesta de la Candelaria se celebra en Hool, Champotón y Candelaria, Campeche. Durante esta festividad, puedes disfrutar de bailes tradicionales, juegos pirotécnicos (fuegos artificiales), procesiones religiosas, alboradas (dianas musicales o actividades matutinas festivas) y juegos mecánicos.",
+            "start": "2024-02-01",
+            "end": "2024-02-02",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Carrera Cabo Raven - sábado, noviembre 30, 2024, Los Cabos",
+            "date": "sábado, noviembre 30, 2024",
+            "text": "Carrera de ruta de off-road en Los Cabos.",
+            "start": "2024-11-30",
+            "end": "2024-11-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Carrera Mar A Mar - viernes, diciembre 06, 2024, La Paz",
+            "date": "viernes, diciembre 06, 2024",
+            "text": "Recorrido de 110 kilómetros de mar a mar, saliendo de Los Barriles y llegando a la meta en Todos Santos.",
+            "start": "2024-12-06",
+            "end": "2024-12-06",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Triatlón Sprint Loreto - domingo, noviembre 17, 2024, Los Cabos",
+            "date": "domingo, noviembre 17, 2024",
+            "text": "El Ayuntamiento de Loreto y el Fideicomiso de Turismo de Loreto invitan a participar.",
+            "start": "2024-11-17",
+            "end": "2024-11-17",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Ironman Los Cabos - viernes, noviembre 01, 2024, Los Cabos",
+            "date": "viernes, noviembre 01, 2024",
+            "text": "El Ironman 70.3 Los Cabos 2022 ofrecerá cupos clasificatorios para el Campeonato Mundial Ironman 70.3 2023.",
+            "start": "2024-11-01",
+            "end": "2024-11-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival Internacional Cine Todos Santos - viernes, noviembre 01, 2024, La Paz",
+            "date": "viernes, noviembre 01, 2024",
+            "text": "9 países, 30 películas, ficción, documental, cortometraje, animación y thriller de temas relevantes.",
+            "start": "2024-11-01",
+            "end": "2024-11-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Festival Internacional De Cine De La Paz - viernes, noviembre 01, 2024, La Paz",
+            "date": "viernes, noviembre 01, 2024",
+            "text": "Festival enfocado en darle la oportunidad principalmente a los nuevos cineastas locales.",
+            "start": "2024-11-01",
+            "end": "2024-11-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Torneo Bisbees Black And Blue - lunes, octubre 21, 2024, Los Cabos",
+            "date": "lunes, octubre 21, 2024",
+            "text": "Torneo especializado en la captura de marlin negro y azul.",
+            "start": "2024-10-21",
+            "end": "2024-10-21",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Triatlón Sprint La Paz El Caimancito - domingo, octubre 06, 2024, La Paz",
+            "date": "domingo, octubre 06, 2024",
+            "text": "Certeza producciones convoca a la 1era edición del Triatlón Bahía de La Paz.",
+            "start": "2024-10-06",
+            "end": "2024-10-06",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Fiestas De Fundacion De Loreto - martes, octubre 01, 2024, Loreto",
+            "date": "martes, octubre 01, 2024",
+            "text": "Tradicionales fiestas de fundación de Loreto.",
+            "start": "2024-10-01",
+            "end": "2024-10-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Torneo De Pesca Los Cabos Off Shore - lunes, octubre 14, 2024, Los Cabos",
+            "date": "lunes, octubre 14, 2024",
+            "text": "Torneo de pesca especializado en marlín dorado y atún.",
+            "start": "2024-10-14",
+            "end": "2024-10-14",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Torneo De Pesca Los Cabos Billfish - martes, octubre 08, 2024, Los Cabos",
+            "date": "martes, octubre 08, 2024",
+            "text": "Torneo de pesca especializado en la captura de marlín dorado y atún.",
+            "start": "2024-10-08",
+            "end": "2024-10-08",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Torneo De Pesca Tuna Shoot Out - sábado, septiembre 21, 2024, La Paz",
+            "date": "sábado, septiembre 21, 2024",
+            "text": "Torneo de pesca especializado en captura de atún.",
+            "start": "2024-09-21",
+            "end": "2024-09-21",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Loreto 400 - sábado, septiembre 14, 2024, Loreto",
+            "date": "sábado, septiembre 14, 2024",
+            "text": "Carrera de ruta de off road en Loreto.",
+            "start": "2024-09-14",
+            "end": "2024-09-14",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Cabo Del Este 250 - sábado, agosto 24, 2024, Los Cabos",
+            "date": "sábado, agosto 24, 2024",
+            "text": "Una de las carreras de off road más emblemáticas de Baja California Sur.",
+            "start": "2024-08-24",
+            "end": "2024-08-24",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "Torneo De Pesca Wahoo Gold Cup East Cape - sábado, agosto 17, 2024, La Paz",
+            "date": "sábado, agosto 17, 2024",
+            "text": "Torneo de pesca especializado en la captura de wahoo.",
+            "start": "2024-08-17",
+            "end": "2024-08-17",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          {
+            "title": "東ケープオフショアビスビーズトーナメント - 2024年7月30日火曜日、ロスカボス",
+            "date": "2024年7月30日火曜日",
+            "text": "ドラドマーリンとマグロをターゲットにした専門の釣り大会。",
+            "start": "2024-07-30",
+            "end": "2024-07-30",
+            "urlImg": "calendario/evento_bg.jpg"
+          },                 
+          {
+            "title": "セビチェとビールの祭典 - 2024年7月1日（月曜日）、ラパス",
+            "date": "2024年7月1日（月曜日）",
+            "text": "カニラック・ラパス主催のセビチェとサガルカリフォルニア地方のクラフトビールのコンテストと販売。",
+            "start": "2024-07-01",
+            "end": "2024-07-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },                
+          {
+            "title": "サン・イグナシオ2022の伝統的な祭り - 2024年7月1日（月曜日）、ムレヘ",
+            "date": "2024年7月1日（月曜日）",
+            "text": "サン・イグナシオ・デ・ロヨラの伝統的な守護聖人祭り。",
+            "start": "2024-07-01",
+            "end": "2024-07-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },               
+          {
+            "title": "トドス・サントスでのマンゴーフェスティバル - 2024年7月1日（月曜日）、ラパス",
+            "date": "2024年7月1日（月曜日）",
+            "text": "芸術文化プログラムと手工芸品の販売を含む。",
+            "start": "2024-07-01",
+            "end": "2024-07-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },               
+          {
+            "title": "エル・トリウンフォのピタハヤ祭り - 2024年7月1日（月曜日）、ラパス",
+            "date": "2024年7月1日（月曜日）",
+            "text": "エル・トリウンフォの工芸品や住民の文化、美術、料理の展示。",
+            "start": "2024-07-01",
+            "end": "2024-07-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },            
+          {
+            "title": "サンティアゴのマンゴー祭り - 2024年7月1日（月曜日）、ロスカボス",
+            "date": "2024年7月1日（月曜日）",
+            "text": "文化、芸術、スポーツ活動。",
+            "start": "2024-07-01",
+            "end": "2024-07-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },               
+          {
+            "title": "レディースオンリー釣りトーナメント - 2024年7月25日（木曜日）、ラパス",
+            "date": "2024年7月25日（木曜日）",
+            "text": "バンウォーマー・リゾートで開催される第3回年次トーナメント。",
+            "start": "2024-07-25",
+            "end": "2024-07-25",
+            "urlImg": "calendario/evento_bg.jpg"
+          },             
+          {
+            "title": "ミラフローレスのピタハヤ祭り - 2024年7月1日（月曜日）、ロスカボス",
+            "date": "2024年7月1日（月曜日）",
+            "text": "ピタハヤをテーマにした伝統的な祭り。",
+            "start": "2024-07-01",
+            "end": "2024-07-01",
+            "urlImg": "calendario/evento_bg.jpg"
+          },               
+          {
+            "title": "Carrera Coyote 300 - sábado, junio 15, 2024, La Paz",
+            "date": "sábado, junio 15, 2024",
+            "text": "Una de las carreras de off-road más emblemáticas de Baja California Sur.",
+            "start": "2024-06-15",
+            "end": "2024-06-15",
+            "urlImg": "calendario/evento_bg.jpg"
+          },          
+          
+          {
+            "title": "Cabo 250 2024 - 金曜日、2024年7月12日、ロスカボス",
+            "date": "金曜日、2024年7月12日",
+            "text": "ロスカボスでの夜間ルート。",
+            "start": "2024-07-12",
+            "end": "2024-07-12",
+            "urlImg": "calendario/evento_bg.jpg"
+          },                
+          {
+            "title": "トライアスロン スプリント エル テコロテ - 2024年7月7日(日), ラパス",
+            "date": "2024年7月7日(日)",
+            "text": "人気のエル テコロテ ビーチで行われるトライアスロン大会。",
+            "start": "2024-07-07",
+            "end": "2024-07-07",
+            "urlImg": "calendario/evento_bg.jpg"
+          },               
+          {
+            "title": "釣り大会フィッシング・フォー・ザ・ミッション - 2024年7月11日（木）、ロレト",
+            "date": "2024年7月11日（木）",
+            "text": "ドラドに特化した釣り大会。",
+            "start": "2024-07-11",
+            "end": "2024-07-11",
+            "urlImg": "calendario/evento_bg.jpg"
+          },                
+                 
+                  
+          {
+            "title": "Feria Nacional de San Marcos",
+            "date": "13 de abril al 5 de mayo, 2024",
+            "text": "¡No te pierdas la Feria Nacional de San Marcos!",
+            "start": "2024-04-13",
+            "end": "2024-05-05",
+            "urlImg": "calendario/evento_bg.jpg"
+          },
+          {
+            "title": "Fiestas de la Vendimia de la Ruta del Vino",
+            "date": "23 de agosto al 15 de septiembre, 2024",
+            "text": "¡Disfruta de las Fiestas de la Vendimia en la Ruta del Vino!",
+            "start": "2024-08-23",
+            "end": "2024-09-15",
+            "urlImg": "calendario/evento_bg.jpg"
+          },
+          {
+            "title": "7mo Festival Sabores De Sudcalifornia - domingo, marzo 10, 2024, Los Cabos",
+            "date": "domingo, marzo 10, 2024",
+            "text": "Evento gastronómico que exalta los característicos sabores de nuestra península.",
+            "start": "2024-03-10",
+            "end": "2024-03-10",
+            "urlImg": "calendario/evento_bg.jpg"
+          },
+          {
+            "title": "Le´Étape La Paz By Tour De France - domingo, marzo 10, 2024, La Paz",
+            "date": "domingo, marzo 10, 2024",
+            "text": "Si eres amante de los climas soleados, la brisa del mar y el ciclismo no te puedes perder esta sede.",
+            "start": "2024-03-10",
+            "end": "2024-03-10",
+            "urlImg": "calendario/evento_bg.jpg"
+          },
+          {
+            "title": "Mole Fest - domingo, marzo 17, 2024, Loreto",
+            "date": "domingo, marzo 17, 2024",
+            "text": "Evento gastronómico de gran popularidad en el destino.",
+            "start": "2024-03-17",
+            "end": "2024-03-17",
+            "urlImg": "calendario/evento_bg.jpg"
+          },
+          {
+            "title": "Tormenta Del Desierto - sábado, marzo 16, 2024, Los Cabos",
+            "date": "sábado, marzo 16, 2024",
+            "text": "Carrera de off-road de gran popularidad entre los aficionados sudcalifornianos.",
+            "start": "2024-03-16",
+            "end": "2024-03-16",
+            "urlImg": "calendario/evento_bg.jpg"
+          },
+          {
+            "title": "Sashimi Fest Los Cabos - sábado, marzo 16, 2024, Los Cabos",
+            "date": "sábado, marzo 16, 2024",
+            "text": "Encuentro gastronómico que reúne a los mejores exponentes de sashimi para competir por el primer lugar.",
+            "start": "2024-03-16",
+            "end": "2024-03-16",
+            "urlImg": "calendario/evento_bg.jpg"
+          },
+          {
+            "title": "Triatlón Astri La Paz - sábado, marzo 16, 2024, La Paz",
+            "date": "sábado, marzo 16, 2024",
+            "text": "Evento deportivo de natación, ciclismo y running en La Paz.",
+            "start": "2024-03-16",
+            "end": "2024-03-16",
+            "urlImg": "calendario/evento_bg.jpg"
+          },
+          {
+            "title": "Fiestas Tradicionales San José Del Cabo - sábado, marzo 16, 2024, Los Cabos",
+            "date": "sábado, marzo 16, 2024",
+            "text": "Celebración popular con presentaciones artísticas y culturales.",
+            "start": "2024-03-16",
+            "end": "2024-03-16",
+            "urlImg": "calendario/evento_bg.jpg"
+          },
+          {
+            "title": "Festival Cultural de Calaveras",
+            "date": "26 de octubre al 3 de noviembre, 2024",
+            "text": "¡Disfruta del Festival Cultural de Calaveras!",
+            "start": "2024-10-26",
+            "end": "2024-11-03",
+            "urlImg": "calendario/evento_bg.jpg"
+          },
+          {
+            "title": "Baja Series - viernes, marzo 22, 2024, La Paz",
+            "date": "viernes, marzo 22, 2024",
+            "text": "Encuentro deportivo entre equipos de béisbol.",
+            "start": "2024-03-22",
+            "end": "2024-03-22",
+            "urlImg": "calendario/evento_bg.jpg"
+          },
+          {
+            "title": "Choyero Fest - sábado, abril 13, 2024, La Paz",
+            "date": "sábado, abril 13, 2024",
+            "text": "Festival musical que contará con la presencia de bandas locales y nacionales invitadas.",
+            "start": "2024-04-13",
+            "end": "2024-04-13",
+            "urlImg": "calendario/evento_bg.jpg"
+          },
+          {
+            "title": "2024 Norra Mexican 1000 - viernes, abril 26, 2024, Los Cabos",
+            "date": "viernes, abril 26, 2024",
+            "text": "Carrera de off road que recorre toda la península de Baja California.",
+            "start": "2024-04-26",
+            "end": "2024-04-26",
+            "urlImg": "calendario/evento_bg.jpg"
+          }
+         ]
+}

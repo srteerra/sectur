@@ -1,0 +1,16 @@
+.main-content {
+	padding: 0;
+	margin: 0;
+	position: relative;
+	box-sizing: border-box;
+}
+
+.cinta-rosa {
+	height: 100px; /* Ajusta la altura según sea necesario */
+	background-image: url('../../assets/img/header/Fondorosa.webp');
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	background-position: top;
+	width: 100%; /* Ocupa el 100% del ancho */
+	margin-bottom: 30px;
+  }

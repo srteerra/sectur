@@ -1,0 +1,112 @@
+{
+	"id": "pueblos-magicos",
+	"urlVideoTop": "https://www.youtube.com/embed/vh7K3C7Hm8U?autoplay=1&mute=1&loop=1&rel=0",
+	"title": "Pueblos Mágicos",
+	"imageTopUrl": "CentroHistorico.webp",
+	"descriptionTop": [
+		{
+			"text": "一个“Pueblo Mágico”是一个充满符号和传说的地方，这些地方充满历史，许多情况下曾经是我国重要事件的发生地，展示着国家的身份认同，每一个角落都散发着独特的魅力；造访这些地方是发现墨西哥魅力的绝佳机会。"
+		},
+		
+		{
+			"text": "魔幻小镇计划”有助于重新评价国内一系列历史悠久且一直存在于国民集体想象中的村镇，它们为国内外游客提供了新鲜多样的选择"
+		}
+	],
+	"titleSlider": "探索",
+	"slidersExplore": [
+		{
+			"imageUrl":"PalenqueChiapas.jpg",
+			"title":"Palenque, Chiapas",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/chiapas/palenque"
+		},
+		{
+			"imageUrl":"IslaMujeresQuintanaRoo.jpg",
+			"title":"Isla Mujeres, Quintana Roo",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/quintana-roo/isla-mujeres-quintana-roo"
+		},
+
+		{
+			"imageUrl": "HuamantlaTlaxcala.jpg",
+			"title": "Huamantla, Tlaxcala",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/tlaxcala/huamantla"
+		},
+		{
+			"imageUrl": "CholulaPuebla.jpg",
+			"title": "Cholula, Puebla",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/puebla/cholula-puebla"
+		},
+		{
+			"imageUrl": "MuralesdeAjijic.webp",
+			"title": "Ajijic, Jalisco",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/jalisco/ajijic"
+		},
+		{
+			"imageUrl": "ElFuerteSinaloa.jpeg",
+			"title": "El Fuerte, Sinaloa",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/sinaloa/el-fuerte-sinaloa"
+		},
+		{
+			"imageUrl": "VilladelCarbonEstadodeMexico.png",
+			"title": "Villa del Carbón, Estado de México",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/estado-de-mexico/villa-del-carbon"
+		},
+		{
+			"imageUrl": "DelfinesIslaAguada.webp",
+			"title": "Isla Aguada, Campeche",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/campeche/isla-aguada"
+		}
+	],
+	"titleKnow": "了解我们的更多",
+	"actions": {
+		"button": "點擊這裡",
+		"dir": "https://pueblosmagicos.mexicodesconocido.com.mx/"
+	},
+	"imageUrlKnow": "villa-del-carbon.jpg",
+	"slides": [
+		
+		{
+			"videoUrl": "https://www.youtube.com/embed/gEbCy8o62Tk?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "Pueblos Mágicos de México | Parral"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/qg5phE9LbqI?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "Pueblos Mágicos de México | Guachochi"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/lm4CG5qiAE4?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "TEQUILA"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/uwIQkXG4mAM?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "SAN CRISTÓBAL DE LAS CASAS"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/J7X9jZwq3UQ?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "Paracho"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/8zKkpmtd5SU?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "Múzquiz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/rHii3W0z9Qo?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "Mineral del Chico"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/_KXMQpGt4ZE?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "Mexcaltitán"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/kUBJaLqBvaU?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "IZAMAL"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/sIcvjZzWEkU?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "CREEL"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/K0bcycGLFtI?autoplay=0&mute=0&loop=1&rel=0",
+			"title": "BACALAR"
+		}
+	]
+}

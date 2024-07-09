@@ -1,0 +1,108 @@
+.wines-description-ctn {
+	padding: 50px 0 0 0;
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	background-image: url('../../assets/img/header/Fondoamarrillo.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 50px;
+	background-position: top;
+}
+
+.wines-description-content-ctn {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 24px;
+	padding: 32px;
+	background-image: url('../../assets/img/experiences/bg.webp');
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	background-position: center;
+}
+
+.wines-description-content-ctn-text {
+	flex: 1 0 100%;
+	padding-right: 32px;
+}
+
+.wines-description-content-ctn-img {
+	flex: 1 0 100%;
+}
+
+.wines-description-content-title {
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: 1px;
+	color: var(--yellow);
+	font-size: var(--txt-title-sm);
+	text-align: left;
+}
+
+.wines-description-content-text {
+	font-size: var(--txt-h5-sm);
+	text-align: center;
+	line-height: 1.5;
+}
+
+.wines-description-image {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	aspect-ratio: 4/3;
+}
+
+@media screen and (min-width: 744px) {
+	.wines-description-ctn {
+		padding: 90px 0 0 0;
+		background-size: 100% 90px;
+	}
+	
+	.wines-description-content-ctn {
+		background-size: 100% 100%;
+	}
+	
+	.wines-description-content-ctn-text {
+		flex: 1 0 100%;
+		padding-right: 32px;
+	}
+	
+	.wines-description-content-ctn-img {
+		flex: 1 0 100%;
+	}
+	
+	.wines-description-content-title {
+		font-size: var(--txt-title-md);
+	}
+	
+	.wines-description-content-text {
+		font-size: var(--txt-h5-md);
+		text-align: justify;
+	}
+}
+
+@media screen and (min-width: 1353px) {
+	.wines-description-ctn {
+		padding: 120px 0 0 0;
+		background-size: 100% 120px;
+	}
+	
+	.wines-description-content-ctn {
+		background-size: 100% auto;
+	}
+	
+	.wines-description-content-ctn-text {
+		flex: 1 0 40%;
+		padding-right: 32px;
+	}
+	
+	.wines-description-content-ctn-img {
+		flex: 1 0 40%;
+	}
+	
+	.wines-description-content-title {
+		font-size: var(--txt-title-md);
+	}
+	
+	.wines-description-content-text {
+		font-size: var(--txt-h5-md);
+	}
+}

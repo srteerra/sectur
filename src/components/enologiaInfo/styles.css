@@ -1,0 +1,40 @@
+.container-enologia-info {
+    margin-top: 30px;
+    width: 100%;
+    margin: auto;
+    background-color: #73374b;
+    color: #fff;
+    display: flex;
+    align-items: center; /* Centra verticalmente el contenido */
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.column {
+    flex-grow: 1; /* Ajusta el ancho de las columnas automáticamente */
+    padding: 20px;
+}
+
+.info-title {
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    margin: auto; /* Centra vertical y horizontalmente */
+}
+
+/* Estilos responsivos para dispositivos móviles */
+@media screen and (max-width: 768px) {
+    .column {
+        flex: 100%; /* Ocupa todo el ancho en dispositivos móviles */
+    }
+    .info-title {
+        text-align: center; /* Asegura que el texto esté centrado horizontalmente */
+    }
+    .row {
+        width: auto; /* Quita el ancho del 100% en dispositivos móviles */
+    }
+}

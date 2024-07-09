@@ -1,0 +1,138 @@
+.calendario2-images-ctn-hero {
+  background-image: url('../../assets/img/calendario/calendarioAzteca.webp');
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: top;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 0;
+  aspect-ratio: 4/3;
+}
+
+.calendario2-images-ctn-hero-description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.calendario2-images-title {
+  text-align: center;
+  font-size: var(--txt-title-sm);
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+  color: var(--white);
+}
+
+.calendario2-franja-banner {
+  width: 100%;
+  height: 50px;
+  object-fit: cover;
+}
+
+
+@media screen and (min-width: 744px) {
+  .calendario2-images-title {
+    font-size: var(--txt-title-sm);
+  }
+
+  .calendario2-franja-banner {
+    height: 90px;
+  }
+}
+
+@media screen and (min-width: 1353px) {
+  .calendario2-images-ctn-hero {
+    background-size: 100% auto;
+    aspect-ratio: 19/6;
+  }
+
+  .calendario2-images-title {
+    font-size: var(--txt-title-xl);
+  }
+
+  .calendario2-franja-banner {
+    height: 120px;
+  }
+  /*.calendario2-images-ctn {
+    background-image: url('../../assets/img/header/liston-azul.webp');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: bottom;
+    min-height: 458px;
+  }
+
+  .calendario2-images-ctn-hero {
+    background-image: url('../../assets/img/calendario/calendarioAzteca.webp');
+    background-repeat: no-repeat;
+    background-size: 99.8% auto;
+    background-position: top;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 92px 0;
+
+  }
+  s
+  .calendario2-images-ctn-hero-description {
+    margin-left: 42px;
+  }
+
+  .calendario2-images-img-experience-hero {
+    width: 40vw;
+  }
+
+  .calendario2-images-title {
+    text-align: left;
+    font-size: var(--txt-title-xl);
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+    margin-top: 42px ;
+    margin-left: 50px;
+    color: var(--white);
+  }
+
+  .calendario2-images-ctn-img {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+    padding: 32px;
+  }
+
+  .experience-images-ctn-img-experience {
+    flex: 1 0 30%;
+    position: relative;
+  }
+
+  .calendario2-images-img-experience {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+  }
+
+  .calendario2-images-ctn-img-experience:hover .calendario2-images-ctn-img-experience-description {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .calendario2-images-ctn-img-experience-description {
+    display: none;
+  }
+
+  .calendario2-images-img-experience-description {
+    text-align: center;
+    font-size: var(--txt-h5-xl);
+    font-weight: 700;
+    color: #fff;
+  }*/
+}

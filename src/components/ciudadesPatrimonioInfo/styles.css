@@ -1,0 +1,83 @@
+.container-ciudades-info {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-bottom: 30px;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.container-ciudades-patrimonio.reveal-scroll.visible {
+  opacity: 1;
+}
+
+.ciudades-left-column {
+  flex: 1;
+  max-width: 50%;
+  padding-right: 20px;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centrar horizontalmente */
+}
+
+.ciudades-right-column {
+  flex: 1;
+  max-width: 50%;
+  padding-right: 20px;
+}
+
+.lazy-loaded-image {
+  max-width: 70%; /* Hacer la imagen más pequeña */
+  height: auto; /* Mantener la responsividad */
+  margin: 0 auto; /* Centrar horizontalmente */
+}
+
+.ciudades-subtitle {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.ciudades-paragraph {
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.ciudades-strong-p {
+  font-weight: bold;
+}
+
+.ciudades-quote {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.quote-container {
+  margin: auto;
+  max-width: 600px;
+}
+
+.ciudades-link {
+  text-decoration: none;
+  color: var(--black);
+}
+
+@media screen and (max-width: 768px) {
+  .container-ciudades-info {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .ciudades-left-column,
+  .ciudades-right-column {
+      max-width: 100%;
+      padding-right: 20px;
+      padding-left: 20px;
+  }
+}

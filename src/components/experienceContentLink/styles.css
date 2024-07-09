@@ -1,0 +1,45 @@
+.experience-link-content-wellness-ctn {
+  
+}
+
+.experience-link-content-wellness-ctn-description {
+  font-size: var(--txt-h5-sm);
+  text-align: justify;
+}
+
+
+.experience-link-content-wellness-ctn-description  p {
+  padding: 0 0;
+  font-size: var(--txt-h5-sm);
+  text-align: center;
+  line-height: 1.5;
+}
+
+.experience-link-content-wellness-link:hover {
+  background: var(--black);
+  color: #fff;
+}
+
+@media screen and (min-width: 744px) {
+  .experience-link-content-wellness-ctn-description {
+
+    font-size: var(--txt-h5-sm);
+    text-align: justify;
+  }
+
+  .experience-link-content-wellness-ctn-description p {
+
+    font-size: var(--txt-h5-sm);
+    text-align: justify;
+  }
+}
+
+@media screen and (min-width: 1353px) {
+  .experience-link-content-wellness-ctn-description {
+    font-size: var(--txt-h5-xl);
+  }
+
+  .experience-link-content-wellness-ctn-description p {
+    font-size: var(--txt-h5-xl);
+  }
+}

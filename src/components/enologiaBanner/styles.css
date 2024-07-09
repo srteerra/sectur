@@ -1,0 +1,9 @@
+.banner-enologia-container {
+    margin: 30px 20px; /* Margen superior e inferior de 30px y margen izquierdo y derecho de 20px */
+  }
+  
+  .banner-imagen {
+    width: calc(100vw - 40px); /* Ancho del viewport menos los márgenes izquierdo y derecho */
+    border-radius: 10px; /* Bordes redondeados de 10px */
+  }
+  

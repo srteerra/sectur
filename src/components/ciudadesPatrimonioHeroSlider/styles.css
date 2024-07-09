@@ -1,0 +1,31 @@
+.hero-slider-container {
+    max-width: 100%;
+    max-height: 720px;
+  }
+  
+  .hero-slide {
+    position: relative;
+    width: 100%;
+  }
+  
+  .hero-slide-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .hero-slider-container .carousel .slide img {
+    border-radius: 0px;
+    height: 720px;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .hero-slide {
+      max-height: 320px; /* Altura relativa */
+    }
+  
+    .hero-slider-container .carousel .slide img {
+      height: 330px; /* Altura relativa */
+    }
+  }
+  

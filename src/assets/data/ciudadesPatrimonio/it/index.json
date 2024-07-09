@@ -1,0 +1,148 @@
+{
+    "title": "Città del patrimonio in Messico",
+    "barriosParrafo1": "Una Città Patrimonio viene assegnata a siti, luoghi, aree, paesi e città nel mondo che rappresentano un Sito Patrimonio dell'Umanità per la loro storia, cultura e naturalezza.",
+    "barriosParrafo2": "",
+    "heroSlide": [
+        "ciudades-patrimonio/hero.jpg"
+    ],
+    "galeria": [
+        {
+            "imageSrc": "ciudades-patrimonio/galeria2.jpg",
+            "alt": "COCINA MEXICANA CON SENTIDO HUMANO",
+            "title": "CUCINA MESSICANA CON UN SENSO UMANO",
+            "description": "Nei centri storici del nostro Paese, la memoria e le nostre tradizioni continuano e continueranno a essere un deposito inesauribile di esperienze. E con l'architettura e gli spazi quotidiani, la cucina rimarrà sempre una delle attività umane più rappresentative del nostro Paese."
+        },
+        {
+            "imageSrc": "ciudades-patrimonio/galeria1.jpg",
+            "alt": "CONSTRUYENDO UN PATRIMONIO CULINARIO",
+            "title": "COSTRUIRE UN PATRIMONIO CULINARIO",
+            "description": "Il patrimonio si costruisce, tra i tanti aspetti, dai monumenti, ma anche dalle cucine: la cucina messicana ha sempre avuto una grande capacità di incorporare influenze, frutto della sua unicità e degli incroci, dato che la coltivazione del mais, di innumerevoli tipi di peperoncini e di fagioli ha sempre predominato."
+        },
+        {
+            "imageSrc": "ciudades-patrimonio/galeria3.jpg",
+            "alt": "TRADICIÓN MEXICANA SIEMPRE VIVA",
+            "title": "TRADIZIONE MESSICANA SEMPRE VIVA",
+            "description": "La grandezza del Messico, dei suoi siti patrimonio dell'umanità, è che il suo passato e le sue tradizioni sono sempre vivi. Le esperienze culinarie delle città messicane Patrimonio dell'Umanità ci permettono di far luce sulle caratteristiche e le singolarità culturali, ma anche sulla stretta relazione tra le società."
+        }
+    ],
+    "imgTurismo": "ciudades-patrimonio/logo.jpg",
+    "subtitle": "Città messicane Patrimonio dell'Umanità",
+    "paragraph": "Le città considerate Patrimonio dell'Umanità in Messico sono luoghi che soddisfano i requisiti necessari stabiliti dall'UNESCO e che sono stati nominati per il programma dal comitato a causa della loro eccezionale importanza culturale o naturale. Il Messico è il quarto Paese con il maggior numero di città iscritte nella Lista del Patrimonio Mondiale, con 11 città in 10 dichiarazioni UNESCO.",
+    "cintaRoja": "enologia/Fondorosa.webp",
+    "carousels": [
+        {
+            "title": "",
+            "nombreBarrio": "Campeche",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/campeche.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Ciudad de México",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/cdmx.png"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Durango",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/durango.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Guanajuato",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/guanajuato.jpg"
+            ]
+        },
+        
+        {
+            "title": "",
+            "nombreBarrio": "Morelia",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/morelia.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Oaxaca",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/oaxaca.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Puebla",
+            "images": [
+               
+                "ciudades-patrimonio/carrusel/puebla.png"
+            ]
+        },
+        
+        {
+            "title": "",
+            "nombreBarrio": "Querétaro",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/queretaro.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Juan del Río",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/san-juan.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Luis Potosí",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/san-luis.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "San Miguel de Allende",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/san-miguel.png"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Tlacotalpan",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/tlacotalpan.png"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Xochimilco",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/xochimilco.jpg"
+            ]
+        },
+        {
+            "title": "",
+            "nombreBarrio": "Zacatecas",
+            "images": [
+                
+                "ciudades-patrimonio/carrusel/zacatecas.png"
+            ]
+        }
+    ]
+}

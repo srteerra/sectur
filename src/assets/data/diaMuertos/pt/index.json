@@ -1,0 +1,122 @@
+{
+  "urlImagenTop":"diaMuertos/diaMuertosBanner.png",
+  "title":"DIA DOS MORTOS",
+  "titleTop":"DIA DOS MORTOS",
+  "text":"É a tradição mexicana mais famosa do mundo. De origem pré-hispânica, é comemorado todos os dias 1 e 2 de novembro, dias em que os antepassados ​​​​falecidos e entes queridos são homenageados por meio de oferendas e diversas atividades. O Dia dos Mortos ganhou popularidade por ser uma tradição cheia de cores, sabores, aromas, simbolismo e espiritualidade. Em 2008 a UNESCO declarou esta festividade Património Cultural Imaterial da Humanidade. Durante estas datas, todo o México se transforma numa celebração da morte como mais uma etapa da própria vida, mas nunca o seu fim.",
+  "offering": {
+    "title": "Conoce las ofrendas en México",
+    "confetti": "Papel picado: Este elemento aporta color y alegría a la ofrenda. Representa el aire, así como la unión entre vida y muerte.",
+    "flowers": "Flores: Decoran y aromatizan el altar. La flor de cempasúchil simboliza el sol y se hacen senderos con ella para que las almas encuentren su camino a la ofrenda.",
+    "water": "Agua: Ayuda a calmar la sed de las almas después de su largo recorrido.",
+    "copal": "Copal e Incienso:  Se utilizan para limpiar el lugar de los malos espíritus para que el alma pueda entrar a su casa sin ningún peligro.",
+    "tequila": "Tequila: U otra bebida que el ser querido disfrutaba en vida para que celebre su regreso al hogar.",
+    "jug": "Jarrito de barro: O cualquier recipiente donde ponerle a las almas un café, atole o alguna bebida que fuera de su agrado.",
+    "candles": "Velas y veladoras: Representa el ascenso del espíritu, las flamas guían a los muertos para que encuentren el camino a su antiguo hogar.",
+    "bread": "Pan de Muerto: Representa la generosidad y el afecto hacia los seres querido, su forma recuerda los huesos de los difuntos.",
+    "skull": "Calaveritas: Hechas de azúcar o chocolate, simbolizan la muerte en la tradición de las culturas mesoamericanas.",
+    "food": "Comida: Tamales, frutas, dulces y platillos favoritos de los difuntos, para que se deleiten en su regreso a casa.",
+    "portrait": "Retrato: La fotografía de los seres queridos a quienes está dedicada la ofrenda. Incluso se colocan artículos personales en ella.",
+    "description": "Posiciona el mouse sobre los elementos en la ofrenda*"
+  },
+  "map": {
+    "title": "Explora el día de muertos en México",
+    "markers": [
+      {
+        "position": [19.2264291,-98.9589501],
+        "icon": "skull1",
+        "description": [
+          {
+            "text": "San Andrés Mixquic, CDMX."
+          },
+          {
+            "text": "Su célebre \"Alumbrada\", donde los cirios del panteón serán la única iluminación en una velada inolvidable."
+          }
+        ]
+      },
+      {
+        "position": [19.5740593,-101.6543269],
+        "icon": "skull2",
+        "description": [
+          {
+            "text": "Janitzio, Michoacán."
+          },
+          {
+            "text": "Donde presenciarás el inolvidable desfile de canoas con redes de mariposa."
+          }
+        ]
+      },
+      {
+        "position": [21.8838183,-102.3012288],
+        "icon": "skull3",
+        "description": [
+          {
+            "text": "Aguascalientes."
+          },
+          {
+            "text": "Cuna de José Guadalupe Posadas, creador de la catrina, una de las protagonistas de esta celebridad"
+          }
+        ]
+      },
+      {
+        "position": [19.4272232,-99.1673301],
+        "icon": "skull4",
+        "description": [
+          {
+            "text": "Ciudad de México."
+          },
+          {
+            "text": "Con su sorprendente y divertido desfile de catrinas."
+          }
+        ]
+      },
+      {
+        "position": [19.9323332,-97.9600866],
+        "icon": "skull5",
+        "description": [
+          {
+            "text": "Zacatlán, Puebla."
+          },
+          {
+            "text": "La Feria de los muertos."
+          }
+        ]
+      },
+      {
+        "position": [19.1820985,-100.1283831],
+        "icon": "skull6",
+        "description": [
+          {
+            "text": "Valle de Bravo, Estado de México."
+          },
+          {
+            "text": "El Festival Colima, Colima. La Feria de todos los santos."
+          }
+        ]
+      },
+      {
+        "position": [19.2356338,-103.682380],
+        "icon": "skull7",
+        "description": [
+          {
+            "text": "Colima, Colima."
+          },
+          {
+            "text": "La Feria de todos los santos."
+          }
+        ]
+      },
+      {
+        "position": [20.1361135,-90.1955652],
+        "icon": "skull2",
+        "description": [
+          {
+            "text": "Pomuch, Campeche."
+          },
+          {
+            "text": "Día de Muertos, en el Hanal Pixán \"comida de las ánimas\", exhuman y limpian los huesos de sus ancestros."
+          }
+        ]
+      }
+    ]
+  }
+}

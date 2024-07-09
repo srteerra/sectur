@@ -1,0 +1,50 @@
+{
+    "id": "islas-marias",
+    "title": "Islas Marías",
+    "subtitle": "ENTDECKEN SIE DIE MARÍAS-INSELN",
+    "urlVideoTop":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "urlVideo":"https://www.youtube.com/embed/FYBaZb3dwJg?autoplay=1&mute=1&loop=1&rel=0",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "Leuchtturm Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "Sah Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "Die Islas Marías waren mehr als 100 Jahre lang der Sitz eines der gefürchtetsten Strafanstalten. Heute sind sie ein neues touristisches Reiseziel, in dem man Freiheit atmen, Umwelterziehung, Kultur und Kunst fördern kann. Die perfekte Kombination für einen unvergesslichen Urlaub."
+        },
+        {
+            "text": "Sie befinden sich im Bundesstaat Nayarit und bestehen aus den Inseln María Magdalena, María Cleofas, San Juanito und María Madre. Die Wichtigkeit dieser Inseln liegt in ihrer enormen Artenvielfalt, denn im Jahr 2000 wurden sie zum geschützten Naturgebiet mit dem Status eines Biosphärenreservats erklärt. Es wurde von der UNESCO wegen seiner endemischen Flora und Fauna anerkannt, die von Mangroven bis zu Korallenriffen reicht, sowie wegen der zahlreichen Tierarten, von denen einige vom Aussterben bedroht sind."
+        }
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "Quadrat Juarez",
+            "dir": "/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "Hafen Balleto",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "Marineflugplatz Isla Maria Madre",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "Wandbild der Hauptstadt",
+            "dir": "/"
+        }
+    ]
+}

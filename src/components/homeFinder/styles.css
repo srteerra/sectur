@@ -1,0 +1,98 @@
+.home-searcher-ctn {
+  display: flex;
+  width: 100%;
+  background: red;
+  justify-content: space-around;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.home-searcher-form-ctn {
+  display: block;
+  padding: 24px 42px;
+  border-radius: 10px;
+  background: #fff;
+  position: absolute;
+  top: -55px;
+  z-index: 20;
+  width: 85vw;
+  box-shadow: 7px 5px 9px var(--gray);
+}
+
+.home-searcher-form-label {
+  font-size: var(--txt-p-xl);
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+.home-searcher-ctn-form-input {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 22px;
+}
+
+.home-searcher-form-input {
+  width: 100%;
+  font-size: var(--txt-p-xl);
+  padding: 6px 12px;
+  margin-right: 40px;
+  border-style: none;
+  border: 1px solid var(--gray);
+  border-radius: 3px;
+}
+
+.home-searcher-form-button {
+  width: 15%;
+  font-size: var(--txt-p-xl);
+  height: 100%;
+  background: var(--green);
+  border-style: none;
+  border-radius: 10px;
+  padding: 6px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.select-search-container {
+  --select-search-background: #fff;
+  --select-search-border: var(--gray);
+  --select-search-selected: var(--black);
+  --select-search-text: var(--black);
+  --select-search-subtle-text: #6c6f85;
+  --select-search-inverted-text: var(--select-search-background);
+  --select-search-highlight: #eff1f5;
+  --select-search-font: 'Roboto', sans-serif;
+  width: 100%;
+  padding: 6px 12px;
+  margin-right: 40px;
+  border-style: none;
+  border-radius: 3px;
+  position: relative;
+  font-family: 'Roboto';
+  color: var(--black);
+  box-sizing: border-box;
+}
+
+.select-search-input {
+  position: relative;
+  z-index: 1;
+  display: block;
+  height: 38px;
+  width: 100%;
+  padding: 0 12px 0 12px;
+  background: var(--select-search-background);
+  border: 2px solid var(--select-search-border);
+  color: var(--select-search-text);
+  border-radius: 3px;
+  outline: none;
+  font-family: 'Roboto';
+  font-size: 16px;
+  text-align: left;
+  text-overflow: ellipsis;
+  line-height: 18px;
+  letter-spacing: 0.01rem;
+  -webkit-appearance: none;
+  -webkit-font-smoothing: antialiased;
+}

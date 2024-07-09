@@ -1,0 +1,65 @@
+{
+    "id": "vinos",
+    "title": "葡萄酒",
+    "subtitle": "探索葡萄酒",
+    "gallerySlider": [
+        {
+            "urlImg": "BCN_valle_guadalupe_22.webp",
+            "name": "下加利福尼亞州，瓜達盧佩谷 ",
+            "dir": "https://www.ensenada.travel/la-ruta-del-vino/valle-de-guadalupe/"
+        },
+        {
+            "urlImg": "8_VINOS_DE_COAHUILA.webp",
+            "name": "葡萄酒之路，科阿韋拉州",
+            "dir": "https://hazturismoencoahuila.mx/vinos-de-coahuila"
+        },
+        {
+            "urlImg": "uvasaguascalientes.webp",
+            "name": "阿瓜斯卡連特斯葡萄酒之路",
+            "dir": "https://rutadelvino.aguascalientes.gob.mx/"
+        },
+        {
+            "urlImg": "Region_vinos_Cava_Freixenetqueretaro.webp",
+            "name": "葡萄酒之路，克雷塔羅",
+            "dir": "https://queretaro.travel/tipo-de-destino/ruta-arte-queso-y-vino/"
+        }
+    ],
+    "urlImg": "uvabajacalifornia.webp",
+    "description": [
+        {
+            "text": "我国生产高质量的葡萄酒，具有很高的感官品质，使品尝它们的人非常享受它们。此外，品酒、婚礼和葡萄园之旅使人们能够更实质性地品尝它们，并成为与家人、伴侣或朋友分享的独特体验。"
+        },
+        {
+            "text": "墨西哥有10条国际知名路线，位于6个州：阿瓜斯卡连特斯、下加利福尼亚、科阿韦拉、瓜纳华托、伊达尔戈和克雷塔罗。在每一种情况下，你都会有一次令人难忘的美食体验，你会永远记得。"
+        },
+        {
+            "text": "旅游秘书处与墨西哥葡萄酒委员会和国家旅游秘书处合作，建立了第一个目录，展示了现有的生态旅游产品和路线，以便当地、国内和国际游客和游客在这些目的地逗留期间了解这些目的地周围的葡萄园和活动。"
+        }
+    ],
+    "cardsGallery": [
+    {
+      "title": "Feria de la Muñeca Artesanal en Amealco, Querétaro",
+      "date": "18 al 21 de noviembre, 2024",
+      "month": "Nov",
+      "day": "21",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "De Mar a Mar, Baja California Sur",
+      "date": "1 al 3 de diciembre, 2023",
+      "month": "Dic",
+      "day": "01",
+      "description": "",
+      "dir":"/calendario"
+    },
+    {
+      "title": "Manzanillo se ilumina. Manzanillo, Colima",
+      "date": "31 de diciembre 2023 - 1 de enero 2024",
+      "month": "Dic",
+      "day": "31",
+      "description": "",
+      "dir":"/calendario"
+    }
+  ]
+}
